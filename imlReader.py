@@ -1,4 +1,9 @@
-# -*- coding: utf-8 -*-
+#!/usr/bin/env python
+#-*- coding: utf-8 -*-
+#iTunes Uというジャンルをstrしようとしたら、UnicodeEncodeError: 'ascii' codec can't encode character u'\xa0' in position 6: ordinal not in range(128)というエラーがでたので、http://d.hatena.ne.jp/x-ite/20111130/1322618815を参照し、以下を追加した。
+import sys
+reload(sys)
+sys.setdefaultencoding('utf-8')
 
 #2012_06_09 by Yuta Toga
 #reference : http://born1981.g.hatena.ne.jp/gamella/20081019/1224398922
@@ -41,19 +46,69 @@ itunes = load("iTunes Music Library.xml")
 tracks = itunes["Tracks"]
 tracks_keys = tracks.keys()
 
-
+#print(tracks)
 
 iml=''
+countSuccess = 0
+countFail = 0
+"""
 for i in tracks_keys:
     #FIXME: encode problem
     try:
-        instantTextDate = tracks[i]["Play Date UTC"]
-        instantTextGenre = tracks[i]["Genre"]
-        iml = iml + str(instantTextDate) + ',' + str(instantTextGenre) + '\n'
-    except:
-        pass
+		print('sucess')
+		countSuccess+=1
+		instantTextDate = tracks[i]["Play Date UTC"]
+   		instantTextGenre = tracks[i]["Genre"]
+   		instantTextTime = tracks[i]["Total Time"]
+   		instantTextName = tracks[i]["Name"]
+   		iml = iml + str(instantTextDate) + ',' + str(instantTextGenre) + ',' + str(instantTextTime) + ',' + str(instantTextName) + '\n'
 
-print(iml)
+    except:
+		print("パスしました。")
+		countFail+=1
+    	#pass
+		#print(iml)
+"""
+countSuccess_totalTime = 0
+countSuccess_playDateUTC = 0
+countSuccess_genre = 0
+countFail_totalTime = 0
+countFail_playDateUTC = 0
+countFail_genre = 0
+for i in tracks_keys:
+		#Total Time
+		try:
+			instantTextTime = tracks[i]["Total Time"]
+			countSuccess_totalTime+=1
+		except:
+			instantTextTime = 0
+			countFail_totalTime += 1
+		#Play Date UTC
+		try:
+			instantTextDate = tracks[i]["Play Date UTC"]
+			countSuccess_playDateUTC+=1
+		except:
+			instantTextDate = "never"
+			countFail_playDateUTC += 1
+		#Genre
+		try:
+			instantTextGenre = tracks[i]["Genre"]
+			countSuccess_genre += 1
+		except:
+			instantTextGenre = "none"
+			countFail_genre += 1
+		iml = iml + str(instantTextDate) + ',' + str(instantTextGenre) + ',' + str(instantTextTime) + '\n'
+print "\nsuccess-totalTime:%d"% (countSuccess_totalTime)
+print "fail-totalTime:%d"%countFail_totalTime
+print "total-totalTIme:%d"%(countSuccess_totalTime+countFail_totalTime)
+print "\nsuccess-playDate:%d"% (countSuccess_playDateUTC)
+print "fail-playDate%d"%countFail_playDateUTC
+print "total-playDate:%d"%(countSuccess_playDateUTC+countFail_playDateUTC)
+print "\nsuccess-genre:%d"% (countSuccess_genre)
+print "fail-genre%d"%countFail_genre
+print "total-genre%d"%(countSuccess_genre+countFail_genre)
+print "\ntotal:%d"%(len(tracks_keys))
+#print "iml\n:%s"%iml
 
 #とりあえずこの時点のテキストファイルを書き出す。
 #pythonだけでもできるかもしれないけど、とりあえず、以降はRで1.時間とジャンルを統計で使いやすいようにする。2.t検定、多重比較を行うこととした。2012_06_09
@@ -62,7 +117,9 @@ test_file.writelines(iml)
 test_file.flush()
 test_file.close()
 
-
 #1.改行でsplitする
 #2.スペースで分割して、偶数目の要素のみだけの行列を生成する
 #3.コロンで分割して行列にする
+
+#print(tracks_keys)
+print("done!")

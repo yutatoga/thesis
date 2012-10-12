@@ -5,9 +5,13 @@ iml = read.table('iml.txt', header = F, sep = ",")
 #convert string to POSIXlt
 time = strptime(iml[,1],"%Y-%m-%d %H:%M:%S")
 #make data frame which consists of POXIlt and string about genre
-iml = data.frame(time, iml[,2])
+iml = data.frame(time, iml[,2], iml[,3])
 #convert UTC to JST
 iml[,1] = iml[,1]+9*60*60
+#total time
+names(iml)[1] = "playDate"
+names(iml)[2] = "genre"
+names(iml)[3] = "totalTime"
 #ヒストグラム-経時
 quartz()
 hist(iml[,1], breaks=48, main="History", col = rgb(217, 217 , 233,  maxColorValue = 255), xlab = "Time", ylab = "Frequency")
@@ -82,6 +86,24 @@ for(i in 1:length(table(iml[,2]))){
 	hist(as.POSIXlt(targetGenre)$hour+as.POSIXlt(targetGenre)$min/60, main=targetGenreName, breaks=seq(0,24,1), col = hsv(1*i/length(table(iml[,2])), 1, 1, alpha = 0.5), xlab = "Time", ylab = "Frequency", xlim = c(0,23), ylim = c(0, histMax))
 	dev.off()
 }
+#音楽の長さと最後に聞いた時間をもとに、操作して選択された曲だけのリストを求める
+#iml[sort.list(iml$Played Date),]
+#iml[2036,][1]-round(iml[2036,][3]/1000)#ほとんど、同じか、1秒小さいか、1秒大きい。
+#nrow(iml)
+#append
 
+
+sortedIml = iml[sort.list(iml$playDate),]
+#ここまでrunning code
+#こんかいは1~1863(sortedImlで中身みて、2655までデータが存在して、2656からNANだったので、rownames(sortedIml)==2655でTRUE参照するというアナログで調べた)までデータ存在。
+playDateExistIml = sortedIml[1:1863,]
+
+diff = c()
+for (i in 2:nrow(playDateExistIml)){
+	diff = append(diff, playDateExistIml[i-1,][1] - (playDateExistIml[i,][1]-round(playDateExistIml[i,][3]/1000)))#ここはplay dateでソートしてから行うように書き換える！
+}
+diffAbs = abs(as.numeric(diff))
+selectedItems = diffAbs == 1 
+#行番号取得　rownames(sortedIml)[nrow(sortedIml)]
 #最後まで完了
 cat("done!")
