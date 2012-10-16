@@ -1,27 +1,30 @@
 #DIctionaly
 #ジャンルの数---length(table(iml[,2]))
 
-iml = read.table('iml.txt', header = F, sep = ",")
+iml = read.table('iml.txt', header = F, sep = ",", quote = "")
 #convert string to POSIXlt
 time = strptime(iml[,1],"%Y-%m-%d %H:%M:%S")
 #make data frame which consists of POXIlt and string about genre
-iml = data.frame(time, iml[,2], iml[,3])
+iml = data.frame(time, iml[,2], iml[,3], iml[,4], iml[,5])
 #convert UTC to JST
 iml[,1] = iml[,1]+9*60*60
 #total time
 names(iml)[1] = "playDate"
 names(iml)[2] = "genre"
 names(iml)[3] = "totalTime"
+names(iml)[4] = "totalTime"
+names(iml)[5] = "totalTime"
+
 #ヒストグラム-経時
-quartz()
+png(file = "~/dropbox/thesis/out_png/all.png")
 hist(iml[,1], breaks=48, main="History", col = rgb(217, 217 , 233,  maxColorValue = 255), xlab = "Time", ylab = "Frequency")
-hist
+dev.off()
 #axis(1, at= seq(0, nb, by = 1))
 
 #ヒストグラム-時間
-quartz()
-hist(as.POSIXlt(iml[,1])$hour, breaks=seq(0,23,1), main="24 hours", col = rgb(217, 217 , 233,  maxColorValue = 255), xlab = "Hour", ylab = "Frequency")
-hist
+png(file = "~/dropbox/thesis/out_png/hour.png")
+hist(as.POSIXlt(iml[,1])$hour+as.POSIXlt(iml[,1])$min/60+as.POSIXlt(iml[,1])$sec/60/60, breaks=seq(0,24,1), main="24 hours", col = rgb(217, 217 , 233,  maxColorValue = 255), xlab = "Hour", ylab = "Frequency")
+dev.off()
 
 #曜日ごとに色を変え重畳表示
 weekMax = 0#まずは曜日に分けたときの、ヒストグラムの最大値を求める
@@ -31,20 +34,23 @@ for(i in 1:7){
 	}
 }
 
-quartz()
+png(file = "~/dropbox/thesis/out_png/week_all.png")
 for(i in 1:7){
 	if(i>1){
-		hist(as.POSIXlt(iml[,1][as.POSIXlt(iml[,1])$wday==i-1])$hour+as.POSIXlt(iml[,1][as.POSIXlt(iml[,1])$wday==i-1])$min/60, breaks=seq(0,24,1),main="Week", col = hsv(1*i/7, 1 , 1, alpha = 0.5), xlab = "Time", ylab = "Frequency", add = T, ylim =c(0,weekMax))
+		hist(as.POSIXlt(iml[,1][as.POSIXlt(iml[,1])$wday==i-1])$hour+as.POSIXlt(iml[,1][as.POSIXlt(iml[,1])$wday==i-1])$min/60+as.POSIXlt(iml[,1][as.POSIXlt(iml[,1])$wday==i-1])$sec/60/60, breaks=seq(0,24,1),main="Week", col = hsv(1*i/7, 1 , 1, alpha = 0.5), xlab = "Time", ylab = "Frequency", add = T, ylim =c(0,weekMax))
+
 	}else{
-		hist(as.POSIXlt(iml[,1][as.POSIXlt(iml[,1])$wday==i-1])$hour+as.POSIXlt(iml[,1][as.POSIXlt(iml[,1])$wday==i-1])$min/60, breaks=seq(0,24,1),main="Week", col = hsv(1*i/7, 1 , 1, alpha = 0.5), xlab = "Time", ylab = "Frequency", add = F, ylim =c(0,weekMax))
+		hist(as.POSIXlt(iml[,1][as.POSIXlt(iml[,1])$wday==i-1])$hour+as.POSIXlt(iml[,1][as.POSIXlt(iml[,1])$wday==i-1])$min/60+as.POSIXlt(iml[,1][as.POSIXlt(iml[,1])$wday==i-1])$sec/60/60, breaks=seq(0,24,1),main="Week", col = hsv(1*i/7, 1 , 1, alpha = 0.5), xlab = "Time", ylab = "Frequency", add = F, ylim =c(0,weekMax))
 		#axis(1, at= seq(0, 24, by = 1))
 	}
 }
+dev.off()
 #曜日ごとに分けて表示
 for(i in 1:7){
-		quartz()
 		wdayName = switch(i, "Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday" )
-		hist(as.POSIXlt(iml[,1][as.POSIXlt(iml[,1])$wday==i-1])$hour+as.POSIXlt(iml[,1][as.POSIXlt(iml[,1])$wday==i-1])$min/60, breaks=seq(0,24,1), main=wdayName, col = hsv(1*i/7, 1 , 1, alpha = 0.5), xlab = "Time", ylab = "Frequency", add = F,  ylim =c(0,weekMax))
+                png(paste(file = "~/dropbox/thesis/out_png/week_",as.character(i), "_",wdayName, ".png", sep = ""))
+		hist(as.POSIXlt(iml[,1][as.POSIXlt(iml[,1])$wday==i-1])$hour+as.POSIXlt(iml[,1][as.POSIXlt(iml[,1])$wday==i-1])$min/60+as.POSIXlt(iml[,1][as.POSIXlt(iml[,1])$wday==i-1])$sec/60/60, breaks=seq(0,24,1), main=wdayName, col = hsv(1*i/7, 1 , 1, alpha = 0.5), xlab = "Time", ylab = "Frequency", add = F,  ylim =c(0,weekMax))
+                dev.off()
 		#axis(1, at= seq(0, 24, by = 1), cex.axis = 0.5)
 }
 #ジャンルを分けて分析
@@ -56,7 +62,7 @@ largestGenre = iml[,1][iml[,2] == largestGenreName]
 secondLargestGenreName = names(sort(table(iml[,2]), decreasing = T))[2]#2番目に度数が大きいジャンル名を取得(imamuraのサンプルではRock)
 secondLargestGenre = iml[,1][iml[,2] == secondLargestGenreName]
 #縦軸をそろえたいので最大値を求める
-quartz()
+#quartz()
 
 #for文で、一回全文のヒストグラムのてっぺんを出して、最大値を出す。
 histMax=-1
@@ -64,7 +70,7 @@ for(i in 1:length(table(iml[,2]))){
 	targetGenreName = names(sort(table(iml[,2]), decreasing = T))[i]
 	targetGenre = iml[,1][iml[,2] == targetGenreName]
 
-	histMax0 = max(hist(as.POSIXlt(targetGenre)$hour+as.POSIXlt(targetGenre)$min/60, main=targetGenreName, breaks=seq(0,24,1), col = hsv(1*i/length(table(iml[,2])), 1, 1, alpha = 0.5), xlab = "Time", ylab = "Frequency", ylim = c(0, histMax))$counts)
+	histMax0 = max(hist(as.POSIXlt(targetGenre)$hour+as.POSIXlt(targetGenre)$min/60+as.POSIXlt(targetGenre)$sec/60/60, main=targetGenreName, breaks=seq(0,24,1), col = hsv(1*i/length(table(iml[,2])), 1, 1, alpha = 0.5), xlab = "Time", ylab = "Frequency", ylim = c(0, histMax))$counts)
 	if(histMax0 > histMax ){
 		histMax = histMax0
 	}
@@ -74,10 +80,10 @@ if(histMax == -1){
 }
 #laegest genre hist
 #グラフ上書き
-hist(as.POSIXlt(largestGenre)$hour+as.POSIXlt(largestGenre)$min/60, main=largestGenreName, breaks=seq(0,24,1), col = hsv(1/2, 1, 1, alpha = 0.5), xlab = "Time", ylab = "Frequency", ylim = c(0, histMax))
+#hist(as.POSIXlt(largestGenre)$hour+as.POSIXlt(largestGenre)$min/60+as.POSIXlt(largestGenre)$sec/60/60, main=largestGenreName, breaks=seq(0,24,1), col = hsv(1/2, 1, 1, alpha = 0.5), xlab = "Time", ylab = "Frequency", ylim = c(0, histMax))
 #second largest hist
-quartz()
-hist(as.POSIXlt(secondLargestGenre)$hour+as.POSIXlt(secondLargestGenre)$min/60, main=secondLargestGenreName, breaks=seq(0,24,1), col = hsv(1, 1, 1, alpha = 0.5), xlab = "Time", ylab = "Frequency", ylim = c(0, histMax))
+#quartz()
+#hist(as.POSIXlt(secondLargestGenre)$hour+as.POSIXlt(secondLargestGenre)$min/60+as.POSIXlt(secondLargestGenre)$sec/60/60, main=secondLargestGenreName, breaks=seq(0,24,1), col = hsv(1, 1, 1, alpha = 0.5), xlab = "Time", ylab = "Frequency", ylim = c(0, histMax))
 #for文で全ジャンル書き出してみる
 #FIXME:quartz()を使う
 # for(i in 1:length(table(iml[,2]))){
@@ -88,7 +94,7 @@ hist(as.POSIXlt(secondLargestGenre)$hour+as.POSIXlt(secondLargestGenre)$min/60, 
 
 #         #FIXME:なぜか日本語で書き出されない
 #         png(file=paste("~/dropbox/thesis/out_png/","genre_",i,".png", sep=""), bg="white", type="quartz")
-# 	hist(as.POSIXlt(targetGenre)$hour+as.POSIXlt(targetGenre)$min/60, main=targetGenreName, breaks=seq(0,24,1), col = hsv(1*i/length(table(iml[,2])), 1, 1, alpha = 0.5), xlab = "Time", ylab = "Frequency", xlim = c(0,23), ylim = c(0, histMax))
+# 	hist(as.POSIXlt(targetGenre)$hour+as.POSIXlt(targetGenre)$min/60+as.POSIXlt(targetGenre)$sec/60/60, main=targetGenreName, breaks=seq(0,24,1), col = hsv(1*i/length(table(iml[,2])), 1, 1, alpha = 0.5), xlab = "Time", ylab = "Frequency", xlim = c(0,23), ylim = c(0, histMax))
 #         dev.off()
 # }
 
@@ -98,9 +104,8 @@ for(i in 1:length(table(iml[,2]))){
 	targetGenreName = names(sort(table(iml[,2]), decreasing = T))[i]
 	targetGenre = iml[,1][iml[,2] == targetGenreName]
         print(targetGenreName)
-        plot = qplot(as.POSIXlt(targetGenre)$hour+as.POSIXlt(targetGenre)$min/60, geom = "histogram", binwidth = 1, main = targetGenreName, xlim = c(0,23), ylim = c(0, histMax),  xlab = "Time", ylab = "Frequency")
-        ggsave(paste("~/dropbox/thesis/out_pdf/","genre_",i,".pdf", sep=""), plot, family="Japan1GothicBBB")
-
+        plot = qplot(as.POSIXlt(targetGenre)$hour+as.POSIXlt(targetGenre)$min/60+as.POSIXlt(targetGenre)$sec/60/60, geom = "histogram", binwidth = 1, main = targetGenreName, xlim = c(0,24), ylim = c(0, histMax),  xlab = "Time", ylab = "Frequency")
+        ggsave(paste("~/dropbox/thesis/out_pdf/","genre_",i,"_",targetGenreName ,".pdf", sep=""), plot, family="Japan1GothicBBB")
 }
 
 
@@ -123,5 +128,11 @@ for (i in 2:nrow(playDateExistIml)){
 diffAbs = abs(as.numeric(diff))
 selectedItems = diffAbs == 1
 #行番号取得　rownames(sortedIml)[nrow(sortedIml)]
+
+#再生回数に応じて、カウントの数を動的に変化させる。例えば、一回しか再生されていないものは、プラス１、2回再生されたものはプラス2というかんじ。回数が多いほど、お気に入りの可能性が高く、ランダム再生でたまたま再生される可能性が低いという推測から。
+
+
+
+
 #最後まで完了
 cat("done!\n")
