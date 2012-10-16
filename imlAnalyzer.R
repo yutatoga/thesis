@@ -15,12 +15,13 @@ names(iml)[3] = "totalTime"
 #ヒストグラム-経時
 quartz()
 hist(iml[,1], breaks=48, main="History", col = rgb(217, 217 , 233,  maxColorValue = 255), xlab = "Time", ylab = "Frequency")
-
+hist
 #axis(1, at= seq(0, nb, by = 1))
 
 #ヒストグラム-時間
 quartz()
 hist(as.POSIXlt(iml[,1])$hour, breaks=seq(0,23,1), main="24 hours", col = rgb(217, 217 , 233,  maxColorValue = 255), xlab = "Hour", ylab = "Frequency")
+hist
 
 #曜日ごとに色を変え重畳表示
 weekMax = 0#まずは曜日に分けたときの、ヒストグラムの最大値を求める
@@ -29,8 +30,9 @@ for(i in 1:7){
 		weekMax = max(table(as.POSIXlt(iml[,1][as.POSIXlt(iml[,1])$wday==i-1])$hour))
 	}
 }
+
 quartz()
-for(i in 1:7){ 
+for(i in 1:7){
 	if(i>1){
 		hist(as.POSIXlt(iml[,1][as.POSIXlt(iml[,1])$wday==i-1])$hour+as.POSIXlt(iml[,1][as.POSIXlt(iml[,1])$wday==i-1])$min/60, breaks=seq(0,24,1),main="Week", col = hsv(1*i/7, 1 , 1, alpha = 0.5), xlab = "Time", ylab = "Frequency", add = T, ylim =c(0,weekMax))
 	}else{
@@ -39,11 +41,11 @@ for(i in 1:7){
 	}
 }
 #曜日ごとに分けて表示
-for(i in 1:7){ 
+for(i in 1:7){
 		quartz()
 		wdayName = switch(i, "Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday" )
 		hist(as.POSIXlt(iml[,1][as.POSIXlt(iml[,1])$wday==i-1])$hour+as.POSIXlt(iml[,1][as.POSIXlt(iml[,1])$wday==i-1])$min/60, breaks=seq(0,24,1), main=wdayName, col = hsv(1*i/7, 1 , 1, alpha = 0.5), xlab = "Time", ylab = "Frequency", add = F,  ylim =c(0,weekMax))
-		#axis(1, at= seq(0, 24, by = 1), cex.axis = 0.5)	
+		#axis(1, at= seq(0, 24, by = 1), cex.axis = 0.5)
 }
 #ジャンルを分けて分析
 #とりあえず、最大の度数と次点のジャンルを比較分析する。
@@ -61,7 +63,7 @@ histMax=-1
 for(i in 1:length(table(iml[,2]))){
 	targetGenreName = names(sort(table(iml[,2]), decreasing = T))[i]
 	targetGenre = iml[,1][iml[,2] == targetGenreName]
-	
+
 	histMax0 = max(hist(as.POSIXlt(targetGenre)$hour+as.POSIXlt(targetGenre)$min/60, main=targetGenreName, breaks=seq(0,24,1), col = hsv(1*i/length(table(iml[,2])), 1, 1, alpha = 0.5), xlab = "Time", ylab = "Frequency", ylim = c(0, histMax))$counts)
 	if(histMax0 > histMax ){
 		histMax = histMax0
@@ -77,15 +79,31 @@ hist(as.POSIXlt(largestGenre)$hour+as.POSIXlt(largestGenre)$min/60, main=largest
 quartz()
 hist(as.POSIXlt(secondLargestGenre)$hour+as.POSIXlt(secondLargestGenre)$min/60, main=secondLargestGenreName, breaks=seq(0,24,1), col = hsv(1, 1, 1, alpha = 0.5), xlab = "Time", ylab = "Frequency", ylim = c(0, histMax))
 #for文で全ジャンル書き出してみる
+#FIXME:quartz()を使う
+# for(i in 1:length(table(iml[,2]))){
+# 	targetGenreName = names(sort(table(iml[,2]), decreasing = T))[i]
+# 	targetGenre = iml[,1][iml[,2] == targetGenreName]
+#         print(targetGenreName)
 
+
+#         #FIXME:なぜか日本語で書き出されない
+#         png(file=paste("~/dropbox/thesis/out_png/","genre_",i,".png", sep=""), bg="white", type="quartz")
+# 	hist(as.POSIXlt(targetGenre)$hour+as.POSIXlt(targetGenre)$min/60, main=targetGenreName, breaks=seq(0,24,1), col = hsv(1*i/length(table(iml[,2])), 1, 1, alpha = 0.5), xlab = "Time", ylab = "Frequency", xlim = c(0,23), ylim = c(0, histMax))
+#         dev.off()
+# }
+
+#ggplot2を使う。
+library(ggplot2)
 for(i in 1:length(table(iml[,2]))){
 	targetGenreName = names(sort(table(iml[,2]), decreasing = T))[i]
 	targetGenre = iml[,1][iml[,2] == targetGenreName]
-	#quartz()
-	png(file=paste("genre_",i,".png", sep=""), bg="white")
-	hist(as.POSIXlt(targetGenre)$hour+as.POSIXlt(targetGenre)$min/60, main=targetGenreName, breaks=seq(0,24,1), col = hsv(1*i/length(table(iml[,2])), 1, 1, alpha = 0.5), xlab = "Time", ylab = "Frequency", xlim = c(0,23), ylim = c(0, histMax))
-	dev.off()
+        print(targetGenreName)
+        plot = qplot(as.POSIXlt(targetGenre)$hour+as.POSIXlt(targetGenre)$min/60, geom = "histogram", binwidth = 1, main = targetGenreName, xlim = c(0,23), ylim = c(0, histMax),  xlab = "Time", ylab = "Frequency")
+        ggsave(paste("~/dropbox/thesis/out_pdf/","genre_",i,".pdf", sep=""), plot, family="Japan1GothicBBB")
+
 }
+
+
 #音楽の長さと最後に聞いた時間をもとに、操作して選択された曲だけのリストを求める
 #iml[sort.list(iml$Played Date),]
 #iml[2036,][1]-round(iml[2036,][3]/1000)#ほとんど、同じか、1秒小さいか、1秒大きい。
@@ -95,7 +113,7 @@ for(i in 1:length(table(iml[,2]))){
 
 sortedIml = iml[sort.list(iml$playDate),]
 #ここまでrunning code
-#こんかいは1~1863(sortedImlで中身みて、2655までデータが存在して、2656からNANだったので、rownames(sortedIml)==2655でTRUE参照するというアナログで調べた)までデータ存在。
+#今回は1~1863(sortedImlで中身みて、2655までデータが存在して、2656からNANだったので、rownames(sortedIml)==2655でTRUE参照するというアナログで調べた)までデータ存在。
 playDateExistIml = sortedIml[1:1863,]
 
 diff = c()
@@ -103,7 +121,7 @@ for (i in 2:nrow(playDateExistIml)){
 	diff = append(diff, playDateExistIml[i-1,][1] - (playDateExistIml[i,][1]-round(playDateExistIml[i,][3]/1000)))#ここはplay dateでソートしてから行うように書き換える！
 }
 diffAbs = abs(as.numeric(diff))
-selectedItems = diffAbs == 1 
+selectedItems = diffAbs == 1
 #行番号取得　rownames(sortedIml)[nrow(sortedIml)]
 #最後まで完了
-cat("done!")
+cat("done!\n")
