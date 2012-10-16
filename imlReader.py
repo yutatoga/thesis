@@ -75,6 +75,10 @@ countSuccess_genre = 0
 countFail_totalTime = 0
 countFail_playDateUTC = 0
 countFail_genre = 0
+countSuccess_playCount = 0
+countFail_playCount = 0
+countSuccess_trackName = 0
+countFail_trackName = 0
 for i in tracks_keys:
 		#Total Time
 		try:
@@ -93,20 +97,47 @@ for i in tracks_keys:
 		#Genre
 		try:
 			instantTextGenre = tracks[i]["Genre"]
+			instantTextGenre = instantTextGenre.replace(",", "/")
 			countSuccess_genre += 1
 		except:
-			instantTextGenre = "none"
+			instantTextGenre = "none" 
 			countFail_genre += 1
-		iml = iml + str(instantTextDate) + ',' + str(instantTextGenre) + ',' + str(instantTextTime) + '\n'
+		#Play Count
+		try:
+			instantTextPlayCount = tracks[i]["Play Count"]
+			countSuccess_playCount += 1
+		except:
+			instantTextPlayCount = 0
+			countFail_playCount += 1
+		#Name
+		try:
+			instantTrackName = tracks[i]["Name"]
+			instantTrackName =  instantTrackName.replace(",", '/') 
+			countSuccess_trackName += 1
+		except:
+			instantTrackName = "untitled"
+			countFail_trackName += 1
+		iml = iml + str(instantTextDate) + ',' + str(instantTextGenre) + ',' + str(instantTextTime) + ',' + str(instantTextPlayCount) + ',' + str(instantTrackName)+ '\n'
 print "\nsuccess-totalTime:%d"% (countSuccess_totalTime)
 print "fail-totalTime:%d"%countFail_totalTime
 print "total-totalTIme:%d"%(countSuccess_totalTime+countFail_totalTime)
+
 print "\nsuccess-playDate:%d"% (countSuccess_playDateUTC)
 print "fail-playDate%d"%countFail_playDateUTC
 print "total-playDate:%d"%(countSuccess_playDateUTC+countFail_playDateUTC)
+
 print "\nsuccess-genre:%d"% (countSuccess_genre)
 print "fail-genre%d"%countFail_genre
 print "total-genre%d"%(countSuccess_genre+countFail_genre)
+
+print "\nsuccess-playCount:%d"%countSuccess_playCount
+print "fail-playCount:%d"%countFail_playCount
+print "total-playCount:%d"%(countSuccess_playCount+countFail_playCount)
+
+print "\nsuccess-playName%d"%countSuccess_trackName
+print "fail-name:%d"%countFail_trackName
+print "total-name:%d"%(countSuccess_trackName+countFail_trackName)
+
 print "\ntotal:%d"%(len(tracks_keys))
 #print "iml\n:%s"%iml
 
@@ -123,3 +154,5 @@ test_file.close()
 
 #print(tracks_keys)
 print("done!")
+
+foo = "foobar"
