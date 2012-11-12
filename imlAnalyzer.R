@@ -12,8 +12,8 @@ iml[,1] = iml[,1]+9*60*60
 names(iml)[1] = "playDate"
 names(iml)[2] = "genre"
 names(iml)[3] = "totalTime"
-names(iml)[4] = "totalTime"
-names(iml)[5] = "totalTime"
+names(iml)[4] = "playCount"
+names(iml)[5] = "trackName"
 
 #ヒストグラム-経時
 png(file = "~/dropbox/thesis/out_png/all.png")
@@ -46,13 +46,22 @@ for(i in 1:7){
 }
 dev.off()
 #曜日ごとに分けて表示
+
 for(i in 1:7){
-		wdayName = switch(i, "Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday" )
-                png(paste(file = "~/dropbox/thesis/out_png/week_",as.character(i), "_",wdayName, ".png", sep = ""))
-		hist(as.POSIXlt(iml[,1][as.POSIXlt(iml[,1])$wday==i-1])$hour+as.POSIXlt(iml[,1][as.POSIXlt(iml[,1])$wday==i-1])$min/60+as.POSIXlt(iml[,1][as.POSIXlt(iml[,1])$wday==i-1])$sec/60/60, breaks=seq(0,24,1), main=wdayName, col = hsv(1*i/7, 1 , 1, alpha = 0.5), xlab = "Time", ylab = "Frequency", add = F,  ylim =c(0,weekMax))
-                dev.off()
-		#axis(1, at= seq(0, 24, by = 1), cex.axis = 0.5)
+	#wdayName = switch(i, "Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday" )
+	#png(paste(file = "~/dropbox/thesis/out_png/week_",as.character(i), "_",wdayName, ".png", sep = ""))
+	#hist(as.POSIXlt(iml[,1][as.POSIXlt(iml[,1])$wday==i-1])$hour+as.POSIXlt(iml[,1][as.POSIXlt(iml[,1])$wday==i-1])$min/60+as.POSIXlt(iml[,1][as.POSIXlt(iml[,1])$wday==i-1])$sec/60/60, breaks=seq(0,24,1), main=wdayName, col = hsv(1*i/7, 1 , 1, alpha = 0.5), xlab = "Time", ylab = "Frequency", add = F,  ylim =c(0,weekMax))
+	#dev.off()
+
+	#axis(1, at= seq(0, 24, by = 1), cex.axis = 0.5)
+	
+    #日本語OKにして、qurartzで書き出す
+	#wdayName = switch(i, "日曜日", "月曜日", "火曜日", "水曜日", "木曜日", "金曜日", "土曜日" )
+	wdayName = switch(i, "Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday" )
+	hist(as.POSIXlt(iml[,1][as.POSIXlt(iml[,1])$wday==i-1])$hour+as.POSIXlt(iml[,1][as.POSIXlt(iml[,1])$wday==i-1])$min/60+as.POSIXlt(iml[,1][as.POSIXlt(iml[,1])$wday==i-1])$sec/60/60, breaks=seq(0,24,1), main=wdayName, col = hsv(1*i/7, 1 , 1, alpha = 0.5), xlab = "Time", ylab = "Frequency", add = F,  ylim =c(0,weekMax))
+	quartz.save(paste("~/dropbox/thesis/out_png/",as.character(i), "_",wdayName, ".png"))
 }
+
 #ジャンルを分けて分析
 #とりあえず、最大の度数と次点のジャンルを比較分析する。
 #first
@@ -86,27 +95,31 @@ if(histMax == -1){
 #hist(as.POSIXlt(secondLargestGenre)$hour+as.POSIXlt(secondLargestGenre)$min/60+as.POSIXlt(secondLargestGenre)$sec/60/60, main=secondLargestGenreName, breaks=seq(0,24,1), col = hsv(1, 1, 1, alpha = 0.5), xlab = "Time", ylab = "Frequency", ylim = c(0, histMax))
 #for文で全ジャンル書き出してみる
 #FIXME:quartz()を使う
-# for(i in 1:length(table(iml[,2]))){
-# 	targetGenreName = names(sort(table(iml[,2]), decreasing = T))[i]
-# 	targetGenre = iml[,1][iml[,2] == targetGenreName]
-#         print(targetGenreName)
-
+ for(i in 1:length(table(iml[,2]))){
+ 	targetGenreName = names(sort(table(iml[,2]), decreasing = T))[i]
+ 	targetGenre = iml[,1][iml[,2] == targetGenreName]
+         print(targetGenreName)
 
 #         #FIXME:なぜか日本語で書き出されない
-#         png(file=paste("~/dropbox/thesis/out_png/","genre_",i,".png", sep=""), bg="white", type="quartz")
-# 	hist(as.POSIXlt(targetGenre)$hour+as.POSIXlt(targetGenre)$min/60+as.POSIXlt(targetGenre)$sec/60/60, main=targetGenreName, breaks=seq(0,24,1), col = hsv(1*i/length(table(iml[,2])), 1, 1, alpha = 0.5), xlab = "Time", ylab = "Frequency", xlim = c(0,23), ylim = c(0, histMax))
-#         dev.off()
-# }
+    	#png(file=paste("~/dropbox/thesis/out_png/","genre_",i,".png", sep=""), bg="white", type="quartz")
+ 		#hist(as.POSIXlt(targetGenre)$hour+as.POSIXlt(targetGenre)$min/60+as.POSIXlt(targetGenre)$sec/60/60, main=targetGenreName, breaks=seq(0,24,1), col = hsv(1*i/length(table(iml[,2])), 1, 1, alpha = 0.5), xlab = "Time", ylab = "Frequency", xlim = c(0,23), ylim = c(0, histMax))
+		#dev.off()
+         
+         #日本語OKにして、qurartzで書き出す
+         hist(as.POSIXlt(targetGenre)$hour+as.POSIXlt(targetGenre)$min/60+as.POSIXlt(targetGenre)$sec/60/60, main=targetGenreName, breaks=seq(0,24,1), col = hsv(1*i/length(table(iml[,2])), 1, 1, alpha = 0.5), xlab = "Time", ylab = "Frequency", xlim = c(0,23), ylim = c(0, histMax))
+         quartz.save(paste("~/dropbox/thesis/out_png/","genre_",i,".png", sep=""))
+ }
 
 #ggplot2を使う。
-library(ggplot2)
-for(i in 1:length(table(iml[,2]))){
-	targetGenreName = names(sort(table(iml[,2]), decreasing = T))[i]
-	targetGenre = iml[,1][iml[,2] == targetGenreName]
-        print(targetGenreName)
-        plot = qplot(as.POSIXlt(targetGenre)$hour+as.POSIXlt(targetGenre)$min/60+as.POSIXlt(targetGenre)$sec/60/60, geom = "histogram", binwidth = 1, main = targetGenreName, xlim = c(0,24), ylim = c(0, histMax),  xlab = "Time", ylab = "Frequency")
-        ggsave(paste("~/dropbox/thesis/out_pdf/","genre_",i,"_",targetGenreName ,".pdf", sep=""), plot, family="Japan1GothicBBB")
-}
+#library(ggplot2)
+#for(i in 1:length(table(iml[,2]))){
+#	targetGenreName = names(sort(table(iml[,2]), decreasing = T))[i]
+#	targetGenre = iml[,1][iml[,2] == targetGenreName]
+#        print(targetGenreName)
+#        plot = qplot(as.POSIXlt(targetGenre)$hour+as.POSIXlt(targetGenre)$min/60+as.POSIXlt(targetGenre)$sec/60/60, geom = "histogram", binwidth = 1, main = targetGenreName, xlim = c(0,24), ylim = c(0, histMax),  xlab = "Time", ylab = "Frequency")
+#        ggsave(paste("~/dropbox/thesis/out_pdf/","genre_",i,"_",targetGenreName ,".pdf", sep=""), plot, family="Japan1GothicBBB")
+#}
+
 
 
 #音楽の長さと最後に聞いた時間をもとに、操作して選択された曲だけのリストを求める
@@ -121,6 +134,16 @@ sortedIml = iml[sort.list(iml$playDate),]
 #今回は1~1863(sortedImlで中身みて、2655までデータが存在して、2656からNANだったので、rownames(sortedIml)==2655でTRUE参照するというアナログで調べた)までデータ存在。
 playDateExistIml = sortedIml[1:1863,]
 
+
+#以下で、一回でも再生したことのあるものは、last played dateも記録されているはずという前提で、一回以上再生されたものだけのリストを取得する方法もある。
+#play countだけを変更された場合はエラーが起こる。iTunesの通常の使用ではlast playedの存在と一回以上の再生は一致するが、apple scriptなどを使って、変更した場合はそうはならないかも。
+
+#play countを調べて、0でなかったら、リスト（playedIml）に追加。
+playedIml = iml[iml[,4]!=0,]
+playedImlSortedByPlayCount =  playedIml[sort.list(playedIml$playCount),] #これと同じ意味の式は右のようにも書ける。 playedImlSortedByPlayCount =  playedIml[sort.list(playedIml[,4]),]
+
+
+
 diff = c()
 for (i in 2:nrow(playDateExistIml)){
 	diff = append(diff, playDateExistIml[i-1,][1] - (playDateExistIml[i,][1]-round(playDateExistIml[i,][3]/1000)))#ここはplay dateでソートしてから行うように書き換える！
@@ -130,7 +153,21 @@ selectedItems = diffAbs == 1
 #行番号取得　rownames(sortedIml)[nrow(sortedIml)]
 
 #再生回数に応じて、カウントの数を動的に変化させる。例えば、一回しか再生されていないものは、プラス１、2回再生されたものはプラス2というかんじ。回数が多いほど、お気に入りの可能性が高く、ランダム再生でたまたま再生される可能性が低いという推測から。
+#play count回数分をfor文で loopでコピーして追加する。
+instantCountOfPlayedImlSortedByPlayCount = dim(playedImlSortedByPlayCount)[1]
+imlPlusCount = playedImlSortedByPlayCount
 
+for(i in 1:instantCountOfPlayedImlSortedByPlayCount){
+    if(playedImlSortedByPlayCount[i,4]>1){
+        for (j in 1:(playedImlSortedByPlayCount[i,4]-1)){
+            imlPlusCount  = rbind(imlPlusCount, playedImlSortedByPlayCount[i,])
+            #imlPlusCount = rbind(imlPlusCount, rbind(rep(playedImlSortedByPlayCount[i,], playedImlSortedByPlayCount[i,4]-1)))
+        }
+    }
+}
+
+sum(iml[,4])
+dim(imlPlusCount)
 
 
 
