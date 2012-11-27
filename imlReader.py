@@ -97,6 +97,7 @@ for i in tracks_keys:
 		#Genre
 		try:
 			instantTextGenre = tracks[i]["Genre"]
+			#ジャンル名にコロンがあると、コロン区切りで読めなくなって困るので、スラッシュで置き換える。
 			instantTextGenre = instantTextGenre.replace(",", "/")
 			countSuccess_genre += 1
 		except:
@@ -117,6 +118,7 @@ for i in tracks_keys:
 		except:
 			instantTrackName = "untitled"
 			countFail_trackName += 1
+		#区切り文字をコロンにして行列にしていく。
 		iml = iml + str(instantTextDate) + ',' + str(instantTextGenre) + ',' + str(instantTextTime) + ',' + str(instantTextPlayCount) + ',' + str(instantTrackName)+ '\n'
 print "\nsuccess-totalTime:%d"% (countSuccess_totalTime)
 print "fail-totalTime:%d"%countFail_totalTime
@@ -154,5 +156,3 @@ test_file.close()
 
 #print(tracks_keys)
 print("done!")
-
-foo = "foobar"

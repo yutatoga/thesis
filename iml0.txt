@@ -1,0 +1,2798 @@
+never,iTunes U,5607641,0,7-マイクロユビキタスノードとプロセッシング（1）
+never,iTunes U,5490991,0,6-実世界センシング（2）
+never,iTunes U,5105506,0,5-実世界センシング（1）【補講：10月18日休講分】
+never,iTunes U,5075943,0,4-ユビキタスコンピューティングシステムの構成要素（3）
+2012-04-12 23:39:50,iTunes U,5756190,1,8-Guest Lecture
+2012-10-08 19:54:52,Latin,272893,1,Avarandado
+never,Rock,253000,0,Sunshine Of Your Love
+never,Rock,310733,0,Toad
+never,Rock,239333,0,I'm So Glad
+never,Rock,169866,0,Strange Brew
+never,Rock,121400,0,Lawdy Mama [Version 1 Previously Unreleased]
+2012-10-07 11:07:09,Pop,234933,1,Up
+2012-10-07 11:03:14,Pop,202626,1,Eenie Meenie
+2012-10-07 10:59:51,Pop,251186,1,Overboard
+2012-10-07 10:55:40,Pop,264400,1,Never Let You Go
+never,iTunes U,3878545,0,新成長戦略とグリーンイノベーション
+never,iTunes U,1962462,0,「良い境界、よくない境界、活かす方法、なくす方法」〜空間情報からの発想
+never,iTunes U,4706807,0,空間情報とメディア創造
+never,Indie Rock,275800,0,Morning Bell
+never,Indie Rock,419466,0,Motion Picture Soundtrack
+never,Indie Rock,284400,0,Airbag
+never,Indie Rock,383493,0,Paranoid Android
+never,Indie Rock,267706,0,Subterranean Homesick Alien
+never,Latin,184400,0,Eclipse
+2012-07-02 12:12:49,Voice Memo,4340,1,3/1/12 21:54 
+never,Voice Memo,2552,0,3/1/12 21:54 
+never,Voice Memo,269605,0,3/7/12 8:46 
+2012-05-29 09:40:28,Rock,113813,44,Back In The U.S.S.R.
+never,Rock,308893,0,Sometimes You Can't Make It On Your Own
+2012-05-29 09:38:34,Rock,134826,19,Revolution
+2012-05-29 09:36:19,Rock,285306,22,Come Together/Dear Prudence/Cry Baby Cry [Transition]
+2012-05-29 09:31:34,Rock,258053,22,Here Comes The Sun/The Inner Light [Transition]
+2012-05-29 09:27:15,Rock,176680,19,Lady Madonna
+2012-08-24 13:30:51,Indie Rock,228733,4,In My Place
+2012-08-24 12:41:26,Indie Rock,297306,3,God Put A Smile Upon Your Face
+never,Indie Rock,342040,0,For You
+2012-08-24 13:26:52,Indie Rock,318626,4,Politik
+2012-09-26 11:09:43,Pop,183840,13,Creepin' In
+2012-08-24 12:46:35,Indie Rock,309160,3,The Scientist
+2012-09-26 11:13:29,Pop,226493,17,Toes
+2012-10-07 17:22:40,Rock,253933,3,I'll Go Crazy If I Don't Go Crazy Tonight
+never,Rock,290600,0,Love And Peace Or Else
+2012-09-26 11:18:06,Pop,276466,17,Humble Me
+2012-09-26 11:21:49,Pop,223840,16,Above Ground
+never,Voice Memo,61276,0,6/4/12 18:09 
+2012-10-08 21:29:11,Pop,214680,2,Happy Pills
+never,Indie Rock,234106,0,Just
+2012-10-08 21:19:00,Pop,179906,2,4 Broken Hearts
+2012-10-08 21:22:07,Pop,186773,2,Travelin' On
+2012-10-08 21:25:36,Pop,208853,2,Out On The Road
+2012-05-16 16:48:11,Alternative,300026,5,Burn
+2012-03-11 11:25:12,Alternative,373333,1,Hurt
+2012-02-06 13:52:05,Alternative,243453,1,Piggy (Nothing Can Stop Me Now)
+2012-03-11 11:55:15,Alternative,436546,3,Closer (Precursor)
+2012-02-06 13:56:08,Alternative,64106,1,A Violet Fluid
+never,Spoken & Audio,1389093,0,花見の仇討
+never,Spoken & Audio,1156133,0,五目講釈
+never,Spoken & Audio,1223240,0,星野屋
+never,Rock,310266,0,Politician [Live At Oakland]
+2012-07-21 16:50:30,Alternative,164133,2,Hit The Floor
+never,Rap,253133,0,Bad Meets Evil
+2012-06-15 12:47:32,Pop,231800,9,Candle In The Wind (Acoustic)
+2012-07-23 03:25:54,Jazz,292106,1,I Want To Be Happy
+2012-03-29 03:33:07,Pop,282573,6,Screw You (Young Man Blues)
+2012-07-23 03:21:02,Jazz,221600,1,Anna
+2012-03-29 03:24:20,Pop,110973,7,Jack Rabbit
+never,Podcast,2419565,0,Episode 25 – US visas/ retina screens and art for non-artists
+2012-03-29 03:19:36,Pop,172306,6,Whenever You're Ready (We'll Go Steady)
+2012-07-23 03:28:29,Jazz,155093,1,Smile
+never,Indie Rock,222960,0,Sulk
+2012-09-26 10:44:26,Pop,200626,24,Sunrise
+2012-05-16 15:31:59,Country & Folk,179000,6,Tell Me Why
+never,Rock,62200,0,Falstaff Beer Commercial
+never,Podcast,897048,0,9月1日 夜7時NHKきょうのニュース
+never,Latin,176173,0,Não Vou Para Casa
+2012-08-06 15:17:41,Indie Rock,137160,12,Don't Panic
+never,News,897012,0,8月22日 正午のニュース
+never,News,3508992,0,8月23日 夜10時NHKジャーナル
+never,Rock,381000,0,White Room [Live At Oakland]
+2012-08-31 04:35:48,none,799,1,bar
+never,Latin,234933,0,Desde Que O Samba É Samba
+2012-03-27 16:02:07,Country & Folk,174493,11,Love Again
+never,Latin,176360,0,Voçê Vai Ver
+2012-07-25 18:47:09,Electronica,415906,11,Iambic 9 Poetry
+2012-05-16 14:28:11,none,493266,1,PLACE TO BE
+2012-09-17 15:23:33,Traditional,421626,1,『大山詣り』 遭難の報告
+2012-05-16 13:57:02,none,458640,1,How Insensitive
+2012-09-14 03:31:23,Pop,319866,4,根っこ
+2012-05-16 13:42:36,none,782853,1,Do Mo (Children's Song #12)
+2012-05-16 14:19:52,none,898946,1,Old Castle/ By The River/ In The Middle Of Forest
+2012-05-16 14:04:53,none,471186,1,Humpty Dumpty
+never,Indie Rock,183733,0,Killer Cars
+never,Indie Rock,277133,0,My Iron Lung
+2012-05-13 10:37:06,Jazz,418026,29,Waltz For Debby (Take 2)
+never,Indie Rock,262266,0,How Can You Be Sure?
+never,Blues,471600,0,Layla
+2012-05-13 11:40:42,Jazz,299533,28,My Foolish Heart
+2012-07-06 02:40:25,Blues,266293,1,Too Bad
+2012-05-13 14:38:38,Blues,270720,2,Tears In Heaven
+2012-09-18 06:18:24,Pop,223800,4,津軽海峡・冬景色
+2012-08-25 18:06:42,Alternative,231680,10,Waiting For The End
+never,Rock,180066,0,Is That All?
+never,Rock,172200,0,Scarlet
+never,Rock,237866,0,Stranger in a Strange Land
+never,Rock,242600,0,With a Shout
+2012-07-25 19:04:56,Electronica,89613,11,C-Town Smash
+2012-08-25 18:02:50,Alternative,94906,9,Jornada Del Muerto
+2012-09-14 12:43:44,Traditional,2775866,1,帯久
+2012-08-25 18:01:15,Alternative,268986,10,Robot Boy
+never,Country & Folk,162386,0,Song To Woody
+2012-03-14 18:14:39,Country & Folk,335533,10,Ballad Of Frankie Lee And Judas Priest
+never,Country & Folk,138666,0,Freight Train Blues
+never,Rock,314026,0,Take It To The Limit
+2012-07-12 16:10:29,Pop,248466,1,炎熱の月明かり
+never,Rock,321066,0,Wasted Time
+never,Country & Folk,164173,0,See That My Grave Is Kept Clean
+2012-05-16 16:55:37,Rock,234066,1,Seven Bridges Road
+2012-01-19 21:31:18,Country & Folk,256306,7,I Pity The Poor Immigrant
+2012-07-12 16:35:36,Pop,280826,1,SINGING ROCKET
+2012-08-25 17:56:46,Alternative,295600,11,When They Come For Me
+2012-05-13 12:59:34,Rock,237773,6,Desperado
+2012-09-09 16:58:47,Traditional,283800,2,『愛宕山』 小判投げ
+2012-10-07 11:11:01,Pop,232733,1,That Should Be Me
+2012-09-09 17:02:56,Traditional,249040,1,『愛宕山』 落下
+2012-09-19 07:16:30,Rock,289973,40,Peaches & Diesel
+2012-04-02 20:26:56,Indie Rock,271280,14,another psychdelic point remix / DRITT DRITTEL
+2012-03-04 14:10:30,Indie Rock,281160,8,Kawatolius remix / Kawatory
+2012-09-26 04:56:37,Rock,248066,2,Beautiful Day
+2012-03-04 14:14:59,Indie Rock,269720,8,Noise Of The Apache / Teruhito Tomioka
+2012-03-04 14:21:42,Indie Rock,402840,8,MC Cat Genius' BomBassTic Re-bomb / Animal Family featuring MC Cat Genius
+2012-09-09 16:42:49,Traditional,812733,1,『愛宕山』 登り道
+2012-09-26 16:28:35,Traditional,1963266,1,兵庫船
+2012-09-09 16:47:35,Traditional,286426,1,『愛宕山』 見晴らし～土器投げ
+never,Electronica,205266,0,Slow Ice/ Old Moon
+never,Electronica,265293,0,Paleosonic
+never,Electronica,114400,0,Dust Shuffle
+never,Electronica,142040,0,Bone Jump
+never,Electronica,194960,0,2 Forms Of Anger
+2012-07-24 11:14:50,Rock,220400,2,You Can't Catch Me
+never,Alternative,256040,0,Like A Baby
+2012-09-11 05:51:23,Pop,271933,1,風雪ながれ旅
+never,Alternative,390226,0,Everything She Wants
+never,Alternative,246200,0,I'm Your Man
+never,Alternative,231293,0,Wake Me Up Before You Go-Go
+2012-03-28 07:45:58,Alternative,270240,1,Club Tropicana
+never,Pop,311800,0,女心
+2012-05-28 04:36:23,Classical,211440,4,Kosma: Autumn Leaves
+never,Pop,275360,0,わるいひと
+never,Pop,511800,0,うさぎ
+never,Pop,292573,0,指輪
+2012-05-28 04:24:59,Classical,255400,4,Massenet: Thais - Méditation
+2012-05-28 04:27:04,Classical,124613,4,Dinicu: Hora Staccato
+never,Traditional,2397466,0,たちぎれ線香
+2012-05-28 04:29:46,Classical,162626,4,Schubert: Ave Maria/ D 839
+2012-09-06 15:52:24,Pop,229666,3,女のためいき
+2012-05-28 04:32:51,Classical,185093,4,Rauber: La Vie En Rose
+2012-07-25 10:17:19,Rock,267933,10,Hand Of Fate
+2012-07-25 10:12:51,Rock,321733,10,Hot Stuff
+2012-07-25 10:28:25,Rock,429226,9,Memory Motel
+2012-07-25 10:21:16,Rock,237466,9,Cherry Oh Baby
+2012-07-25 10:33:25,Rock,299466,9,Hey Negrita
+2012-09-05 15:48:27,Pop,310733,1,うたかた
+2012-09-23 10:13:13,Traditional,2743360,1,寝床
+2012-09-23 13:26:06,Traditional,1863466,1,くやみ
+never,Rock,156960,0,"40"
+2012-10-07 18:56:26,Indie Rock,449506,2,Champagne Supernova
+2012-10-07 18:48:57,Indie Rock,39200,2,(Untitled)
+2012-07-06 03:55:14,Classical,47986,1,Bach: Goldberg Variations/ BWV 988 - Variatio 30 Quodlibet. A 1 Clav. (Zenph Version)
+2012-10-07 17:04:59,Rock,323906,5,Magnificent
+2012-10-07 17:57:32,Rock,253266,7,No Line On The Horizon
+2012-03-29 05:28:46,Pop,223906,7,Social Disease
+2012-07-06 03:52:16,Classical,49600,1,Bach: Goldberg Variations/ BWV 988 - Variatio 27 A 2 Clav. Canone Alla Nona (Zenph Version)
+2012-10-07 17:12:23,Rock,444293,5,Moment Of Surrender
+2012-07-06 03:51:26,Classical,52186,1,Bach: Goldberg Variations/ BWV 988 - Variatio 26 A 2 Clav. (Zenph Version)
+2012-07-06 03:54:26,Classical,60200,1,Bach: Goldberg Variations/ BWV 988 - Variatio 29 A 1 Ovvero 2 Clav. (Zenph Version)
+2012-10-08 19:36:59,ボイスメモ,3736,3,7/4/12 1:32 
+2012-07-06 03:53:26,Classical,70720,1,Bach: Goldberg Variations/ BWV 988 - Variatio 28 A 2 Clav. (Zenph Version)
+2012-10-08 19:45:33,Latin,402400,1,Undiú
+2012-10-08 19:50:19,Latin,286066,1,Na Baixa Do Sapateiro
+2012-03-29 05:15:26,Pop,249000,8,Roy Rogers
+never,Electronica,309600,0,Invisible
+2012-10-08 19:03:47,Latin,329133,2,Águas De Março
+2012-10-08 20:38:12,Pop,224786,6,Tug Of War
+never,iTunes U,2045712,0,2-仕組みと構造の演習-エッグドロップ(1)
+never,Rock,279333,0,Tomorrow
+never,iTunes U,4826026,0,1-環境情報学の俯瞰
+2012-04-08 19:38:01,iTunes U,5252819,1,インターネットとTV(3)
+2012-04-08 19:38:08,iTunes U,5365699,1,まとめ
+never,iTunes U,3169002,0,3-仕組みと構造の実験（２）
+never,Rock,231040,0,Fire
+never,iTunes U,5195596,0,10-ユビキタスネットワーク
+never,iTunes U,4968402,0,11-ユビキタスコンピューティングシステムとサービス
+never,iTunes U,5134401,0,12-社会的制度とプライバシー保護
+never,iTunes U,5178145,0,13-ユビキタスコンピューティングシステムの未来
+never,iTunes U,4844344,0,9-アクチュエーション
+2012-07-02 17:14:41,Jazz,221600,8,Anna
+never,Voice Memo,6894,0,3/5/12 7:02 
+2012-10-07 11:38:35,Pop,215453,1,Baby
+2012-10-07 11:34:29,Pop,186266,1,One Time
+2012-10-07 11:51:42,Pop,243493,1,Down To Earth
+2012-10-07 11:42:32,Pop,237720,1,One Less Lonely Girl
+2012-10-07 11:54:59,Pop,196613,1,U Smile
+never,Voice Memo,294845,0,3/8/12 7:36 
+2012-09-06 03:22:27,Rock,260160,1,Numb
+2012-08-23 18:02:08,Indie Rock,265026,15,The Hardest Part
+never,Indie Rock,222600,0,Treefingers
+never,Indie Rock,356400,0,How To Disappear Completely
+never,Indie Rock,211000,0,In Limbo
+never,Indie Rock,315973,0,Optimistic
+never,Indie Rock,309093,0,Idioteque
+2012-05-29 09:24:19,Rock,198586,19,Octopus's Garden/Sun King [Transition]
+2012-08-23 18:10:38,Indie Rock,271146,14,Twisted Logic
+never,Voice Memo,117143,0,2/18/12 18:30 
+never,Rock,252733,0,Gloria
+2012-05-29 09:09:10,Rock,151920,22,Blackbird/Yesterday
+never,Voice Memo,5710,0,2/16/12 11:13 
+never,Voice Memo,16763,0,2/8/12 3:46 
+never,Voice Memo,21709,0,2/10/12 5:45 
+never,Indie Rock,436066,0,Everything's Not Lost (Life Is For Living)
+never,Indie Rock,249373,0,We Never Change
+never,Indie Rock,254266,0,High Speed
+2012-08-07 00:58:14,Rap,350226,5,Superman
+never,Indie Rock,46333,0,Parachutes
+never,Indie Rock,284426,0,Careful Where You Stand
+2012-09-14 02:32:49,Pop,312493,3,人生道
+2012-10-07 10:33:07,Pop,250546,1,Common Denominator
+2012-06-28 11:04:52,Jazz,98133,1,Port View 4
+never,Jazz,376226,0,Hound Of Heaven
+never,Jazz,74533,0,Port View 5
+2012-06-29 12:02:03,Jazz,646266,1,The Long Passage
+2012-06-29 12:03:38,Jazz,95106,1,Port View 6
+2012-01-30 10:39:37,Short Films,145958,1,Luxo Jr.
+2012-04-18 09:53:30,Rock,175933,47,Mr. Pitiful
+2012-05-20 19:42:28,Rock,164653,53,Because
+2012-10-07 10:18:12,Pop,197800,1,Bigger
+2012-09-11 04:50:25,Pop,223266,2,なみだ船
+2012-03-10 22:08:16,Alternative,442480,1,Memorabilia
+never,Alternative,305973,0,Closer To God
+2012-03-30 17:45:12,Alternative,446013,4,All The Pigs/ All Lined Up
+2012-05-13 13:08:35,Alternative,293133,4,Dead Souls
+2012-02-06 14:17:22,Alternative,308800,1,Hurt (Quiet)
+never,Spoken & Audio,2066426,0,浜野矩隨　(Ｓ５２・１０・３１)
+never,Other,1338226,0,目黒の秋刀魚(S52.10.31 鈴本演芸場)
+never,Spoken & Audio,945106,0,町内の若い衆　(Ｓ５２・３・３１)
+never,Spoken & Audio,1283200,0,宮戸川-お花半七-　(Ｓ５２・１０・３１)
+never,Pop,245533,0,飾りじゃないのよ涙は
+never,Spoken & Audio,2101533,0,鼠穴
+2012-05-23 00:05:55,Country & Folk,226106,68,After The Gold Rush
+2012-03-14 17:33:30,Country & Folk,188293,6,Only Love Can Break Your Heart
+2012-06-30 03:24:58,Jazz,170666,1,Tweedle Dum
+2012-03-14 17:39:02,Country & Folk,332133,5,Southern Man
+2012-09-26 11:06:39,Pop,208866,19,Be Here To Love Me
+2012-03-14 17:40:22,Country & Folk,80506,5,Till The Morning Comes
+2012-09-26 11:02:38,Pop,247360,20,In The Morning
+2012-03-20 04:29:07,Country & Folk,230293,4,Oh/ Lonesome Me
+2012-09-26 10:54:31,Pop,191933,20,Carnival Town
+2012-06-30 03:02:52,Jazz,99626,2,The Trial
+2012-06-30 03:09:22,Jazz,390066,1,Humpty Dumpty
+never,News,597024,0,8月22日 午後3時のニュース
+2012-10-07 16:18:47,Rap,194440,4,Untitled
+never,Podcast,3507372,0,8月21日 夜10時NHKジャーナル
+never,Podcast,2697048,0,8月21日 夜7時NHKきょうのニュース
+never,News,897048,0,8月21日 朝7時のニュース
+2012-09-11 13:27:12,Pop,307973,2,のぼり坂
+never,Podcast,897048,0,8月23日 正午のニュース
+2012-05-16 15:17:57,none,466760,1,Windows
+2012-05-16 15:10:10,none,555186,1,Very Early
+2012-09-10 06:50:33,Traditional,790306,1,文七元結 / 再び長兵衛内～結末～追い出し
+2012-05-16 13:49:23,none,407746,1,The Fool On The Hill
+2012-05-16 14:37:10,none,531600,1,Summer Time
+2012-08-06 08:40:47,Jazz,792573,46,Tuesday Wonderland
+2012-09-10 06:25:49,Traditional,97826,1,文七元結 / 翌朝
+2012-09-26 19:43:47,Traditional,170840,1,井戸の茶碗 再び細川屋敷窓下
+2012-09-26 18:22:55,Traditional,248933,1,井戸の茶碗 千代田卜斎の浪宅
+2012-09-26 18:24:56,Traditional,120533,1,井戸の茶碗 細川屋敷の窓下
+2012-09-10 06:07:21,Traditional,576573,1,文七元結 / 近江屋内
+2012-09-26 19:33:11,Traditional,189893,1,井戸の茶碗 陽の目を見た大金～二階からの首実験
+2012-09-26 19:40:56,Traditional,336533,1,井戸の茶碗 清正公境内の茶店
+never,Indie Rock,136200,0,Lozenge Of Love
+never,Indie Rock,168240,0,Permanent Daylight
+never,Indie Rock,280293,0,Punchdrunk Lovesick Singalong
+2012-04-25 14:27:32,Jazz,412000,21,Waltz For Debby (Take 1)
+2012-04-25 14:20:34,Jazz,393493,21,Milestones
+2012-09-11 13:32:19,Pop,306933,2,橋
+2012-04-25 14:13:58,Jazz,308706,22,Some Other Time
+2012-05-12 18:23:58,Jazz,433893,24,My Romance (Take 1)
+2012-05-12 17:29:54,Jazz,458173,29,Detour Ahead (Take 2)
+2012-09-06 12:31:51,Pop,250760,2,港唄
+2012-03-10 21:20:36,Pop,182333,3,日曜日
+2012-09-06 12:14:59,Pop,217533,2,合縁坂
+2012-09-06 12:19:12,Pop,252960,2,波止場しぐれ
+2012-09-06 12:23:28,Pop,256040,2,大阪つばめ
+2012-03-24 13:37:15,Pop,211573,6,銭がなけりゃ
+2012-09-26 04:33:25,Rock,288400,1,Peace On Earth
+2012-03-14 04:20:50,Pop,187800,4,夕焼け
+never,iTunes U,1455078,0,英語の発音と発音記号
+2012-04-21 10:43:11,Jazz,1193586,2,In A Silent Way/It's About That Time
+2012-05-16 18:28:23,Jazz,1096880,4,Shhh/Peaceful
+never,Pop,326400,0,ミスコンテスト
+never,Pop,221306,0,ロングインタビュー
+2012-04-01 19:33:15,Pop,332133,1,青い闇の警告
+2012-03-14 04:13:33,Pop,133773,4,おなじみの短い手紙
+never,Pop,256000,0,アンチヒロイン
+2012-03-14 04:15:53,Pop,140600,6,コーヒーブルース
+never,Pop,219893,0,ラブレターの気分で
+2012-03-14 16:53:36,Pop,165333,5,自転車にのって
+never,Pop,291333,0,英雄
+2012-03-14 16:54:42,Pop,65333,6,ブルース
+never,Pop,304573,0,最新伝説
+2012-03-27 10:53:57,Indie Rock,205600,10,free from the Point mix / DJ Kodomo
+2012-03-04 14:25:49,Indie Rock,246813,8,A point RE:view MIX/ Masaki Sakamoto
+2012-03-28 09:44:32,Indie Rock,190746,9,Rinikanau Shirimetsuretsuna Kotoba Tekkai?? Version 2.4 / Samurai Distortion
+2012-03-04 14:33:07,Indie Rock,232000,8,The walk of Basset Hound / Panpease Records
+2012-03-04 14:39:53,Indie Rock,215680,8,Multi-ebbing View Points (Fashion Flesh re-product)/ Fashion Flesh
+never,Alternative,407240,0,Wham Rap!
+2012-09-27 01:43:57,Traditional,263666,1,『三軒長屋』 伊勢勘と政五郎～サゲ～中入り
+never,Alternative,221426,0,Young Guns (Go For It!)
+2012-03-27 11:07:25,Alternative,320093,1,Freedom
+never,Alternative,277600,0,The Edge Of Heaven
+never,Electronica,182373,0,Emerald And Lime
+never,Electronica,185226,0,Complex Heaven
+never,Alternative,408373,0,Last Christmas
+never,Electronica,115600,0,Flint March
+2012-07-22 06:03:40,Rock,126360,3,Grown Up Wrong
+2012-09-14 02:36:58,Pop,249000,2,仁義
+2012-07-22 06:28:41,Rock,219800,4,2120 South Michigan Avenue
+2012-07-22 06:25:01,Rock,207493,4,It's All Over Now
+2012-07-22 06:01:33,Rock,149640,3,Congratulations
+2012-07-22 05:59:04,Rock,167466,3,Under The Boardwalk
+2012-09-06 16:27:01,Pop,272533,1,北の蛍
+2012-09-06 16:31:27,Pop,266626,1,昭和流れうた
+never,Pop,244000,0,ゆうすげの恋
+never,Pop,252373,0,十六夜舟
+never,Pop,324826,0,京都去りがたし
+2012-09-27 13:39:32,Traditional,315226,1,『羽織の遊び』 出囃子「老松」～マクラ
+2012-09-26 04:24:50,Rock,219160,1,In A Little While
+2012-07-24 08:30:47,Alternative,209306,6,Leave Out All The Rest
+2012-07-24 08:27:18,Alternative,189293,6,Given Up
+2012-07-24 08:22:22,Alternative,100920,6,Wake
+2012-07-21 16:37:55,Alternative,185800,1,Numb
+2012-07-21 16:34:49,Alternative,144400,1,Session
+never,iTunes U,905747,0,College For All? Maybe Not
+never,iTunes U,798283,0,Understanding Baggy Pants
+never,iTunes U,1004274,0,Knight of Reform
+never,iTunes U,1104924,0,Releasing the World's Report Card
+2012-10-07 09:42:58,Pop,98506,2,I Still Wonder (Acoustic)
+never,iTunes U,905392,0,Sesame Street: At the Intersection of Laughter and Learning
+never,Traditional,1551800,0,天狗裁き
+never,Traditional,2036360,0,不動坊
+never,Podcast,1797048,0,9月7日 夜7時NHKきょうのニュース
+2012-10-07 08:37:53,Pop,253146,1,Mind Games
+2012-10-07 08:33:40,Pop,240146,1,(Just Like) Starting Over
+2012-10-08 21:16:00,Pop,222280,2,After The Fall
+never,Indie Rock,392733,0,Slide Away
+2012-07-24 11:03:56,Rock,151733,1,Surprise/ Surprise
+never,Rap,42226,0,Tonya (Skit)
+never,ボイスメモ,27792,0,5/1/12 20:00 
+2012-10-07 18:48:17,Indie Rock,304293,2,Morning Glory
+2012-09-08 16:43:10,Traditional,386600,1,居残り佐平次 / 三日目の朝
+never,Rap,181360,0,Insane
+2012-10-07 18:39:34,Indie Rock,291840,3,Cast No Shadow
+2012-07-30 07:04:58,Rap,319866,1,My Mom
+2012-10-07 18:43:13,Indie Rock,219533,3,She's Electric
+never,Rap,248200,0,Hello
+2012-07-24 11:01:24,Rock,186560,1,Little Red Rooster
+never,Rap,283066,0,Bagpipes From Baghdad
+2012-10-07 18:34:42,Indie Rock,328533,4,Some Might Say
+never,Electronica,235400,0,Written/ Forgotten
+never,Electronica,132306,0,Emerald And Stone
+never,Electronica,204866,0,Calcium Needles
+never,Electronica,200800,0,Lesser Heaven
+2012-07-24 11:34:16,Rock,129506,2,Oh Baby (We Got A Good Thing Goin')
+never,Electronica,489000,0,Late Anthropocene
+2012-04-08 19:37:56,iTunes U,4937137,1,インターネットとTV(2)
+2012-04-08 19:37:53,iTunes U,5217150,1,インターネットとTV(1)
+2012-04-08 19:37:48,iTunes U,5130197,1,実空間インターネット
+2012-04-08 19:37:43,iTunes U,5022489,1,これまでのおさらい
+2012-09-08 16:58:48,Traditional,838333,1,居残り佐平次 / 布団部屋入り～イノどん誕生
+2012-04-08 19:38:04,iTunes U,5523257,1,インターネットと震災
+2012-09-23 12:34:00,Pop,281600,3,長良川艶化歌（石本美由紀）
+2012-07-06 02:48:49,Classical,37973,1,Bach: Goldberg Variations/ BWV 988 - Variatio 9 Canone Alla Terza. A 1. Clav. (1955)
+2012-10-07 09:38:12,Pop,172186,2,Hotel Shampoos
+2012-07-06 02:48:11,Classical,45466,1,Bach: Goldberg Variations/ BWV 988 - Variatio 8 A 2 Clav. (1955)
+2012-09-23 12:29:18,Pop,184560,4,夜空（山口洋子）
+2012-07-06 02:50:26,Classical,54546,1,Bach: Goldberg Variations/ BWV 988 - Variatio 11 A 2 Clav. (1955)
+2012-07-06 02:49:32,Classical,42813,1,Bach: Goldberg Variations/ BWV 988 - Variatio 10 Fughetta. A 1 Clav. (1955)
+2012-07-06 02:51:22,Classical,55826,1,Bach: Goldberg Variations/ BWV 988 - Variatio 12 Canone Alla Quarta (1955)
+2012-09-23 12:26:14,Pop,297106,4,おふくろの子守唄（つんく）
+2012-08-05 19:58:51,Rap,266906,3,My Dad's Gone Crazy
+2012-10-07 12:14:53,Pop,212920,1,Pray
+2012-10-07 12:07:37,Pop,249066,1,That Should Be Me
+2012-09-23 12:21:16,Pop,255760,4,汽笛（木下龍太郎）
+2012-10-07 11:58:18,Pop,198760,1,Stuck In The Moment
+2012-10-07 12:03:28,Pop,309893,1,Favorite Girl [Live]
+2012-07-24 11:17:40,Rock,169933,2,Heart Of Stone
+never,Latin,204000,0,Chega De Saudade
+2012-09-11 05:12:37,Pop,224240,2,男の涙
+never,Indie Rock,259200,0,Planet Telex
+never,Indie Rock,324533,0,The Tourist
+never,Indie Rock,259626,0,Lucky
+never,Indie Rock,228533,0,No Surprises
+2012-10-07 13:25:12,Pop,176880,3,Sweet Talker
+never,Indie Rock,285200,0,Climbing Up The Walls
+never,Voice Memo,59464,0,4/19/12 16:32 
+2012-09-26 04:37:43,Rock,257706,1,When I Look At The World
+never,Voice Memo,32158,0,4/11/12 18:29 
+never,Voice Memo,119511,0,4/11/12 18:31 
+never,Voice Memo,20083,0,4/11/12 20:14 
+never,Voice Memo,14952,0,4/13/12 14:44 
+2012-08-24 13:21:34,Indie Rock,319360,2,Amsterdam
+2012-08-24 13:16:14,Indie Rock,351400,2,A Rush Of Blood To The Head
+2012-09-26 22:04:43,Indie Rock,201106,39,Cemeteries Of London
+2012-09-26 22:01:22,Indie Rock,149986,38,Life In Technicolor
+2012-09-26 22:19:44,Indie Rock,235066,46,Lost!
+2012-07-24 11:20:47,Rock,186933,2,What A Shame
+2012-09-14 03:17:19,Pop,208266,3,帰ろかな
+never,Spoken & Audio,1389626,0,萬金丹
+2012-04-03 00:32:26,Pop,217893,19,Blue Skies
+2012-06-29 12:11:12,Jazz,152173,1,Port View 7
+2012-04-03 04:07:33,Pop,238733,35,All Of Me
+2012-06-29 12:08:40,Jazz,301893,1,Jocelyn - The Commander
+2012-04-03 00:40:17,Pop,232120,19,Unchained Melody
+2012-06-29 12:15:47,Jazz,131666,2,Captain Jocelyn - The Pianist
+2012-04-14 04:27:46,Pop,278720,20,September Song
+2012-06-29 12:19:05,Jazz,122733,3,Captain Jocelyn - A Tribute By His Crew
+2012-04-14 04:30:25,Pop,159400,20,On The Sunny Side Of The Street
+2012-10-08 20:54:21,Pop,201746,4,Worldly Matters
+2012-04-14 04:33:53,Pop,207080,21,Moonlight In Vermont
+2012-04-14 05:00:30,Pop,157160,21,Don't Get Around Much Anymore
+2012-04-03 00:57:42,Pop,243413,19,Someone To Watch Over Me
+2012-04-21 10:48:01,Country & Folk,136813,19,What A Wonderful World
+2012-04-21 10:52:15,Country & Folk,253826,16,Basin Street Blues
+never,Indie Rock,368933,0,Born On A Different Cloud
+2012-09-26 04:48:45,Rock,331560,1,Grace
+never,Indie Rock,292866,0,Little By Little
+never,Indie Rock,77333,0,A Quick Peep
+never,Spoken & Audio,1622600,0,厩火事
+never,Indie Rock,242000,0,(Probably) All In The Mind
+never,Indie Rock,189360,0,She Is Love
+never,Alternative,341200,0,I Do Not Want This
+2012-03-11 04:14:56,Alternative,178426,2,March Of The Pigs
+2012-05-13 13:14:48,Alternative,373306,3,Closer
+2012-03-28 10:10:07,Alternative,298800,2,Ruiner
+2012-03-27 18:10:37,Alternative,331560,1,The Becoming
+never,Indie Rock,199693,0,Bangers & Mash
+never,Other,1496200,0,崇徳院(S52.7.31 鈴本演芸場)
+never,Traditional,1729866,0,一分茶番 (1980年7月31日上野鈴本演芸場)
+never,Other,1602333,0,藪入り(S53.1.31 鈴本演芸場)
+never,Traditional,1432666,0,汲み立て (1977年8月31日上野鈴本演芸場)
+never,Traditional,1414560,0,短命 (1977年4月13日上野鈴本演芸場 )
+never,Podcast,897048,0,8月21日 正午のニュース
+2012-09-26 11:25:03,Pop,193226,15,The Long Way Home
+never,Podcast,597024,0,8月21日 午後3時のニュース
+never,Podcast,351712,0,第8号「虚構新聞ニュース」2012年7月15日
+2012-06-30 03:01:12,Jazz,68306,2,Tweedle Dee
+2012-06-30 03:00:04,Jazz,265866,2,The Woods
+2012-07-02 14:29:59,Jazz,588200,6,Spain
+2012-07-02 15:03:11,Jazz,172626,5,Children's Song
+2012-08-22 03:32:01,Podcast,897012,1,8月22日 朝7時のニュース
+2012-07-02 15:00:18,Jazz,549240,5,500 Miles High
+never,Indie Rock,208733,0,Bullet Proof...I Wish I Was
+never,Indie Rock,247040,0,Black Star
+never,Rock,336066,0,New Year's Day
+2012-05-13 12:37:04,Rock,254640,30,Time Out Of Mind
+never,Indie Rock,276426,0,My Iron Lung
+never,Indie Rock,242293,0,Bodysnatchers
+2012-05-13 15:13:40,Rock,452133,32,Glamour Profession
+2012-05-13 15:06:08,Rock,332333,32,Gaucho
+2012-05-16 17:26:10,Rock,354560,42,Babylon Sisters
+2012-05-13 15:18:50,Rock,310066,36,Hey Nineteen
+never,Rock,222706,0,Fast Cars
+2012-03-03 14:22:19,Rock,228533,8,Something Fine
+2012-03-03 14:26:28,Rock,249466,8,Under The Falling Sky
+2012-03-29 17:28:57,Rock,197626,10,Doctor My Eyes
+2012-03-27 11:18:00,Rock,231333,10,From Silver Lake
+2012-07-22 14:44:09,Rock,227266,13,Sing This All Together
+never,Rock,278000,0,Sunday Bloody Sunday
+2012-03-27 15:59:13,Rock,259306,9,Looking Into You
+2012-08-06 09:02:15,Jazz,863493,39,The Rube Thing
+2012-08-06 10:43:13,Jazz,513573,34,Where We Used To Live
+2012-07-26 05:17:09,Electronica,403493,8,The Exploding Psychology
+2012-08-06 11:00:47,Jazz,575626,32,Eighthundred Streets By Feet
+2012-08-06 08:12:02,Jazz,1116960,28,Definition Of A Dog
+2012-07-26 05:09:17,Electronica,381466,8,Go! Spastic
+2012-08-06 08:47:50,Jazz,423493,43,The Goldhearted Miner
+2012-07-26 05:10:25,Electronica,68173,8,Metteng Excusks v1.2
+2012-07-26 04:58:05,Electronica,282053,8,My Red Hot Car
+2012-07-26 05:02:55,Electronica,290600,8,Boneville Occident
+2012-09-19 06:08:38,Pop,186453,165,Don't Know Why
+2012-09-26 18:18:46,Traditional,254333,1,井戸の茶碗 出囃子「老松」～マクラ
+never,Tech News,6325198,0,Macworld San Francisco 2007 Keynote Address
+2012-06-29 12:37:10,Country & Folk,195906,11,The Times They Are A-Changin'
+never,Rock,264160,0,Crossroads
+never,Traditional,1581733,0,足上り
+never,Traditional,1593800,0,はてなの茶碗
+2012-07-11 15:10:37,Pop,145306,167,Seven Years
+never,Traditional,1311066,0,五光
+2012-10-03 05:20:02,Traditional,2272866,1,猫の忠信
+never,Indie Rock,241000,0,Packt Like Sardines In A Crushd Tin Box
+never,Indie Rock,259066,0,Creep [Acoustic]
+never,Indie Rock,247266,0,Pulk/Pull Revolving Doors
+never,Indie Rock,288733,0,Pyramid Song
+never,Indie Rock,191000,0,You And Whose Army?
+never,Rock,408666,0,Sleepy Time Time [Live At Winterland]
+2012-09-26 23:30:08,Traditional,92800,1,『三軒長屋』 出囃子「老松」～マクラ
+never,Indie Rock,321426,0,Separator
+2012-05-13 17:00:33,Rock,536333,2,Life's Been Good
+2012-03-10 21:20:23,Pop,252266,3,生活の柄
+2012-05-13 17:12:18,Rock,351506,3,The Long Run
+2012-05-13 17:06:27,Rock,353466,2,New Kid In Town
+2012-03-27 13:44:10,Rock,273933,2,Heartache Tonight
+2012-05-13 17:17:36,Rock,317933,2,I Can't Tell You Why
+never,Rock,999400,0,Spoonful [Live At Winterland]
+2012-09-19 06:48:35,Rock,236266,42,Lay Down Sally
+2012-09-26 20:04:52,Rock,225266,44,Wonderful Tonight
+2012-09-19 06:40:53,Rock,221960,45,Cocaine
+2012-03-14 19:29:44,Country & Folk,255733,9,Is It Love?
+2012-03-14 20:32:09,Country & Folk,248266,10,Dreamland Express
+never,none,256040,0,Track 06
+never,none,320093,0,Track 07
+never,none,277600,0,Track 08
+never,none,407240,0,Track 09
+never,none,221426,0,Track 10
+2012-07-24 08:23:20,Alternative,13866,3,Foreword
+2012-07-22 15:44:45,Rock,356200,1,Moonlight Mile
+2012-10-08 19:34:50,Voice Memo,11678,2,7/4/12 1:27 
+2012-07-22 15:33:47,Rock,334906,1,Sister Morphine
+2012-07-22 15:38:32,Rock,245160,1,Dead Flowers
+2012-09-11 05:01:41,Pop,254960,2,三郎太鼓
+2012-09-11 04:57:26,Pop,179306,2,銀座の庄助さん
+2012-10-08 19:36:15,Voice Memo,10610,2,7/4/12 1:32 
+2012-09-14 02:40:41,Pop,223333,3,兄弟仁義
+2012-09-23 12:08:37,Pop,222560,3,おふくろさん
+2012-09-06 14:54:27,Pop,197506,1,波止場女のブルース
+2012-09-06 14:58:46,Pop,258866,1,望郷
+2012-09-06 14:46:59,Pop,261240,1,年上の女
+2012-09-06 14:51:10,Pop,251160,1,港町ブルース
+2012-07-24 08:49:21,Alternative,221693,6,No More Sorrow
+2012-07-24 08:33:31,Alternative,164426,6,Bleed It Out
+2012-07-24 08:38:21,Alternative,289906,6,Shadow Of The Day
+2012-07-24 08:41:47,Alternative,205226,6,What I've Done
+2012-07-24 08:45:40,Alternative,233133,6,Hands Held High
+2012-07-12 07:10:59,Pop,163760,8,愛は君
+never,iTunes U,741205,0,20 Years of TFA
+never,iTunes U,1011968,0,Mayor Fenty's Bold Move(ment)
+2012-03-05 10:35:43,Pop,235426,1,最後のニュース
+never,iTunes U,1354390,0,The Urban Education Toolkit
+never,iTunes U,1014137,0,The Choice of Social Entrepreneurship
+2012-03-05 10:27:56,Pop,215093,1,エミリー
+never,iTunes U,2830597,0,A Conversation on "Waiting for Superman" 
+2012-07-12 06:59:50,Pop,188973,8,感謝知らずの女
+2012-07-12 07:03:17,Pop,206866,8,小さな手
+2012-07-12 07:08:16,Pop,298800,8,人生が二度あれば
+2012-07-12 06:56:41,Pop,150026,8,もしも明日が晴れなら
+2012-09-27 00:01:40,Traditional,109533,1,『三軒長屋』 伊勢勘妾宅の会話
+2012-03-05 10:31:48,Pop,231573,1,ライバル
+2012-03-10 21:20:31,Pop,214093,3,しらみの旅
+2012-09-26 23:59:50,Traditional,343600,1,『三軒長屋』 垣間見た美女～替わって醜女出現
+never,Pop,245666,0,長い話
+2012-03-10 20:23:18,Country & Folk,120826,4,Honey/ Just Allow Me One More Chance
+2012-07-30 06:54:18,Rap,89546,1,Dr. West (Skit)
+2012-03-05 10:24:21,Pop,234666,1,Pi Po Pa
+2012-10-07 16:15:32,Rap,305680,4,You're Never Over
+never,Indie Rock,280720,0,Morning Mr Magpie
+2012-03-27 11:36:55,Rock,307133,12,Galveston Bay
+never,Rock,383373,0,Elvis Presley and America
+never,Rock,155826,0,Promenade
+2012-01-18 04:47:22,Country & Folk,387573,3,Talking World War III Blues
+never,Rock,136906,0,4th Of July
+never,Rock,369293,0,Bad
+never,Rock,259933,0,Indian Summer Sky
+2012-01-18 04:40:54,Country & Folk,110293,3,Oxford Town
+2012-10-08 21:33:36,Pop,265106,2,Miriam
+2012-04-07 10:49:29,iTunes U,4831765,1,デジタルコミュニケーションとは（基礎編２）
+2012-09-11 13:16:44,Pop,303333,3,竹
+2012-04-06 13:17:05,iTunes U,5165065,1,はじめに
+2012-04-07 21:07:22,iTunes U,4795462,1,IPアドレスとドメイン
+2012-04-07 13:10:24,iTunes U,4928495,1,通信インフラストラクチャ（基礎編３）
+2012-04-07 19:36:13,iTunes U,5052586,1,通信インフラストラクチャ（基礎編４）
+never,News,897012,0,8月31日 正午のニュース
+never,News,897012,0,8月31日 朝7時のニュース
+never,News,1797012,0,8月31日 夜7時NHKきょうのニュース
+2012-07-06 02:58:58,Classical,53066,1,Bach: Goldberg Variations/ BWV 988 - Variatio 17 A 2 Clav. (1955)
+never,News,597060,0,8月31日 午後3時のニュース
+2012-07-06 02:56:48,Classical,136506,1,Bach: Goldberg Variations/ BWV 988 - Variatio 15 A 1 Clav. Canone Alla Quinta (1955)
+2012-07-06 02:58:05,Classical,77373,1,Bach: Goldberg Variations/ BWV 988 - Variatio 16 Ouverture A 1 Clav. (1955)
+never,News,597060,0,9月1日 正午のニュース
+2012-07-06 02:53:32,Classical,130546,1,Bach: Goldberg Variations/ BWV 988 - Variatio 13 A 2 Clav. (1955)
+2012-07-06 02:54:31,Classical,58800,1,Bach: Goldberg Variations/ BWV 988 - Variatio 14 A 2 Clav. (1955)
+2012-10-07 08:01:58,Pop,202560,1,Power To The People
+2012-10-08 20:47:25,Pop,221973,5,Heavy Lifting
+2012-09-17 15:10:33,Traditional,193266,1,『大山詣り』 復讐の剃髪
+2012-10-07 12:26:09,Jazz,636626,1,Pithecanthropus Erectus
+2012-10-07 12:33:59,Jazz,470240,1,A Foggy Day
+2012-10-07 12:37:11,Jazz,191760,1,Profile Of Jackie
+2012-10-07 12:52:07,Jazz,896040,1,Love Chant
+2012-09-17 15:16:32,Traditional,358200,1,『大山詣り』 坊主の目覚め
+2012-09-17 15:02:52,Traditional,310573,1,『大山詣り』 大山講結成
+never,Indie Rock,230640,0,Electioneering
+2012-09-27 00:10:06,Traditional,55960,1,『三軒長屋』 伊勢勘の計略
+never,Indie Rock,264800,0,Exit Music (For A Film)
+never,Indie Rock,299266,0,Let Down
+never,Indie Rock,261626,0,Karma Police
+never,Indie Rock,117333,0,Fitter Happier
+never,Voice Memo,223955,0,4/11/12 18:21 
+2012-09-26 04:16:44,Rock,296200,1,Walk On
+never,Voice Memo,27676,0,3/22/12 19:51 
+never,Voice Memo,9240,0,3/17/12 12:58 
+never,Voice Memo,3295,0,4/11/12 18:21 
+never,Voice Memo,30068,0,3/30/12 9:24 
+2012-08-24 13:10:23,Indie Rock,238333,2,A Whisper
+2012-08-24 13:00:54,Indie Rock,223040,2,Green Eyes
+2012-08-24 13:06:25,Indie Rock,331133,2,Warning Sign
+2012-08-24 12:51:43,Indie Rock,307466,2,Clocks
+2012-08-24 12:57:11,Indie Rock,327800,2,Daylight
+2012-09-06 16:04:30,Pop,248866,1,恋月夜
+2012-05-16 17:55:34,Rock,122106,5,We Will Rock You
+never,Voice Memo,18504,0,2/7/12 5:52 
+2012-03-28 13:39:35,R&B,225573,1,Crazy Love
+2012-01-22 04:47:42,R&B,294600,1,Over The Rainbow
+2012-04-03 00:24:25,Pop,234480,22,Stardust
+2012-06-28 10:38:22,Jazz,331773,1,Mistress Luck - A Portrait
+2012-01-22 04:26:57,R&B,251600,2,Ellie My Love
+2012-06-28 10:32:50,Jazz,54533,1,Port View I
+2012-07-27 01:50:09,Voice Memo,113242,1,2/4/12 4:00 
+2012-06-28 10:31:56,Jazz,219293,1,Check Blast
+2012-04-03 00:28:48,Pop,263320,21,Georgia On My Mind
+2012-07-02 16:13:59,Jazz,155093,7,Smile
+2012-07-02 16:11:24,Jazz,292106,7,I Want To Be Happy
+2012-04-21 10:58:50,Country & Folk,181040,16,I'm Gonna Sit Right Down And Write Myself A Letter
+2012-04-21 10:55:49,Country & Folk,214093,18,I'm Confessin' (That I Love You)
+2012-03-28 22:14:39,Rock,181000,5,Killer Queen
+2012-04-21 11:03:20,Country & Folk,269413,18,The Gypsy
+never,Indie Rock,280466,0,The Trickster
+2012-09-19 06:05:31,Country & Folk,124266,125,Ac-Cent-Tchu-Ate The Positive
+never,none,17487,0,guitar_mono-by-nhk_mono+yukino_mono
+never,Indie Rock,439400,0,Magic Pie
+never,Indie Rock,2060680,0,You've Got The Heart Of A Star
+never,Indie Rock,267786,0,Better Man
+2012-09-06 16:08:55,Pop,265706,1,命あたえて
+2012-09-17 06:24:53,Indie Rock,302600,3,My Big Mouth
+2012-10-07 16:10:27,Rap,263373,4,Love The Way You Lie
+2012-03-27 09:04:22,Alternative,237293,1,The Downward Spiral
+never,Alternative,202306,0,A Warm Place
+2012-03-28 05:40:52,Alternative,96200,2,Big Man With A Gun
+2012-03-28 09:20:36,Alternative,411840,2,Reptile
+never,Alternative,294360,0,Eraser
+2012-10-08 18:16:06,Latin,75173,1,Cordeiro De Nana
+never,Rap,313946,0,Rain Man
+2012-10-08 18:49:41,Latin,318173,2,Disse Alguem (All Of Me)
+2012-10-08 18:05:04,Latin,313800,1,Bahia Com H
+2012-10-08 18:09:54,Latin,289200,1,No Tabuleiro Da Baiana
+never,Rap,32026,0,Paul (Skit)
+2012-10-08 18:14:51,Latin,297093,1,Milagre
+never,Podcast,310752,0,第4号「虚構新聞ニュース」2012年5月20日
+2012-07-02 14:51:09,Jazz,296733,5,Captain Marvel
+never,Podcast,299023,0,第5号「虚構新聞ニュース」2012年6月3日
+never,Podcast,300016,0,第6号「虚構新聞ニュース」2012年6月17日
+never,Podcast,287451,0,第7号「虚構新聞ニュース」2012年7月1日
+2012-06-28 10:27:04,Jazz,864800,2,Song To The Pharoah Kings
+never,Rap,302840,0,My 1st Single
+2012-06-28 10:12:39,Jazz,140173,2,Where Have I Known You Before
+2012-07-02 14:46:12,Jazz,659000,5,Light As a Feather
+2012-07-02 14:35:13,Jazz,314626,5,You're Everything
+2012-07-30 06:59:38,Rap,319853,1,3 A.M.
+never,Indie Rock,189000,0,Bones
+never,Indie Rock,290706,0,Fake Plastic Trees
+never,Rap,247826,0,Puke
+2012-06-05 22:37:27,Rock,416360,105,Meet Me (Down At The Bottom)
+2012-09-06 16:14:07,Pop,311293,1,それは恋
+2012-06-05 22:30:31,Rock,330573,137,Ain't That Lovin' You
+2012-06-05 22:25:00,Rock,317560,112,Walkin' Down The Road
+2012-06-05 23:17:05,Rock,249400,118,Mainline Florida
+2012-06-05 23:12:56,Rock,194666,117,Steady Rollin' Man
+2012-03-31 07:57:18,Rock,239866,12,A Child In These Hills
+2012-03-03 14:43:14,Rock,206173,9,Jamaica Say You Will
+2012-03-04 16:15:26,Rock,225040,2,I Wish You Peace
+2012-05-22 23:22:01,Rock,236626,35,After The Thrill Is Gone
+2012-10-08 19:36:13,Voice Memo,3736,1,7/4/12 1:32 
+2012-07-24 11:32:06,Rock,132426,2,Pain In My Heart
+2012-10-08 19:35:55,Voice Memo,8218,1,7/7/12 1:25 
+never,Voice Memo,22382,0,7/20/12 1:05 
+2012-03-03 14:11:21,Rock,323333,8,Song For Adam
+2012-09-26 16:32:33,Traditional,168453,1,真田小僧 出囃子「老松」・マクラ
+never,Traditional,398840,0,今戸の狐 キツネにつままれた話～サゲ～追い出し
+2012-09-26 23:21:58,Traditional,659333,1,今戸の狐 可楽への強請
+2012-09-26 23:10:48,Traditional,182800,1,今戸の狐 良助の長屋
+2012-07-07 20:24:39,Electronica,270120,8,On Fire Again
+2012-07-25 14:25:48,Electronica,419653,9,Maximum Planck
+2012-07-25 14:18:48,Electronica,373626,9,Cryptic Motion
+2012-07-25 14:12:35,Electronica,305440,9,Endless Night
+2012-09-26 16:36:15,Traditional,221306,1,真田小僧 小遣いせびり
+2012-07-25 14:07:29,Electronica,226413,9,Abstract Lover
+never,none,433267,0,WE_ARE_THE_WORLD-quicktime
+2012-04-02 17:38:48,none,172970,44,apple_song 1
+2012-08-11 15:40:11,Indie Rock,245466,11,Creep [Live]
+2012-08-11 15:36:05,Indie Rock,197333,11,Million Dollar Question
+2012-08-11 15:32:48,Indie Rock,191933,11,Inside My Head
+never,Indie Rock,121200,0,Hunting Bears
+2012-08-11 15:29:36,Indie Rock,132800,12,Pop Is Dead
+never,Indie Rock,267133,0,Little By Little
+never,Indie Rock,194173,0,Morning Bell/Amnesiac
+never,Indie Rock,291826,0,Dollars & Cents
+never,Indie Rock,293760,0,I Might Be Wrong
+2012-08-11 15:43:24,Indie Rock,193333,11,Ripcord [Live]
+never,Indie Rock,254866,0,Knives Out
+2012-07-22 06:19:02,Rock,174466,4,Time Is On My Side
+2012-10-08 20:41:22,Pop,190213,5,Money And The Ego
+never,Pop,248400,0,I'm So Stupid
+2012-03-14 16:45:55,Pop,27466,8,ごあいさつ
+2012-09-10 11:10:56,Traditional,280973,2,『百川』 再び二階座敷の問答
+2012-09-10 11:05:22,Traditional,313733,2,『百川』 一人合点の名解説
+2012-05-13 14:02:54,Country & Folk,163600,2,Tell Me That It Isn't True
+2012-05-13 14:05:20,Country & Folk,145200,2,One More Night
+2012-05-13 14:00:11,Country & Folk,203266,2,Tonight I'll Be Staying Here With You
+2012-03-29 17:25:33,Country & Folk,99333,2,Country Pie
+2012-09-19 07:11:40,Rock,282293,40,Mean Old Frisco
+2012-03-27 08:54:27,Rock,41933,1,Doolin-Dalton (Reprise II)
+2012-09-26 20:09:10,Rock,241733,42,Next Time You See Her
+2012-09-26 20:11:44,Rock,153933,42,We're All The Way
+2012-09-19 07:03:56,Rock,525906,41,The Core
+2012-09-19 07:06:58,Rock,181933,39,May You Never
+never,Indie Rock,104466,0,You Never Wash Up After Yourself
+never,none,342760,0,Track 12
+2012-03-27 09:12:08,Country & Folk,168573,9,Drifter's Escape
+never,none,274066,0,Track 14
+never,none,361933,0,Track 13
+2012-07-24 11:29:54,Rock,155333,2,Off The Hook
+2012-05-16 15:48:50,Alternative,223600,1,If You Were There
+2012-09-11 04:54:27,Pop,241826,2,ギター仁義
+2012-03-27 07:28:12,Country & Folk,198560,9,Dear Landlord
+2012-07-22 15:24:18,Rock,217600,1,Bitch
+2012-07-22 15:20:40,Rock,154133,1,You Gotta Move
+2012-07-22 15:18:06,Rock,435640,1,Can't You Hear Me Knocking
+2012-07-22 15:10:50,Rock,344133,1,Wild Horses
+2012-01-19 21:27:01,Country & Folk,204466,8,I Am A Lonesome Hobo
+2012-07-22 15:28:12,Rock,234826,1,I Got the Blues
+never,iTunes U,1004370,0,第5回(2)：須藤　修「情報爆発と新たなネットワーク社会の創造」
+2012-03-14 20:21:01,Country & Folk,178866,4,Perhaps Love
+2012-09-06 14:42:37,Pop,217400,1,ひとり酒場で
+2012-09-06 14:39:00,Pop,229293,1,花と蝶
+2012-09-06 14:35:11,Pop,337800,1,盛り場ブルース
+2012-09-06 14:29:33,Pop,250200,1,命かれても
+2012-09-06 14:25:23,Pop,256640,2,女の波止場
+2012-07-12 06:54:11,Pop,237200,8,断絶
+never,Pop,342893,0,UNDER THE SUN
+2012-03-06 11:02:56,Rock,235426,11,Walking Slow
+never,Pop,352000,0,ストイック
+2012-07-12 06:50:14,Pop,240133,8,あこがれ
+2012-03-06 11:09:17,Rock,380306,11,Before The Deluge
+2012-07-06 04:27:29,Classical,177960,3,Stölzel: Trumpet Concerto In D - 1. Allegro
+2012-07-06 04:24:31,Classical,103906,3,Schickhardt: Sonata/ Op. 17/12
+2012-07-06 04:22:47,Classical,290120,3,Vivaldi: Concerto In B Flat For Oboe & Violin/ RV 548 (Trumpet Version) - 3. Allegro
+2012-07-06 04:17:57,Classical,261186,3,Vivaldi: Concerto In B Flat For Oboe & Violin/ RV 548 (Trumpet Version) - 2. Largo
+2012-07-06 04:13:36,Classical,188266,3,Vivaldi: Concerto In B Flat For Oboe & Violin/ RV 548 (Trumpet Version) - 1. Allegro
+2012-08-23 18:19:22,Indie Rock,523840,14,Til Kingdom Come
+never,Rap,25800,0,PSA 2000
+2012-07-06 03:35:23,Classical,136546,2,Bach: Goldberg Variations/ BWV 988 - Variatio 15 A 1 Clav. Canone Alla Quinta (Zenph Version)
+never,Rap,404133,0,Stan
+2012-07-06 03:32:08,Classical,130546,2,Bach: Goldberg Variations/ BWV 988 - Variatio 13 A 2 Clav. (Zenph Version)
+2012-07-06 03:33:07,Classical,58813,2,Bach: Goldberg Variations/ BWV 988 - Variatio 14 A 2 Clav. (Zenph Version)
+2012-07-06 03:29:01,Classical,54546,2,Bach: Goldberg Variations/ BWV 988 - Variatio 11 A 2 Clav. (Zenph Version)
+2012-07-06 03:29:57,Classical,55826,2,Bach: Goldberg Variations/ BWV 988 - Variatio 12 Canone Alla Quarta (Zenph Version)
+never,Rock,295906,0,The Unforgettable Fire
+never,Rock,209666,0,We're Going Wrong
+never,Podcast,897012,0,9月4日 正午のニュース
+never,Rock,329373,0,A Sort Of Homecoming
+never,Rock,260133,0,Wire
+never,Rock,230293,0,Pride (In The Name Of Love)
+2012-04-06 16:11:07,iTunes U,4871104,1,デジタルコミュニケーションとは（基礎編１）
+never,Rock,300506,0,White Room
+never,Indie Rock,312626,0,Sunday Morning Call
+never,Indie Rock,266800,0,Where Did It All Go Wrong?
+2012-08-05 20:00:22,Rap,30666,4,Curtain Up (Skit)
+never,Indie Rock,368266,0,Gas Panic!
+never,Indie Rock,255306,0,Little James
+never,Rap,322266,0,Under The Influence
+never,Rap,318800,0,Criminal
+never,Rap,288200,0,Bitch Please II
+never,Rap,377933,0,Kim
+2012-10-07 08:20:36,Pop,304240,1,Cold Turkey
+2012-04-23 13:56:53,Rock,266426,4,Dream On
+2012-10-07 08:08:44,Pop,211506,1,Woman
+2012-10-07 08:05:12,Pop,194253,1,Gimme Some Truth
+2012-10-07 08:15:31,Pop,206586,1,Whatever Get You Through The Night
+2012-10-07 08:12:05,Pop,201320,1,Instant Karma! (We All Shine On)
+never,Voice Memo,18992,0,4/25/12 21:53 
+never,Voice Memo,13117,0,4/25/12 21:52 
+never,Voice Memo,308150,0,4/24/12 21:32 
+never,Voice Memo,98729,0,4/24/12 21:27 
+never,Voice Memo,12421,0,4/29/12 2:32 
+2012-07-10 01:53:26,Rock,224040,5,Teenage Jail
+2012-07-10 01:55:46,Rock,140426,5,The Greeks Don't Want No Freaks
+2012-07-10 01:44:47,Rock,266933,5,Heartache Tonight
+2012-07-10 01:49:42,Rock,294826,5,Those Shoes
+2012-09-06 13:47:41,Pop,229800,1,見上げてごらん夜の星を
+never,Rock,221200,0,The Refugee
+never,Rock,254493,0,Drowning Man
+2012-07-10 02:01:21,Rock,335000,5,The Sad Cafe
+never,Rock,243440,0,Two Hearts Beat As One
+never,Rap,34626,0,Soap
+2012-09-06 13:50:54,Pop,153333,1,九ちゃんの炭坑節
+never,Rap,76306,0,Ken Kaniff
+never,Rap,219293,0,Cum On Everybody
+never,Rap,214066,0,Rock Bottom
+never,Rap,242573,0,Just Don't Give A Fuck
+2012-09-16 11:33:59,Pop,197973,2,明日があるさ
+2012-03-30 14:12:50,Jazz,239160,5,The Hunt [Album Version]
+2012-06-28 11:03:14,Jazz,428533,3,Alan Corday
+never,ボイスメモ,6894,0,3/5/12 7:02 
+2012-09-18 06:20:52,Pop,148133,2,幸せなら手をたたこう
+2012-06-28 10:41:46,Jazz,203560,1,Mistress Luck - The Party
+2012-06-28 10:42:56,Jazz,70840,1,Port View 2
+2012-06-28 10:53:35,Jazz,638600,1,Johnny's Landing
+2012-06-28 10:56:05,Jazz,150200,1,Port View 3
+2012-03-11 11:25:46,Rock,238133,1,Midnight Flyer
+2012-07-10 04:48:07,Pop,231973,1,リバーサイドホテル
+2012-04-21 11:25:21,Country & Folk,250546,14,You'll Never Know
+2012-04-21 11:21:11,Country & Folk,228506,15,Cry
+2012-04-21 11:17:22,Country & Folk,216493,15,Little Things Mean A Lot
+2012-04-21 11:13:46,Country & Folk,144400,16,That Lucky Old Sun (Just Rolls Around Heaven All Day)
+2012-04-21 11:11:21,Country & Folk,170973,16,Ole Buttermilk Sky
+never,Traditional,1257200,0,馬の田楽
+2012-07-29 11:39:43,Rock,141000,6,Wrapping Paper
+2012-07-29 18:30:31,Rock,170160,13,Strange Brew
+2012-07-29 11:34:34,Rock,311333,6,Toad
+2012-07-29 11:37:22,Rock,167466,6,The Coffee Song
+2012-07-29 18:34:45,Rock,254066,13,Sunshine Of Your Love
+2012-07-10 04:36:41,Pop,266706,1,愛されてばかりいると
+2012-07-07 13:06:29,Electronica,328720,6,Plaistow Flex Out
+2012-06-28 10:03:17,Jazz,74773,2,Where Have I Danced With You Before
+2012-06-28 10:06:32,Jazz,194626,2,Beyond The Seventh Galaxy
+2012-06-28 09:54:32,Jazz,61773,2,Where Have I Loved You Before
+2012-06-28 10:02:03,Jazz,450626,2,The Shadow Of Love
+never,Electronica,180573,0,Zawinul/Lava
+never,Electronica,236826,0,Becalmed
+2012-06-28 10:10:19,Jazz,226800,2,Earth Juice
+never,Electronica,239666,0,Everything Merges With The Night
+2012-03-14 00:04:45,Rock,173106,11,Tryin'
+2012-03-13 23:54:34,Rock,241440,11,Take The Devil
+2012-03-13 23:50:33,Rock,250400,24,Train Leaves Here This Morning
+2012-03-14 00:01:52,Rock,257760,11,Peaceful Easy Feeling
+2012-03-27 09:31:31,Rock,180400,12,Earlybird
+2012-07-22 06:05:45,Rock,125373,3,If You Need Me
+never,Soundtrack,270973,0,それぞれの未来へ
+never,Soundtrack,284333,0,Heart To Heart
+2012-07-22 06:07:36,Rock,110960,3,Susie Q
+never,Soundtrack,278413,0,運命 -SADAME-
+2012-03-04 16:35:39,Rock,398266,4,Journey Of The Sorcerer
+2012-03-10 20:21:18,Rock,241533,4,Hollywood Waltz
+2012-03-04 16:03:46,Rock,286826,2,Take It To The Limit
+2012-03-04 15:58:59,Rock,381973,2,Lyin Eyes
+2012-07-24 11:06:56,Rock,180493,2,Everybody Needs Somebody To Love
+2012-03-04 16:07:45,Rock,238573,2,Visions
+2012-09-26 19:47:46,Traditional,239226,1,井戸の茶碗 再び卜斎浪宅
+2012-07-01 00:50:34,Electronica,209893,3,Anstromm-Feck 4
+2012-09-26 19:51:31,Traditional,225200,1,井戸の茶碗 宙に浮いた大金とその始末
+2012-07-24 11:11:09,Rock,253200,2,Down Home Girl
+2012-09-26 20:57:55,Traditional,642306,3,今戸の狐 出囃子「老松」～マクラ
+2012-07-01 01:11:23,Electronica,305533,4,Do You Know Squarepusher
+2012-09-26 23:07:45,Traditional,491893,1,今戸の狐 発端
+2012-07-07 13:11:55,Electronica,326253,5,Hardcore Obelisk
+2012-07-01 00:47:04,Electronica,214306,3,Kill Robok
+2012-07-01 00:43:29,Electronica,259706,3,F-Train
+2012-03-30 08:09:57,Pop,253360,158,I've Got To See You Again
+2012-03-30 08:05:44,Pop,186106,160,Lonestar
+2012-03-30 08:15:45,Pop,185733,144,One Flight Down
+2012-03-30 08:12:39,Pop,162040,144,Painter Song
+2012-08-07 00:21:39,Rap,251773,5,Business
+2012-03-30 08:19:47,Pop,252200,151,Nightingale
+2012-01-16 10:12:59,Rock,275000,1,4th Time Around
+2012-08-11 15:12:56,Indie Rock,192666,14,Vegetable
+2012-05-13 14:30:13,Rock,215506,2,Obviously 5 Believers
+2012-08-11 15:15:21,Indie Rock,145373,13,Prove Yourself
+2012-01-16 10:03:27,Rock,302533,1,Temporary Like Achilles
+2012-08-11 15:19:34,Indie Rock,253160,13,I Can't
+2012-04-09 16:23:00,Rock,297026,65,Absolutely Sweet Marie
+2012-08-11 15:22:42,Indie Rock,187800,13,Lurgee
+never,Indie Rock,237333,0,Like Spinning Plates
+2012-08-11 15:27:23,Indie Rock,280800,13,Blow Out
+never,Indie Rock,274840,0,Life In A Glass House
+2012-05-13 14:26:37,Rock,680600,2,Sad Eyed Lady Of The Lowlands
+2012-07-26 13:30:57,Alternative,193266,9,Pushing Me Away
+2012-08-12 03:45:23,Rock,215600,9,Live With Me
+2012-08-12 03:50:55,Rock,332266,7,Let It Bleed
+2012-08-12 03:57:55,Rock,419733,7,Midnight Rambler
+2012-08-12 04:00:52,Rock,176866,7,You Got the Silver
+2012-08-12 04:05:08,Rock,256200,7,Monkey Man
+2012-02-10 07:12:48,Pop,202493,2,鮪に鰯
+2012-02-10 07:15:00,Pop,131906,2,結婚
+2012-03-10 21:20:34,Pop,217960,4,失業手当
+2012-02-10 07:09:25,Pop,197906,3,年輪・歯車
+2012-03-29 08:43:09,Pop,81360,5,アイスクリーム
+never,Pop,276533,0,暑い夜
+2012-09-10 09:15:58,Traditional,749733,1,『お直し』　酔客との戯れ～重ね重ねの「お直し」
+never,Pop,259760,0,迷走する町
+never,Pop,285506,0,愛の装備
+never,Pop,279773,0,甘い言葉ダーリン
+2012-04-01 19:18:16,Pop,234333,2,ダンスの流行
+2012-09-14 02:56:15,Pop,297533,3,北の大地
+2012-09-11 13:04:31,Pop,328640,3,おやじの背中
+2012-07-21 16:32:25,Alternative,178893,1,Nobody's Listening
+2012-05-16 15:00:55,none,675631,1,temp3 1
+2012-05-16 14:47:37,none,300225,1,temp 3 1
+2012-05-16 14:42:37,none,190537,1,temp 2 1
+2012-05-16 14:39:27,none,134373,1,temp 1 1
+2012-05-16 14:49:40,none,122566,1,temp 4
+2012-07-24 14:00:59,Rock,333000,2,Can You Hear The Music
+2012-10-04 15:24:19,Alternative,147160,8,Lies Greed Misery
+2012-07-24 13:55:26,Rock,330706,2,Winter
+2012-07-22 15:49:21,Rock,230493,2,Brown Sugar
+2012-07-24 13:18:27,Rock,264960,1,Star Star
+2012-01-16 09:53:56,Rock,290733,5,Just Like A Woman
+never,Pop,367026,0,自然に飾られて
+never,Rap,319973,0,Stay Wide Awake
+2012-07-22 15:05:06,Rock,232866,1,Sway
+2012-10-04 15:21:52,Alternative,230253,11,Burn It Down
+2012-07-06 03:13:40,Classical,49586,1,Bach: Goldberg Variations/ BWV 988 - Variatio 27 A 2 Clav. Canone Alla Nona (1955)
+2012-01-16 09:49:05,Rock,238400,5,Leopard-Skin Pill-Box Hat
+2012-01-16 09:45:07,Rock,425906,5,Stuck Inside Of Mobile With The Memphis Blues Again
+2012-07-29 18:27:41,Rock,108360,12,Mother's Lament
+2012-01-16 09:38:01,Rock,187760,5,I Want You
+2012-07-29 18:25:53,Rock,187400,12,Take It Back
+2012-03-27 08:44:50,Country & Folk,177666,8,Don't Let It Bring You Down
+never,Electronica,327906,0,Tal Coat
+never,Indie Rock,300400,0,Lotus Flower
+never,Electronica,552226,0,The Lost Day
+2012-07-29 18:22:45,Rock,146866,12,Outside Woman Blues
+never,Electronica,274306,0,Lizard Point
+never,Electronica,244800,0,Here Come The Warm Jets
+2012-03-28 13:02:03,Country & Folk,153440,6,Birds
+never,Electronica,311066,0,Some Of Them Are Old
+never,Pop,248906,0,Make-up Shadow
+2012-09-09 17:08:23,Traditional,327133,1,『愛宕山』 谷底
+2012-07-29 18:20:18,Rock,207173,12,We're Going Wrong
+never,Pop,284493,0,11 -イレブン-
+2012-02-03 17:35:00,Country & Folk,245400,3,When You Dance You Can Really Love
+2012-03-07 07:20:01,Pop,192600,1,Be-Pop Juggler
+never,Pop,283893,0,Power Down
+never,Pop,279506,0,水瓶座の夜
+2012-02-03 17:38:27,Country & Folk,207600,3,I Believe In You
+2012-09-26 04:11:48,Rock,227466,1,Elevation
+never,Indie Rock,286893,0,Codex
+2012-07-06 04:02:40,Classical,130320,1,Vivaldi: Concerto In B Flat For Trumpet & Violin - 3. Allegro
+2012-09-26 05:01:09,Rock,272306,2,Stuck In A Moment You Can't Get Out Of
+2012-07-06 04:05:29,Classical,168520,3,Bach: Brandenburg Concerto #2 In F/ BWV 1047 - 3. Allegro Assai
+2012-07-06 04:09:02,Classical,213426,3,Bach: Jesu/ Joy Of Man's Desiring
+2012-07-06 04:10:28,Classical,85760,3,Bach: Orchestral Suite #2 In B Minor/ BWV 1067 - Badinerie
+2012-07-06 04:00:30,Classical,182680,1,Vivaldi: Concerto In B Flat For Trumpet & Violin - 2. Largo
+never,Indie Rock,227973,0,Part Of The Queue
+2012-08-23 17:57:43,Indie Rock,332093,16,Low
+never,Indie Rock,204773,0,Guess God Thinks I'm Abel
+2012-08-23 17:52:10,Indie Rock,285306,16,A Message
+never,Indie Rock,102960,0,The Meaning Of Soul
+2012-08-23 18:06:07,Indie Rock,238973,15,Swallowed In The Sea
+never,Indie Rock,219706,0,The Importance Of Being Idle
+2012-07-06 03:28:07,Classical,42826,2,Bach: Goldberg Variations/ BWV 988 - Variatio 10 Fughetta. A 1 Clav. (Zenph Version)
+2012-07-06 03:27:24,Classical,37946,2,Bach: Goldberg Variations/ BWV 988 - Variatio 9 Canone Alla Terza. A 1. Clav. (Zenph Version)
+2012-07-06 03:26:46,Classical,45493,2,Bach: Goldberg Variations/ BWV 988 - Variatio 8 A 2 Clav. (Zenph Version)
+2012-07-06 03:26:01,Classical,68026,2,Bach: Goldberg Variations/ BWV 988 - Variatio 7 A 1 Ovvero 2 Clav. (Zenph Version)
+never,Indie Rock,345786,0,Keep The Dream Alive
+2012-07-06 03:24:53,Classical,34146,2,Bach: Goldberg Variations/ BWV 988 - Variatio 6 A 1 Clav. Canone Alla Seconda (Zenph Version)
+2012-03-04 14:01:17,Indie Rock,463693,7,pointer remix / Masakatsu Inoue
+2012-03-27 10:17:24,Indie Rock,130146,9,Flugsnappare mix by Viktor Sjoebrg / Viktor Sjoberg
+2012-03-30 15:16:13,Jazz,113266,24,Papa George
+2012-05-16 16:05:04,Jazz,217600,24,The Finger Lakes
+2012-09-14 02:43:56,Pop,194226,3,函館の女
+2012-10-07 10:22:01,Pop,229106,1,One Less Lonely Girl
+2012-03-30 15:39:20,Jazz,122333,23,Train To Dusseldorf
+2012-10-07 10:28:57,Pop,193466,1,Love Me
+2012-10-07 10:25:43,Pop,222333,1,First Dance
+never,iTunes U,4632199,0,16. Action Sheets/ Image Picker/ Core Motion (November 17/ 2011) - HD
+never,iTunes U,4285252,0,17. iCloud (November 29/ 2011) - HD
+never,iTunes U,3197731,0,Smule (November 18/ 2011) - HD
+2012-10-07 08:24:51,Pop,255173,1,Jealous Guy
+2012-09-03 00:58:12,Indie Rock,289400,1,Cigarettes & Alcohol
+2012-04-23 02:15:30,Rock,331333,34,Queen Jane Approximately
+2012-09-03 00:51:15,Indie Rock,257800,1,Bring It On Down
+2012-09-02 11:34:11,Rock,195493,5,Pressed Rat & Warthog
+2012-09-03 01:06:29,Indie Rock,152266,1,Digsy's Dinner
+2012-08-07 00:33:17,Rap,75533,5,The Kiss (Skit)
+2012-08-07 00:32:01,Rap,324026,5,Square Dance
+never,Indie Rock,189973,0,Married With Children
+2012-08-07 00:26:37,Rap,297933,5,Cleanin' Out My Closet
+2012-04-23 02:19:00,Rock,210133,35,Highway 61 Revisited
+2012-10-07 08:41:24,Pop,211573,1,Watching The Wheels
+2012-08-07 00:17:27,Rap,324600,5,White America
+never,Electronica,190866,0,Needle In The Camel's Eye
+never,Electronica,185133,0,The Paw Paw Negro Blowtorch
+never,Electronica,236453,0,Through Hollow Lands (For Harold Budd)
+never,Electronica,250733,0,Spider And I
+2012-03-27 08:07:39,Pop,278426,1,Die Another Day
+never,Electronica,319293,0,Baby's On Fire
+never,iTunes U,4384685,0,11. Core Location and MapKit (November 1/ 2011) - HD
+never,iTunes U,4559293,0,10. Blocks and Multithreading (October 27/ 2011) - HD
+never,iTunes U,4720954,0,13. Core Data (November 8/ 2011) - HD
+2012-04-23 02:35:54,Rock,682000,28,Desolation Row
+never,Voice Memo,33110,0,4/23/12 13:17 
+never,Voice Memo,230595,0,4/23/12 16:34 
+never,Voice Memo,58187,0,4/23/12 16:38 
+never,Voice Memo,6709,0,4/24/12 21:22 
+never,Voice Memo,8845,0,4/24/12 21:22 
+never,Rock,287200,0,Like A Song...
+2012-07-10 01:33:52,Rock,165266,5,Disco Strangler
+2012-07-10 01:31:07,Rock,225960,5,In The City
+2012-07-10 02:10:00,Rock,295866,7,I Can't Tell You Why
+2012-07-10 02:05:05,Rock,223200,7,The Long Run
+2012-07-10 01:40:20,Rock,388306,5,King Of Hollywood
+never,Rap,241533,0,My Fault
+never,Rap,19693,0,Bitch
+never,Rap,316440,0,'97 Bonnie & Clyde
+never,Rap,46533,0,Lounge
+never,Rap,205400,0,Role Model
+2012-03-30 15:10:22,Jazz,258666,2,Padre [Album Version]
+2012-09-26 16:52:08,Traditional,256040,1,真田小僧 真田三代記のたとえ
+2012-04-21 11:29:23,Country & Folk,241786,14,Tenderly
+2012-04-21 11:33:41,Country & Folk,145626,14,Stormy Weather
+2012-04-21 11:36:17,Country & Folk,156400,14,One For My Baby (And One For The Road)
+2012-04-03 04:56:22,Country & Folk,290893,19,Angel Eyes
+2012-07-29 18:14:17,Rock,169093,12,Tales Of Brave Ulysses
+2012-07-29 18:11:28,Rock,211733,12,Blue Condition
+2012-07-29 18:41:26,Rock,217066,13,Dance The Night Away
+2012-07-29 18:37:49,Rock,184040,13,World Of Pain
+2012-07-29 18:16:51,Rock,154200,12,Swlabr
+never,Electronica,90240,0,Little Fishes
+never,Electronica,145826,0,Sombre Reptiles
+never,Electronica,96933,0,Another Green World
+never,Electronica,230933,0,I'll Come Running
+never,Electronica,240866,0,Golden Hours
+never,Jazz,394866,0,Circles
+2012-07-26 14:10:21,R&B,233173,14,Sir Duke
+never,Jazz,517573,0,Spain
+2012-07-26 14:14:31,R&B,250666,14,I Wish
+2012-07-02 16:20:32,Jazz,392400,9,Lush Life
+2012-07-26 14:02:24,R&B,172320,12,You Are The Sunshine Of My Life
+2012-07-02 16:24:08,Jazz,216293,9,This Nearly Was Mine
+2012-07-26 14:06:27,R&B,245506,15,Superstition
+2012-07-02 16:27:48,Jazz,220373,8,It Could Happen To You
+never,iTunes U,864430,0,第5回(1)：須藤　修「情報爆発と新たなネットワーク社会の創造」
+2012-09-26 17:34:34,Traditional,580200,1,駒長 踏み倒しの悪だくみ
+never,iTunes U,968967,0,第13回(3)：竹内　郁雄「情報とアートのインターフェース」
+2012-07-26 14:18:15,R&B,224160,13,Overjoyed
+never,iTunes U,803702,0,第13回(2)：竹内　郁雄「情報とアートのインターフェース」
+2012-05-13 15:00:36,Rock,274693,29,My Rival
+2012-05-13 14:56:01,Rock,314173,29,Third World Man
+never,ボイスメモ,73443,0,6/28/12 1:13 
+2012-09-18 04:50:24,Pop,178253,7,Bull Rider
+2012-07-07 13:49:03,Electronica,79293,7,Tommib
+2012-07-07 13:01:00,Electronica,425413,6,My Fucking Sound
+2012-03-04 16:24:59,Rock,280826,3,Too Many Hands
+2012-09-17 15:07:20,Traditional,267866,1,『大山詣り』 神奈川宿での騒動
+2012-07-07 13:47:44,Electronica,430613,7,Greenways Trajectory
+2012-09-18 05:52:34,Pop,233373,8,Love Me
+2012-04-25 14:48:30,Jazz,358773,19,Porgy (I Loves You/ Porgy)
+2012-09-18 04:39:20,Pop,231613,8,Virginia Moon
+2012-03-04 16:20:18,Rock,291866,3,One Of These Nights
+2012-09-18 04:43:25,Pop,245786,8,Turn Them
+2012-04-25 14:34:58,Jazz,443840,22,Detour Ahead (Take 1)
+2012-09-18 04:47:26,Pop,240640,7,Baby It's Cold Outside
+2012-04-25 14:42:23,Jazz,438560,19,My Romance (Take 2)
+2012-04-21 11:06:26,Country & Folk,154026,20,Mona Lisa
+2012-07-05 15:24:51,Jazz,313333,6,The Song Is You
+2012-03-30 08:02:37,Pop,154800,162,Turn Me On
+2012-07-05 15:12:02,Jazz,218693,6,Soon All Will Know
+2012-05-13 13:31:44,Pop,197906,163,Come Away With Me
+2012-07-05 15:19:38,Jazz,456506,6,Foggy Day
+2012-07-03 13:04:54,Pop,236826,159,Shoot The Moon
+2012-07-05 15:02:40,Jazz,497066,7,Goodbye
+2012-07-11 15:30:38,Pop,218640,168,Cold Cold Heart
+2012-07-05 15:08:23,Jazz,342400,6,New Orleans
+2012-03-30 07:52:48,Pop,177626,157,Feelin' The Same Way
+2012-07-26 13:35:19,Alternative,262266,8,My December
+2012-07-26 13:39:04,Alternative,225493,10,High Voltage
+2012-08-11 15:09:43,Indie Rock,189693,14,Ripcord
+2012-05-16 16:43:11,Alternative,270293,3,Mr. Self Destruct
+2012-03-01 07:20:24,Alternative,264400,2,Piggy
+2012-08-11 15:02:56,Indie Rock,161600,14,Thinking About You
+2012-03-28 14:10:20,Alternative,234306,4,Heresy
+2012-08-11 15:06:34,Indie Rock,217800,14,Anyone Can Play Guitar
+never,Indie Rock,192746,0,Feral
+2012-08-11 14:54:49,Indie Rock,132173,14,How Do You?
+never,Indie Rock,290066,0,Give Up The Ghost
+2012-08-11 15:00:14,Indie Rock,325600,14,Stop Whispering
+2012-05-16 15:56:57,Rock,210200,2,Most Likely You Go Your Way (And I'll Go Mine)
+2012-08-25 18:39:14,Alternative,121120,13,The Requiem
+2012-08-12 04:12:41,Rock,452506,6,You Can't Always Get What You Want
+2012-08-25 17:51:33,Alternative,253160,11,Burning In The Skies
+2012-08-25 18:40:12,Alternative,57800,14,The Radiance
+2012-09-23 11:39:01,Alternative,18333,12,Empty Spaces
+2012-05-16 17:34:37,Rock,267133,16,The Ghost Of Tom Joad
+2012-08-07 02:03:48,Rap,46866,1,Curtains Up
+2012-03-27 09:36:34,Pop,303666,1,Easy Ride
+2012-04-23 02:24:32,Rock,331760,33,Just Like Tom Thumb's Blues
+never,Pop,273266,0,Mother And Father
+2012-03-27 12:14:21,Country & Folk,224093,1,Girl From The North Country
+2012-05-13 18:03:05,Rock,210426,14,Straight Time
+2012-07-09 23:50:56,Pop,211133,2,You're Beautiful [Acoustic Version]
+2012-07-09 23:54:19,Pop,203213,1,No Bravery [Live]
+2012-07-10 00:29:43,Pop,246640,3,Cry
+2012-09-06 12:49:44,Pop,231266,2,鴎という名の酒場
+2012-07-10 00:33:45,Pop,241826,3,No Bravery
+2012-09-27 13:42:38,Traditional,186173,1,『羽織の遊び』 廓遊びのパトロン探し
+2012-09-27 13:51:57,Traditional,487000,1,『羽織の遊び』 伊勢屋のキザ息子
+2012-09-27 13:55:07,Traditional,189693,1,『羽織の遊び』 羽織着用の至上命令
+2012-09-27 14:02:03,Traditional,395600,1,『羽織の遊び』 羽織の算段～サゲ
+2012-09-05 15:38:57,Pop,302693,1,滝の白糸
+2012-10-08 19:37:00,ボイスメモ,10610,2,7/4/12 1:32 
+2012-09-11 05:42:47,Pop,267733,1,終着駅は始発駅
+never,ボイスメモ,11678,0,7/4/12 1:27 
+never,none,231293,0,Track 05
+2012-09-11 08:00:03,Pop,266093,2,まつり
+2012-09-14 03:22:07,Pop,288000,3,年輪
+2012-07-21 16:53:54,Alternative,204226,2,Easier To Run
+never,none,223600,0,Track 01
+never,none,246200,0,Track 02
+never,none,390226,0,Track 03
+never,none,270240,0,Track 04
+2012-07-24 13:49:55,Rock,252466,2,Hide Your Love
+2012-09-14 03:01:00,Pop,284040,3,北の漁場
+2012-08-12 04:36:11,Rock,273106,3,Angie
+2012-07-24 13:45:42,Rock,266760,2,Silver Train
+2012-08-12 04:28:10,Rock,355333,3,Coming Down Again
+2012-08-12 04:31:38,Rock,207826,3,Doo Doo Doo Doo Doo (Heartbreaker)
+never,Rap,19400,0,Paul (Skit)
+2012-09-17 06:19:50,Indie Rock,462533,3,D'You Know What I Mean?
+2012-09-14 02:27:37,Pop,244093,2,与作
+never,Rap,237346,0,Medicine Ball
+2012-09-14 03:13:51,Pop,279933,3,川
+never,Rap,269613,0,We Made You
+2012-07-12 07:21:22,Pop,263933,8,限りない欲望
+2012-03-05 14:58:59,Pop,162000,6,家へお帰り
+2012-07-12 07:13:26,Pop,147066,8,ハトが泣いている
+2012-07-12 07:16:58,Pop,211400,8,白い船
+never,Electronica,180480,0,Shadow
+never,Rap,246640,0,Same Song & Dance
+2012-03-05 15:46:13,Pop,330840,7,傘がない
+never,Electronica,247946,0,A Clearing
+never,iTunes U,908006,0,Voice of the Teachers' Union
+2012-07-21 16:47:45,Alternative,175040,2,Lying From You
+never,Traditional,481666,0,『宿屋の富』 当日、湯島天神境内
+2012-09-10 01:28:21,Traditional,329026,1,『宿屋の富』 売れ残りの富札
+2012-09-10 01:22:52,Traditional,370333,1,『宿屋の富』 無限者?大いに語る
+never,iTunes U,1137960,0,How to Deal with LGBT Issues in School
+2012-09-10 00:21:59,Traditional,248733,1,『宿屋の富』 出囃子「三下り中の舞」～マクラ
+2012-07-21 16:44:50,Alternative,213933,2,Somewhere I Belong
+2012-05-16 18:31:24,Country & Folk,180666,10,John Wesley Harding
+2012-07-21 16:41:17,Alternative,187960,2,Don't Stay
+never,Electronica,183493,0,By This River
+never,Rock,153066,0,MLK
+2012-07-06 03:50:34,Classical,388106,1,Bach: Goldberg Variations/ BWV 988 - Variatio 25 A 2 Clav. Adagio (Zenph Version)
+never,Indie Rock,239280,0,Turn Up The Sun
+never,Indie Rock,236200,0,Mucky Fingers
+2012-08-23 17:47:25,Indie Rock,288453,16,Speed Of Sound
+never,Indie Rock,310213,0,Lyla
+2012-07-06 03:42:14,Classical,42240,2,Bach: Goldberg Variations/ BWV 988 - Variatio 22 Alla Breve A 1 Clav. (Zenph Version)
+never,Indie Rock,172933,0,Love Like A Bomb
+2012-07-06 03:41:32,Classical,102400,2,Bach: Goldberg Variations/ BWV 988 - Variatio 21 Canone Al Settima (Zenph Version)
+2012-07-06 03:44:06,Classical,56813,2,Bach: Goldberg Variations/ BWV 988 - Variatio 24 Canone All'Ottava. A 1 Clav. (Zenph Version)
+2012-10-07 10:14:54,Pop,245760,1,Down To Earth
+2012-07-06 03:43:09,Classical,54400,2,Bach: Goldberg Variations/ BWV 988 - Variatio 23 A 2 Clav. (Zenph Version)
+never,ボイスメモ,127243,0,7/4/12 1:21 
+2012-03-30 14:34:31,Jazz,183080,21,Jolly Swagman
+2012-03-30 15:06:03,Jazz,182360,20,Old Town
+2012-04-03 04:46:26,Jazz,203026,29,And So It Goes
+2012-03-30 14:15:08,Jazz,138533,21,I Go To Rio
+2012-05-13 13:51:52,Jazz,286600,21,Nine Pound Hammer
+2012-02-10 07:02:02,Pop,225173,2,自転車に乗って
+2012-09-11 05:38:19,Pop,237000,1,歩
+never,Podcast,3132055,0,Episode 23 – Making games with Flash/ Node.js and Scratch
+never,iTunes U,4632833,0,18. iCloud Demo (December 1/ 2011)
+never,iTunes U,3073974,0,Designing Multimedia iOS Apps (December 2/ 2011) - HD
+never,iTunes U,4226026,0,19. Automated Testing (December 6/ 2011) - HD
+2012-10-07 08:44:58,Pop,213120,1,Stand By Me
+2012-08-07 00:46:45,Rap,22693,5,Paul Rosenberg (Skit)
+2012-10-07 08:48:01,Pop,183880,1,Imagine
+never,Other,829361,0,８月３０日（木）「DigTag 藤木ＴＤＣのＣＤＴ」
+never,Pop,292973,0,Give Peace A Chance
+2012-08-07 00:41:36,Rap,272666,5,Say Goodbye Hollywood
+never,Indie Rock,344466,0,Who Feels Love?
+2012-08-07 00:37:03,Rap,226440,5,Soldier
+never,Indie Rock,267133,0,Put Yer Money Where Yer Mouth Is
+2012-08-07 00:46:22,Rap,290306,5,Without Me
+never,Indie Rock,198826,0,Fuckin' In The Bushes
+2012-08-05 20:34:40,Rap,285560,4,Drips
+never,Indie Rock,278666,0,Go Let It Out
+never,Electronica,217226,0,Blank Frank
+never,Electronica,276240,0,On Some Faraway Beach
+never,Electronica,312133,0,Driving Me Backwards
+never,Electronica,205333,0,Cindy Tells Me
+never,Electronica,259573,0,Dead Finks Don't Talk
+never,iTunes U,2468936,0,Introduction to AVFoundation (October 21/ 2011) - HD
+never,iTunes U,4495462,0,9. Table Views (October 25/ 2011) - HD
+never,iTunes U,3835636,0,8. Controller Lifecycle & Image/Scroll/WebViews (October 20/ 2011) - HD
+never,Rock,270040,0,A Man And A Woman
+never,Rock,303466,0,Crumbs From Your Table
+2012-06-30 10:55:04,Jazz,231666,1,Oblivion
+never,Rock,281400,0,Original Of The Species
+2012-06-30 10:45:33,Jazz,250373,1,I Didn't Know What Time It Was
+2012-06-30 10:51:12,Jazz,338666,1,Monk's Mood
+2012-06-30 10:38:00,Jazz,220373,1,It Could Happen To You
+2012-06-30 10:41:23,Jazz,202893,1,My Ship
+2012-05-28 18:19:36,Jazz,424040,15,All Of You
+2012-05-28 18:12:32,Jazz,353986,15,Ah-Leu-Cha
+2012-05-28 18:32:03,Jazz,269426,15,Tadd's Delight
+2012-05-28 18:27:33,Jazz,477746,15,Bye Bye Blackbird
+never,Rock,212466,0,Blue Condition
+2012-05-28 18:39:54,Jazz,471333,14,Dear Old Stockholm
+never,Indie Rock,270893,0,Trouble
+never,Rock,169466,0,Tales Of Brave Ulysses
+never,Podcast,299728,0,第9号「虚構新聞ニュース」2012年8月5日
+never,Rock,185933,0,World Of Pain
+never,Rock,216933,0,Dance The Night Away
+2012-10-04 17:22:13,Traditional,1343333,1,宿屋の富
+never,Rock,1006466,0,Spoonful
+never,Rock,255160,0,Crossroads
+never,Rock,908826,0,Sweet Wine [Live At Winterland]
+never,Rock,572400,0,I'm So Glad [Live At The Forum]
+never,Rock,444733,0,Sunshine Of Your Love
+never,Rock,283040,0,Tales Of Brave Ulysses [Live At Winterland]
+2012-09-26 10:38:50,Rock,309800,1,Holy Joe (Guilty Mix)
+2012-09-26 10:27:25,Rock,302573,1,Please
+2012-09-26 10:32:18,Rock,293200,1,Wake Up Dead Man
+never,Rock,154466,0,Swlabr
+2012-07-29 11:45:27,Rock,167626,7,N.S.U.
+2012-07-29 11:42:39,Rock,176106,7,I Feel Free
+2012-07-29 11:05:28,Rock,121200,6,Dreaming
+2012-07-29 11:03:27,Rock,262373,6,Sleepy Time Time
+2012-10-07 09:41:19,Pop,187666,2,Sour Candy
+2012-07-29 11:08:49,Rock,200960,6,Sweet Wine
+never,Indie Rock,257533,0,High And Dry
+never,Electronica,208066,0,Sky Saw
+never,Electronica,111493,0,Over Fire Island
+never,Electronica,183133,0,St. Elmo's Fire
+never,Electronica,150066,0,In Dark Trees
+never,Electronica,183440,0,The Big Ship
+never,Indie Rock,246200,0,The Bends
+never,Jazz,499866,0,Autumn Leaves
+never,Jazz,312106,0,Sophisticated Lady
+never,Jazz,399933,0,Morning Sprite
+never,Jazz,378066,0,Someday My Prince Will Come
+never,Jazz,318093,0,T.B.C. (Terminal Baggage Claim)
+never,iTunes U,910108,0,第13回(5)：竹内　郁雄「情報とアートのインターフェース」
+never,iTunes U,907673,0,第13回(7)：竹内　郁雄「情報とアートのインターフェース」
+never,Soundtrack,336546,0,キミガタメ
+never,Soundtrack,401320,0,星座
+2012-03-04 07:44:01,Rock,238866,3,Yesterday Once More
+2012-03-04 07:47:06,Rock,185226,3,We've Only Just Begun
+never,Electronica,430160,0,Dunwich Beach/ Autumn/ 1960
+2012-03-04 07:50:53,Rock,227466,3,Superstar
+2012-09-21 03:33:22,Indie Rock,320240,2,Cloudburst
+2012-09-03 00:41:58,Indie Rock,377106,1,Columbia
+never,Electronica,205386,0,Put A Straw Under Baby
+2012-09-21 03:42:18,Indie Rock,267093,2,Sad Song
+2012-07-26 13:12:01,Alternative,183933,12,Runaway
+2012-07-26 13:08:57,Alternative,209000,12,Crawling
+2012-07-26 13:51:29,Alternative,200266,13,Points Of Authority
+2012-07-26 13:48:09,Alternative,203240,13,With You
+never,Indie Rock,233226,0,(Nice Dream)
+2012-07-26 13:15:11,Alternative,189800,14,By Myself
+2012-03-14 20:46:51,Country & Folk,247520,8,Poems/ Prayers And Promises
+2012-07-11 14:39:21,Country & Folk,100746,1,You're No Good
+2012-09-18 05:13:40,Pop,244333,6,Soon The New Day
+never,Electronica,284373,0,China My China
+2012-09-18 05:02:31,Pop,205213,7,The Best Part
+2012-09-18 04:53:24,Pop,180093,7,Ruler Of My Heart
+2012-03-28 09:41:21,Country & Folk,197413,9,Rhymes & Reasons
+2012-09-18 05:09:36,Pop,266826,7,Life Is Better
+2012-03-14 21:55:17,Country & Folk,192026,9,Take Me Home Country Roads
+2012-09-18 05:05:09,Pop,158573,7,Take Off Your Cool
+2012-03-14 21:35:00,Country & Folk,330093,7,Sweet Surrender
+2012-04-23 14:00:06,Rock,193186,4,Sweet Emotion
+2012-03-27 15:39:09,Country & Folk,349000,5,The Lonesome Death Of Hattie Carroll
+never,Indie Rock,228200,0,Go Slowly
+never,Electronica,331293,0,Lantern Marsh
+never,Indie Rock,299120,0,Down Is The New Up
+never,Indie Rock,63960,0,MK 1
+2012-06-10 16:39:43,Jazz,337466,4,XYZ
+2011-12-31 08:54:44,Country & Folk,275146,5,North Country Blues
+2012-07-05 15:41:26,Jazz,148400,6,Cherokee II
+2011-12-31 08:58:17,Country & Folk,213000,5,Only A Pawn In Their Game
+2012-07-05 15:38:58,Jazz,387173,6,Autumn Leaves
+2011-12-31 09:02:20,Country & Folk,280920,5,Boots Of Spanish Leather
+2012-07-05 15:32:31,Jazz,215760,6,In The Afterglow
+2011-12-31 08:20:34,Country & Folk,198533,4,When The Ship Comes In
+2012-07-05 15:28:55,Jazz,243600,6,Memories Of You
+2012-02-13 10:38:29,R&B,299733,2,It Was A Very Good Year
+2012-07-11 14:50:55,Country & Folk,142880,1,Fixin' To Die
+2012-03-27 08:27:32,R&B,274906,2,Do I Ever Cross Your Mind
+2012-02-13 10:48:10,R&B,265200,1,Sinner's Prayer
+2012-04-23 13:52:27,Rock,246866,4,The Other Side
+2012-03-27 14:14:38,R&B,315893,4,Hey Girl
+2012-08-11 14:52:36,Indie Rock,235693,14,Creep
+2012-08-11 15:46:53,Indie Rock,208600,15,You
+2012-03-28 13:55:50,R&B,272600,13,Heaven Help Us All
+2012-08-07 11:34:02,Pop,176986,11,Man Of The Hour
+never,Rock,280800,0,Sunshine Of Your Love [Live At The Glen Campbell Show]
+2012-09-18 03:33:24,Pop,205933,12,Tell Yer Mama
+2012-09-18 03:29:58,Pop,185680,12,December
+2012-05-13 12:55:36,Rock,167333,21,Love Me Tender
+2012-06-15 14:30:06,Rock,120000,46,All Shook Up
+2012-03-27 08:36:08,Rock,124666,19,Don't Be Cruel
+2012-03-27 14:40:42,Rock,137666,20,Hound Dog
+2012-03-28 22:09:20,Rock,148000,19,Jailhouse Rock
+2012-03-27 16:22:58,Pop,217866,1,Love Profusion
+never,Pop,279626,0,Nobody Knows Me
+2012-07-25 19:33:41,Electronica,388240,10,Circlewave
+never,Pop,288373,0,Nothing Fails
+never,Pop,294466,0,Intervention
+2012-07-25 19:18:40,Electronica,113040,10,Telluric Piece
+never,Pop,229466,0,X-Static Process
+2012-07-25 19:27:13,Electronica,513226,10,District Line II
+2012-03-27 15:17:36,Country & Folk,201240,1,Lay Lady Lay
+2012-07-25 19:12:41,Electronica,464760,11,Steinbolt
+2012-07-25 19:16:47,Electronica,246133,11,An Arched Pathway
+2012-07-10 00:21:59,Pop,264680,3,So Long/ Jimmy
+2012-07-10 00:17:35,Pop,213200,3,Out Of My Mind
+2012-07-10 00:14:02,Pop,244320,3,Tears And Rain
+2012-07-10 00:09:57,Pop,258066,3,Goodbye My Lover
+never,ボイスメモ,113242,0,2/4/12 4:00 
+never,Podcast,283167,0,第12号「虚構新聞ニュース」2012年9月16日
+never,ボイスメモ,46786,0,2/6/12 6:20 
+2012-07-10 00:25:36,Pop,216906,4,Billy
+2012-07-26 13:27:43,Alternative,157173,10,Cure For The Itch
+2012-07-22 06:21:34,Rock,151733,4,Good Times/ Bad Times
+2012-09-07 15:13:46,Traditional,381266,1,船徳 / 舟乗り込み～竹屋のおじさん
+2012-09-14 03:09:11,Pop,264000,3,夫婦絶唱
+never,Podcast,3592008,0,9月5日 夜10時NHKジャーナル
+2012-09-14 03:26:03,Pop,235466,4,愛の道
+2012-09-10 00:17:50,Traditional,140666,1,『愛宕山』 生還～サゲ～追い出し
+2012-09-06 15:48:34,Pop,276133,1,雨の桟橋
+2012-09-06 15:43:58,Pop,207160,1,さざんか
+2012-08-12 04:22:15,Rock,239000,3,100 Years Ago
+never,Podcast,3184065,0,26 – Kyle McDonald meets the Secret Service
+never,none,83963,0,YORU_BN
+never,none,86563,0,ASA
+2012-08-06 15:15:24,Indie Rock,318840,10,Spies
+2012-08-12 04:18:16,Rock,293733,3,Dancing With Mr. D.
+2012-10-04 15:33:02,Alternative,106360,6,Victimized
+never,Rock,219640,0,I Fall Down
+never,Rock,213400,0,Hey Now Princess [Demo]
+2012-09-07 14:36:27,Traditional,667293,1,明烏 / 登楼後の悲喜劇
+2012-03-28 20:11:07,Rock,210573,2,My Man
+never,iTunes U,953784,0,On the Education Beat
+2012-03-11 11:33:40,Rock,264093,1,On The Border
+2012-03-11 11:37:19,Rock,218373,1,James Dean
+never,iTunes U,771183,0,The Smarter Charter Starter
+2012-03-11 11:41:41,Rock,261893,1,Ol' 55
+2012-03-11 11:44:55,Rock,194666,1,Is It True
+2012-05-16 18:07:01,Rock,313093,2,Disco Apocalypse
+2012-03-30 09:25:58,Jazz,224600,4,Countrywide
+2012-03-30 15:14:20,Jazz,237666,1,Pan Man [Album Version]
+2012-07-21 15:37:28,Rock,157293,1,I'm A King Bee
+2012-09-10 05:00:29,Traditional,51933,2,『宿屋の富』 主人公宿へ帰る
+2012-08-06 15:10:05,Indie Rock,299666,10,Shiver
+2012-09-10 04:58:17,Traditional,166200,2,『宿屋の富』 子の千三百六十五番
+2012-07-21 15:40:03,Rock,154666,1,Carol
+2012-09-10 05:03:36,Traditional,187000,1,『宿屋の富』 宿の亭主の喜び～サゲ～追い出し
+2012-07-06 03:38:20,Classical,46053,2,Bach: Goldberg Variations/ BWV 988 - Variatio 18 A 1 Clav. Canone Alla Quinta (Zenph Version)
+2012-07-06 03:39:02,Classical,42626,2,Bach: Goldberg Variations/ BWV 988 - Variatio 19 A 1 Clav. (Zenph Version)
+2012-07-06 03:36:40,Classical,77360,2,Bach: Goldberg Variations/ BWV 988 - Variatio 16 Ouverture A 1 Clav. (Zenph Version)
+2012-07-06 03:37:34,Classical,53066,2,Bach: Goldberg Variations/ BWV 988 - Variatio 17 A 2 Clav. (Zenph Version)
+2012-07-06 03:39:50,Classical,47466,2,Bach: Goldberg Variations/ BWV 988 - Variatio 20 A 2 Clav. (Zenph Version)
+2012-08-23 18:29:06,Indie Rock,297026,18,What If
+2012-09-14 02:47:41,Pop,225800,2,加賀の女
+never,Rap,297520,0,Crack A Bottle
+never,Rap,89186,0,Steve Berman (Skit)
+never,Rap,371453,0,Underground
+2012-07-06 02:46:17,Classical,34133,1,Bach: Goldberg Variations/ BWV 988 - Variatio 6 A 1 Clav. Canone Alla Seconda (1955)
+never,Podcast,279066,0,第2号「虚構新聞ニュース」2012年4月15日
+2012-03-14 01:51:49,Rock,246400,3,Take A Chance On Me
+2012-09-10 08:58:34,Traditional,868840,1,『お直し』　転落の人生～奈落の決断
+2012-05-16 17:38:28,Rock,231533,5,Dancing Queen
+2012-03-14 01:47:42,Rock,243626,3,Knowing Me/ Knowing You
+2012-06-18 04:34:37,Rock,226933,7,Brain Damage
+never,Podcast,307069,0,第1号「虚構新聞ニュース」2012年4月1日
+2012-06-18 04:36:49,Rock,131546,6,Eclipse
+never,Podcast,321802,0,第10号「虚構新聞ニュース」2012年8月19日
+2012-09-26 04:43:13,Rock,330266,1,New York
+never,Rock,341840,0,The Wanderer
+2012-08-07 01:03:35,Rap,320733,5,Hailie's Song
+2012-08-07 01:04:08,Rap,33106,5,Steve Berman (Skit)
+2012-08-07 00:52:24,Rap,339640,5,Sing For The Moment
+2012-07-02 16:41:00,Jazz,338666,8,Monk's Mood
+2012-08-05 21:01:46,Rap,268960,4,When The Music Stops
+2012-09-26 04:52:29,Rock,223840,1,The Ground Beneath Her Feet (UK only)
+never,Indie Rock,400240,0,Listen Up
+2012-07-02 16:44:52,Jazz,231666,8,Oblivion
+2012-10-08 20:51:00,Pop,215173,4,Sunshine On My Shoulders
+2012-10-07 09:54:04,Pop,215866,1,One Time
+2012-10-08 20:43:43,Pop,140480,5,Tell Me
+never,Indie Rock,380760,0,Whatever
+never,Indie Rock,261306,0,(It's Good) To Be Free
+never,Indie Rock,254093,0,Fade Away
+2012-09-18 05:57:21,Pop,258400,31,Wish I Could
+never,Electronica,493746,0,Brutal Ardour
+never,Electronica,319746,0,French Catalogues
+2012-10-07 10:10:48,Pop,256800,1,Favorite Girl
+never,Electronica,223680,0,Backwater
+never,Electronica,232786,0,No One Receiving
+never,Voice Memo,56097,0,2/10/12 5:47 
+never,Electronica,175200,0,Kurt's Rejoinder
+never,Traditional,2136666,0,どうらんの幸助
+never,iTunes U,4431465,0,7. UIToolbar and iPad Apps (October 18/ 2011) - HD
+2012-05-29 09:13:42,Rock,271600,21,Strawberry Fields Forever
+never,iTunes U,4283617,0,6. Multiple MVCs and Segues (October 13/ 2011) - HD
+never,Pop,239400,0,あの時の約束
+never,Rock,324400,0,Dirty Day
+never,iTunes U,4477411,0,5. Protocols and Gestures (October 11/ 2011) - HD
+never,Traditional,1527933,0,植木屋娘
+2012-05-29 09:16:50,Rock,187680,19,Within You Without You/Tomorrow Never Knows
+2012-08-23 17:42:37,Indie Rock,274146,16,X&Y
+never,Rock,237933,0,Miracle Drug
+never,Rock,347866,0,City Of Blinding Lights
+2012-06-30 10:34:20,Jazz,216293,1,This Nearly Was Mine
+2012-06-30 10:30:43,Jazz,392400,1,Lush Life
+2012-05-29 09:21:00,Rock,250480,19,Lucy In The Sky With Diamonds
+never,Voice Memo,5780,0,5/21/12 5:56 
+never,Voice Memo,27792,0,5/1/12 20:00 
+never,Rap,265333,0,As The World Turns
+never,Rap,211906,0,I'm Shady
+2012-05-28 18:45:52,Jazz,358000,16,'Round Midnight
+never,Rap,254066,0,Still Don't Give A Fuck
+2012-07-02 11:41:39,Jazz,498666,3,STRAIGHT TO THE TOP
+2012-07-02 11:47:44,Jazz,365160,3,MBALI AFRICA
+2012-07-02 11:26:26,Jazz,395000,3,GOOD FOR ALL NIGHT
+2012-07-02 11:33:20,Jazz,414000,3,BAGAMOYO / ZANZIBAR
+never,iTunes U,3476443,0,11-実空間とのインタラクションの演習（２）
+never,iTunes U,3255289,0,Xcode and Source Code Management (October 7/ 2011) - HD
+never,iTunes U,2590190,0,10-実空間とのインタラクションの演習（１）
+2012-08-23 18:34:44,Indie Rock,328173,18,White Shadows
+never,iTunes U,4957624,0,8-人間工学と造形の演習(1)
+never,iTunes U,4006974,0,12-まとめ
+2012-09-02 11:26:35,Rock,272840,6,Passing The Time
+2012-09-10 06:59:18,Traditional,433826,1,『お直し』　出囃子「老松」～マクラ～発端
+never,Rock,421133,0,Traintime
+never,Rock,975573,0,Toad
+2012-09-02 11:17:03,Rock,298466,6,White Room
+2012-09-02 11:22:02,Rock,298493,6,Sitting On Top Of The World
+never,Rock,298360,0,Stay (Faraway/ So Close!)
+never,Rock,418240,0,Lemon
+never,Rock,243400,0,The Clearout [Demo]
+2012-09-06 03:18:07,Rock,241933,1,Babyface
+2012-09-06 03:14:05,Rock,392133,1,Zooropa
+2012-07-29 11:29:23,Rock,239866,6,I'm So Glad
+2012-07-29 11:20:39,Rock,130373,6,Four Until Late
+2012-07-29 11:25:23,Rock,283933,6,Rollin' And Tumblin'
+2012-07-29 11:15:21,Rock,391840,6,Spoonful
+2012-07-29 11:18:29,Rock,187893,6,Cat's Squirrel
+never,Pop,193840,0,世界の国からこんにちは
+2012-09-26 10:47:56,Pop,210000,24,What Am I To You?
+never,Podcast,300146,0,第11号「虚構新聞ニュース」2012年9月2日
+2012-09-21 03:23:26,Indie Rock,308466,2,Shakermaker
+2012-09-21 03:18:17,Indie Rock,322226,2,Rock 'n' Roll Star
+never,Jazz,420026,0,So In Love
+never,Podcast,597024,0,9月2日 夜10時のニュース
+never,Jazz,292906,0,My One And Only Love
+never,Jazz,299560,0,Bessie's Blues
+2012-06-29 05:31:23,Jazz,148426,12,The Law of Falling and Catching up
+2012-09-21 03:28:02,Indie Rock,276533,2,Live Forever
+2012-06-29 05:28:54,Jazz,638000,12,Now He Beats the Drum - Now He Stops
+never,Soundtrack,353453,0,永久に
+never,Soundtrack,327800,0,夢想歌
+never,Soundtrack,270826,0,エターナルラブ
+never,Soundtrack,315680,0,POWDER SNOW
+never,Soundtrack,289973,0,末期の言葉 ～最期の誓い ～静寂
+2012-03-13 05:51:37,R&B,367493,60,Who Cares? (take 4)
+2012-03-13 05:04:53,R&B,309133,61,Know What I Mean? (Take 12)
+2012-07-26 13:42:10,Alternative,185533,16,Papercut
+2012-07-26 13:44:46,Alternative,155693,13,One Step Closer
+never,Pop,177266,0,夕やけの空
+2012-05-12 17:43:34,Jazz,323733,16,恋の面影
+2012-09-17 14:52:14,Traditional,735493,3,『百川』 二階座敷の問答
+2012-04-19 14:22:51,Jazz,330773,15,ホルヘ・ルイス・ボルヘス
+2012-04-19 14:33:59,Jazz,668133,15,パリのエリザベス・テイラー (存在しない)
+2012-04-19 14:40:23,Jazz,383893,14,南米のエリザベス・テイラー
+2012-04-19 14:41:29,Jazz,66266,14,ラウンジ・タイム#2
+2012-09-10 10:46:35,Traditional,207240,2,『百川』 百兵衛、百川へ入来
+never,Indie Rock,257146,0,Up On The Ladder
+2012-06-10 17:22:02,Jazz,440773,4,Truth And Lies
+2011-12-31 08:50:09,Country & Folk,161786,5,One Too Many Mornings
+never,Indie Rock,246266,0,4 Minute Warning
+never,Indie Rock,238133,0,15 Step
+2012-06-10 16:57:47,Jazz,367066,4,Summer Rain
+2012-04-01 13:12:07,Pop,187733,155,The Nearness Of You
+2012-06-10 16:51:40,Jazz,717440,4,Double Personality
+2012-03-30 07:37:32,Pop,164800,150,The Long Day Is Over
+2012-06-10 17:14:41,Jazz,503840,4,010101 (Binary System)
+2011-12-31 08:47:27,Country & Folk,428266,5,With God On Our Side
+2012-06-10 17:06:17,Jazz,509826,4,Joy
+2011-12-31 08:40:19,Country & Folk,306146,5,The Ballad Of Hollis Brown
+never,Pop,315333,0,灰色の指先
+2012-09-18 03:26:52,Pop,315853,12,Stuck
+never,Rock,388706,0,Rollin' And Tumblin' [Live At Fillmore West]
+2012-05-13 12:32:49,R&B,210826,5,Fever
+never,Rock,758293,0,N.S.U. [Live At Winterland / Unedited Version]
+2012-09-18 03:14:41,Pop,191466,14,It's Gonna Be
+2012-04-23 15:13:12,R&B,235373,2,You Don't Know Me
+2012-09-18 03:11:29,Pop,211053,14,Waiting
+2012-02-13 10:24:14,R&B,239333,2,Sorry Seems To Be The Hardest Word
+2012-09-18 03:21:36,Pop,249933,12,Back To Manhattan
+2012-05-16 17:30:09,R&B,238960,7,Here We Go Again
+2012-09-18 03:17:26,Pop,165426,13,You've Ruined Me
+2012-04-23 15:09:17,R&B,227666,3,Sweet Potato Pie
+2012-03-27 11:31:47,Rock,159000,20,G. I. Blues
+2012-03-27 10:24:08,Rock,152173,20,A Fool Such As I
+2012-03-21 02:28:14,Rock,126000,19,I Need Your Love Tonight
+2012-03-19 22:49:18,Rock,136493,18,Wear My Ring Around Your Neck
+2012-05-16 15:36:56,Pop,297293,5,American Life
+2012-03-28 06:32:52,Rock,183333,20,Can't Help Falling In Love
+2012-09-27 00:08:47,Traditional,41600,1,『三軒長屋』 一転、剣術道場
+2012-09-27 00:08:06,Traditional,386000,1,『三軒長屋』 手打ち変じてまた喧嘩
+2012-03-08 05:54:12,Rock,120440,10,My Best Was Never Good Enough
+never,Pop,264440,0,Hollywood
+2012-01-18 04:56:56,Country & Folk,288973,3,I Shall Be Free
+2012-07-10 04:27:34,Pop,288600,1,チャイニーズ フード
+2012-06-15 18:22:37,Rock,329933,29,Across The Border
+2012-07-10 04:22:45,Pop,289066,1,とまどうペリカン
+2012-03-28 08:46:57,Country & Folk,164066,5,Corrina/ Corrina
+2012-07-25 18:28:09,Electronica,156973,9,Everyday I Love
+2012-03-27 09:24:08,Rock,217640,14,Dry Lightning
+2012-07-25 18:25:32,Electronica,130440,9,Tommib Help Buss
+2012-03-14 04:18:24,Rock,349293,12,The New Timer
+2012-07-25 19:43:09,Electronica,567226,10,Tetra-Sync
+2012-07-02 12:11:36,R&B,293000,1,Little Jon Special
+2012-07-02 12:06:43,R&B,203613,2,My Old Frame
+2012-07-10 00:01:56,Pop,212973,4,You're Beautiful
+2012-07-09 23:58:23,Pop,243920,5,High
+2012-09-07 14:48:01,Traditional,163960,1,船徳 / 出囃子「老松」～マクラ
+2012-07-10 00:05:39,Pop,222800,3,Wisemen
+2012-09-06 15:40:31,Pop,288733,1,さらば友よ
+2012-09-06 15:06:45,Pop,256266,1,流れのブルース
+2012-09-06 15:11:12,Pop,267040,1,放浪船
+2012-09-06 15:30:49,Pop,275426,1,冬の旅
+2012-09-06 15:35:42,Pop,261306,1,襟裳岬
+never,Pop,351440,0,最後のニュース
+never,Pop,245293,0,ワカンナイ
+never,Pop,316866,0,Final Love Song
+never,Pop,278760,0,海へ来なさい
+never,Pop,366040,0,灰色の指先
+2012-03-05 18:23:18,Jazz,464880,3,Spirit Of The Air
+2012-03-05 18:15:33,Jazz,560146,3,Soul Search
+2012-03-11 11:21:48,Rock,240960,1,You Never Cry Like A Lover
+2012-04-03 04:23:08,Rock,255733,11,Already Gone
+2012-03-30 14:31:28,Jazz,326000,4,Initiation [Album Version]
+2012-03-30 15:45:14,Jazz,353840,5,Who Dares Wins [Album Version]
+2012-03-30 14:00:12,Jazz,165333,6,Gollywogs Cake Walk/English Country Garden [Album Version]
+2012-05-13 13:35:21,Jazz,217200,6,She Never Knew [Album Version]
+2012-07-21 15:47:05,Rock,176706,1,Can I Get A Witness
+2012-07-21 15:44:09,Rock,245866,1,Tell Me
+2012-07-21 15:49:08,Rock,122533,1,You Can Make It If You Try
+2012-07-06 03:04:33,Classical,54413,1,Bach: Goldberg Variations/ BWV 988 - Variatio 23 A 2 Clav. (1955)
+2012-07-06 03:05:30,Classical,56853,1,Bach: Goldberg Variations/ BWV 988 - Variatio 24 Canone All'Ottava. A 1 Clav. (1955)
+2012-07-06 03:11:58,Classical,388106,1,Bach: Goldberg Variations/ BWV 988 - Variatio 25 A 2 Clav. Adagio (1955)
+2012-07-06 03:12:50,Classical,52200,1,Bach: Goldberg Variations/ BWV 988 - Variatio 26 A 2 Clav. (1955)
+never,none,257123,0,1120Studio_Sample(3)
+2012-10-07 08:51:35,Pop,213880,1,Happy Xmas (War Is Over)
+2012-03-14 02:13:49,Rock,294666,3,The Winner Takes It All
+2012-03-14 02:08:54,Rock,282866,3,I Have A Dream
+2012-03-14 02:04:11,Rock,253706,3,Super Trouper
+2012-05-13 12:25:26,Rock,275466,6,Lay All Your Love On Me
+2012-03-14 01:55:22,Rock,213466,3,Mamma Mia
+never,none,408373,0,Track 11
+2012-10-08 20:34:27,Pop,171760,7,Bucket
+2012-07-24 11:24:22,Rock,215373,2,Mona (I Need You Baby)
+never,none,373740,0,2010_sound design summer workshop_DISC1_22PIGEN
+2012-07-24 11:27:18,Rock,176466,2,Down The Road Apiece
+2012-08-05 21:06:56,Rap,309906,4,Say What You Say
+never,Traditional,1549533,0,火焔太鼓
+2012-08-05 21:11:54,Rap,297893,4,'Till I Collapse
+2012-07-06 05:20:34,Classical,464453,6,Arban: Fantaisie Et Variations Sur "Le Carneval De Venise"
+2012-08-05 19:59:51,Rap,60666,3,Curtains Close
+2012-07-06 05:09:08,Classical,307493,2,Hummel: Trumpet Concerto In E Flat/ S 49 - 2. Andante
+2012-07-06 05:12:50,Classical,221600,2,Hummel: Trumpet Concerto In E Flat/ S 49 - 3. Rondo
+2012-07-06 05:01:09,Classical,197013,2,Tartini: Trumpet Concerto In D/ D 53 - 3. Allegro
+2012-09-09 16:18:49,Traditional,291933,1,雛鍔 / 子供の帰宅～サゲ～追い出し
+2012-07-06 05:04:01,Classical,171720,2,Mozart: The Magic Flute - Queen Of The Night's Aria
+2012-10-07 16:54:31,Rap,275400,8,Seduction
+never,Traditional,1773973,0,阿弥陀池
+2012-10-07 16:49:56,Rap,248133,9,Not Afraid
+never,Indie Rock,182986,0,Waiting For The Rapture
+2012-07-25 14:03:43,Electronica,274986,9,Megazine
+never,Indie Rock,253400,0,Street Spirit (Fade Out)
+never,Indie Rock,496440,0,I Am The Walrus [Live]
+never,Indie Rock,263160,0,Half The World Away
+never,Indie Rock,304840,0,The Turning
+2012-10-07 15:42:26,Rap,299506,5,No Love
+never,Indie Rock,280413,0,Bag It Up
+never,Traditional,432200,0,『百川』 歌女文字鴨地の間違い～サゲ～中入り
+2012-09-09 16:02:21,Traditional,531866,1,雛鍔 / 屋敷での見聞
+2012-10-04 15:48:20,Alternative,224466,5,Powerless
+never,Electronica,379786,0,Julie With ...
+never,Electronica,124893,0,Energy Fools The Magician
+never,Electronica,236253,0,King's Lead Hat
+never,iTunes U,2185385,0,Debugger (September 30/ 2011) - HD
+never,iTunes U,4313647,0,4. Views (October 6/ 2011) - HD
+never,Electronica,326866,0,Unfamiliar Wind (Leeks Hills)
+never,iTunes U,3255289,0,Xcode and Source Code Management (October 7/ 2011) - HD
+never,Rock,194106,0,Vertigo
+never,Indie Rock,129200,0,All Around The World (Reprise)
+never,Indie Rock,420000,0,It's Gettin' Better (Man!!)
+never,Indie Rock,560000,0,All Around The World
+never,Indie Rock,313240,0,Be Here Now
+2012-07-02 11:19:51,Jazz,307000,3,CALL ME
+never,iTunes U,4048582,0,Webと情報視覚化
+never,Traditional,1539906,0,鼠穴
+never,iTunes U,4506607,0,Webとナビゲーション
+2012-07-02 11:10:03,Jazz,280533,4,ORANGE EXPRESS
+2012-07-02 11:14:44,Jazz,281466,4,RIDE ON
+never,Rap,320866,0,Marshall Mathers
+never,iTunes U,3566333,0,4-問題発見と解決の演習（１）
+never,Rap,310133,0,I'm Back
+never,iTunes U,2247581,0,6-情報とメディアの演習（１）
+never,Rap,300306,0,Drug Ballad
+never,iTunes U,3607007,0,5-問題発見と解決の演習（２）
+never,Rap,61760,0,Ken Kaniff (Skit)
+never,iTunes U,3277110,0,7-情報とメディアの演習（２）
+never,iTunes U,3206540,0,9-総合政策学を考える
+never,Rap,254733,0,Amityville
+2012-09-11 01:38:51,Pop,235626,3,虞美人草（なかにし礼）
+never,iTunes U,544010,0,廣瀬通孝「インターフェースとしてのロボット」その1
+never,iTunes U,678077,0,廣瀬通孝「インターフェースとしてのロボット」その2
+never,Rock,257160,0,Some Days Are Better Than Others
+never,Rock,320373,0,Daddy's Gonna Pay For Your Crashed Car
+never,iTunes U,681247,0,廣瀬通孝「インターフェースとしてのロボット」その3
+never,Rock,225733,0,The First Time
+never,Rock,121200,0,Dreaming
+never,Rock,144426,0,Wrapping Paper
+never,Rock,173066,0,I Feel Free
+never,Rock,167800,0,N.S.U.
+never,Rock,262600,0,Sleepy Time Time
+2012-05-29 08:54:39,Rock,82400,21,I Want To Hold Your Hand
+never,iTunes U,920085,0,第5回(5)：須藤　修「情報爆発と新たなネットワーク社会の創造」
+never,iTunes U,1049180,0,第5回(4)：須藤　修「情報爆発と新たなネットワーク社会の創造」
+never,iTunes U,1101065,0,第5回(3)：須藤　修「情報爆発と新たなネットワーク社会の創造」
+never,iTunes U,725623,0,第5回(6)：須藤　修「情報爆発と新たなネットワーク社会の創造」
+2012-05-13 10:46:23,Rock,125280,39,Get Back
+2012-06-15 13:01:03,Rock,80626,42,Glass Onion
+2012-06-15 13:04:09,Rock,185933,24,Eleanor Rigby/Julia [Transition]
+never,iTunes U,791657,0,第5回(7)：須藤　修「情報爆発と新たなネットワーク社会の創造」
+2012-05-29 08:53:16,Rock,268266,24,I Am The Walrus
+2012-06-29 05:18:16,Jazz,429000,12,Now He Sings/Now He Sobs
+2012-06-30 04:37:32,Jazz,787440,1,Dear Alice
+2012-06-30 04:48:16,Jazz,643533,1,The Mad Hatter Rhapsody
+2012-06-29 05:04:38,Jazz,834426,12,Steps - What Was
+2012-06-29 05:11:07,Jazz,389640,12,Matrix
+2012-03-04 07:09:39,Rock,167960,2,Please Mr. Postman
+2012-03-04 07:06:51,Rock,168333,2,Hurting Each Other
+2012-03-04 08:21:11,Rock,226466,3,Only Yesterday
+2012-03-04 08:17:25,Rock,179906,3,Top Of The World
+2012-03-04 08:14:25,Rock,250360,3,Ticket To Ride
+2012-06-30 03:10:41,Jazz,79333,1,Prelude To Falling Alice
+2012-03-13 05:45:30,R&B,298000,64,Know What I Mean? (take 7)
+2012-03-13 05:36:23,R&B,352506,62,Elsa
+never,Rock,231560,0,One Step Closer
+2012-03-13 05:40:32,R&B,248666,62,Nancy (With The Laughing Face)
+2012-05-12 17:50:20,R&B,177506,64,Venice
+2012-06-30 03:22:07,Jazz,497000,1,Falling Alice
+2012-03-13 05:30:31,R&B,308826,63,Toy
+2012-03-29 16:12:56,Rock,429440,5,Calling Occupants Of Interplanetary Craft
+2012-04-19 14:49:00,Jazz,358706,14,コルコヴァード
+2012-05-16 16:57:47,Rock,129333,22,Heartbreak Hotel
+2012-04-19 14:43:01,Jazz,91933,14,ラウンジ・タイム#3
+2012-03-27 10:31:28,Rock,153493,4,For All We Know
+2012-04-19 15:01:33,Jazz,273773,14,クレイジー・ヒー・コールズ・ミー
+2012-03-04 07:32:52,Rock,222066,2,(They Long To Be) Close To You
+2012-04-19 14:56:59,Jazz,479493,14,ルペ・ベレスの葬儀
+2012-07-25 13:57:27,Electronica,225706,9,Frisco Wave
+2012-09-26 10:51:19,Pop,202640,22,Those Sweet Words
+2012-07-25 13:53:36,Electronica,286506,9,Into The Blue
+2012-04-19 15:04:08,Jazz,155226,14,南米のエリザベス・テイラーの歌
+2012-03-19 23:31:22,Rock,159666,19,I Want You/ I Need You/ I Love You
+2012-07-25 13:44:06,Electronica,289186,10,Plug Me In
+2012-01-29 18:17:50,Country & Folk,263093,6,My Back Pages
+2012-06-10 16:34:05,Jazz,365586,3,The Tom And Jerry Show
+2012-01-29 18:50:38,Country & Folk,273906,5,Motorpsycho Nitemare
+2012-06-30 02:03:57,Jazz,413240,4,Kung-Fu World Champion
+2012-01-29 18:41:40,Country & Folk,232666,5,To Ramona
+2012-06-10 16:19:15,Jazz,459666,3,Dancando No Paraiso
+2012-01-29 18:27:02,Country & Folk,288733,5,I Shall Be Free No. 10
+2012-06-10 16:28:00,Jazz,524240,3,Another Mind
+2012-06-30 02:11:09,Jazz,431493,4,IF...
+2012-03-11 02:38:29,Country & Folk,263240,8,I Don't Believe You (She Acts Like We Never Have Met)
+2012-09-26 17:11:03,Pop,232493,17,Light As A Feather
+2012-09-18 03:04:28,Pop,218120,14,Young Blood
+never,Indie Rock,290373,0,Reckoner
+2012-09-26 17:02:55,Pop,160906,18,Chasing Pirates
+2012-09-26 17:07:10,Pop,232200,18,Even Though
+never,Indie Rock,228786,0,All I Need
+never,Indie Rock,129800,0,Faust Arp
+never,Indie Rock,255386,0,Nude
+2012-09-18 03:07:58,Pop,210053,14,I Wouldn't Need You
+never,Indie Rock,318186,0,Weird Fishes/Arpeggi
+2012-07-26 14:50:16,R&B,163826,9,Hey Love
+never,Rock,229666,0,We're Going Wrong [Demo]
+never,Rock,194466,0,Weird Of Hermiston [Demo]
+never,Rock,273800,0,Swlabr [Demo]
+2012-07-26 14:38:51,R&B,252533,8,Boogie On Reggae Woman
+2012-07-26 14:41:27,R&B,155866,10,I Was Made To Love Her
+2012-07-26 14:44:20,R&B,173666,8,Uptight (Everything's Alright)
+2012-07-26 14:47:32,R&B,191466,7,Fingertips (Parts 2)
+2012-03-19 23:06:34,Rock,263173,18,Suspicious Minds
+never,Indie Rock,269200,0,Yellow
+2012-03-19 23:02:11,Rock,152826,18,You Don't Have To Say You Love Me
+2012-03-27 03:09:13,Rock,176493,19,Buring Love
+2012-04-08 22:03:38,Rock,269333,30,An American Trilogy
+2012-03-19 23:16:49,Rock,169173,18,In The Ghetto
+never,Indie Rock,227066,0,Sparks
+2012-04-23 02:09:59,Rock,358533,38,Ballad Of A Thin Man
+2012-07-25 18:40:13,Electronica,211040,11,I Fulcrum
+2012-09-27 00:19:02,Traditional,312933,1,『三軒長屋』 政五郎と楠先生
+2012-09-27 01:39:33,Traditional,419466,1,『三軒長屋』 楠先生と伊勢勘
+2012-03-30 19:54:46,Rock,201693,13,Balboa Park
+2012-07-01 02:12:24,Electronica,536520,1,My Fucking Sound
+2012-06-29 12:25:39,Rock,373533,72,Like A Rolling Stone
+2012-07-01 02:03:28,Electronica,590013,1,Greenways Trajectory
+2012-06-29 12:31:38,Rock,358493,43,Tombstone Blues
+2012-07-25 18:36:42,Electronica,513093,11,Ultravisitor
+2012-04-03 22:24:13,Rock,249106,40,It Takes A Lot To Laugh/ It Takes A Train To Cry
+2012-07-01 02:16:43,Electronica,258520,1,Anstromm-Feck 4
+2012-04-23 02:04:00,Rock,199133,43,From A Buick 6
+2012-07-02 12:03:19,R&B,335226,2,On The Alamo
+2012-06-13 01:03:45,R&B,258360,1,Everything I Love
+2012-07-02 11:57:44,R&B,201613,1,Evening In Paris
+2012-07-02 11:53:52,R&B,302160,3,Captain Jetter
+2012-06-13 00:59:27,R&B,441960,2,Nuzzolese Blues
+2012-03-29 04:16:44,Pop,264893,9,The Ballad Of Danny Bailey (1909-1934)
+2012-03-29 04:30:26,Pop,302040,8,Dirty Little Girl
+2012-07-06 01:54:18,Pop,358413,9,I've Seen That Movie Too
+2012-05-16 17:53:32,Pop,235493,9,Sweet Painted Lady
+2012-04-23 14:34:21,Rock,322386,7,Love In An Elevator
+2012-03-30 17:50:23,Pop,310520,14,All The Young Girls Love Alice
+never,Pop,298093,0,カナリア
+2012-04-23 14:43:10,Rock,221506,6,Walk This Way
+never,Pop,297973,0,映画に行こう
+never,Pop,237000,0,ダンスはうまく踊れない
+never,Pop,285093,0,鍵の数
+never,Pop,354840,0,嘘つきダイヤモンド
+2012-10-07 14:57:49,Pop,213973,3,Baby
+2012-08-25 18:22:12,Alternative,296560,8,Iridescent
+2012-09-11 01:43:40,Pop,288573,3,終着駅（松本隆）
+2012-08-25 18:23:35,Alternative,83053,8,Fallout
+2012-09-08 16:12:17,Traditional,250840,1,船徳 / 石垣接岸～たばこの火
+2012-03-28 09:47:40,Rock,188200,12,The Road And The Sky
+2012-09-23 12:17:01,Pop,229866,4,居酒屋（阿久悠）
+2012-06-05 23:52:32,Jazz,517906,5,Expansion
+2012-06-17 20:41:40,Rock,412226,14,Fountain Of Sorrow
+2012-08-25 18:15:37,Alternative,255293,8,Wretches And Kings
+2012-06-17 20:34:48,Rock,342200,14,Late For The Sky
+2012-03-06 10:51:06,Rock,315373,11,The Late Show
+2012-03-06 10:45:51,Rock,321400,11,Farther On
+2012-07-21 15:52:17,Rock,189200,1,Walking The Dog
+2012-08-25 18:17:16,Alternative,98773,8,Wisdom/ Justice/ And Love
+2012-09-27 00:13:49,Traditional,223640,1,『三軒長屋』 政五郎帰宅～姐御の怒り
+2012-10-07 10:51:15,Pop,212573,1,Runaway Love
+never,Pop,307800,0,5月の別れ
+2012-07-06 03:00:27,Classical,42560,1,Bach: Goldberg Variations/ BWV 988 - Variatio 19 A 1 Clav. (1955)
+2012-07-06 02:59:44,Classical,46093,1,Bach: Goldberg Variations/ BWV 988 - Variatio 18 A 1 Clav. Canone Alla Quinta (1955)
+2012-07-06 03:02:57,Classical,102280,1,Bach: Goldberg Variations/ BWV 988 - Variatio 21 Canone Al Settima (1955)
+2012-07-06 03:01:14,Classical,47560,1,Bach: Goldberg Variations/ BWV 988 - Variatio 20 A 2 Clav. (1955)
+never,Latin,195466,0,Segredo
+2012-07-06 03:03:39,Classical,42280,1,Bach: Goldberg Variations/ BWV 988 - Variatio 22 Alla Breve A 1 Clav. (1955)
+never,Pop,270133,0,鍵の数
+never,Latin,149240,0,Da Cor Do Pecado
+2012-03-14 04:05:35,Rock,319773,12,The Line
+never,Pop,335933,0,カナディアン アコーディオン
+never,Traditional,224626,0,『粗忽の使者』 いよいよ正念場～サゲ～追い出し
+2012-03-14 01:16:12,Rock,310960,2,Voulez Vous
+2012-05-13 12:29:18,Rock,232626,14,Sinaloa Cowboys
+2012-10-08 20:31:35,Pop,193466,35,Call Me Maybe
+2012-03-28 10:25:21,Rock,200960,3,S.O.S.
+2012-03-27 16:38:10,Rock,186066,4,Money/ Money/ Money
+2012-03-27 10:07:35,Rock,254466,3,Fernando
+2012-03-28 07:07:26,Rock,324640,5,Chiquitita
+2012-05-13 17:55:50,Rock,237933,15,Youngstown
+2012-05-13 17:59:34,Rock,224240,15,Highway 29
+never,Indie Rock,231093,0,Let's All Make Believe
+2012-08-07 02:10:47,Rap,159786,1,Never Enough
+2012-09-06 12:57:04,Pop,180093,1,悲しき六十才(ムスターファ)
+2012-08-07 02:08:08,Rap,259573,1,Evil Deeds
+never,Indie Rock,396040,0,Roll It Over
+never,Rap,296880,0,Like Toy Soldiers
+never,Indie Rock,192933,0,I Can See A Liar
+2012-05-28 05:13:34,Classical,208973,5,Jobim: One Note Samba
+2012-07-06 05:38:32,Classical,241613,6,Porter: Night & Day
+2012-07-06 05:34:31,Classical,248866,6,Ellington: Caravan
+2012-09-16 11:25:42,Pop,135066,2,ステキなタイミング
+2012-07-06 05:30:22,Classical,404520,6,Legrand: Jeux Interdits
+2012-07-06 05:23:37,Classical,183146,6,Strauss Jr. (J): Tritsch-Tratsch Polka/ Op. 214
+2012-10-07 15:47:05,Rap,278640,7,Space Bound
+2012-10-07 15:51:44,Rap,279013,6,Cinderella Man
+2012-10-07 15:55:45,Rap,241586,6,25 To Life
+2012-10-07 16:01:11,Rap,325346,6,So Bad
+2012-10-07 16:06:03,Rap,292480,5,Almost Famous
+never,Electronica,261826,0,Just Another Day
+never,Electronica,265786,0,Caught Between
+never,Electronica,265680,0,Passing Over
+never,Electronica,287160,0,How Many Worlds
+never,Electronica,239293,0,Bottomliners
+never,iTunes U,4353587,0,イントロダクション
+never,iTunes U,4641408,0,3. Objective-C (October 4/ 2011) - HD
+never,Podcast,4804310,0,Episode 22 – Meeting Flash game developers at Flash Gaming Summit
+never,iTunes U,3688455,0,1. MVC and Introduction to Objective-C (September 27/ 2011) - HD
+never,iTunes U,3970737,0,2. My First iOS App (September 29/ 2011) - HD
+never,Indie Rock,288666,0,Don't Go Away
+never,Indie Rock,356066,0,Stand By Me
+never,Indie Rock,263026,0,I Hope/ I Think/ I Know
+never,Indie Rock,349733,0,The Girl In The Dirty Shirt
+never,Indie Rock,412600,0,Fade In-Out
+never,iTunes U,4522289,0,Webと検索
+never,Rock,218066,0,Rejoice
+never,iTunes U,4830497,0,Webと社会
+never,iTunes U,4406173,0,実世界とWeb
+never,iTunes U,4777110,0,Webと認証
+never,iTunes U,4519720,0,Webと情報登録
+never,ボイスメモ,308150,0,4/24/12 21:32 
+2012-10-08 19:37:37,ボイスメモ,13117,1,4/25/12 21:52 
+never,ボイスメモ,8845,0,4/24/12 21:22 
+never,Rap,218533,0,Remember Me?
+never,ボイスメモ,98729,0,4/24/12 21:27 
+2012-05-16 17:09:57,Country & Folk,220466,9,Leaving On A Jet Plane
+never,Rap,284533,0,The Real Slim Shady
+never,ボイスメモ,18992,0,4/25/12 21:53 
+never,Rap,227706,0,Who Knew
+never,Rap,53626,0,Steve Berman (Skit)
+never,Indie Rock,199040,0,Lewis (Mistreated)
+never,Indie Rock,208626,0,Hung In A Bad Place
+never,Indie Rock,303133,0,Stop Crying Your Heart Out
+never,Indie Rock,226400,0,The Hindu Times
+never,Indie Rock,291706,0,Force Of Nature
+never,Indie Rock,127573,0,Songbird
+never,iTunes U,501984,0,Steve Jobs
+never,iTunes U,710643,0,廣瀬通孝「インターフェースとしてのロボット」その4
+2012-09-26 15:54:10,Traditional,2458160,1,崇徳院
+never,iTunes U,3446547,0,空間情報と戦争
+never,Rock,283733,0,Rollin' And Tumblin'
+never,Rap,264400,0,Kill You
+never,Rock,200400,0,Sweet Wine
+never,Rock,130400,0,Four Until Late
+never,Rock,185400,0,Cat's Squirrel
+never,iTunes U,1097142,0,第6回(4)：廣瀬 通孝「コンピュータとバーチャルリアリティ」
+never,iTunes U,1085347,0,第6回(2)：廣瀬 通孝「コンピュータとバーチャルリアリティ」
+2012-05-29 09:06:39,Rock,138560,62,Help!
+never,iTunes U,1090085,0,第6回(1)：廣瀬 通孝「コンピュータとバーチャルリアリティ」
+never,Rock,219066,0,All Because Of You
+2012-04-30 16:48:10,iTunes U,985617,1,第5回(5)：廣瀬 通孝「コンピュータとバーチャルリアリティ」
+2012-04-30 16:48:00,iTunes U,1093079,1,第5回(3)：廣瀬 通孝「コンピュータとバーチャルリアリティ」
+2012-05-29 08:57:28,Rock,55106,26,Gnik Nus
+2012-05-29 08:56:33,Rock,114346,37,Drive My Car/The Word/What You're Doing
+2012-05-29 09:04:20,Rock,202213,23,Being For The Benefit Of Mr. Kite!/I Want You (She's So Heavy)/Helter Skelter
+2012-05-29 09:00:58,Rock,209666,22,Something/Blue Jay Way [Transition]
+never,Rap,10600,0,Paul (Skit)
+2012-10-07 12:11:20,Pop,223040,1,Never Say Never
+2012-03-04 08:10:14,Rock,293600,3,This Masquerade
+2012-03-04 07:54:29,Rock,215400,3,Rainy Days And Mondays
+2012-03-27 13:07:13,Rock,237066,5,Goodbye To Love
+2012-03-05 17:01:08,Rock,236240,4,I Believe You
+2012-03-04 08:05:21,Rock,178533,3,It's Going To Take Some Time
+2012-05-12 16:56:38,R&B,356493,65,Who Cares?
+2012-05-24 12:31:18,R&B,377173,71,Goodbye
+2012-05-24 12:24:59,R&B,317493,72,Waltz For Debby
+2012-02-05 17:39:40,Rock,262133,1,I Want To Break Free
+2012-03-27 12:53:21,Rock,175400,2,Good Old-Fashioned Lover Boy
+2012-09-10 09:57:28,Traditional,113133,1,『芝浜』 再び目覚めて
+2012-03-04 07:23:16,Rock,235840,2,I Won't Last A Day Without You
+2012-09-10 10:04:31,Traditional,423560,1,『芝浜』 "真相"
+2012-03-28 05:52:27,Rock,195200,3,Bless The Beasts And Children
+2012-09-10 10:37:50,Traditional,787773,2,『芝浜』 三年目の大晦日～サゲ～追い出し
+2012-03-04 07:16:05,Rock,197933,2,Sing
+2012-09-10 10:41:39,Traditional,229093,2,『百川』 囃子「老松」～マクラI: 名物
+2012-03-04 07:12:47,Rock,187933,2,Merry Christmas Darling
+2012-09-10 10:42:57,Traditional,77600,2,『百川』 マクラII: 江戸の祭、四神剣、百川
+2012-03-04 07:26:37,Rock,200866,2,Touch Me When We're Dancing
+2012-06-30 02:16:52,Jazz,343173,4,Wind Song
+2012-03-28 09:26:09,Country & Folk,333920,5,Restless Farewell
+2012-06-30 01:11:14,Jazz,545120,3,Brain
+2012-05-16 15:41:02,Country & Folk,246266,32,All I Really Want To Do
+2012-06-30 01:18:22,Jazz,428573,2,Desert On The Moon
+2012-03-27 10:28:55,Rock,286466,13,For A Dancer
+2012-06-30 01:23:01,Jazz,278920,2,Green Tea Farm
+2012-03-11 08:53:32,Country & Folk,145440,7,Spanish Harlem Incident
+2012-06-30 01:33:04,Jazz,602706,2,Keytalk
+2012-03-31 08:04:28,Country & Folk,430560,8,Chimes Of Freedom
+2012-09-06 12:27:40,Pop,252200,2,春の雪
+2012-08-16 22:34:57,Alternative,223866,31,Drain You
+2012-08-16 22:37:34,Alternative,156560,31,Lounge Act
+2012-08-16 22:41:06,Alternative,212466,31,Stay Away
+2012-08-16 22:44:23,Alternative,196373,31,On A Plain
+never,Alternative,1237493,0,Something In The Way / [Hidden Track]
+never,Indie Rock,282880,0,Videotape
+never,Indie Rock,249133,0,Jigsaw Falling Into Place
+never,Indie Rock,328373,0,House Of Cards
+2012-07-26 14:34:38,R&B,291600,7,Master Blaster (Jammin')
+never,Rock,295933,0,Sitting On Top Of The World [Live At The Forum]
+2012-07-26 14:23:56,R&B,168546,11,For Once In My Life
+2012-07-26 14:21:08,R&B,172026,11,My Cherie Amour
+2012-07-26 14:29:47,R&B,191533,12,Higher Ground
+2012-07-26 14:26:35,R&B,159066,9,Signed/ Sealed/ Delivered I'm Yours
+2012-07-25 18:57:43,Electronica,513906,11,50 Cycles
+2012-07-25 19:03:26,Electronica,343413,11,Menelec
+2012-03-29 04:08:29,Pop,252000,9,Val-Hala
+2012-07-25 18:49:09,Electronica,120320,11,Andrei
+2012-04-02 17:44:49,Rock,188000,23,Are You Lonesome Tonight
+2012-05-16 17:06:16,Pop,509493,10,Empty Sky
+2012-03-19 23:20:02,Rock,192666,18,If I Can Dream
+2012-03-28 22:01:26,Rock,197160,19,It's Now Or Never
+2012-06-30 13:27:38,Jazz,260573,12,Delia
+2012-06-30 13:59:25,Jazz,335560,18,Sugar
+2012-06-30 14:05:04,Jazz,338733,15,Tequila
+2012-06-30 13:16:48,Jazz,218146,13,Little Flower
+2012-06-30 13:23:17,Jazz,389240,13,Spider B.
+2012-07-02 17:01:29,Jazz,263600,8,Armando's Rhumba
+2012-03-28 09:51:55,Rock,254666,9,Rock Me On The Water
+2012-07-02 16:57:05,Jazz,363106,8,Someone To Watch Over Me
+2012-03-03 14:39:47,Rock,285093,8,My Opening Farewell
+2012-07-02 17:11:00,Jazz,277466,9,Stella By Starlight
+2012-03-29 05:04:19,Pop,296893,7,Saturday Night's Alright For Fighting
+2012-07-02 17:06:22,Jazz,293026,8,Blues For Art
+2012-03-29 04:51:35,Pop,161960,7,Your Sister Can't Twist (But She Can Rock 'n Roll)
+2012-09-26 11:36:20,Pop,253133,15,Sleepless Nights
+never,Voice Memo,4154,0,6/17/12 8:04 
+2012-09-26 11:28:54,Pop,231800,15,The Prettiest Thing
+2012-09-26 11:32:07,Pop,192533,15,Don't Miss You At All
+2012-03-29 03:13:40,Pop,169453,8,Harmony
+2012-09-10 05:23:13,Traditional,426600,1,文七元結 / 長兵衛内
+2012-09-10 05:39:31,Traditional,873200,1,文七元結 / 佐野槌内証
+never,Pop,274493,0,TEENAGER
+never,Rock,294493,0,I Threw a Brick Through a Window
+never,Pop,239440,0,エンジの雨
+never,Pop,392466,0,ビルの最上階
+never,Pop,351200,0,長い坂の絵のフレーム
+2012-03-14 04:17:42,Pop,108826,4,値上げ
+2012-08-06 11:07:02,Jazz,374960,34,Goldwrap
+2012-08-06 08:27:34,Jazz,932080,27,Behind The Yashmak
+2012-08-06 10:34:39,Jazz,1059240,33,Dolores In A Shoestand
+2012-09-10 05:16:07,Traditional,505533,1,文七元結 / 出囃子「三下り中の舞」～マクラ
+2012-08-06 10:51:12,Jazz,478826,33,Sipping On The Solid Ground
+2012-05-13 11:42:04,Jazz,82886,15,Intro
+never,Pop,175493,0,white
+never,Electronica,338893,0,Here He Comes
+never,Rock,393506,0,Of Missing Persons
+2012-03-29 16:05:46,Rock,290026,2,Call it a Loan
+never,Rock,275760,0,That Girl Could Sing
+2012-03-29 15:43:11,Rock,202133,1,Boulevard
+2012-09-10 05:57:09,Traditional,978560,1,文七元結 / あづま橋
+never,iTunes U,895293,0,第13回(4)：竹内　郁雄「情報とアートのインターフェース」
+2012-03-10 20:11:39,Rock,488773,1,Hold on Hold Out
+never,Pop,303040,0,夢寝見
+2012-09-08 16:36:43,Traditional,223093,1,居残り佐平次 / 二日目の夜
+never,Traditional,416640,0,居残り佐平次 / 主人との掛け合い～サゲ～砂切り
+2012-09-05 10:54:18,Traditional,2246893,1,高津の富
+2012-03-05 10:40:50,Pop,307000,1,ギャラリー
+2012-03-05 10:44:11,Pop,200933,1,少年時代
+never,Pop,318173,0,フィクション
+never,Pop,176760,0,Tokyo
+never,iTunes U,893592,0,第13回(6)：竹内　郁雄「情報とアートのインターフェース」
+2012-08-12 03:41:47,Rock,191226,9,Country Honk
+2012-08-12 03:34:12,Rock,275106,10,Gimme Shelter
+2012-08-12 03:38:36,Rock,264666,10,Love In Vain
+2012-07-06 03:24:18,Classical,37040,2,Bach: Goldberg Variations/ BWV 988 - Variatio 5 A 1 Ovvero 2 Clav. (Zenph Version)
+never,Rock,301266,0,Sitting On Top Of The World
+2012-07-06 03:23:41,Classical,29266,2,Bach: Goldberg Variations/ BWV 988 - Variatio 4 A 1 Clav. (Zenph Version)
+2012-07-06 03:23:12,Classical,54720,2,Bach: Goldberg Variations/ BWV 988 - Variatio 3 Canone All'Unisono. A 1 (Zenph Version)
+2012-07-06 03:22:17,Classical,37253,2,Bach: Goldberg Variations/ BWV 988 - Variatio 2 A 1 Clav. (Zenph Version)
+2012-09-03 00:46:42,Indie Rock,283760,1,Supersonic
+2012-07-06 03:21:40,Classical,45133,2,Bach: Goldberg Variations/ BWV 988 - Variatio 1 A 1 Clav. (Zenph Version)
+2012-03-14 01:28:15,Rock,237373,2,One Of Us
+2012-03-30 08:48:32,Rock,293760,3,The Name Of The Game
+2012-03-27 12:07:14,Rock,292773,3,Gimme! Gimme! Gimme! (A Man After Midnight)
+2012-03-29 17:32:10,Rock,193493,4,Does Your Mother Know
+2012-09-10 09:21:19,Traditional,321000,1,『お直し』　廃墟に咲いた花～サゲ～仲入り
+2012-03-14 01:36:59,Rock,229666,2,Thank You For The Music
+never,Classical,176000,0,Lieder ohne Worte/ Op. 30: No. 6. Allegretto in F Sharp Minor "Venetian Gondola Song"
+2012-10-04 15:08:57,Classical,181426,740,Lieder ohne Worte: Op. 30/ No. 6. Allegretto in F Sharp Minor/ "Venetian Gondola Song"
+2012-10-07 09:50:01,Pop,182786,2,Sour Candy (Radio Version)
+2012-10-07 09:46:58,Pop,240280,2,Tug Of War (Dave "Rave" Ogilvie Remix)
+2012-09-21 03:37:51,Indie Rock,268866,2,Up In The Sky
+never,Rock,256533,0,Politician
+2010-08-23 05:43:19,none,378240,2,あらゆる音声を立体音響化.mp4
+never,Pop,138333,0,結構だね音頭
+2012-07-06 04:38:37,Classical,74626,2,Vivaldi: Trumpet Concerto - Allegro
+never,Pop,176440,0,涙くんさよなら
+2012-09-16 11:28:20,Pop,158160,1,ともだち
+never,Rap,266933,0,Big Weenie
+2012-09-06 14:02:54,Pop,183840,1,サヨナラ東京
+2012-07-06 04:33:03,Classical,159653,3,Stölzel: Trumpet Concerto In D - 3. Allegro
+2012-07-06 04:30:24,Classical,174440,3,Stölzel: Trumpet Concerto In D - 2. Andante
+2012-07-06 04:37:23,Classical,104880,3,Telemann: Trumpet Concerto In D/ TV 51/D 7 - Allegro
+2012-07-06 04:35:38,Classical,154466,3,Telemann: Trumpet Concerto In D/ TV 51/D 7 - Adagio
+never,Pop,174226,0,レットキス (ジェンカ)
+2012-10-07 16:28:51,Rap,300426,5,Talkin' 2 Myself
+2012-07-24 21:33:31,Rock,227266,11,Shattered
+2012-10-07 16:23:50,Rap,303733,6,Cold Wind Blows
+2012-07-24 21:25:18,Rock,205200,11,Before They Make Me
+2012-07-24 21:29:43,Rock,265066,11,Beast Of Burden
+never,iTunes U,768553,0,Behind "Waiting for Superman"
+never,iTunes U,759550,0,The Literary Life of Lois Lowry
+never,Electronica,595933,0,Fullness of Wind
+never,iTunes U,1284928,0,Are You a Global Citizen?
+never,iTunes U,1085674,0,Seducing Summer Readers
+never,Electronica,194960,0,Bone Bomb
+never,Electronica,319773,0,Under
+never,iTunes U,1517158,0,Harvard Meets the Homeless
+never,Electronica,1894893,0,Discreet Music
+never,Electronica,279840,0,The Demon Of The Mines
+never,iTunes U,4907407,0,空間情報と資源探査
+2012-09-07 14:41:34,Traditional,306706,1,明烏 / そして翌朝～サゲ～追い出し
+never,iTunes U,3512646,0,空間情報と戦争
+never,iTunes U,4461862,0,空間情報と文明の進化
+never,iTunes U,3548415,0,空間情報と知識創造
+never,iTunes U,4613647,0,空間情報と環境創造
+never,iTunes U,3719820,0,Webと集合知
+never,iTunes U,4266767,0,Wiki
+never,iTunes U,5035736,0,1-ガイダンス
+never,iTunes U,4762729,0,3-Webプログラミング
+never,iTunes U,3438472,0,Webとユーザープログラミング
+never,Electronica,181533,0,Horse
+2012-09-08 16:14:38,Traditional,140800,1,船徳 / 操船不能～サゲ～砂切り
+never,ボイスメモ,58187,0,4/23/12 16:38 
+never,ボイスメモ,230595,0,4/23/12 16:34 
+never,ボイスメモ,33110,0,4/23/12 13:17 
+never,ボイスメモ,59464,0,4/19/12 16:32 
+2012-09-08 16:20:28,Traditional,127800,1,居残り佐平次 / 出囃子「老松」～マクラ
+never,ボイスメモ,6709,0,4/24/12 21:22 
+2012-09-08 16:27:53,Traditional,445560,1,居残り佐平次 / 事の発端
+never,none,15487,0,nhk_anechoic_oboe
+never,Rock,278000,0,I Still Haven't Found What I'm Looking For
+2012-06-05 23:43:54,Jazz,628253,5,Entry Point
+never,Rock,296160,0,With Or Without You
+never,Rock,271906,0,Bullet The Blue Sky
+never,Rock,257866,0,Running To Stand Still
+never,Rock,293466,0,Red Hill Mining Town
+2012-06-05 23:33:26,Jazz,952973,6,Orchestrion
+never,iTunes U,5106740,0,空間・情報と未来先導
+never,iTunes U,4907941,0,空間情報と文明の進化
+never,iTunes U,4934835,0,空間情報と資源探査
+never,iTunes U,4646747,0,空間情報と環境創造
+never,Pop,262000,0,長時間の飛行
+never,iTunes U,5186954,0,空間情報技術
+2012-09-02 06:55:06,Rock,552200,1,I'm So Glad [Live]
+never,Electronica,108840,0,Small Craft On A Milk Sea
+never,Rap,30200,0,Final Thought (Skit)
+never,Rap,348400,0,Encore / Curtains Down
+never,Rap,242306,0,Crazy In Love
+2012-07-10 13:09:19,Jazz,474706,13,Temptation
+never,Rap,266573,0,One Shot 2 Shot
+never,Rap,33733,0,Public Service Announcement
+2012-05-16 15:21:04,none,186453,1,01 Don't Know Why
+never,iTunes U,1119644,0,第6回(3)：廣瀬 通孝「コンピュータとバーチャルリアリティ」
+never,iTunes U,995324,0,第6回(5)：廣瀬 通孝「コンピュータとバーチャルリアリティ」
+2012-07-10 06:33:47,none,1973,1,boot
+never,none,17487,0,guitar_mono-by-clapL-snapR_stereo+left-right_stereo+yukino_mono
+never,none,17487,0,guitar_mono-by-clapL-snapR_stereo+left-right_stereo+nhk_mono
+never,none,17487,0,guitar_mono-by-clapL-snapR_stereo+left-right_stereo+nhk_mono+yukino_mono
+2012-09-02 11:48:11,Rock,218200,5,Deserted Cities Of The Heart
+never,none,17487,0,guitar_mono-by-clapL-snapR_stereo+left-right_stereo
+2012-03-27 08:48:20,Rock,210893,2,Don't Stop Me Now
+2012-09-11 05:26:27,Pop,156866,1,薩摩の女
+2012-03-28 10:35:31,Rock,168400,6,Seven Seas Of Rhye
+2012-02-05 18:17:00,Rock,211600,2,Play The Game
+2012-02-05 17:28:52,Rock,228733,1,Save Me
+2012-03-14 04:09:09,Rock,273640,2,Body Language
+2012-09-17 14:49:19,Traditional,105693,2,『芝浜』 出囃子「三下がり中の舞」～マクラ
+2012-09-11 05:23:50,Pop,251800,1,関東流れ唄
+2012-09-10 09:32:03,Traditional,178266,1,『芝浜』 久しぶりの魚河岸行き
+2012-09-10 09:29:04,Traditional,240173,1,『芝浜』 魚熊のいきさつ
+2012-09-10 09:55:35,Traditional,385066,1,『芝浜』 思いがけない金
+2012-09-14 03:04:47,Pop,227573,3,博多の女
+2012-06-30 01:57:04,Jazz,789906,2,Another MIND
+2012-06-30 01:43:54,Jazz,649933,2,Legend Of The Purple Valley
+2012-03-14 04:04:35,Country & Folk,302733,5,Bob Dylan's Dream
+2012-08-26 06:43:40,Jazz,329693,14,Choux A La Creme
+2012-08-26 06:37:51,Jazz,357920,15,BQE
+2012-03-27 13:36:47,Country & Folk,413333,6,A Hard Rain's A-Gonna Fall
+2012-03-27 08:53:45,Country & Folk,221000,4,Don't Think Twice/ It's All Right
+2012-08-26 06:52:07,Jazz,507266,14,Sicilian Blue
+2012-03-27 09:00:25,Country & Folk,212106,5,Down The Highway
+2012-05-13 12:39:33,Country & Folk,148866,7,Bob Dylan's Blues
+2012-01-16 09:22:33,Rock,453440,5,Visions Of Johanna
+2012-08-16 22:21:36,Alternative,183560,31,Breed
+2012-01-16 09:14:53,Rock,230093,6,Pledging My Time
+2012-08-16 22:18:33,Alternative,219333,31,Come As You Are
+2012-05-16 15:53:27,Rock,276666,7,Rainy Day Women #12 & 35
+2012-08-16 22:28:50,Alternative,177000,31,Polly
+2012-01-30 14:42:41,R&B,222400,4,Part-Time Lover
+2012-08-16 22:25:53,Alternative,256973,31,Lithium
+2012-08-16 22:31:14,Alternative,143333,31,Territorial Pissings
+2012-01-16 09:34:53,Rock,294760,5,One Of Us Must Know (Sooner Or Later)
+never,Rock,167866,0,Badge
+never,Rock,177200,0,Those Were The Days
+never,Rock,193600,0,Born Under A Bad Sign
+never,Rock,221000,0,Deserted Cities Of The Heart
+never,Rock,160200,0,Anyone For Tennis
+2012-03-29 05:07:37,Pop,198173,9,The Scaffold
+never,Indie Rock,53026,0,MK 2
+2012-07-11 14:42:41,Country & Folk,200560,1,Talkin' New York
+2012-07-11 14:45:22,Country & Folk,160746,1,In My Time Of Dyin'
+2012-07-11 14:48:33,Country & Folk,190506,1,Man Of Constant Sorrow
+2012-03-29 04:19:59,Pop,195440,9,Western Ford Gateway
+2012-03-29 04:34:56,Pop,269800,9,Hymn 2000
+2012-05-13 12:52:49,Pop,189066,13,Lady What's Tomorrow
+2012-09-26 17:43:39,Traditional,276266,1,駒長 ようやく本番
+2012-03-29 04:55:20,Pop,225093,9,Sails
+2012-06-30 13:53:50,Jazz,197453,17,Isn't She Lovely
+2012-06-30 13:40:38,Jazz,347373,17,Cristo Redentor
+2012-06-30 13:34:51,Jazz,432680,18,Comin' Home Baby
+2012-06-30 13:50:32,Jazz,302106,17,Man From Mars
+2012-06-30 13:45:30,Jazz,292093,18,Harlem Nocturne
+2012-03-27 08:56:53,Country & Folk,145826,8,Down Along The Cove
+2012-01-19 21:33:23,Country & Folk,125266,7,Wicked Messenger
+2012-07-06 02:05:27,Pop,668626,15,Funeral For A Friend/Love Lies Bleeding
+2012-07-02 16:51:02,Jazz,370360,8,Pannonica
+2012-03-27 15:02:19,Country & Folk,159373,8,I'll Be Your Baby Tonight
+2012-07-22 21:12:38,Pop,236400,26,Until The End
+2012-07-22 21:08:42,Pop,179760,27,The Sun Doesn't Like You
+2012-07-06 02:09:17,Pop,230013,14,Candle In The Wind
+2012-09-18 06:02:00,Pop,278306,29,Sinkin' Soon
+never,Podcast,310752,0,第3号「虚構新聞ニュース」2012年5月6日
+2012-07-02 16:31:11,Jazz,202893,8,My Ship
+2012-07-02 16:35:22,Jazz,250373,8,I Didn't Know What Time It Was
+never,Rock,225693,0,Red Light
+2012-07-25 13:48:50,Electronica,283360,10,Laser Rock
+never,Indie Rock,266480,0,Last Flowers To The Hospital
+never,Rock,281866,0,Yahweh
+2012-04-11 14:29:20,Jazz,472346,11,Salt Peanuts
+2012-05-12 18:16:44,Jazz,437028,12,Groovin' High
+2012-05-12 17:22:16,Jazz,454164,13,A Night In Tunisia
+2012-05-13 10:44:18,Jazz,432039,14,Bebop
+never,Rock,256733,0,Deserted Cities Of The Heart [Live At Oakland]
+2012-04-11 14:36:34,Jazz,434076,11,Hot House
+never,Rock,809666,0,Steppin' Out [Live At Winterland]
+2012-09-14 13:56:13,Jazz,329133,7,Workin` Man Blues
+2012-09-14 14:01:23,Jazz,310520,8,Georgia On My Mind
+2012-09-14 14:07:38,Jazz,375226,6,House Of The Risin` Sun
+never,Rock,422493,0,Traintime
+2012-09-14 14:12:09,Jazz,270853,18,Amazing Grace
+2012-09-14 14:13:45,Jazz,95493,5,Story Of Little Boy
+never,Rock,333440,0,Surrender
+2012-09-11 01:27:08,Pop,203640,3,潮どき（岩谷時子）
+never,Traditional,1542066,0,らくだ
+2012-09-23 12:38:08,Pop,248506,5,裏通り（藤田まさと）
+2012-09-05 16:08:11,Pop,287200,1,純・情歌
+2012-09-11 01:23:44,Pop,213466,3,倖せさがして（たかたかし）
+2012-09-11 01:20:10,Pop,266893,3,トラック 02細雪（吉岡治）
+2012-09-02 07:09:12,Rock,167826,1,Badge
+2012-07-22 14:46:59,Rock,170973,12,Citadel
+2012-10-04 15:14:41,Alternative,205773,14,Lost In The Echo
+2012-09-02 07:16:27,Rock,236360,1,What A Bringdown
+2012-09-06 16:18:40,Pop,273173,1,冬のリビエラ
+2012-10-07 17:39:53,Rock,280933,3,White As Snow
+2012-07-06 03:20:55,Classical,113093,2,Bach: Goldberg Variations/ BWV 988 - Aria (Zenph Version)
+2012-10-07 17:44:53,Rock,300333,3,Breathe
+2012-10-07 17:49:14,Rock,260400,3,Cedars Of Lebanon
+2012-10-07 17:53:19,Rock,245640,2,No Line On The Horizon 2
+never,Rock,338306,0,Where The Streets Have No Name
+2012-07-06 03:14:51,Classical,70666,1,Bach: Goldberg Variations/ BWV 988 - Variatio 28 A 2 Clav. (1955)
+2012-07-06 03:15:51,Classical,60266,1,Bach: Goldberg Variations/ BWV 988 - Variatio 29 A 1 Ovvero 2 Clav. (1955)
+2012-07-06 03:16:39,Classical,47933,1,Bach: Goldberg Variations/ BWV 988 - Variatio 30 Quodlibet. A 1 Clav. (1955)
+2012-07-06 03:19:02,Classical,143053,1,Bach: Goldberg Variations/ BWV 988 - Aria Da Capo (1955)
+2012-03-14 01:39:47,Rock,168106,2,Waterloo
+2012-05-16 16:38:40,Rock,262213,9,Dude (Looks Like A Lady)
+2012-03-28 16:38:09,Country & Folk,278120,13,The Cowboy And The Lady
+2012-04-23 14:39:28,Rock,306880,6,Livin' On The Edge
+2012-03-30 19:12:58,Country & Folk,219920,15,Autograph
+2012-03-14 20:06:19,Country & Folk,241680,10,Some Days Are Diamonds (Some Days Are Stone)
+2012-03-14 19:53:46,Country & Folk,229000,10,I Want To Live
+2012-03-14 19:58:37,Country & Folk,290800,10,My Sweet Lady
+2012-05-13 16:34:39,Jazz,722000,2,Lifeline
+2012-05-13 16:48:04,Jazz,805373,5,Concierto De Aranjuez / Spain
+2012-04-03 19:31:25,Jazz,730120,8,Armando's Tango
+2012-05-16 16:22:08,Jazz,695093,5,Autumn Leaves
+never,Latin,128960,0,Coração Vagabundo
+never,Latin,154240,0,Eu Vim Da Bahia
+2012-09-01 05:27:57,Alternative,339853,8,The Catalyst
+2012-05-13 13:47:05,Jazz,703546,2,Quartet No.2/ Part 1
+2012-07-06 04:49:25,Classical,181160,2,Gounod: Ave Maria
+2012-07-06 04:51:25,Classical,120093,2,Charpentier: Te Deum - Fanfare
+2012-07-06 04:43:33,Classical,295746,2,Bach: Wir Eilen Mit Schwachen
+2012-07-06 04:46:24,Classical,170666,2,Clarke: Prince Of Denmark's March/ "Trumpet Voluntary"
+2012-07-06 04:57:52,Classical,386826,2,Albinoni: Adagio In G Minor
+2012-09-18 06:24:01,Pop,189026,2,上を向いて歩こう
+never,Rap,250760,0,Mockingbird
+2012-09-06 13:16:23,Pop,141040,1,九ちゃん音頭(それが浮世と云うものさ)
+2012-09-06 13:24:53,Pop,159893,1,戦場に陽は落ちて
+2012-09-06 13:22:13,Pop,161506,1,モデル・ガール
+never,Rap,71746,0,Em Calls Paul (Skit)
+2012-09-06 13:27:23,Pop,150133,1,もう一人のボク
+never,Rap,248680,0,Just Lose It
+never,Rap,265480,0,Ass Like That
+never,Rap,310720,0,Spend Some Time
+2012-10-08 20:12:58,Latin,214400,1,Valsa (Como São Lindos Os Youguis)
+2012-10-08 20:09:24,Latin,356040,1,Eu Vim Da Bahia
+2012-10-08 20:03:28,Latin,288733,1,Eu Quero Um Samba
+2012-10-08 19:58:39,Latin,227266,1,Falsa Baiana
+2012-05-13 14:12:02,Country & Folk,130933,2,To Be Alone With You
+2012-10-07 16:45:47,Rap,298893,5,Going Through Changes
+2012-10-07 16:40:48,Rap,238173,5,W.T.P.
+2012-10-07 16:36:50,Rap,265906,5,Won't Back Down
+never,Latin,312733,0,É Preciso Perdoar
+2012-10-07 16:32:24,Rap,213493,6,On Fire
+2012-06-18 04:56:10,Rock,284133,9,The Great Gig In The Sky
+never,iTunes U,807238,0,The Education Governor
+2012-06-18 04:51:26,Rock,409600,6,Time
+never,iTunes U,817210,0,Eight Decades of Education
+2012-06-18 04:27:24,Rock,469853,5,Us And Them
+never,iTunes U,829747,0,Organizing a Posse
+2012-06-18 05:02:33,Rock,382746,7,Money
+never,iTunes U,639362,0,Carnegie with a Yak
+2012-06-18 04:30:50,Rock,206213,10,Any Colour You Like
+never,iTunes U,944646,0,A New Harlem Renaissance
+2012-05-13 14:09:51,Country & Folk,146173,2,I Threw It All Away
+never,Podcast,270367,0,第13号「虚構新聞ニュース」2012年10月7日
+never,iTunes U,4029162,0,2-Webとなめらかなインタフェース
+never,ボイスメモ,32158,0,4/11/12 18:29 
+never,ボイスメモ,223955,0,4/11/12 18:21 
+never,ボイスメモ,20083,0,4/11/12 20:14 
+never,ボイスメモ,119511,0,4/11/12 18:31 
+never,iTunes U,4675876,0,14. Core Data Demo (November 10/ 2011) - HD
+never,ボイスメモ,14952,0,4/13/12 14:44 
+never,iTunes U,1621855,0,12. Persistence (November 3/ 2011) - HD
+never,Traditional,227506,0,『粗忽の使者』 出囃子「三下り中の舞」～マクラ
+never,Rock,212333,0,Trip Through Your Wires
+never,Rock,176866,0,In God's Country
+never,Rock,253066,0,Exit
+never,Rock,323360,0,One Tree Hill
+never,Rock,314066,0,Mothers Of The Disappeared
+never,Rock,191506,0,Seconds
+2012-09-02 07:01:23,Rock,377173,1,Politician [Live]
+2012-09-02 07:06:25,Rock,301666,1,Sitting On Top Of The World [Live]
+never,iTunes U,1962462,0,「良い境界、よくない境界、活かす方法、なくす方法」〜空間情報からの発想
+2012-09-02 07:12:30,Rock,197906,1,Doing That Scrapyard Thing
+never,iTunes U,3878545,0,新成長戦略とグリーンイノベーション
+never,iTunes U,4706807,0,空間情報とメディア創造
+never,iTunes U,2755422,0,空間情報と知識創造
+never,iTunes U,3167901,0,Webマッピングとソーシャル・イノベーション
+never,iTunes U,166066,0,空間情報ビジネス
+never,Rap,15906,0,Paul
+never,iTunes U,4502603,0,空間情報技術
+never,Rap,226626,0,Brain Damage
+never,iTunes U,3241475,0,Webマッピングとソーシャル・イノベーション
+never,Rap,199333,0,Guilty Conscience
+never,iTunes U,3337504,0,空間情報とメディア創造
+never,Rap,268400,0,My Name Is
+never,iTunes U,3319386,0,空間情報と安全
+never,Rap,245493,0,If I Had
+never,iTunes U,1089788,0,特別講義(2)：坂本龍一　×　小林康夫「音楽はどこにある？」
+never,iTunes U,997095,0,特別講義(1)：坂本龍一　×　小林康夫「音楽はどこにある？」
+never,iTunes U,946445,0,特別講義(3)：坂本龍一　×　小林康夫「音楽はどこにある？」
+never,iTunes U,907640,0,特別講義(4)：坂本龍一　×　小林康夫「音楽はどこにある？」
+never,iTunes U,1134232,0,特別講義(5)：坂本龍一　×　小林康夫「音楽はどこにある？」
+never,ボイスメモ,206540,0,2/6/12 6:05 
+2012-02-05 18:06:30,Rock,171706,2,You're My Best Friend
+2012-03-28 13:35:49,Rock,163693,3,Crazy Little Thing Called Love
+2012-02-05 18:00:35,Rock,256466,2,Fat Bottomed Girls
+2012-03-28 05:30:09,Rock,182693,4,Bicycle Race
+2012-09-02 11:41:22,Rock,177493,5,Those Were The Days
+2012-09-02 11:38:25,Rock,253506,5,Politician
+2012-03-11 20:34:11,Rock,254666,5,Now I'm Here
+2012-09-02 11:30:56,Rock,261333,6,As You Said
+never,ボイスメモ,18504,0,2/7/12 5:52 
+2012-06-30 00:06:35,Jazz,327453,12,Pachelbel's Canon
+2012-02-13 11:00:19,Country & Folk,278200,5,Masters Of War
+2012-06-30 00:01:08,Jazz,271226,12,Islands Azores
+2012-03-27 12:10:37,Country & Folk,203093,6,Girl From The North Country
+2012-08-26 07:06:29,Jazz,342080,13,Capecod Chips
+2012-05-16 17:20:16,Country & Folk,169000,10,Blowin' In The Wind
+2012-08-26 07:00:47,Jazz,338973,13,Somewhere
+2012-05-13 08:55:05,Country & Folk,215266,8,It Ain't Me Babe
+2012-08-26 06:55:08,Jazz,180506,14,Berne Baby Berne
+2012-03-20 03:04:55,Country & Folk,497133,9,Ballad In Plain D
+2012-07-26 14:57:41,R&B,445333,8,Living For The City
+2012-01-30 14:28:48,R&B,203840,7,You Haven't Done Nothin'
+2012-01-30 14:58:35,R&B,309866,4,That Girl
+2012-08-16 22:14:53,Alternative,254906,31,In Bloom
+2012-03-27 08:22:58,R&B,303293,6,Do I Do
+2012-09-19 07:24:18,Alternative,301600,33,Smells Like Teen Spirit
+2012-03-01 13:06:15,R&B,262973,8,I Just Called To Say I Love You
+2012-09-18 05:48:40,Pop,224466,4,Blue Bayou
+2012-09-02 11:44:33,Rock,190506,5,Born Under A Bad Sign
+2012-09-18 05:44:56,Pop,252306,4,More Than This
+2012-09-18 05:40:43,Pop,456346,4,Court & Spark
+never,Rock,162466,0,You Make Me Feel [Demo]
+never,Rock,241533,0,What A Bringdown
+never,Rock,198466,0,Doing That Scrapyard Thing
+never,Rock,169266,0,Lawdy Mama [Version 2]
+never,Rock,165866,0,The Coffee Song
+never,Country & Folk,172946,0,Highway 51
+2012-03-29 03:28:24,Pop,244333,12,It's Me That You Need
+never,Country & Folk,157160,0,Baby/ Let Me Follow You Down
+never,Country & Folk,107386,0,Gospel Plow
+2012-03-29 03:10:50,Pop,433226,8,Gulliver/It's Hay Chewed
+2012-03-29 05:19:04,Pop,217866,9,Skyline Pigeon
+2012-06-15 18:27:06,Pop,172800,33,All Across The Havens
+2012-03-29 03:16:44,Pop,184373,8,Lady Samantha
+never,ボイスメモ,5710,0,2/16/12 11:13 
+2012-04-14 09:18:11,Jazz,266000,15,Blue In Green [Take 2]
+2012-04-14 09:13:45,Jazz,326693,14,Blue In Green [Take 3]
+never,ボイスメモ,16763,0,2/8/12 3:46 
+never,ボイスメモ,36755,0,2/8/12 3:34 
+never,ボイスメモ,56097,0,2/10/12 5:47 
+never,ボイスメモ,21709,0,2/10/12 5:45 
+never,Rap,317813,0,Mosh
+2012-10-04 15:44:36,Alternative,71893,5,Tinfoil
+2012-07-22 21:28:26,Pop,166706,26,Wake Me Up
+2012-10-04 15:43:24,Alternative,223400,5,Until It Breaks
+2012-07-06 01:48:20,Pop,219853,10,Jamaica Jerk Off
+2012-05-13 14:15:17,Country & Folk,194800,2,Nashville Skyline Rag
+2012-10-04 15:36:52,Alternative,229933,6,Roads Untraveled
+2012-07-22 21:18:53,Pop,200600,26,Thinking About You
+2012-07-06 01:40:38,Pop,144346,12,This Song Has No Title
+2012-07-22 21:15:33,Pop,174480,26,Not My Friend
+2012-07-06 01:44:40,Pop,241613,12,Grey Seal
+2012-07-22 21:25:39,Pop,205226,25,My Dear Country
+2012-07-06 01:35:00,Pop,324506,12,Bennie And The Jets
+2012-07-22 21:22:14,Pop,201013,25,Broken
+2012-07-06 01:38:14,Pop,193720,12,Goodbye Yellow Brick Road
+2012-09-05 16:03:24,Pop,318933,1,風の盆恋歌
+never,ボイスメモ,12421,0,4/29/12 2:32 
+never,ボイスメモ,5780,0,5/21/12 5:56 
+2012-05-29 07:34:26,Jazz,308062,8,Water Babies
+2012-04-11 14:38:51,Jazz,136881,11,Fifty Second Street Theme
+2012-05-29 07:50:58,Jazz,482403,6,Sweet Pea
+2012-05-29 07:42:55,Jazz,509544,7,Capricorn
+2012-04-20 09:19:54,Jazz,1082723,2,Two Faced
+never,ボイスメモ,61276,0,6/4/12 18:09 
+2012-09-17 14:57:42,Traditional,310493,1,『大山詣り』 出囃子「老松」～マクラ
+2012-07-10 13:01:24,Jazz,376933,14,Now or Never
+2012-05-13 14:07:25,Country & Folk,124960,2,Peggy Day
+2012-07-10 12:46:28,Jazz,553466,15,Voice
+2012-07-10 12:55:07,Jazz,519253,15,Flashback
+never,ボイスメモ,4154,0,6/17/12 8:04 
+2012-07-10 12:11:01,Jazz,460600,12,Labyrinth
+2012-03-30 14:02:35,Jazz,143720,29,Happy Hours
+never,Rock,140826,0,October
+2012-09-19 06:10:12,Jazz,94626,21,Sukiyaki
+2012-09-19 06:16:23,Jazz,370533,19,Beatles Medley
+2012-03-30 15:24:10,Jazz,258746,20,Ruby`s Eyes
+2012-09-17 03:38:10,Jazz,554266,15,Mombasa
+2012-09-11 01:48:52,Pop,312000,3,千日草（水木れいじ）
+2012-10-07 18:29:13,Indie Rock,45533,5,(Untitled)
+2012-09-09 16:28:54,Traditional,127640,1,『愛宕山』 その前夜
+never,Traditional,782893,0,替り目
+never,Traditional,859200,0,強情灸
+never,Traditional,1620866,0,付き馬
+2012-09-09 16:26:46,Traditional,176226,1,『愛宕山』 出囃子「三下り中の舞」～マクラ
+2012-07-22 14:26:46,Rock,263226,11,The Lantern
+2012-07-22 14:53:20,Rock,187840,12,2000 Man
+2012-07-22 14:50:13,Rock,193226,12,In Another Land
+2012-07-22 14:22:23,Rock,275466,11,She's A Rainbow
+2012-07-22 14:17:47,Rock,514133,11,Sing This All Together (See What Happens)
+2012-01-19 21:48:16,Country & Folk,235240,9,I Dreamed I Saw St. Augustine
+2012-10-07 17:18:26,Rock,362840,4,Unknown Caller
+2012-10-07 17:29:56,Rock,230400,3,Stand Up Comedy
+2012-10-07 17:26:05,Rock,205200,3,Get On Your Boots
+2012-10-07 17:35:12,Rock,316226,3,Fez - Being Born
+2012-03-30 19:09:18,Country & Folk,172293,16,As I Went Out One Morning
+2012-04-23 14:51:55,Rock,215426,7,Jaded
+2012-05-13 13:19:58,Rock,309586,9,Cryin'
+2012-04-23 15:01:06,Rock,306013,17,Angel
+2012-04-23 14:56:00,Rock,244813,7,Crazy
+2012-03-14 20:25:06,Country & Folk,245146,4,Wild Montana Skies
+2012-04-23 13:48:20,Rock,357506,18,Amazing
+2012-03-14 20:18:02,Country & Folk,194853,10,Shanghai Breezes
+2012-03-14 20:14:47,Country & Folk,230680,10,Seasons Of The Heart
+never,Jazz,233706,0,High Wire
+2012-04-18 10:11:03,Jazz,204106,5,Come Rain Or Come Shine
+2012-04-23 04:06:33,Jazz,360560,20,Autumn Leaves [Take 1]
+2012-04-23 04:12:00,Jazz,326440,21,Autumn Leaves [Take 2]
+2012-04-23 04:16:37,Jazz,277800,16,Witchcraft
+2012-08-25 18:11:22,Alternative,279453,9,Blackout
+2012-10-08 18:44:23,Latin,395866,2,Aquarela Do Brasil
+2012-09-10 09:02:41,Traditional,246666,1,『お直し』　羅生門河岸での再出発
+2012-05-28 04:39:56,Classical,213413,4,Lara: Granada
+2012-05-28 04:44:23,Classical,266786,4,Rota: La Strada
+2012-07-06 02:42:20,Classical,114600,1,Bach: Goldberg Variations/ BWV 988 - Aria (1955)
+2012-07-06 02:43:05,Classical,45120,1,Bach: Goldberg Variations/ BWV 988 - Variatio 1 A 1 Clav. (1955)
+2012-07-06 02:43:42,Classical,37266,1,Bach: Goldberg Variations/ BWV 988 - Variatio 2 A 1 Clav. (1955)
+2012-09-06 13:14:02,Pop,138960,1,月夜に歩けば
+2012-09-06 13:09:12,Pop,181106,1,九ちゃんのズンタタッタ(聞いちゃいけないよ)
+2012-09-06 13:11:43,Pop,150466,1,カレンダーガール
+2012-09-06 13:02:10,Pop,170600,1,遙かなるアラモ
+2012-09-06 13:04:45,Pop,155800,1,砂漠の恋の物語
+never,Latin,327733,0,Izaura
+2012-07-24 21:01:55,Rock,261200,11,When The Whip Comes Down
+never,Electronica,213253,0,This
+never,Electronica,349573,0,And Then So Clear
+never,Electronica,160693,0,A Long Way Down
+2012-07-25 10:44:20,Rock,305533,9,Fool To Cry
+never,Electronica,262226,0,Going Unconscious
+2012-07-25 10:39:15,Rock,349600,9,Melody
+2012-07-24 21:38:20,Rock,289160,12,Miss You
+2012-07-25 10:48:54,Rock,274333,9,Crazy Mama
+never,Electronica,171226,0,Spirits Drifting
+never,iTunes U,4202168,0,Supporting Excellent Teaching of English Learners: Panel Discussion
+2012-06-18 04:44:36,Rock,230600,5,On The Run
+never,iTunes U,3865210,0,Preparing Minds for Chance Favors: The Challenge of Routine and Surprise in Professional Education
+2012-06-18 04:37:57,Rock,68346,5,Speak To Me
+never,iTunes U,4919552,0,Supporting Excellent Teaching of English Learners: New Directions
+2012-06-18 04:40:46,Rock,168720,5,Breathe (In The Air)
+2012-03-27 12:50:25,Rock,266706,2,Good Day In Hell
+2012-03-28 05:27:06,Rock,274360,3,The Best Of My Love
+2012-10-07 14:35:52,Indie Rock,249666,36,Strawberry Swing
+2012-10-07 14:42:16,Indie Rock,383773,32,Death And All His Friends
+2012-10-07 14:46:00,Indie Rock,224106,31,Lost?
+2012-09-26 07:13:20,Indie Rock,78040,31,Death Will Never Conquer
+2012-09-19 06:20:53,Rock,269733,26,New Divide
+never,Rap,290440,0,The Way I Am
+never,Indie Rock,351626,0,The National Anthem
+never,iTunes U,4461562,0,15. Modal View Controller/Test/Animation/Timer (November 15/ 2011)
+never,iTunes U,2986687,0,Building Apps that People Want (November 11/ 2011) - HD
+never,iTunes U,1135135,0,Time Profiler (November 4/ 2011) - HD
+never,ボイスメモ,3295,0,4/11/12 18:21 
+never,ボイスメモ,27676,0,3/22/12 19:51 
+never,ボイスメモ,30068,0,3/30/12 9:24 
+never,ボイスメモ,294845,0,3/8/12 7:36 
+never,ボイスメモ,9240,0,3/17/12 12:58 
+2012-09-09 16:13:57,Traditional,696400,1,雛鍔 / ご隠居入来
+2012-09-26 09:21:38,Rock,276800,1,Staring At The Sun
+2012-09-26 09:17:01,Rock,322466,1,If God Will Send His Angels
+2012-09-26 09:11:38,Rock,349133,1,Mofo
+2012-09-26 09:05:49,Rock,307400,1,Do You Feel Loved
+2012-09-26 09:00:42,Rock,318666,1,Discothèque
+never,iTunes U,3501702,0,空間情報と文化
+never,iTunes U,4664665,0,空間情報社会
+never,iTunes U,5106740,0,空間・情報と未来先導
+never,iTunes U,3446547,0,空間情報と戦争
+never,iTunes U,4907941,0,空間情報と文明の進化
+never,iTunes U,1022053,0,特別講義(6)：坂本龍一　×　小林康夫「音楽はどこにある？」
+2012-04-30 16:47:53,iTunes U,1088806,1,第5回(2)：廣瀬 通孝「コンピュータとバーチャルリアリティ」
+2012-04-30 16:48:05,iTunes U,1214496,1,第5回(4)：廣瀬 通孝「コンピュータとバーチャルリアリティ」
+2012-04-30 10:43:25,iTunes U,1011461,1,第5回(1)：廣瀬 通孝「コンピュータとバーチャルリアリティ」
+never,Voice Memo,46786,0,2/6/12 6:20 
+2012-09-06 13:40:12,Pop,174493,1,東京五輪音頭
+2012-03-01 07:36:14,Rock,181626,4,We Are The Champions
+2012-04-03 18:22:48,Rock,217040,12,Another One Bites The Dust
+never,Voice Memo,206540,0,2/6/12 6:05 
+never,Electronica,315600,0,Back In Judy's Jungle
+2012-02-05 17:56:19,Rock,296866,2,Somebody To Love
+never,none,17487,0,guitar_mono-by-left-right_stereo+yukino_mono
+never,Voice Memo,36755,0,2/8/12 3:34 
+2012-09-15 09:32:51,Traditional,934693,1,天狗さし
+never,Indie Rock,251426,0,Everything In Its Right Place
+2012-03-10 20:17:16,Rock,339240,1,Hold Out
+2012-09-11 00:38:28,Traditional,2067266,2,つぼ算
+2012-06-30 00:31:36,Jazz,248600,10,Green Tea Farm
+never,Country & Folk,203946,0,Pretty Peggy-O
+2012-06-30 00:10:32,Jazz,236986,11,Viva! Vegas: Show Cuty/ Show Girl
+2012-06-30 00:15:02,Jazz,270306,11,Viva! Vegas: Daytime In Las Vegas
+2012-06-30 00:20:45,Jazz,342266,11,Viva! Vegas: The Gambler
+2012-06-30 00:27:27,Jazz,402600,11,Place To Be
+never,Rock,107920,0,Mother's Lament
+2012-09-18 05:33:07,Pop,183840,4,Creepin' In
+never,Rock,188333,0,Take It Back
+never,Electronica,311106,0,The Great Pretender
+never,Rock,147400,0,Outside Woman Blues
+2012-06-05 22:48:47,Rock,211573,126,Willie And The Hand Jive
+2012-06-05 22:45:15,Rock,174200,129,Give Me Strength
+2012-09-18 05:18:06,Pop,265386,6,Little Lou/ Prophet Jack/ Ugly John
+2012-06-05 22:42:21,Rock,293626,140,Motherless Children
+2012-09-18 05:22:04,Pop,237986,5,Here We Go Again
+2012-07-10 06:04:11,Jazz,579493,24,Return of Kung-Fu World Champion
+2012-09-18 05:25:26,Pop,202573,5,Loretta
+2012-07-10 05:54:32,Jazz,542986,31,Love and Laughter
+2012-09-18 05:30:03,Pop,276840,4,Dear John
+2012-03-29 16:00:56,Pop,297760,2,Bye Bye Little Love
+2012-09-06 13:43:51,Pop,219533,1,九ちゃんのツンツン節
+never,Alternative,417760,0,Liar (Reptile Demo)
+2012-10-08 19:37:57,ボイスメモ,4340,1,3/1/12 21:54 
+2012-03-27 14:09:22,Alternative,240173,2,Heresy (Demo)
+never,Country & Folk,320560,0,House Of The Risin' Sun
+never,Alternative,452933,0,The Downward Spiral (The Bottom)
+never,ボイスメモ,117143,0,2/18/12 18:30 
+2012-03-28 10:14:59,Alternative,291653,1,Ruiner (Demo)
+2012-10-08 19:37:59,ボイスメモ,2552,1,3/1/12 21:54 
+2012-07-10 04:44:15,Pop,249933,1,ラブ ショック ナイト
+2012-07-10 04:40:05,Pop,203693,1,カナリア
+2012-07-10 06:14:16,Jazz,604573,37,Spiral
+never,ボイスメモ,269605,0,3/7/12 8:46 
+2012-07-10 04:32:15,Pop,280693,1,約束は0時
+2012-04-23 05:31:28,Jazz,297200,15,When I Fall In Love
+2012-04-23 05:34:44,Jazz,196026,16,Peri's Scope
+2012-04-19 14:21:45,Jazz,276666,3,What Is This Thing Called Love?
+2012-04-23 05:40:28,Jazz,309573,15,Spring Is Here
+2012-04-18 10:20:37,Jazz,297066,2,Someday My Prince Will Come
+2012-09-07 13:54:07,Traditional,317600,1,明烏 / 吉原行き
+2012-07-22 21:38:44,Pop,236773,23,Rosie's Lullaby
+2012-07-22 21:42:22,Pop,218546,23,Not Too Late
+2012-07-22 21:32:03,Pop,216573,25,Be My Somebody
+2012-07-22 21:34:47,Pop,163973,23,Little Room
+2012-09-07 13:58:52,Traditional,235573,1,明烏 / 茶屋の店先
+2012-07-22 21:44:53,Pop,150573,23,2 Men
+2012-03-28 13:41:10,Country & Folk,94600,5,Cripple Creek Ferry
+2012-03-14 21:26:28,Country & Folk,202453,7,Thank God I'm A Country Boy
+2012-10-04 15:31:16,Alternative,205453,7,Castle Of Glass
+2012-10-04 15:27:50,Alternative,211093,7,I'll Be Gone
+2012-07-22 06:10:40,Rock,184026,4,Around And Around
+2012-03-14 21:14:35,Country & Folk,313920,7,Sunshine On My Shoulders
+2012-03-14 21:09:21,Country & Folk,245293,7,Farewell Andromeda (Welcome To My Morning)
+2012-03-14 21:23:06,Country & Folk,224413,7,Matthew
+2012-03-30 19:49:30,Country & Folk,286146,10,Back Home Again
+2012-09-26 20:00:01,Traditional,434000,1,井戸の茶碗 一段とめでたい大団円～サゲ～中入り
+never,Indie Rock,284506,0,Kid A
+2012-09-01 05:31:00,Alternative,183586,8,The Messenger
+2012-09-01 05:35:55,Alternative,294573,14,New Divide [Live]
+2012-07-01 01:53:38,Electronica,527373,1,Go! Spastic
+2012-09-26 17:24:54,Traditional,194400,1,駒長 マクラ
+2012-09-26 17:00:13,Traditional,413400,1,真田小僧 ウチの真田の知恵・サゲ
+2012-05-12 16:47:31,Jazz,514333,16,京マチ子の夜
+2012-09-26 16:47:32,Traditional,597800,1,真田小僧 母親の秘密?
+2012-07-01 02:32:07,Electronica,302146,2,My Red Hot Car
+2012-05-16 15:29:00,none,476182,17,01-Poker Face -bonus track--菊地成孔 ダブ・セクステット-LIVE at BLUE NOTE TOKYO 2011.05.05 (HQD ver.) -Bonus Track-
+2012-07-01 02:37:09,Electronica,301880,2,Do You Know Squarepusher
+2012-05-13 11:30:34,Jazz,57093,19,ラウンジ・タイム#1
+2012-07-01 02:40:32,Electronica,203160,2,Direct To Mental
+2012-04-20 09:33:17,Jazz,802873,3,Dual Mr. Anthony Tillmon Williams Process
+2012-07-01 01:44:50,Electronica,433146,1,Boneville Occident
+2012-04-20 09:43:22,Jazz,605466,2,Splash
+2012-07-06 02:29:17,Blues,265426,1,Wonderful Tonight
+2012-07-10 12:37:14,Jazz,312000,12,Beethoven's Piano sonata No. 8/ Pathetique
+2012-07-06 02:20:22,Blues,273053,1,Blues Power
+2012-07-10 12:32:02,Jazz,467146,12,Delusion
+2012-07-06 02:24:51,Blues,269186,2,Miss You
+2012-07-10 12:24:15,Jazz,354093,12,Haze
+2012-03-29 03:36:51,Pop,224293,7,Just Like Strange Rain
+2012-07-10 12:18:21,Jazz,439813,12,Desire
+never,Blues,366360,0,Lay Down Sally
+2012-06-28 09:53:30,Jazz,472360,2,Vulcan Worlds
+2012-09-06 12:36:38,Pop,287306,2,天城越え
+2012-09-06 12:41:28,Pop,290400,2,越前竹舞い
+2012-09-06 12:45:52,Pop,264333,2,東京めぐり愛
+2012-03-30 09:22:14,Jazz,283026,10,Concierto De Aranjuez [Album Version]
+2012-03-30 15:28:07,Jazz,237200,8,Run A Good Race [Album Version]
+2012-03-30 14:39:52,Jazz,321133,6,The Journey [Album Version]
+2012-05-16 16:27:11,Jazz,303266,9,Classical Gas [Album Version]
+2012-03-30 15:19:51,Jazz,218213,2,Questions
+2012-07-21 15:54:06,Rock,108693,2,Not Fade Away
+2012-07-22 14:40:21,Rock,221133,11,On With The Show
+2012-07-22 14:36:40,Rock,284866,11,2000 Light Years From Home
+2012-07-22 14:31:55,Rock,309266,11,Gomper
+2012-07-21 15:23:08,Rock,141866,1,Route 66
+2012-09-11 02:02:45,Pop,289360,3,おしどり（石坂まさお）
+2012-08-23 17:38:03,Indie Rock,311253,16,Talk
+never,Electronica,287640,0,Third Uncle
+2012-05-16 17:13:35,Country & Folk,218000,13,Calypso
+never,Electronica,311186,0,The True Wheel
+2012-04-23 14:06:56,Rock,205373,4,Falling In Love (Is Hard On The Knees)
+2012-04-23 14:03:31,Rock,204813,4,Draw The Line
+2012-04-03 04:59:24,Country & Folk,182066,13,Annie's Song
+2012-03-14 21:42:34,Country & Folk,211760,7,I'm Sorry
+2012-03-27 15:54:53,Country & Folk,241640,8,Looking For Space
+2012-09-07 15:07:24,Traditional,307160,1,船徳 / 四万六千日の客
+never,none,350417,0,アクターズスタジオインタビュー(2008-03-06)アル・パチーノ自らを語る(再)前篇(47m00s)_.wmv
+2012-09-07 14:59:44,Traditional,703173,1,船徳 / 船頭志願
+never,none,350417,0,アクターズスタジオインタビュー(2008-03-06)アル・パチーノ自らを語る(再)後篇(44m59s)_.wmv.mp4
+2012-04-18 11:14:32,Jazz,334933,48,Blue Monk
+2012-07-22 06:16:08,Rock,158773,4,Empty Heart
+never,Alternative,274066,0,I'm Your Man '96
+2012-04-18 11:08:57,Jazz,298906,56,Armando's Rumba
+never,Alternative,342760,0,Where Did Your Heart Go?
+2012-07-26 13:25:06,Alternative,194466,12,Forgotten
+never,Alternative,361933,0,Everything She Wants '97
+2012-09-23 12:13:11,Pop,212573,4,ふるさと（山口洋子）
+2012-08-23 18:39:37,Indie Rock,294973,17,Fix You
+2012-07-26 13:21:52,Alternative,184600,11,A Place For My Head
+2012-10-04 15:39:40,Alternative,168346,6,Skin To Bone
+2012-07-06 02:45:06,Classical,29253,1,Bach: Goldberg Variations/ BWV 988 - Variatio 4 A 1 Clav. (1955)
+2012-07-06 02:44:37,Classical,54733,1,Bach: Goldberg Variations/ BWV 988 - Variatio 3 Canone All'Unisono. A 1 (1955)
+2012-07-26 13:18:47,Alternative,216293,11,In The End
+2012-07-06 02:45:43,Classical,37040,1,Bach: Goldberg Variations/ BWV 988 - Variatio 5 A 1 Ovvero 2 Clav. (1955)
+2012-07-06 02:47:25,Classical,68053,1,Bach: Goldberg Variations/ BWV 988 - Variatio 7 A 1 Ovvero 2 Clav. (1955)
+2012-09-06 16:22:28,Pop,228266,1,人を恋うる唄
+2012-07-24 21:14:22,Rock,191666,11,Lies
+never,Indie Rock,275746,0,To Be Where There's Life
+2012-07-24 21:18:45,Rock,263733,11,Far Away Eyes
+2012-07-24 21:06:33,Rock,278040,11,Imagination
+2012-07-24 21:11:10,Rock,276760,11,Some Girls
+never,Indie Rock,250013,0,I'm Outta Time
+never,Indie Rock,299946,0,The Shock Of The Lightning
+never,Indie Rock,260080,0,Falling Down
+2012-07-24 21:21:53,Rock,187773,11,Respectable
+never,Indie Rock,246786,0,(Get Off Your) High Horse Lady
+never,Rock,1058373,0,Toad [Live At Fillmore / Special Version]
+never,Indie Rock,314506,0,Bloom
+2012-09-11 01:53:25,Pop,272693,3,心（星野哲郎）
+2012-09-26 04:28:37,Rock,226666,1,Wild Honey
+never,iTunes U,934474,0,The $320/000 Kindergarten Teacher?
+never,iTunes U,1014137,0,The Choice of Social Entrepreneurship
+never,iTunes U,938492,0,Luminaries in Higher Education
+never,iTunes U,2830597,0,A Conversation on "Waiting for Superman" 
+never,iTunes U,2830548,0,A Conversation on "Waiting for Superman"
+2012-09-26 04:21:11,Rock,266800,1,Kite
+2012-09-26 22:30:25,Indie Rock,411013,39,Lovers In Japan/Reign Of Love
+2012-09-26 22:23:34,Indie Rock,237400,46,42
+2012-10-07 14:27:59,Indie Rock,241426,42,Viva La Vida
+2012-09-26 22:38:39,Indie Rock,426653,39,Yes
+2012-10-07 14:31:42,Indie Rock,222653,36,Violet Hill
+2012-10-07 18:22:47,Indie Rock,287893,5,Don't Look Back In Anger
+2012-10-07 18:13:39,Indie Rock,238266,5,Roll With It
+2012-10-07 18:17:59,Indie Rock,260440,6,Wonderwall
+2012-09-11 01:57:55,Pop,264506,3,夢しずく（松井由利夫）
+never,Latin,207560,0,Desafinado
+2012-10-07 18:28:28,Indie Rock,340533,5,Hey Now!
+2012-09-06 15:56:47,Pop,193093,1,東京物語
+2012-04-18 12:14:02,Rock,225026,1,I Thought I Was A Child
+2012-05-13 12:44:20,Rock,287040,3,These Days
+2012-04-18 12:05:59,Rock,218866,1,Our Lady Of The Well
+2012-04-18 12:10:17,Rock,257840,2,Colors Of The Sun
+never,Traditional,1545173,0,鉄拐
+never,Traditional,2094426,0,三方ヶ原軍記
+2012-08-23 18:24:09,Indie Rock,287573,20,Square One
+never,Rock,239426,0,Redneck Friend
+never,Traditional,2073026,0,口入屋
+2012-09-26 10:22:22,Rock,314626,1,If You Wear That Velvet Dress
+never,Rock,393533,0,Spoonful
+2012-09-26 09:26:23,Rock,285666,1,Last Night On Earth
+never,Rap,346253,0,Yellow Brick Road
+2012-09-26 09:32:56,Rock,266760,1,Gone
+2012-09-26 09:37:49,Rock,292933,1,Miami
+2012-09-26 10:15:15,Rock,280840,1,The Playboy Mansion
+2012-09-09 15:51:31,Traditional,263560,1,雛鍔 / 出囃子「三下り中の舞」～マクラ
+never,iTunes U,5466567,0,3-コンテクストアウェアシステム
+2012-10-07 08:29:40,Pop,288866,1,#9 Dream
+never,iTunes U,5123390,0,2-ユビキタスコンピューティングシステムの構成要素（1）
+2012-04-15 23:46:36,iTunes U,3898332,1,1-ユビキタスコンピューティングシステムの過去、現在、未来
+2012-10-07 10:44:26,Pop,222960,1,Stuck In The Moment
+2012-10-07 10:47:43,Pop,196906,1,U Smile
+never,iTunes U,3167901,0,Webマッピングとソーシャル・イノベーション
+2012-10-07 10:40:43,Pop,220920,1,Somebody To Love
+never,iTunes U,5186954,0,空間情報技術
+never,iTunes U,2755422,0,空間情報と知識創造
+never,iTunes U,4646747,0,空間情報と環境創造
+never,iTunes U,4934835,0,空間情報と資源探査
+never,none,17487,0,guitar_mono-by-clapL-snapR_stereo+yukino_mono
+never,none,17487,0,guitar_mono-by-left-right_stereo+nhk_mono
+never,none,17487,0,guitar_mono-by-clapL-snapR_stereo+nhk_mono
+never,none,17487,0,guitar_mono-by-clapL-snapR_stereo+nhk_mono+yukino_mono
+never,none,17487,0,guitar_mono-by-left-right_stereo+nhk_mono+yukino_mono
+2012-05-29 09:49:22,Rock,308213,17,A Day In The Life
+2012-05-29 09:44:14,Rock,226746,17,While My Guitar Gently Weeps
+2012-05-29 09:54:44,Rock,82373,30,Sgt. Pepper's Lonely Hearts Club Band (Reprise)
+2012-05-29 09:53:21,Rock,238746,19,Hey Jude
+2012-05-29 09:58:22,Rock,218933,26,All You Need Is Love
+2012-09-26 17:46:32,Traditional,172733,1,駒長 嘘から出たまこと
+2012-09-26 17:49:41,Traditional,189533,1,駒長 長兵衛不覚・サゲ・中入り
+2012-09-26 17:39:03,Traditional,268266,1,駒長 悪事の稽古
+2012-06-05 23:09:41,Rock,300506,116,Let It Grow
+never,Rock,358000,0,Passing The Time [Alternate Version]
+never,Rock,263000,0,As You Said
+never,Rock,198466,0,Pressed Rat & Warthog
+2012-06-05 22:52:35,Rock,227760,122,Get Ready
+2012-06-05 22:57:00,Rock,265106,120,I Shot The Sheriff
+2012-06-05 23:01:14,Rock,254266,118,I Can't Hold Out
+2012-06-05 23:04:40,Rock,206493,117,Please Be With Me
+2012-03-01 06:28:23,none,11000,347,speaker_0cm 1
+2012-04-02 17:41:41,none,172970,5,apple_song 2
+2012-10-08 21:40:05,Pop,389546,2,All A Dream
+2012-07-26 05:22:02,Electronica,293693,8,I Wish You Could Talk
+2012-07-10 05:37:08,Jazz,319733,35,Music for Three-Piece-Orchestra: Edge
+2012-07-10 05:31:48,Jazz,309373,34,Music for Three-Piece-Orchestra: Reverse
+2012-07-10 06:32:18,Jazz,465680,35,Music for Three-Piece-Orchestra: Deja vu
+2012-07-10 06:24:32,Jazz,616400,35,Music for Three-Piece-Orchestra: Open Door - Tuning - Prolog
+2012-07-10 04:51:23,Pop,195960,1,お願いはひとつ
+2012-07-10 04:56:21,Pop,298240,1,ワカンナイ
+2012-07-10 04:58:24,Pop,350200,1,背中まで45分
+2012-07-10 05:45:29,Jazz,500746,31,Old Castle/ by the river/ in the middle of a forest
+2012-10-08 21:05:01,Pop,192213,2,Little Broken Hearts
+2012-10-08 21:08:12,Pop,190800,2,She's 22
+2012-10-08 20:58:21,Pop,197733,2,Good Morning
+2012-10-08 21:01:49,Pop,207453,2,Say Goodbye
+2012-09-10 07:08:12,Traditional,533466,1,『お直し』　主人の温情
+2012-10-08 21:12:18,Pop,246333,2,Take It Back
+2012-07-03 04:29:04,Jazz,370360,1,Pannonica
+2012-03-28 09:56:41,Country & Folk,285946,8,Rocky Mountain High
+2012-07-03 04:35:07,Jazz,363106,1,Someone To Watch Over Me
+2012-03-27 13:03:16,Country & Folk,218346,9,Goodbye Again
+2012-07-15 12:53:41,Jazz,263600,1,Armando's Rhumba
+2012-05-13 12:49:39,Country & Folk,129173,10,I Guess He'd Rather Be In Colorado
+2012-07-23 03:12:43,Jazz,293026,1,Blues For Art
+2012-03-27 11:10:49,Country & Folk,204280,10,Friends With You
+2012-07-23 03:17:20,Jazz,277466,1,Stella By Starlight
+2012-03-27 14:59:39,Country & Folk,267293,9,I'd Rather Be A Cowboy (Lady's Chains)
+2012-05-13 13:03:42,Rock,248133,25,Nightingale
+2012-10-04 15:18:02,Alternative,200693,13,In My Remains
+2012-03-13 23:35:22,Rock,251560,12,Witchy Woman
+2012-05-16 16:51:43,Rock,212466,16,Take It Easy
+2012-03-13 23:42:14,Rock,215760,11,Most Of Us Are Sad
+never,Electronica,332560,0,Taking Tiger Mountain
+2012-03-28 07:16:04,Rock,196306,15,Chug All Night
+2012-05-16 13:29:33,none,542426,1,Déja Vu
+2012-09-17 23:37:59,Traditional,509133,1,『大山詣り』 女房集団出家～サゲ～中入り
+2012-07-01 02:27:05,Electronica,459213,2,The Exploding Psychology
+never,Traditional,324400,0,『粗忽の使者』 口上失念騒動
+never,Traditional,149333,0,『粗忽の使者』 使者の出発
+2012-07-01 01:02:45,Electronica,648173,3,Mutilation Colony
+never,Traditional,817800,0,『粗忽の使者』 にわか近習誕生
+2012-07-01 00:51:57,Electronica,83346,3,Conk 2 Symmetriac
+never,none,525826,0,Ba-Lue Bolivar Ba-Lues-Are (Bolivar Blues)
+2012-07-01 02:19:26,Electronica,163120,2,Mutilation Colony-Excerpt
+2012-05-16 13:20:30,none,731693,1,Concierto de Aranjuez - Spain
+2012-07-01 01:06:18,Electronica,212360,3,Love Will Tear Us Apart
+2012-05-13 13:56:48,Blues,296146,2,Strange Brew
+2012-05-13 14:34:07,Blues,234253,2,Before You Accuse Me
+2012-07-06 02:15:49,Blues,254000,1,Roll It Over
+never,Blues,223933,0,Crossroads
+2012-07-06 02:35:59,Blues,401986,1,Old Love
+2012-03-30 14:43:05,Jazz,192893,2,Lenny Bro
+2012-09-05 15:43:17,Pop,259306,1,火の国へ
+2012-09-05 15:58:05,Pop,337533,1,ホテル港や
+2012-09-05 15:52:28,Pop,240200,1,夫婦善哉
+2012-09-14 14:16:08,Jazz,143746,7,Tall Fiddler
+2012-09-14 14:19:38,Jazz,210000,8,Cowboys Dream
+2012-05-13 15:30:40,Jazz,355293,5,Morning Aire
+2012-03-30 14:26:02,Jazz,653533,3,Initiation
+2012-07-21 15:25:27,Rock,138706,1,I Just Want To Make Love To You
+2012-07-21 15:27:38,Rock,130893,1,Honest I Do
+2012-07-21 15:30:10,Rock,152333,1,Now I've Got A Witness
+2012-09-11 08:18:57,Pop,281560,2,あじさい情話
+2012-07-21 15:58:14,Rock,160573,2,Little By Little
+2012-09-11 01:30:56,Pop,228293,3,ふたりの夜明け（吉田旺）
+2012-03-30 08:40:22,Rock,309466,1,Life In The Fast Lane
+never,Rock,316640,0,Take It Easy
+never,Rock,227266,0,Saturday Night
+2012-06-15 12:36:14,Rock,334760,6,All Night Long
+2012-09-11 01:34:56,Pop,239840,3,酒　尽尽（能吉利人）
+2012-05-16 18:49:25,Rock,420760,1,Hotel California
+2012-06-15 18:15:09,Country & Folk,154893,41,All Along The Watchtower
+2012-03-14 19:44:07,Country & Folk,224320,11,Like A Sad Song
+2012-05-13 12:47:30,Country & Folk,190653,15,How Can I Leave You Again
+2012-09-06 13:57:23,Pop,190493,1,勝利の旗
+2012-03-27 10:21:36,Country & Folk,251666,11,Fly Away
+2012-03-30 19:38:50,Country & Folk,169386,15,Baby/ You Look Good To Me Tonight
+2012-03-14 19:49:57,Country & Folk,159160,10,It Amazes Me
+2012-05-16 17:17:27,Rock,232293,2,Take It Easy
+never,Electronica,197760,0,Burning Airlines Give You So Much More
+never,Electronica,345880,0,Mother Whale Eyeless
+never,Electronica,305080,0,The Fat Lady Of Limbourg
+2012-04-23 14:10:53,Rock,236320,4,Pink
+2012-04-23 14:15:51,Rock,298720,6,I Don't Want To Miss A Thing
+2012-04-23 14:20:10,Rock,258173,4,Sedona Sunrise
+2012-04-23 14:24:37,Rock,267186,5,Devil's Got A New Disguise
+2012-09-07 13:36:36,Traditional,181453,1,明烏 / 出囃子「三下り中の舞」～マクラ
+2012-09-07 13:48:49,Traditional,431373,1,明烏 / 日向屋内
+2012-07-22 06:13:29,Rock,168666,4,Confessin' The Blues
+2012-04-03 09:24:46,Jazz,516000,4,Bessie's Blues
+2012-04-03 09:16:12,Jazz,601906,4,Crystal Silence
+2012-04-18 11:49:45,Jazz,970306,4,Glass Enclosure/Tempus Fight
+2012-04-18 11:33:34,Jazz,647626,3,Matrix
+2012-04-18 11:22:47,Jazz,494386,50,Concierto de Aranjuez/Spain
+never,Rap,42386,0,Mr. Mathers (Skit)
+2012-09-11 13:10:00,Pop,328760,3,男一代
+never,Rap,283520,0,Deja Vu
+never,Indie Rock,289026,0,Soldier On
+never,Indie Rock,163840,0,I Believe In All
+never,Indie Rock,134813,0,Ain't Got Nothin'
+2012-05-28 04:20:44,Classical,134826,4,Carradot: The Tale Of Tsar Saltan/ Op. 57 - The Flight Of The Bumble-Bee
+never,Indie Rock,227866,0,The Nature Of Reality
+2012-05-28 04:18:29,Classical,313133,4,Gershwin: Bess/ You Is My Woman Now
+never,Rap,278160,0,Old Time's Sake
+2012-05-28 04:13:16,Classical,234586,4,Gershwin: An American In Paris/ Opening
+2012-05-28 05:26:10,Classical,197306,5,Gershwin: Summertime
+never,Indie Rock,309080,0,The Turning (Alt Version #4)
+2012-05-28 05:22:53,Classical,558733,5,Legrand: Windmills Of Your Mind
+2012-07-24 08:52:38,Alternative,196840,6,Valentine's Day
+2012-07-21 16:26:30,Alternative,196106,1,Breaking The Habit
+2012-07-24 08:55:55,Alternative,196746,6,In Between
+2012-09-06 16:00:21,Pop,213733,1,新宿・みなと町
+2012-07-24 08:59:33,Alternative,218013,6,In Pieces
+never,Rap,242906,0,Must Be The Ganja
+2012-07-24 09:05:56,Alternative,383333,6,The Little Things Give You Away
+2012-07-24 08:20:41,Alternative,166333,4,Faint [Live]
+2012-09-06 13:32:23,Pop,141666,1,レッツ・ゴー物語(ストーリー)
+2012-09-06 13:30:02,Pop,158640,1,ボクの星
+2012-07-21 16:29:26,Alternative,175533,1,From The Inside
+2012-09-06 13:35:58,Pop,215000,1,一人ぼっちの二人
+2012-07-24 09:09:57,Alternative,162133,2,Faint
+2012-10-04 18:09:53,Traditional,1853360,1,へっつい幽霊
+2012-07-21 16:23:14,Alternative,197533,1,Figure.09
+never,iTunes U,772985,0,Immigrants Raising Citizens
+2012-09-26 23:50:08,Traditional,572800,1,『三軒長屋』 勇み肌の手打ち
+2012-07-05 14:54:23,Jazz,145973,7,Cherokee
+never,Indie Rock,120106,0,Sittin' Here In Silence (On My Own)
+never,Indie Rock,259360,0,Can Y'see It Now? (I Can See It Now!!)
+never,Rap,392826,0,Beautiful
+never,Indie Rock,336586,0,Let There Be Love
+never,Indie Rock,187653,0,A Bell Will Ring
+2012-07-06 03:57:27,Classical,132640,1,Bach: Goldberg Variations/ BWV 988 - Aria Da Capo (Zenph Version)
+never,Podcast,3846060,0,Episode 24 – Game cloning/ intellectual property and ideas
+2012-07-05 14:46:53,Jazz,499760,7,Caravan
+2012-07-05 14:51:57,Jazz,304666,7,April In Paris
+2012-10-07 18:09:18,Indie Rock,201360,9,Hello
+2012-03-27 10:37:36,Rock,368266,2,For Everyman
+never,Rock,205933,0,Sing My Songs To Me
+2012-09-08 16:33:00,Traditional,306973,1,居残り佐平次 / 翌朝の掛け合い
+never,Rock,215333,0,Ready Or Not
+never,Rock,219266,0,The Times You've Come
+2012-10-08 19:35:34,ボイスメモ,12606,1,9/13/12 9:55 
+never,ボイスメモ,22382,0,7/20/12 1:05 
+never,Traditional,1781093,0,らくだ
+2012-03-28 13:05:17,Country & Folk,194826,10,Black Crow Blues

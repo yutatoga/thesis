@@ -1,0 +1,250 @@
+example
+example <- matrix( c(67,128, 42, 22, 155,180, 20 , 201, 393, 33, 343, 33), nrow=6, byrow=T)
+barplot(example)
+source("imlanalyzer.r")
+iml
+iml[,1]
+as.POSIXIt(iml[,1])
+as.POSIXlt(iml[,1])
+as.POSIXlt(iml[,1])$wday
+as.POSIXlt(iml[,1])$wday
+as.POSIXlt(iml[,1])$wday==1
+iml[,1]as.POSIXlt(iml[,1])$wday==1
+iml[,1][as.POSIXlt(iml[,1])$wday==1]
+dim(iml[,1][as.POSIXlt(iml[,1])$wday==1])
+lenght(iml[,1][as.POSIXlt(iml[,1])$wday==1])
+length(iml[,1][as.POSIXlt(iml[,1])$wday==1])
+length(iml[,1])
+iml[,1][as.POSIXlt(iml[,1])$wday==1]
+lenght(iml[,1][as.POSIXlt(iml[,1])$wday==1])
+length(iml[,1][as.POSIXlt(iml[,1])$wday==1])
+length(iml[,1])
+playedIml
+length(playedIml[,1][as.POSIXlt(iml[,1])$wday==1])
+length(playedIml[,1])
+playedIml[,1][as.POSIXlt(iml[,1])$wday==1]
+playedIml[,1][as.POSIXlt(iml[,1])$wday==1,]
+playedIml[as.POSIXlt(iml[,1])$wday==1]
+playedIml[as.POSIXlt(iml[,1])$wday==1]
+playedIml[,1][as.POSIXlt(iml[,1])$wday==1,]
+names(playedIml)
+playedIml[playedIml$genre]
+playedIml[playedIml$genre=="classic"]
+playedIml[playedIml$genre=="clasic"]
+playedIml[playedIml$genre=="Jazz"]
+playedIml[playedIml$genre=="Jazz",]
+playedIml[playedIml$genre=="Jazz",]
+playedIml[playedIml$genre=="Jazz",]
+playedIml$genre=="Jazz"
+as.POSIXlt(iml[,1])$wday==1
+playedIml$genre=="Jazz"
+as.POSIXlt(playedIml[,1])$wday==1
+playedIml$genre=="Jazz"
+as.POSIXlt(playedIml[,1])$wday==1
+as.POSIXlt(playedIml[,1])$wday==1
+as.POSIXlt(playedIml[,1])$wday==1
+playedIml[playedIml$genre=="Jazz",]
+playedIml[as.POSIXlt(playedIml[,1])$wday==1,]
+playedIml[as.POSIXlt(playedIml[,1])$wday==0,]
+playedIml[playedIml$playcount==0,]
+playedIml[playedIml$playCount==0,]
+playIml.names
+names(playIml)
+names(playedIml)
+playedIml[playedIml$genre=="Jazz",]
+names(playedIml)
+playedIml[playedIml$playCount==1,]
+playedIml[playedIml$playCount==1,playedIml$genre == "Jazz"]
+playedIml[playedIml$playCount==1,playedIml$genre == "Jazz",]
+playedIml[playedIml$playCount==1:playedIml$genre == "Jazz",]
+playedIml[playedIml$playCount==1 & playedIml$genre == "Jazz",]
+playedIml[playedIml$playCount==1 && playedIml$genre == "Jazz",]
+playedIml[playedIml$playCount==1 & playedIml$genre == "Jazz",]
+playedIml[playedIml$playCount==1 & playedIml$genre == "Jazz",]
+ength(table(iml[,2]))
+ength(table(iml[,2])
+a
+length(table(iml[,2]))
+table(iml[,2])
+source("imlreader.r")
+source("imlanalyzer.r")
+source("imlanalyzer.r")
+foo = c(1:10)
+foo
+hist(foo)
+barplot(foo)
+bar = barplot(foo)
+bar
+bar[1]
+bar = barplot(c(1:4))
+bar
+bar <- barplot(foo)
+bar
+bar <- hist(foo)
+bar
+bar.out
+bar <- barplot(foo)
+bar.list
+list(bar)
+bar <- barplot(foo).out
+bar <- barplot(foo).list
+list(barplot(foo))
+help(barplot)
+help(barplot)
+bar <- barplot(foo,beside = TRUE)
+bar
+bar <- barplot(foo,beside = false)
+bar
+barplot(foo,beside = false)
+barplot(foo,beside = false)
+bar <- barplot(foo,beside = TRUE)
+barplot(foo,beside = false)
+barplot(foo,beside = false)
+bar <- barplot(foo,beside = FALSE)
+bar
+bar <- barplot(foo,beside = TRUE)
+bar
+bar
+foo
+matrix(c(1:10))
+foo - matrix(c(1:10))
+foo = matrix(c(1:10))
+foo
+barplot(foo)
+example <- matrix( c(67,128, 42, 22, 155,180, 20 , 201, 393, 33, 343, 33), nrow=6, byrow=T)
+foo = barplot(example)
+foo
+foo = barplot(example, beside = false)
+foo = barplot(example, beside = False)
+foo = barplot(example, beside = FALSE)
+foo
+foo = barplot(example, beside = TRUE)
+foo
+example
+foo = barplot(example, beside = TRUE)
+foo
+foo = hist(example)
+foo
+example
+foo = hist(example)
+barplot(example, beside = TRUE)$coutns
+barplot(example, beside = TRUE)$coutn
+barplot(example, beside = TRUE)$count
+barplot(example, beside = TRUE)$counts
+foo = hist(example, bar)
+help(hist)
+help(hist)
+foo = hist(example, bar)
+foo = hist(example, besides = fasle)
+foo = hist(example, besides = true)
+help(hist)
+foo = hist(example, besides = true)
+foo = hist(example)
+foo
+foo.count
+foo.counts
+foo$counts
+hoge  = foo$counts
+hoge
+foobar = foo$coutns
+foobar
+foobar
+foobar = foo$coutns
+foobar = foo$counts
+foobar
+foo
+foobar
+hoge
+nozomi = append(foobar, hgoe)
+nozomi = cbind(foobar, hgoe)
+nozomi = rbind(foobar, hgoe)
+nozomi = rbinds(foobar, hgoe)
+nozomi = cbind(foobar, hoge)
+nozomi
+nozomi = rbinds(foobar, hoge)
+nozomi = rbind(foobar, hoge)
+nozomi
+nozomi = append(foobar, hoge)
+nozomi
+nozomi = rbind(foobar, hoge)
+dim(nozomi)
+nozomi[1,]
+nozomi[,1]
+source("imlanalyzer.r")
+imlWeekGenre
+playedIml[playedIml$playCount==weekNum & playedIml$genre == targetGenre,]
+playedIml[playedIml$playCount==weekNum & playedIml$genre == targetGenre,]
+iml
+playedIml[playedIml$playCount==weekNum & playedIml$genre == targetGenre,]
+targetGenreName
+playedIml[playedIml$playCount==1 & playedIml$genre == "Jazz",]
+playedIml[playedIml$playCount==1 & playedIml$genre == targetGenreName,]
+source("imlanalyzer.r")
+imlWeekGenre
+imlWeekGenre
+clc
+imlWeekGenre
+targetGenreName
+imlWeekGenre
+iml[1:5.]
+imlWeekGenre
+iml[1,1]
+iml[2,1]
+iml[3,1]
+iml[4,1]
+iml[4,]
+iml[10,]
+iml[30,]
+source("imlanalyzer.r")
+imlWeekGenre
+targetGenre = iml[,1][iml[,2] == targetGenreName]
+targetGenre
+as.POSIXlt(targetGenre)$hour+as.POSIXlt(targetGenre)$min/60+as.POSIXlt(targetGenre)$sec/60/60
+hist(as.POSIXlt(targetGenre)$hour+as.POSIXlt(targetGenre)$min/60+as.POSIXlt(targetGenre)$sec/60/60)
+imlWeekGenre[,2]
+names(imlWeekGenre)
+imlWeekGenre
+imlWeekGenre[,2]
+imlWeekGenre[,3]
+imlWeekGenre[,1]
+wdayName = switch(i, "Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday" )
+i
+i
+wdayName
+i = 0
+wdayName = switch(i, "Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday" )
+wdayName
+iml[,1])$wday==i-1
+iml[,1])$wday==i-1
+iml[iml[,1])$wday==i-1]
+iml[iml[,1])$wday==1]
+[as.POSIXlt(iml[,1])$wday==i-1]
+iml[,1][as.POSIXlt(iml[,1])$wday==i-1]
+iml[,1][as.POSIXlt(iml[,1])$wday==1]
+iml[,1])$wday
+iml[,1]$wday
+as.POSIXlt(iml[,1])$wday
+playedIml$genre == targetGenreName
+playedIml$genre == targetGenreName
+as.POSIXlt(playedIml[,1])$wday==i-1
+playedIml[,1])$wda
+playedIml[,1])$wday
+playedIml[,1]$wday
+as.POSIXlt(playedIml[,1])$wday
+source("imlAnalyzer.r")
+dim(graphData)
+graphData
+table(playedIml[,2]
+)
+length(table(playedIml[,2])
+)
+168/24
+source("imlAnalyzer.r")
+source("imlAnalyzer.r")
+graphData
+barplot(graphData[1:24,])
+write.csv(graphData, "foo.csv")
+sort(table(playedIml[,2]), decreasing = T)
+names(sort(table(playedIml[,2]), decreasing = T))
+lenght(names(sort(table(playedIml[,2]), decreasing = T)))
+length(names(sort(table(playedIml[,2]), decreasing = T)))

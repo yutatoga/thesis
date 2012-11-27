@@ -1,0 +1,329 @@
+qplot((as.POSIXlt(targetGenre)$hour+as.POSIXlt(targetGenre)$min/60)
+)
+qplot((as.POSIXlt(targetGenre)$hour+as.POSIXlt(targetGenre)$min/60)
+)
+qplot(as.POSIXlt(targetGenre)$hour+as.POSIXlt(targetGenre)$min/60)
+ggsave(plot,file=paste("genre_",i,".png", sep=""))
+file=paste("genre_",i,".png", sep="")
+file
+ggsave(plot,file=paste("genre_",i,".png", sep=""))
+qplot(as.POSIXlt(targetGenre)$hour+as.POSIXlt(targetGenre)$min/60)
+ggsave(plot,file=paste("genre_",i,".png", sep=""))
+qplot(as.POSIXlt(targetGenre)$hour+as.POSIXlt(targetGenre)$min/60,aes(x=factor(School), y=Count, fill=Level), ordered=TRUE) + #
+    geom_bar(aes(fill = Level), position='fill') + #
+    opts(axis.text.x=theme_text(angle=90)) + #
+    scale_y_continuous("",formatter="percent") + #
+    opts(title = "Score Distribution") + #
+    scale_fill_manual(values = c("#FF0000", "#FFFF00","#00CC00", "#0000FF"))
+qplot(as.POSIXlt(targetGenre)$hour+as.POSIXlt(targetGenre)$min/60)
+qplot(as.POSIXlt(targetGenre)$hour+as.POSIXlt(targetGenre)$min/60))
+qplot(as.POSIXlt(targetGenre)$hour+as.POSIXlt(targetGenre)$min/60)
+qplot(as.POSIXlt(targetGenre)$hour+as.POSIXlt(targetGenre)$min/60, geom = "histogram", binwidth = 1)
+ggsave(plot,file=paste("genre_",i,".png", sep=""))
+plot =  ggsave(plot,file=paste("genre_",i,".png", sep=""))
+plot = qplot(as.POSIXlt(targetGenre)$hour+as.POSIXlt(targetGenre)$min/60, geom = "histogram", binwidth = 1)
+ggsave(plot,file="graph1.pdf")
+help (qplot)
+plot = qplot(as.POSIXlt(targetGenre)$hour+as.POSIXlt(targetGenre)$min/60, geom = "histogram", binwidth = 1, qplot, main = "とうが")
+plot = qplot(as.POSIXlt(targetGenre)$hour+as.POSIXlt(targetGenre)$min/60, geom = "histogram", binwidth = 1, qplot, main = "toga")
+plot
+qplot(as.POSIXlt(targetGenre)$hour+as.POSIXlt(targetGenre)$min/60, geom = "histogram", binwidth = 1, qplot, main = "toga")
+qplot(as.POSIXlt(targetGenre)$hour+as.POSIXlt(targetGenre)$min/60, geom = "histogram", binwidth = 1, qplot)
+qplot(as.POSIXlt(targetGenre)$hour+as.POSIXlt(targetGenre)$min/60, geom = "histogram", binwidth = 1)
+qplot(as.POSIXlt(targetGenre)$hour+as.POSIXlt(targetGenre)$min/60, geom = "histogram", binwidth = 1, main = "foo")
+help (qplot)
+qplot(as.POSIXlt(targetGenre)$hour+as.POSIXlt(targetGenre)$min/60, geom = "histogram", binwidth = 1, main = "とうが")
+quartzFonts(HiraMaru=quartzFont(rep("HiraMaruProN-W4", 4)))
+qplot(as.POSIXlt(targetGenre)$hour+as.POSIXlt(targetGenre)$min/60, geom = "histogram", binwidth = 1, main = "とうが")
+gp=gpar(fontfamily="HiraMaru"))
+gp=gpar(fontfamily="HiraMaru")
+ggsave(plot,file="graph1.pdf", family = "Japan1GothicBBB")
+plot = qplot(as.POSIXlt(targetGenre)$hour+as.POSIXlt(targetGenre)$min/60, geom = "histogram", binwidth = 1, qplot, main = "toga")
+ggsave(plot,file="graph1.pdf", family = "Japan1GothicBBB")
+d <- data.frame(x=1:2, y=1:2, t=c("あ","い"))#
+04#
+05#
+## PDFで出力する場合は簡単#
+06#
+p <- ggplot(d, aes(x, y, label=t)) + geom_text() + opts(title="う")#
+07#
+ggsave("out.pdf", p, family="Japan1GothicBBB")#
+08
+plot = qplot(as.POSIXlt(targetGenre)$hour+as.POSIXlt(targetGenre)$min/60, geom = "histogram", binwidth = 1, title="う")
+gsave("out.pdf", plot, family="Japan1GothicBBB")
+ggsave("out.pdf", plot, family="Japan1GothicBBB")
+plot = qplot(as.POSIXlt(targetGenre)$hour+as.POSIXlt(targetGenre)$min/60, geom = "histogram", binwidth = 1, opt(title="う"))
+ggsave("out.pdf", plot, family="Japan1GothicBBB")
+plot = qplot(as.POSIXlt(targetGenre)$hour+as.POSIXlt(targetGenre)$min/60, geom = "histogram", binwidth = 1, opt(title="う"))
+ggsave("out.pdf", plot, family="Japan1GothicBBB")
+plot = qplot(as.POSIXlt(targetGenre)$hour+as.POSIXlt(targetGenre)$min/60, geom = "histogram", binwidth = 1, title=foo)
+ggsave("out.pdf", plot, family="Japan1GothicBBB")
+plot <- qplot(as.POSIXlt(targetGenre)$hour+as.POSIXlt(targetGenre)$min/60, geom = "histogram", binwidth = 1, title=foo)
+ggsave("out.pdf", plot, family="Japan1GothicBBB")
+plot = qplot(as.POSIXlt(targetGenre)$hour+as.POSIXlt(targetGenre)$min/60, geom = "histogram", binwidth = 1, aes(x, y, label=t)) + geom_text() + opts(title="う")
+ggsave("out.pdf", plot, family="Japan1GothicBBB")
+plot = qplot(as.POSIXlt(targetGenre)$hour+as.POSIXlt(targetGenre)$min/60, aes(x, y, label=t)) + geom_text() + opts(title="う")
+ggsave("out.pdf", plot, family="Japan1GothicBBB")
+d
+plot = qplot(as.POSIXlt(targetGenre)$hour+as.POSIXlt(targetGenre)$min/60, geom = "histogram", binwidth = 1, aes(x,opts(title="う")
+)
+ggsave("out.pdf", plot, family="Japan1GothicBBB")
+plot = qplot(as.POSIXlt(targetGenre)$hour+as.POSIXlt(targetGenre)$min/60)
+ggsave("out.pdf", plot, family="Japan1GothicBBB")
+plot = qplot(as.POSIXlt(targetGenre)$hour+as.POSIXlt(targetGenre)$min/60, geom = "histogram", binwidth = 1)
+ggsave("out.pdf", plot, family="Japan1GothicBBB")
+qplot(as.POSIXlt(targetGenre)$hour+as.POSIXlt(targetGenre)$min/60, geom = "histogram", binwidth = 1)
+qplot(as.POSIXlt(targetGenre)$hour+as.POSIXlt(targetGenre)$min/60, geom = "histogram", binwidth = 1, main = "foo")
+ggsave("out.pdf", plot, family="Japan1GothicBBB")
+plot = qplot(as.POSIXlt(targetGenre)$hour+as.POSIXlt(targetGenre)$min/60, geom = "histogram", binwidth = 1, main = "foo")
+ggsave("out.pdf", plot, family="Japan1GothicBBB")
+plot = qplot(as.POSIXlt(targetGenre)$hour+as.POSIXlt(targetGenre)$min/60, geom = "histogram", binwidth = 1, main = "ぷ")
+ggsave("out.pdf", plot, family="Japan1GothicBBB")
+plot = qplot(as.POSIXlt(targetGenre)$hour+as.POSIXlt(targetGenre)$min/60, geom = "histogram", binwidth = 1, main = "ぷ")
+qplot(as.POSIXlt(targetGenre)$hour+as.POSIXlt(targetGenre)$min/60, geom = "histogram", binwidth = 1, main = "ぷ")
+ggsave("out.pdf", plot, family="Japan1GothicBBB")
+paste("genre_",i,".png", sep=""
+)
+print("checking")#
+for(i in 1:length(table(iml[,2]))){#
+	targetGenreName = names(sort(table(iml[,2]), decreasing = T))[i]#
+	targetGenre = iml[,1][iml[,2] == targetGenreName]#
+        print(targetGenreName)#
+#
+        #quartz()#
+        #FIXME:なぜか日本語で書き出されない#
+        #png(file=paste("genre_",i,".png", sep=""), bg="white", type="quartz")#
+        foo = "テスト"#
+	#hist(as.POSIXlt(targetGenre)$hour+as.POSIXlt(targetGenre)$min/60, main=foo, breaks=seq(0,24,1), col = hsv(1*i/length(table(iml[,2])), 1, 1, alpha = 0.5), xlab = "Time", ylab = "Frequency", xlim = c(0,23), ylim = c(0, histMax))#
+        # dev.off()#
+        plot = qplot(as.POSIXlt(targetGenre)$hour+as.POSIXlt(targetGenre)$min/60, geom = "histogram", binwidth = 1, main= targetGenreName)#
+        ggsave(paste("genre_",i,".pdf", sep=""), plot, family="Japan1GothicBBB")#
+#
+}
+library(ggplot2)#
+print("checking")#
+for(i in 1:length(table(iml[,2]))){#
+	targetGenreName = names(sort(table(iml[,2]), decreasing = T))[i]#
+	targetGenre = iml[,1][iml[,2] == targetGenreName]#
+        print(targetGenreName)#
+#
+        #quartz()#
+        #FIXME:なぜか日本語で書き出されない#
+        png(file=paste("genre_",i,".png", sep=""), bg="white", type="quartz", family="Japan1GothicBBB")#
+        foo = "テスト"#
+	hist(as.POSIXlt(targetGenre)$hour+as.POSIXlt(targetGenre)$min/60, main=foo, breaks=seq(0,24,1), col = hsv(1*i/length(table(iml[,2])), 1, 1, alpha = 0.5), xlab = "Time", ylab = "Frequency", xlim = c(0,23), ylim = c(0, histMax))#
+        dev.off()#
+#
+        #[ggplot2]を使用してみる。#
+        #plot = qplot(as.POSIXlt(targetGenre)$hour+as.POSIXlt(targetGenre)$min/60, geom = "histogram", binwidth = 1, main= targetGenreName)#
+        #ggsave(paste("genre_",i,".pdf", sep=""), plot, family="Japan1GothicBBB")#
+#
+}
+par = (family="Japan1GothicBBB")#
+print("checking")#
+for(i in 1:length(table(iml[,2]))){#
+	targetGenreName = names(sort(table(iml[,2]), decreasing = T))[i]#
+	targetGenre = iml[,1][iml[,2] == targetGenreName]#
+        print(targetGenreName)#
+#
+        #quartz()#
+        #FIXME:なぜか日本語で書き出されない#
+        png(file=paste("genre_",i,".png", sep=""), bg="white", type="quartz", family="Japan1GothicBBB")#
+        foo = "テスト"#
+	hist(as.POSIXlt(targetGenre)$hour+as.POSIXlt(targetGenre)$min/60, main=foo, breaks=seq(0,24,1), col = hsv(1*i/length(table(iml[,2])), 1, 1, alpha = 0.5), xlab = "Time", ylab = "Frequency", xlim = c(0,23), ylim = c(0, histMax))#
+        dev.off()#
+#
+        #[ggplot2]を使用してみる。#
+        #plot = qplot(as.POSIXlt(targetGenre)$hour+as.POSIXlt(targetGenre)$min/60, geom = "histogram", binwidth = 1, main= targetGenreName)#
+        #ggsave(paste("genre_",i,".pdf", sep=""), plot, family="Japan1GothicBBB")#
+#
+}
+par = (family="Japan1GothicBBB")#
+print("checking")#
+for(i in 1:length(table(iml[,2]))){#
+	targetGenreName = names(sort(table(iml[,2]), decreasing = T))[i]#
+	targetGenre = iml[,1][iml[,2] == targetGenreName]#
+        print(targetGenreName)#
+#
+        #quartz()#
+        #FIXME:なぜか日本語で書き出されない#
+        png(file=paste("genre_",i,".png", sep=""), bg="white", type="quartz", family="Japan1GothicBBB")#
+        foo = "テスト"#
+	hist(as.POSIXlt(targetGenre)$hour+as.POSIXlt(targetGenre)$min/60, main=foo, breaks=seq(0,24,1), col = hsv(1*i/length(table(iml[,2])), 1, 1, alpha = 0.5), xlab = "Time", ylab = "Frequency", xlim = c(0,23), ylim = c(0, histMax), family="Japan1GothicBBB")#
+        dev.off()#
+#
+        #[ggplot2]を使用してみる。#
+        #plot = qplot(as.POSIXlt(targetGenre)$hour+as.POSIXlt(targetGenre)$min/60, geom = "histogram", binwidth = 1, main= targetGenreName)#
+        #ggsave(paste("genre_",i,".pdf", sep=""), plot, family="Japan1GothicBBB")#
+#
+}
+source("imlAnalyzer.R")
+iml
+source("imlAnalyzer.R")
+iml
+iml[1,5]
+iml[2,5]
+iml[3,5]
+iml[1,]
+iml[2,]
+iml = read.table('iml.txt', header = F, sep = ",")
+iml
+iml = read.table('iml.txt', header = F, sep = ",")
+dim(iml)
+iml[1,]
+iml[2,]
+iml[,1]
+iml[,2]
+iml[,3]
+iml[,]
+iml[,4]
+iml[,5]
+iml = read.table('iml.txt', header = F, sep = ",")
+iml[,3]
+iml[,4]
+iml[,5]
+length(length(iml[,5]))
+length(iml[,5])
+length(iml[,4])
+dim(iml)
+help(read.table)
+iml = read.table('iml.txt', header = F, sep = ",", encoding="UTF-8")
+iml
+iml = read.table('iml.txt', header = F, sep = ",", encoding="UTF-8")
+iml
+iml = read.table('iml.txt', header = F, sep = ",", encoding="UTF-8")
+iml
+iml = read.table('iml.txt', header = F, sep = ",", encoding="UTF-8")
+iml
+iml = read.table('iml.txt', header = F, sep = ",", encoding="UTF-8")
+iml
+iml = read.table('iml.txt', header = F, sep = ",", encoding="UTF-8")
+iml
+iml = read.table('iml.txt', header = F, sep = ",", encoding="UTF-8")
+iml
+iml = read.table('iml.txt', header = F, sep = ",", encoding="UTF-8")
+iml
+iml = read.table('iml.txt', header = F, sep = ",", encoding="UTF-8")
+iml
+iml = read.table('iml.txt', header = F, sep = ",", encoding="UTF-8")
+iml
+iml = read.table('iml.txt', header = F, sep = ",", encoding="UTF-8")
+iml
+iml = read.table('iml.txt', header = F, sep = ",", encoding="UTF-8")
+iml
+iml = read.table('iml.txt', header = F, sep = ",", encoding="UTF-8")
+iml
+iml = read.table('iml.txt', header = F, sep = ",", encoding="UTF-8")
+iml
+iml = read.table('iml.txt', header = F, sep = ",", encoding="UTF-8")
+iml
+iml = read.table('iml.txt', header = F, sep = ",", encoding="UTF-8")
+iml
+iml = read.table('iml.txt', header = F, sep = ",", encoding="UTF-8")
+iml
+iml = read.table('iml.txt', header = F, sep = ",", encoding="UTF-8")
+iml
+iml = read.table('iml.txt', header = F, sep = ",", encoding="UTF-8")
+iml
+iml = read.table('iml.txt', header = F, sep = ",", encoding="UTF-8")
+iml
+iml = read.table('iml.txt', header = F, sep = ",", encoding="UTF-8")
+iml[1:30,]
+iml[1:10,]
+iml = read.table('iml.txt', header = F, sep = ",", encoding="UTF-8")
+iml[1:10,]
+iml = read.table('iml.txt', header = F, sep = ",", encoding="UTF-8")
+iml[1:10,]
+help(read.table)
+iml = read.table('iml.txt', header = F, sep = ",", encoding="UTF-8")
+iml[1:10,]
+iml = read.table('iml.txt', header = F, sep = ",",quote = "")
+iml[1:10,]
+help(qplot)
+help(ggsave)
+help(qplot)
+source("imlanalyzer.r")
+table(iml[,2])
+source("imlanalyzer.r")
+sortediml
+sortedIml
+source("imlanalyzer.r")
+sortedIml[,1:4]
+sortedIml[sort.list(iml$palyCount)]
+sortedIml[sort.list(iml$palyCount).]
+foo =  iml[sort.list(iml$playDate),]
+foo =  iml[sort.list(iml$playCount),]
+foo
+foo =  iml[,1][iml[,4] == 0]
+foo
+foo =  iml[,1][iml[,4] != 0]
+foo
+foo =  iml[,][iml[,4] != 0]
+foo =  iml[iml[,4] != 0]
+foo =  iml[][iml[,4] != 0]
+foo =  iml[,4] != 0]
+foo =  iml[iml[,4] != 0]]
+iml[,4] != 0
+iml[1,]
+iml[1,][false]
+iml[1,]false
+iml[1,]true
+foo =  iml[:,:][iml[,4] != 0]
+foo =  iml[:,:[iml[,4] != 0]
+foo =  iml[:,[iml[,4] != 0]
+foo =  iml[:,][iml[,4] != 0]
+foo =  iml[:,:][iml[,4] != 0]
+foo =  iml[1,][iml[,4] != 0]
+foo = iml[,1][iml[,4] != 0]
+foo = iml[,][iml[,4] != 0]
+foo = iml[,:][iml[,4] != 0]
+foo = iml[:,:][iml[,4] != 0]
+foo = iml[,][iml[,4] != 0]
+foo = iml[][iml[,4] != 0]
+foo = iml[iml[,4] != 0]
+foo = iml[,1][TRUE]
+foo = iml[TRUE]
+foo = iml[iml[,4] != 0]]
+foo = iml[iml[,4] != 0]
+foo
+foo = iml[FALSE]
+foo
+foo = iml[iml[,4] != 0]
+dim[iml]
+dim(iml)
+dim(iml)[1]
+dim(iml)[2]
+foo = iml[,1:100][iml[,4] != 0]
+playedIml = iml[iml[,4]!=0,]
+playedIml
+playedIml = playedIml[sort.list[playtCount],]
+playedIml[sort.list[playtCount],]
+playedIml[sort.list[iml$playtCount],]
+playedIml[sort.list[playedIml$playtCount],]
+playedIml[sort.list(playedIml$playtCount),]
+playedIml
+playedIml[sort.list(playedIml$playtDate),]
+playedIml[sort.list(iml$playCount),]
+playedIml[sort.list(playedIml$playtCount),]
+playedIml[sort.list(playedIml$playtDate),]
+playedIml[sort.list(playedIml$playtCount),]
+playedIml[sort.list(playedIml$playCount),]
+playedIml[sort.list(playedIml$playtCount),]
+playedIml[sort.list(playedIml$playCount),]
+playedIml[sort.list(playedIml$playtCount),]
+playedIml[sort.list([playedIml[,4]]),]
+playedIml[sort.list(playedIml$playCount),]
+playedIml$playCount
+playedIml[,4]
+playedIml[sort.list(playedIml[,4]),]
+playedIml[sort.list(playedIml[,4]),] == playedIml[sort.list(playedIml$playCount),]
+playedIml[1:3,]
+playedIml[c(1,3,2),]
+playedIml[,c(1,5,2,3,4)]
+playedIml[1:3,c(1,5,2,3,4)]
+playedIml[1:3,]
+list.files
+list.files()
+list.files()[1]
+list.files()[2]
+source(list.files()[2])

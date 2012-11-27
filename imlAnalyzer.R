@@ -45,8 +45,8 @@ for(i in 1:7){
 	}
 }
 dev.off()
-#曜日ごとに分けて表示
 
+#曜日ごとに分けて表示
 for(i in 1:7){
 	#wdayName = switch(i, "Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday" )
 	#png(paste(file = "~/dropbox/thesis/out_png/week_",as.character(i), "_",wdayName, ".png", sep = ""))
@@ -59,7 +59,7 @@ for(i in 1:7){
 	#wdayName = switch(i, "日曜日", "月曜日", "火曜日", "水曜日", "木曜日", "金曜日", "土曜日" )
 	wdayName = switch(i, "Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday" )
 	hist(as.POSIXlt(iml[,1][as.POSIXlt(iml[,1])$wday==i-1])$hour+as.POSIXlt(iml[,1][as.POSIXlt(iml[,1])$wday==i-1])$min/60+as.POSIXlt(iml[,1][as.POSIXlt(iml[,1])$wday==i-1])$sec/60/60, breaks=seq(0,24,1), main=wdayName, col = hsv(1*i/7, 1 , 1, alpha = 0.5), xlab = "Time", ylab = "Frequency", add = F,  ylim =c(0,weekMax))
-	quartz.save(paste("~/dropbox/thesis/out_png/",as.character(i), "_",wdayName, ".png"))
+	quartz.save(paste("~/dropbox/thesis/out_png/",as.character(i), "_",wdayName, ".png", sep = ""))
 }
 
 #ジャンルを分けて分析
@@ -106,9 +106,14 @@ if(histMax == -1){
 		#dev.off()
          
          #日本語OKにして、qurartzで書き出す
-         hist(as.POSIXlt(targetGenre)$hour+as.POSIXlt(targetGenre)$min/60+as.POSIXlt(targetGenre)$sec/60/60, main=targetGenreName, breaks=seq(0,24,1), col = hsv(1*i/length(table(iml[,2])), 1, 1, alpha = 0.5), xlab = "Time", ylab = "Frequency", xlim = c(0,23), ylim = c(0, histMax))
-         quartz.save(paste("~/dropbox/thesis/out_png/","genre_",i,".png", sep=""))
+    	 hist(as.POSIXlt(targetGenre)$hour+as.POSIXlt(targetGenre)$min/60+as.POSIXlt(targetGenre)$sec/60/60, main=targetGenreName, breaks=seq(0,24,1), col = hsv(1*i/length(table(iml[,2])), 1, 1, alpha = 0.5), xlab = "Time", ylab = "Frequency", xlim = c(0,23), ylim = c(0, histMax))
+    	 quartz.save(paste("~/dropbox/thesis/out_png/","genre_",i, "_", targetGenreName, ".png", sep=""))
  }
+
+
+
+
+
 
 #ggplot2を使う。
 #library(ggplot2)
@@ -142,6 +147,23 @@ playDateExistIml = sortedIml[1:1863,]
 playedIml = iml[iml[,4]!=0,]
 playedImlSortedByPlayCount =  playedIml[sort.list(playedIml$playCount),] #これと同じ意味の式は右のようにも書ける。 playedImlSortedByPlayCount =  playedIml[sort.list(playedIml[,4]),]
 
+
+#一度以上再生されたジャンルをplayedImlから曜日毎に書き出す。
+#ジャズだけを取り出す　playedIml[playedIml$genre=="Jazz",]
+#日曜日だけ取り出す。  playedIml[as.POSIXlt(playedIml[,1])$wday==0,]
+#再生回数が1回で、ジャンルがJazzなものだけを取り出す。　playedIml[playedIml$playCount==1 & playedIml$genre == "Jazz",]
+ graphData  = c()
+ for(weekNum in 1 : 7){
+	 for(i in 1:length(table(iml[,2]))){
+		targetGenreName = names(sort(table(playedIml[,2]), decreasing = T))[i]
+		imlWeekGenre = playedIml[  as.POSIXlt(playedIml[,1])$wday==weekNum-1 & playedIml$genre == targetGenreName,]
+	    imlWeekGenreTime = imlWeekGenre[,1]
+	    wdayName = switch(weekNum, "Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday" )
+	    histData = hist(as.POSIXlt(imlWeekGenreTime)$hour+as.POSIXlt(imlWeekGenreTime)$min/60+as.POSIXlt(imlWeekGenreTime)$sec/60/60, main=paste(wdayName, "_", targetGenreName, sep = "")  , breaks=seq(0,24,1), col = hsv(1*i/length(table(playedIml[,2])), 1, 1, alpha = 0.5), xlab = "Time", ylab = "Frequency", xlim = c(0,23), ylim = c(0, histMax)) 
+    	graphData = rbind(graphData, histData$counts)
+    	quartz.save(paste("~/dropbox/thesis/out_png/", wdayName, "_", targetGenreName, ".png", sep=""))	
+	}
+}
 
 
 diff = c()
