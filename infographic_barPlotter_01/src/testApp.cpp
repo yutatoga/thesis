@@ -2,6 +2,7 @@
 
 //--------------------------------------------------------------
 void testApp::setup(){
+    ofSetFullscreen(true);
     ofSetCircleResolution(64);
     ofEnableSmoothing();
     ofSetVerticalSync(true);
@@ -49,8 +50,7 @@ void testApp::setup(){
 //    myControlPanel.addToggle("Saturday", "saturday", true);
     myControlPanel.loadSettings("controlPanel.xml");
     
-    beginTimePos = 0;
-    beginWeekPos = 0;
+    beginBarPosX = 0;
 }
 
 //--------------------------------------------------------------
@@ -60,9 +60,10 @@ void testApp::update(){
 }
 
 //--------------------------------------------------------------
-void testApp::draw(){
+void testApp::draw(){    
+    
     ofPushStyle();
-    ofSetColor(0, 0, 0, 64);
+    ofSetColor(0, 0, 0, 255);//全画面を黒くする。
     ofRect(0, 0, ofGetWidth(), ofGetHeight());
     ofPopStyle();
     
@@ -291,35 +292,43 @@ void testApp::draw(){
     
     //barplot
     //新・横並び
-    //FIXME: この仕様だと、曜日単位じゃないと動けない。
-    // -> startTimePosで開始時間を保存。
     ofPushMatrix();
-    ofTranslate(0, ofGetHeight()*0.2f);
     //飛ばした棒グラフ
+    ofPushMatrix();
+    ofTranslate(beginBarPosX, 0);
     for (int j=0; j<7; j++) {
         // j is weekNum: sunday is 0, monday is 1 ...saturday is 6.
         for (int i=0; i<24; i++) {
-            if (j<beginWeekPos){
-                //do nothing
-            }else if(j==beginWeekPos && i<beginTimePos){
-                //do nothing
-            }else{
-                ofPushMatrix();
-                ofTranslate(j*ofGetWidth()/(float)myControlPanel.getValueI("barNum")*24.0f+ofGetWidth()/(float)myControlPanel.getValueI("barNum")*i, ofGetHeight()*0.75);
-                ofPushStyle();
-                ofColor col;
-                col.setHsb(255/7.0f*j, 255, 255);
-                ofSetColor(col);
-                ofRect(0, 0, ofGetWidth()/(float)myControlPanel.getValueI("barNum"), -5*graphTop[24*j+i]);
-                ofPopStyle();
-                ofPopMatrix();
-            }
+            ofPushMatrix();
+            ofTranslate(j*ofGetWidth()/(float)myControlPanel.getValueI("barNum")*24.0f+ofGetWidth()/(float)myControlPanel.getValueI("barNum")*i, ofGetHeight()*0.9);
+            ofPushStyle();
+            ofColor col;
+            col.setHsb(255/7.0f*j, 255, 255);
+            ofSetColor(col);
+            ofRect(0, 0, ofGetWidth()/(float)myControlPanel.getValueI("barNum"), -5*graphTop[24*j+i]);
+            ofPopStyle();
+            ofPopMatrix();
         }
     }
-    //飛ばされた棒グラフ
-
-            
     ofPopMatrix();
+    //飛ばされた棒グラフ
+    ofPushMatrix();
+    ofTranslate(-ofGetWidth()+beginBarPosX, 0);
+    for (int j=0; j<7; j++) {
+        // j is weekNum: sunday is 0, monday is 1 ...saturday is 6.
+        for (int i=0; i<24; i++) {
+            ofPushMatrix();
+            ofTranslate(j*ofGetWidth()/(float)myControlPanel.getValueI("barNum")*24.0f+ofGetWidth()/(float)myControlPanel.getValueI("barNum")*i, ofGetHeight()*0.9);
+            ofPushStyle();
+            ofColor col;
+            col.setHsb(255/7.0f*j, 255, 255);
+            ofSetColor(col);
+            ofRect(0, 0, ofGetWidth()/(float)myControlPanel.getValueI("barNum"), -5*graphTop[24*j+i]);
+            ofPopStyle();
+            ofPopMatrix();
+        }
+    }
+    ofPopMatrix();        
 }
 
 
@@ -348,25 +357,21 @@ void testApp::keyPressed(int key){
     switch (key) {
         case OF_KEY_LEFT:
             printf("left\n");
-            beginTimePos++;
-            if (beginTimePos>23) {
-                beginTimePos = 0;
-                beginWeekPos++;
-                if (beginWeekPos>6) {
-                    beginWeekPos=0;
-                }
+            beginBarPosX -= ofGetWidth()/(float)myControlPanel.getValueI("barNum")/10.0f;
+            if (beginBarPosX < 0) {
+                beginBarPosX = ofGetWidth();
             }
             break;
         case OF_KEY_RIGHT:
             printf("right\n");
-            beginTimePos--;
-            if (beginTimePos<0) {
-                beginTimePos = 23;
-                beginWeekPos--;
-                if (beginWeekPos<0) {
-                    beginWeekPos = 6;
-                }
+            beginBarPosX +=ofGetWidth()/(float)myControlPanel.getValueI("barNum")/10.0f;
+            if (beginBarPosX > ofGetWidth()) {
+                beginBarPosX = 0;
             }
+            break;
+        case 'f':
+            printf("f\n");
+            ofGetWindowMode() ? ofSetFullscreen(false) : ofSetFullscreen(true);
             break;
         default:
             break;
