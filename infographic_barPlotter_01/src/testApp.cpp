@@ -37,9 +37,9 @@ void testApp::setup(){
     //
     
     //control panel
-    myControlPanel.setup("Bar Ploter UI", 0, 100, 340, 400);
+    myControlPanel.setup("Bar Ploter UI", 0, 50, 340, 150);
     myControlPanel.addPanel("panel_1", 1);
-    myControlPanel.addSlider("bar_width", "barWidth", 3, 0, 100, false);
+    myControlPanel.addSlider("bar_num", "barNum", 24*7, 1, 24*7, true);
 //    myControlPanel.addToggle("Sunday", "sunday", true);
 //    myControlPanel.addToggle("Monday", "monday", true);
 //    myControlPanel.addToggle("Tuesday", "tuesday", true);
@@ -48,6 +48,9 @@ void testApp::setup(){
 //    myControlPanel.addToggle("Friday", "friday", true);
 //    myControlPanel.addToggle("Saturday", "saturday", true);
     myControlPanel.loadSettings("controlPanel.xml");
+    
+    beginTimePos = 0;
+    beginWeekPos = 0;
 }
 
 //--------------------------------------------------------------
@@ -271,7 +274,6 @@ void testApp::draw(){
                     ofPopStyle();
                     ofPopMatrix();
                     break;
-                    
                 default:
                     break;
             }
@@ -289,22 +291,34 @@ void testApp::draw(){
     
     //barplot
     //新・横並び
+    //FIXME: この仕様だと、曜日単位じゃないと動けない。
+    // -> startTimePosで開始時間を保存。
     ofPushMatrix();
     ofTranslate(0, ofGetHeight()*0.2f);
-    for (int j=0; j< 6; j++) {
+    //飛ばした棒グラフ
+    for (int j=0; j<7; j++) {
         // j is weekNum: sunday is 0, monday is 1 ...saturday is 6.
-        for (int i = 0; i<24; i++) {
-            ofPushMatrix();
-            ofTranslate(myControlPanel.getValueF("barWidth")*i+(ofGetWidth()/2-myControlPanel.getValueF("barWidth")*24/2), ofGetHeight()*0.75);
-            ofPushStyle();
-            ofColor col;
-            col.setHsb(255/7.0f*j, 255, 255);
-            ofSetColor(col);
-            ofRect(0, 0, myControlPanel.getValueF("barWidth"), -5*graphTop[24*j+i]);
-            ofPopStyle();
-            ofPopMatrix();
+        for (int i=0; i<24; i++) {
+            if (j<beginWeekPos){
+                //do nothing
+            }else if(j==beginWeekPos && i<beginTimePos){
+                //do nothing
+            }else{
+                ofPushMatrix();
+                ofTranslate(j*ofGetWidth()/(float)myControlPanel.getValueI("barNum")*24.0f+ofGetWidth()/(float)myControlPanel.getValueI("barNum")*i, ofGetHeight()*0.75);
+                ofPushStyle();
+                ofColor col;
+                col.setHsb(255/7.0f*j, 255, 255);
+                ofSetColor(col);
+                ofRect(0, 0, ofGetWidth()/(float)myControlPanel.getValueI("barNum"), -5*graphTop[24*j+i]);
+                ofPopStyle();
+                ofPopMatrix();
+            }
         }
     }
+    //飛ばされた棒グラフ
+
+            
     ofPopMatrix();
 }
 
@@ -334,9 +348,25 @@ void testApp::keyPressed(int key){
     switch (key) {
         case OF_KEY_LEFT:
             printf("left\n");
+            beginTimePos++;
+            if (beginTimePos>23) {
+                beginTimePos = 0;
+                beginWeekPos++;
+                if (beginWeekPos>6) {
+                    beginWeekPos=0;
+                }
+            }
             break;
         case OF_KEY_RIGHT:
             printf("right\n");
+            beginTimePos--;
+            if (beginTimePos<0) {
+                beginTimePos = 23;
+                beginWeekPos--;
+                if (beginWeekPos<0) {
+                    beginWeekPos = 6;
+                }
+            }
             break;
         default:
             break;

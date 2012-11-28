@@ -55,5 +55,8 @@ class testApp : public ofBaseApp{
     //graph
     float currentDistFromGraphTop;
     
+    int beginTimePos;
+    int beginWeekPos;
+    
     
 };
