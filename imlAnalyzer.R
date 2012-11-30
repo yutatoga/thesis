@@ -191,7 +191,12 @@ for(i in 1:instantCountOfPlayedImlSortedByPlayCount){
 sum(iml[,4])
 dim(imlPlusCount)
 
-
+#csvを書き出す。
+#曜日毎のジャンルの累積グラフのテーブル
+write.csv(graphData, "graphData.csv")
+#ジャンル
+genreNameList = names(sort(table(playedIml[,2][, drop = TRUE]), decreasing = T))
+write.csv(genreNameList, "genreNameList.csv")
 
 #最後まで完了
 cat("done!\n")
