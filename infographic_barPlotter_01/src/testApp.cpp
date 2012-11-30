@@ -6,12 +6,13 @@ void testApp::setup(){
     ofSetCircleResolution(64);
     ofEnableSmoothing();
     ofSetVerticalSync(true);
-    ofSetFrameRate(30);
+    ofSetFrameRate(32);
     ofEnableAlphaBlending();
     thetaDegree = 0;
     ofBackground(0, 0, 0, 255);
     ofSetBackgroundAuto(false);
-    csv.loadFile(ofToDataPath("iml.csv"));
+    csv.loadFile(ofToDataPath("graphData.csv"));
+    genreNameList.loadFile(ofToDataPath("genreNameList.csv"));
     genreNum = 24;
     currentPos = -1;
     myPlayer.loadSound("Pop.aiff");
@@ -51,6 +52,15 @@ void testApp::setup(){
     myControlPanel.loadSettings("controlPanel.xml");
     
     beginBarPosX = 0;
+    //ジャンルの色を決定する。ベスト5以下は灰色にする。
+        
+    for (int i =0; i<5; i++) {
+        ofPushStyle();
+        ofColor col;
+        col.setHsb(255/5.0f*i, 255, 255, 255);
+        genreCol.push_back(col);
+    }
+    
 }
 
 //--------------------------------------------------------------
@@ -193,8 +203,6 @@ void testApp::draw(){
         ofPopMatrix();
         
         
-        
-        
         //UI
         //info
         string str = "Circle Bar Plotter by Yuta Toga";
@@ -289,46 +297,173 @@ void testApp::draw(){
     //control panel
     myControlPanel.draw();
     
-    
+    //FIXME: 作業中
     //barplot
     //新・横並び
-    ofPushMatrix();
+    ofPushMatrix();    
     //飛ばした棒グラフ
     ofPushMatrix();
     ofTranslate(beginBarPosX, 0);
-    for (int j=0; j<7; j++) {
-        // j is weekNum: sunday is 0, monday is 1 ...saturday is 6.
-        for (int i=0; i<24; i++) {
+    // j is weekNum: sunday is 0, monday is 1 ...saturday is 6.
+    
+    
+    //音楽データの棒グラフ
+    for (int i=0; i<24*7; i++) {
+        currentDistFromGraphTop = graphTop[i];
+        for (int j=0; j<genreNum; j++) {
             ofPushMatrix();
-            ofTranslate(j*ofGetWidth()/(float)myControlPanel.getValueI("barNum")*24.0f+ofGetWidth()/(float)myControlPanel.getValueI("barNum")*i, ofGetHeight()*0.9);
+            ofTranslate(ofGetWidth()/(float)myControlPanel.getValueI("barNum")*i, ofGetHeight()*0.9);
             ofPushStyle();
             ofColor col;
-            col.setHsb(255/7.0f*j, 255, 255);
+            if (j>genreNum-5-1) {
+                col.setHsb(genreCol[genreNum-j-1].getHue(), 255, 255);
+            }else{
+                col.set(127, 127, 127);
+            }
             ofSetColor(col);
-            ofRect(0, 0, ofGetWidth()/(float)myControlPanel.getValueI("barNum"), -5*graphTop[24*j+i]);
+            ofRect(0, 0, ofGetWidth()/(float)myControlPanel.getValueI("barNum"), -3*currentDistFromGraphTop);//最初の行がラベルなので１足す
+            
             ofPopStyle();
             ofPopMatrix();
+            currentDistFromGraphTop -= csv.getFloat(floor(i/24.0f)*genreNum+(24-j-1)+1, i%24+1);
         }
+    }
+    //時間情報
+    for (int i=0; i<7; i++) {
+        ofPushMatrix();
+        ofTranslate(ofGetWidth()/7.0f*i, ofGetHeight()*0.9);
+        ofPushStyle();
+        ofColor col;
+        col.setHsb(255/7.0f*i, 255, 255);
+        ofSetColor(col);
+        ofRect(0, 0, ofGetWidth()/7.0f, 30);
+        ofSetColor(0, 0, 0);
+        
+        string str;
+        switch (i) {
+            case 0:
+                str="Sunday";
+                break;
+            case 1:
+                str = "Monday";
+                break;
+            case 2:
+                str = "Tuesday";
+                break;
+            case 3:
+                str = "Wednesday";
+                break;
+            case 4:
+                str = "Thursday";
+                break;
+            case 5:
+                str = "Friday";
+                break;
+            case 6:
+                str = "Saturday";
+                break;
+            default:
+                break;
+        }
+        
+        myFont.drawString(str, 10, myFont.stringHeight(str));
+        ofPopStyle();
+        ofPopMatrix();
     }
     ofPopMatrix();
     //飛ばされた棒グラフ
     ofPushMatrix();
     ofTranslate(-ofGetWidth()+beginBarPosX, 0);
-    for (int j=0; j<7; j++) {
-        // j is weekNum: sunday is 0, monday is 1 ...saturday is 6.
-        for (int i=0; i<24; i++) {
+    
+    
+    //音楽データの棒グラフ
+    for (int i=0; i<24*7; i++) {
+        currentDistFromGraphTop = graphTop[i];
+        for (int j=0; j<genreNum; j++) {
             ofPushMatrix();
-            ofTranslate(j*ofGetWidth()/(float)myControlPanel.getValueI("barNum")*24.0f+ofGetWidth()/(float)myControlPanel.getValueI("barNum")*i, ofGetHeight()*0.9);
+            ofTranslate(ofGetWidth()/(float)myControlPanel.getValueI("barNum")*i, ofGetHeight()*0.9);
             ofPushStyle();
             ofColor col;
-            col.setHsb(255/7.0f*j, 255, 255);
+            if (j>genreNum-5-1) {
+                col.setHsb(genreCol[genreNum-j-1].getHue(), 255, 255);
+            }else{
+                col.set(127, 127, 127);
+            }
             ofSetColor(col);
-            ofRect(0, 0, ofGetWidth()/(float)myControlPanel.getValueI("barNum"), -5*graphTop[24*j+i]);
+            ofRect(0, 0, ofGetWidth()/(float)myControlPanel.getValueI("barNum"), -3*currentDistFromGraphTop);//最初の行がラベルなので１足す
             ofPopStyle();
             ofPopMatrix();
+            currentDistFromGraphTop -= csv.getFloat(floor(i/24.0f)*genreNum+(24-j-1)+1, i%24+1);
         }
     }
-    ofPopMatrix();        
+    //時間情報
+    for (int i=0; i<7; i++) {
+        ofPushMatrix();
+        ofTranslate(ofGetWidth()/7.0f*i, ofGetHeight()*0.9);
+        ofPushStyle();
+        
+        
+        ofColor col;
+        col.setHsb(255/7.0f*i, 255, 255);
+        ofSetColor(col);
+        ofRect(0, 0, ofGetWidth()/7.0f, 30);
+        ofSetColor(0, 0, 0);
+        
+        string str;
+        switch (i) {
+            case 0:
+                str="Sunday";
+                break;
+            case 1:
+                str = "Monday";
+                break;
+            case 2:
+                str = "Tuesday";
+                break;
+            case 3:
+                str = "Wednesday";
+                break;
+            case 4:
+                str = "Thursday";
+                break;
+            case 5:
+                str = "Friday";
+                break;
+            case 6:
+                str = "Saturday";
+                break;
+            default:
+                break;
+        }
+        
+        myFont.drawString(str, 10, myFont.stringHeight(str));
+        ofPopStyle();
+        ofPopMatrix();
+    }
+    ofPopMatrix();
+    
+    ofPushMatrix();
+    ofTranslate(0, ofGetHeight()*0.9+2);
+    ofPushStyle();
+    ofSetColor(255, 255, 255, 255);
+    ofSetLineWidth(4);
+    ofLine(0, 0, ofGetWidth(), 0);
+    ofPopStyle();
+    ofPopMatrix();
+    
+    
+    //色とジャンルの対応を見せる
+    for (int i = 0; i<5; i++) {
+        ofPushMatrix();
+        ofTranslate(50, 250+15*i);
+        ofPushStyle();
+        ofSetColor(genreCol[i]);
+        ofRect(0, 0, 10, 10);
+        ofDrawBitmapString(genreNameList.getString(1+i, 1).c_str(), 15, 10);
+        ofPopStyle();
+        ofPopMatrix();
+    }
+    ofDrawBitmapString("FRAME RATE:"+ofToString(ofGetFrameRate()), 5, 40);
 }
 
 

@@ -33,6 +33,8 @@ class testApp : public ofBaseApp{
     float thetaDegree;
     ofxVectorGraphics myVectorGraphics;
     ofxCsv csv;
+    ofxCsv genreNameList;
+    
     string myText;
     int genreNum;
     
@@ -54,6 +56,8 @@ class testApp : public ofBaseApp{
     
     //graph
     float currentDistFromGraphTop;
+    float beginBarPosX;
+    vector<ofColor> genreCol;
     
-    float beginBarPosX;    
+    bool showCircleGraph;
 };
