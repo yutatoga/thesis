@@ -13,7 +13,7 @@ void testApp::setup(){
     ofSetBackgroundAuto(false);
     csv.loadFile(ofToDataPath("graphData.csv"));
     genreNameList.loadFile(ofToDataPath("genreNameList.csv"));
-    genreNum = 24;
+    genreNum = genreNameList.numRows-1;//ラベルを省くので-1しておく。
     currentPos = -1;
     myPlayer.loadSound("Pop.aiff");
     weekName = "Week";
@@ -60,7 +60,7 @@ void testApp::setup(){
         col.setHsb(255/5.0f*i, 255, 255, 255);
         genreCol.push_back(col);
     }
-    
+    barHeightChanger = 5;
 }
 
 //--------------------------------------------------------------
@@ -70,8 +70,7 @@ void testApp::update(){
 }
 
 //--------------------------------------------------------------
-void testApp::draw(){    
-    
+void testApp::draw(){
     ofPushStyle();
     ofSetColor(0, 0, 0, 255);//全画面を黒くする。
     ofRect(0, 0, ofGetWidth(), ofGetHeight());
@@ -166,7 +165,7 @@ void testApp::draw(){
                 col.setHsb(255, 255, 0, 255/(float)genreNum);
                 ofSetColor(col);
                 myVectorGraphics.arc(0, 0, CENTER_CIRCLE_RADIUS+3*currentDistFromGraphTop, 360/(7.0f*24.0f)*i, 360/(7.0f*24.0f));
-                currentDistFromGraphTop -= csv.getFloat(floor(i/24.0f)*genreNum+(24-j-1)+1, i%24+1);
+                currentDistFromGraphTop -= csv.getFloat(floor(i/24.0f)*genreNum+(genreNum-j-1)+1, i%24+1);
             }
         }
         ofPopStyle();
@@ -182,7 +181,7 @@ void testApp::draw(){
             ofTranslate(ofGetWidth()/2.0f, ofGetHeight()/2.0f);
             ofRotateZ(-90);
             ofSetColor(0, 0, 0, 255);
-            afterBootFrameCounter -= 360/7/24*3;
+            afterBootFrameCounter -= 360/7/24*3;//これでok
             myVectorGraphics.arc(0, 0,  3*topPos+CENTER_CIRCLE_RADIUS+20, 0, -afterBootFrameCounter);
             ofPopStyle();
             ofPopMatrix();
@@ -208,8 +207,10 @@ void testApp::draw(){
         string str = "Circle Bar Plotter by Yuta Toga";
         myFont.drawString(str, 10, myFont.stringHeight(str));
         //ofDrawBitmapString(weekName, 10, 150);
-        myFont2.drawString(weekName, ofGetWidth()/2.0f-myFont2.stringWidth(weekName)/2.0f, ofGetHeight()/2.0f+myFont2.stringHeight(weekName)/2.0f);
-        
+        ofPushMatrix();
+        ofTranslate(ofGetWidth()/2.0f, ofGetHeight()/2.0f);
+        myFont2.drawString(weekName, -myFont2.stringWidth(weekName)/2.0f, myFont2.stringHeight(weekName)/2.0f);
+        ofPopMatrix();
         if (afterSelectedFrameCounter > 0) {
             afterSelectedFrameCounter -= 15;
             switch (currentPos) {
@@ -321,11 +322,11 @@ void testApp::draw(){
                 col.set(127, 127, 127);
             }
             ofSetColor(col);
-            ofRect(0, 0, ofGetWidth()/(float)myControlPanel.getValueI("barNum"), -3*currentDistFromGraphTop);//最初の行がラベルなので１足す
+            ofRect(0, 0, ofGetWidth()/(float)myControlPanel.getValueI("barNum"), -barHeightChanger*currentDistFromGraphTop);//最初の行がラベルなので１足す
             
             ofPopStyle();
             ofPopMatrix();
-            currentDistFromGraphTop -= csv.getFloat(floor(i/24.0f)*genreNum+(24-j-1)+1, i%24+1);
+            currentDistFromGraphTop -= csv.getFloat(floor(i/24.0f)*genreNum+(genreNum-j-1)+1, i%24+1);
         }
     }
     //時間情報
@@ -390,10 +391,10 @@ void testApp::draw(){
                 col.set(127, 127, 127);
             }
             ofSetColor(col);
-            ofRect(0, 0, ofGetWidth()/(float)myControlPanel.getValueI("barNum"), -3*currentDistFromGraphTop);//最初の行がラベルなので１足す
+            ofRect(0, 0, ofGetWidth()/(float)myControlPanel.getValueI("barNum"), -barHeightChanger*currentDistFromGraphTop);//最初の行がラベルなので１足す
             ofPopStyle();
             ofPopMatrix();
-            currentDistFromGraphTop -= csv.getFloat(floor(i/24.0f)*genreNum+(24-j-1)+1, i%24+1);
+            currentDistFromGraphTop -= csv.getFloat(floor(i/24.0f)*genreNum+(genreNum-j-1)+1, i%24+1);
         }
     }
     //時間情報
@@ -450,7 +451,6 @@ void testApp::draw(){
     ofLine(0, 0, ofGetWidth(), 0);
     ofPopStyle();
     ofPopMatrix();
-    
     
     //色とジャンルの対応を見せる
     for (int i = 0; i<5; i++) {

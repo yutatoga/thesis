@@ -58,6 +58,7 @@ class testApp : public ofBaseApp{
     float currentDistFromGraphTop;
     float beginBarPosX;
     vector<ofColor> genreCol;
-    
+    float barHeightChanger;
     bool showCircleGraph;
+    
 };
