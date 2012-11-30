@@ -93,26 +93,6 @@ if(histMax == -1){
 #second largest hist
 #quartz()
 #hist(as.POSIXlt(secondLargestGenre)$hour+as.POSIXlt(secondLargestGenre)$min/60+as.POSIXlt(secondLargestGenre)$sec/60/60, main=secondLargestGenreName, breaks=seq(0,24,1), col = hsv(1, 1, 1, alpha = 0.5), xlab = "Time", ylab = "Frequency", ylim = c(0, histMax))
-#for文で全ジャンル書き出してみる
-#FIXME:quartz()を使う
- for(i in 1:length(table(iml[,2]))){
- 	targetGenreName = names(sort(table(iml[,2]), decreasing = T))[i]
- 	targetGenre = iml[,1][iml[,2] == targetGenreName]
-         print(targetGenreName)
-
-#         #FIXME:なぜか日本語で書き出されない
-    	#png(file=paste("~/dropbox/thesis/out_png/","genre_",i,".png", sep=""), bg="white", type="quartz")
- 		#hist(as.POSIXlt(targetGenre)$hour+as.POSIXlt(targetGenre)$min/60+as.POSIXlt(targetGenre)$sec/60/60, main=targetGenreName, breaks=seq(0,24,1), col = hsv(1*i/length(table(iml[,2])), 1, 1, alpha = 0.5), xlab = "Time", ylab = "Frequency", xlim = c(0,23), ylim = c(0, histMax))
-		#dev.off()
-         
-         #日本語OKにして、qurartzで書き出す
-    	 hist(as.POSIXlt(targetGenre)$hour+as.POSIXlt(targetGenre)$min/60+as.POSIXlt(targetGenre)$sec/60/60, main=targetGenreName, breaks=seq(0,24,1), col = hsv(1*i/length(table(iml[,2])), 1, 1, alpha = 0.5), xlab = "Time", ylab = "Frequency", xlim = c(0,23), ylim = c(0, histMax))
-    	 quartz.save(paste("~/dropbox/thesis/out_png/","genre_",i, "_", targetGenreName, ".png", sep=""))
- }
-
-
-
-
 
 
 #ggplot2を使う。
@@ -148,20 +128,40 @@ playedIml = iml[iml[,4]!=0,]
 playedImlSortedByPlayCount =  playedIml[sort.list(playedIml$playCount),] #これと同じ意味の式は右のようにも書ける。 playedImlSortedByPlayCount =  playedIml[sort.list(playedIml[,4]),]
 
 
+
+#for文で全ジャンル書き出してみる
+#FIXME:quartz()を使う
+ for(i in 1:length(table(playedIml[,2][, drop = TRUE]))){
+ 	targetGenreName = names(sort(table(playedIml[,2]), decreasing = T))[i]
+ 	targetGenre = playedIml[,1][playedIml[,2] == targetGenreName]
+         print(targetGenreName)
+
+#         #FIXME:なぜか日本語で書き出されない
+    	#png(file=paste("~/dropbox/thesis/out_png/","genre_",i,".png", sep=""), bg="white", type="quartz")
+ 		#hist(as.POSIXlt(targetGenre)$hour+as.POSIXlt(targetGenre)$min/60+as.POSIXlt(targetGenre)$sec/60/60, main=targetGenreName, breaks=seq(0,24,1), col = hsv(1*i/length(table(iml[,2])), 1, 1, alpha = 0.5), xlab = "Time", ylab = "Frequency", xlim = c(0,23), ylim = c(0, histMax))
+		#dev.off()
+         
+         #日本語OKにして、qurartzで書き出す
+    	 hist(as.POSIXlt(targetGenre)$hour+as.POSIXlt(targetGenre)$min/60+as.POSIXlt(targetGenre)$sec/60/60, main=targetGenreName, breaks=seq(0,24,1), col = hsv(1*i/length(table(playedIml[,2][, drop=TRUE])), 1, 1, alpha = 0.5), xlab = "Time", ylab = "Frequency", xlim = c(0,23), ylim = c(0, histMax))
+    	 quartz.save(paste("~/dropbox/thesis/out_png/","genre_",i, "_", targetGenreName, ".png", sep=""))
+ }
+
+
+
 #一度以上再生されたジャンルをplayedImlから曜日毎に書き出す。
 #ジャズだけを取り出す　playedIml[playedIml$genre=="Jazz",]
 #日曜日だけ取り出す。  playedIml[as.POSIXlt(playedIml[,1])$wday==0,]
 #再生回数が1回で、ジャンルがJazzなものだけを取り出す。　playedIml[playedIml$playCount==1 & playedIml$genre == "Jazz",]
  graphData  = c()
  for(weekNum in 1 : 7){
-	 for(i in 1:length(table(iml[,2]))){
-		targetGenreName = names(sort(table(playedIml[,2]), decreasing = T))[i]
+	 for(i in 1:length(table(playedIml[,2][, drop = TRUE]))){
+		targetGenreName = names(sort(table(playedIml[,2][, drop = TRUE]), decreasing = T))[i]
 		imlWeekGenre = playedIml[  as.POSIXlt(playedIml[,1])$wday==weekNum-1 & playedIml$genre == targetGenreName,]
 	    imlWeekGenreTime = imlWeekGenre[,1]
 	    wdayName = switch(weekNum, "Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday" )
-	    histData = hist(as.POSIXlt(imlWeekGenreTime)$hour+as.POSIXlt(imlWeekGenreTime)$min/60+as.POSIXlt(imlWeekGenreTime)$sec/60/60, main=paste(wdayName, "_", targetGenreName, sep = "")  , breaks=seq(0,24,1), col = hsv(1*i/length(table(playedIml[,2])), 1, 1, alpha = 0.5), xlab = "Time", ylab = "Frequency", xlim = c(0,23), ylim = c(0, histMax)) 
+	    histData = hist(as.POSIXlt(imlWeekGenreTime)$hour+as.POSIXlt(imlWeekGenreTime)$min/60+as.POSIXlt(imlWeekGenreTime)$sec/60/60, main=paste(wdayName, "_", targetGenreName, sep = "")  , breaks=seq(0,24,1), col = hsv(1*i/length(table(playedIml[,2][, drop = TRUE])), 1, 1, alpha = 0.5), xlab = "Time", ylab = "Frequency", xlim = c(0,23), ylim = c(0, histMax)) 
     	graphData = rbind(graphData, histData$counts)
-    	quartz.save(paste("~/dropbox/thesis/out_png/", wdayName, "_", targetGenreName, ".png", sep=""))	
+    	quartz.save(paste("~/dropbox/thesis/out_png/", weekNum, "_", wdayName, "_", i,"_", targetGenreName, ".png", sep=""))	
 	}
 }
 

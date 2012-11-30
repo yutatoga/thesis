@@ -1,188 +1,3 @@
-example
-example <- matrix( c(67,128, 42, 22, 155,180, 20 , 201, 393, 33, 343, 33), nrow=6, byrow=T)
-barplot(example)
-source("imlanalyzer.r")
-iml
-iml[,1]
-as.POSIXIt(iml[,1])
-as.POSIXlt(iml[,1])
-as.POSIXlt(iml[,1])$wday
-as.POSIXlt(iml[,1])$wday
-as.POSIXlt(iml[,1])$wday==1
-iml[,1]as.POSIXlt(iml[,1])$wday==1
-iml[,1][as.POSIXlt(iml[,1])$wday==1]
-dim(iml[,1][as.POSIXlt(iml[,1])$wday==1])
-lenght(iml[,1][as.POSIXlt(iml[,1])$wday==1])
-length(iml[,1][as.POSIXlt(iml[,1])$wday==1])
-length(iml[,1])
-iml[,1][as.POSIXlt(iml[,1])$wday==1]
-lenght(iml[,1][as.POSIXlt(iml[,1])$wday==1])
-length(iml[,1][as.POSIXlt(iml[,1])$wday==1])
-length(iml[,1])
-playedIml
-length(playedIml[,1][as.POSIXlt(iml[,1])$wday==1])
-length(playedIml[,1])
-playedIml[,1][as.POSIXlt(iml[,1])$wday==1]
-playedIml[,1][as.POSIXlt(iml[,1])$wday==1,]
-playedIml[as.POSIXlt(iml[,1])$wday==1]
-playedIml[as.POSIXlt(iml[,1])$wday==1]
-playedIml[,1][as.POSIXlt(iml[,1])$wday==1,]
-names(playedIml)
-playedIml[playedIml$genre]
-playedIml[playedIml$genre=="classic"]
-playedIml[playedIml$genre=="clasic"]
-playedIml[playedIml$genre=="Jazz"]
-playedIml[playedIml$genre=="Jazz",]
-playedIml[playedIml$genre=="Jazz",]
-playedIml[playedIml$genre=="Jazz",]
-playedIml$genre=="Jazz"
-as.POSIXlt(iml[,1])$wday==1
-playedIml$genre=="Jazz"
-as.POSIXlt(playedIml[,1])$wday==1
-playedIml$genre=="Jazz"
-as.POSIXlt(playedIml[,1])$wday==1
-as.POSIXlt(playedIml[,1])$wday==1
-as.POSIXlt(playedIml[,1])$wday==1
-playedIml[playedIml$genre=="Jazz",]
-playedIml[as.POSIXlt(playedIml[,1])$wday==1,]
-playedIml[as.POSIXlt(playedIml[,1])$wday==0,]
-playedIml[playedIml$playcount==0,]
-playedIml[playedIml$playCount==0,]
-playIml.names
-names(playIml)
-names(playedIml)
-playedIml[playedIml$genre=="Jazz",]
-names(playedIml)
-playedIml[playedIml$playCount==1,]
-playedIml[playedIml$playCount==1,playedIml$genre == "Jazz"]
-playedIml[playedIml$playCount==1,playedIml$genre == "Jazz",]
-playedIml[playedIml$playCount==1:playedIml$genre == "Jazz",]
-playedIml[playedIml$playCount==1 & playedIml$genre == "Jazz",]
-playedIml[playedIml$playCount==1 && playedIml$genre == "Jazz",]
-playedIml[playedIml$playCount==1 & playedIml$genre == "Jazz",]
-playedIml[playedIml$playCount==1 & playedIml$genre == "Jazz",]
-ength(table(iml[,2]))
-ength(table(iml[,2])
-a
-length(table(iml[,2]))
-table(iml[,2])
-source("imlreader.r")
-source("imlanalyzer.r")
-source("imlanalyzer.r")
-foo = c(1:10)
-foo
-hist(foo)
-barplot(foo)
-bar = barplot(foo)
-bar
-bar[1]
-bar = barplot(c(1:4))
-bar
-bar <- barplot(foo)
-bar
-bar <- hist(foo)
-bar
-bar.out
-bar <- barplot(foo)
-bar.list
-list(bar)
-bar <- barplot(foo).out
-bar <- barplot(foo).list
-list(barplot(foo))
-help(barplot)
-help(barplot)
-bar <- barplot(foo,beside = TRUE)
-bar
-bar <- barplot(foo,beside = false)
-bar
-barplot(foo,beside = false)
-barplot(foo,beside = false)
-bar <- barplot(foo,beside = TRUE)
-barplot(foo,beside = false)
-barplot(foo,beside = false)
-bar <- barplot(foo,beside = FALSE)
-bar
-bar <- barplot(foo,beside = TRUE)
-bar
-bar
-foo
-matrix(c(1:10))
-foo - matrix(c(1:10))
-foo = matrix(c(1:10))
-foo
-barplot(foo)
-example <- matrix( c(67,128, 42, 22, 155,180, 20 , 201, 393, 33, 343, 33), nrow=6, byrow=T)
-foo = barplot(example)
-foo
-foo = barplot(example, beside = false)
-foo = barplot(example, beside = False)
-foo = barplot(example, beside = FALSE)
-foo
-foo = barplot(example, beside = TRUE)
-foo
-example
-foo = barplot(example, beside = TRUE)
-foo
-foo = hist(example)
-foo
-example
-foo = hist(example)
-barplot(example, beside = TRUE)$coutns
-barplot(example, beside = TRUE)$coutn
-barplot(example, beside = TRUE)$count
-barplot(example, beside = TRUE)$counts
-foo = hist(example, bar)
-help(hist)
-help(hist)
-foo = hist(example, bar)
-foo = hist(example, besides = fasle)
-foo = hist(example, besides = true)
-help(hist)
-foo = hist(example, besides = true)
-foo = hist(example)
-foo
-foo.count
-foo.counts
-foo$counts
-hoge  = foo$counts
-hoge
-foobar = foo$coutns
-foobar
-foobar
-foobar = foo$coutns
-foobar = foo$counts
-foobar
-foo
-foobar
-hoge
-nozomi = append(foobar, hgoe)
-nozomi = cbind(foobar, hgoe)
-nozomi = rbind(foobar, hgoe)
-nozomi = rbinds(foobar, hgoe)
-nozomi = cbind(foobar, hoge)
-nozomi
-nozomi = rbinds(foobar, hoge)
-nozomi = rbind(foobar, hoge)
-nozomi
-nozomi = append(foobar, hoge)
-nozomi
-nozomi = rbind(foobar, hoge)
-dim(nozomi)
-nozomi[1,]
-nozomi[,1]
-source("imlanalyzer.r")
-imlWeekGenre
-playedIml[playedIml$playCount==weekNum & playedIml$genre == targetGenre,]
-playedIml[playedIml$playCount==weekNum & playedIml$genre == targetGenre,]
-iml
-playedIml[playedIml$playCount==weekNum & playedIml$genre == targetGenre,]
-targetGenreName
-playedIml[playedIml$playCount==1 & playedIml$genre == "Jazz",]
-playedIml[playedIml$playCount==1 & playedIml$genre == targetGenreName,]
-source("imlanalyzer.r")
-imlWeekGenre
-imlWeekGenre
-clc
 imlWeekGenre
 targetGenreName
 imlWeekGenre
@@ -209,12 +24,10 @@ imlWeekGenre[,3]
 imlWeekGenre[,1]
 wdayName = switch(i, "Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday" )
 i
-i
 wdayName
 i = 0
 wdayName = switch(i, "Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday" )
 wdayName
-iml[,1])$wday==i-1
 iml[,1])$wday==i-1
 iml[iml[,1])$wday==i-1]
 iml[iml[,1])$wday==1]
@@ -224,7 +37,6 @@ iml[,1][as.POSIXlt(iml[,1])$wday==1]
 iml[,1])$wday
 iml[,1]$wday
 as.POSIXlt(iml[,1])$wday
-playedIml$genre == targetGenreName
 playedIml$genre == targetGenreName
 as.POSIXlt(playedIml[,1])$wday==i-1
 playedIml[,1])$wda
@@ -240,7 +52,6 @@ length(table(playedIml[,2])
 )
 168/24
 source("imlAnalyzer.r")
-source("imlAnalyzer.r")
 graphData
 barplot(graphData[1:24,])
 write.csv(graphData, "foo.csv")
@@ -248,3 +59,259 @@ sort(table(playedIml[,2]), decreasing = T)
 names(sort(table(playedIml[,2]), decreasing = T))
 lenght(names(sort(table(playedIml[,2]), decreasing = T)))
 length(names(sort(table(playedIml[,2]), decreasing = T)))
+source("imlAnalyzer.R")
+source("imlAnalyzer.R")
+genre
+genrename
+genreName
+iml$genre
+table(iml$genre)
+names(sort(table(iml[,2]), decreasing = T))
+GenreNameList = names(sort(table(iml[,2]), decreasing = T))
+GenreNameList[1]
+GenreNameList[1]+"fooo"
+paste(GenreNameList[1], "foo")
+histData
+graphData
+source("imlAnalyzer.R")
+source("imlAnalyzer.R")
+help(csv)
+help(write.csv)
+write.csv(genreNameList, "genreNameList.csv", append = false)
+write.csv(genreNameList, "genreNameList.csv", append = FALSE)
+help(write.csv)
+write.csv(genreNameList, "genreNameList.csv", append = FALSE)
+write.csv(genreNameList,append = FALSE, "genreNameList.csv")
+help(write.csv)
+write.csv(genreNameList, "genreNameList.csv")
+write.csv(genreNameList, "genreNameList.csv", row.names = FALSE)
+write.csv(genreNameList, "genreNameList.csv", row.names = FALSE, col.names)
+write.csv(genreNameList, "genreNameList.csv", row.names = FALSE, col.names = false)
+write.csv(genreNameList, "genreNameList.csv", row.names = FALSE, column.names = false)
+help(write.csv)
+help(write.csv)
+write.csv(genreNameList, "genreNameList.csv", row.names = FALSE, col.names = false)
+write.csv(genreNameList, "genreNameList.csv", row.names = FALSE, col.names = FALSE)
+write.csv(genreNameList, "genreNameList.csv",  col.names = FALSE)
+write.csv(genreNameList, "genreNameList.csv",  row.names = FALSE)
+write.csv(genreNameList, "genreNameList.csv",  col.names = FALSE)
+write.csv(genreNameList, "genreNameList.csv",  col.names = NA)
+write.csv(genreNameList, "genreNameList.csv",  col.names = NA)
+write.csv(genreNameList, "genreNameList.csv",  row.names = FALSE)
+names(genreNameList)
+names(genreNameList.row)
+write.csv(genreNameList, "genreNameList.csv",  col.names = FALSE)
+write.csv(genreNameList, "genreNameList.csv",  row.names = FALSE)
+genreNameList
+write.csv(genreNameList, "genreNameList.csv",  names = FALSE)
+write.csv(genreNameList, "genreNameList.csv",  row.names = FALSE)
+write.csv(genreNameList, "genreNameList.csv",  col.names = NA.)
+write.csv(genreNameList, "genreNameList.csv",  col.names = NA)
+write.csv(genreNameList, "genreNameList.csv",  col.names = TRUE)
+write.csv(genreNameList, "genreNameList.csv",  col.names = TRUE, )
+help(write.csv)
+write.csv(genreNameList, "genreNameList.csv",  append = TRUE,)
+write.csv(genreNameList, "genreNameList.csv",  append = TRUE)
+write.csv(genreNameList, "genreNameList.csv",  append = TRUE)
+help(write.csv)
+write.table(genreNameList, file = "genreNameList.csv", sep = ",", col.names = NA)
+write.table(genreNameList, file = "genreNameList.csv", sep = ",", col.names = False)
+write.table(genreNameList, file = "genreNameList.csv", sep = ",", col.names = "foo")
+write.table(genreNameList, file = "genreNameList.csv", sep = ",", col.names = NA)
+write.csv(genreNameList)
+genreNameList
+sort(table(playedIml[,2]), decreasing = T)
+sort(table(iml[,2]), decreasing = T)
+playedIml
+clear
+sort(table(iml[,2]), decreasing = T))
+playedIml
+sort(table(iml[,2]), decreasing = T))
+sort(table(iml[,2]), decreasing = T)
+playedIml
+table(playedIml[,2])
+playedIml
+table(playedIml[,2])
+table(playedIml[,2])
+table(playedIml[,2])
+playedIml
+table(playedIml[,2])
+table(playedIml[,2])
+names(playedIml)
+names(playedIml$gener)
+names(playedIml$genre)
+playedIml$genre
+Soundtrack
+playedIml$genre
+playedIml$genre
+names(playedIml$genre)
+sort(table(playedIml[,2]), decreasing = T)
+names(sort(table(playedIml[,2]), decreasing = T))
+names(iml[,2])
+names(table(iml[,2]))
+names(sort(table(playedIml[,2]), decreasing = T))
+sort(table(playedIml[,2]), decreasing = T)
+sort(table(iml[,2]), decreasing = T)
+playedIml[,2])
+playedIml[,2]
+playedIml[,2])[0]
+playedIml[,2])[1]
+playedIml[,2]
+playedIml[,2][1]
+playedIml[,2][0]
+playedIml[,2][1863]
+playedIml[,2][1862]
+playedIml[,2][186`]
+playedIml[,2][1861]
+]
+[[[;]]]
+'dv'
+;asf
+a
+sdf
+playedIml[,2][1860]
+playedIml[,2][1863]
+playedIml[,2][1864]
+playedIml[,2][0]
+sort(table(playedIml[,2]), decreasing = T)
+sort(table(playedIml[,2][1:100]), decreasing = T)
+sort(table(playedIml[,2][1:100]), decreasing = T)
+help(help)
+sort(table(playedIml[,2][1:100]), decreasing = T, drop = ture)
+sort(table(playedIml[,2][1:100]), decreasing = T, drop = true)
+sort(table(playedIml[,2][1:100]), decreasing = T, drop = true)
+help(table))
+help(table)
+sort(table(playedIml[,2][1:100], drop = true), decreasing = T)
+sort(table(playedIml[,2][1:100], drop = TRUE), decreasing = T)
+sort(table(playedIml[,2][1:100, drop = TRUE]), decreasing = T)
+sort(table(playedIml[,2]), decreasing = T)
+sort(table(playedIml[,2]), decreasing = T)
+sort(table(iml[,2]), decreasing = T)
+sort(table(playedIml[,2], drop = TRUE), decreasing = T)
+sort(table(playedIml[,2, drop = TRUE]), decreasing = T)
+sort(table(playedIml[,2], drop = TRUE), decreasing = T)
+sort(table(playedIml[,2, drop = TRUE]), decreasing = T)
+sort(table(playedIml[,2][1:100], drop = true), decreasing = T)
+sort(table(playedIml[,2][1:100, drop = TRUE]), decreasing = T)
+sort(table(playedIml[,2][, drop = TRUE]), decreasing = T)
+sort(table(playedIml[,2]), decreasing = T)
+sort(table(iml[,2]), decreasing = T)
+sort(table(playedIml[,2][, drop = TRUE]), decreasing = T)
+names(sort(table(playedIml[,2][, drop = TRUE]), decreasing = T))
+source("imlAnalyzer.r")
+graphData
+ort(table(playedIml[,2][, drop = TRUE]), decreasing = T)
+sort(table(playedIml[,2][, drop = TRUE]), decreasing = T)
+ort(table(playedIml[,2][, drop = TRUE]), decreasing = T)
+sort(table(playedIml[,2][, drop = TRUE]), decreasing = T)
+length(ort(table(playedIml[,2][, drop = TRUE]), decreasing = T))
+length(sort(table(playedIml[,2][, drop = TRUE]), decreasing = T))
+length(sort(table(playedIml[,2]), decreasing = T))
+graphData
+graphData
+graphData
+table(iml[,2]))
+table(iml[,2])
+table(playedIml[,2]))
+table(playedIml[,2])
+table(iml[,2])
+table(playedIml[,2])
+table(playedIml[,2][, drop = false])
+table(playedIml[,2][, drop = FALSE])
+table(playedIml[,2][, drop = TRUE])
+length(table(playedIml[,2][, drop = TRUE]))
+length(table(playedIml[,2][, drop = TRUE]))
+clc
+source("imlAnalyzer.R")
+graphData
+playedIml
+length(graphData)
+graphData
+playedIml
+length(table(playedIml[,2][, drop = TRUE]))
+length(table(playedIml[,2][, drop = TRUE]))
+graph
+graphData
+19*7
+names(sort(table(playedIml[,2][, drop = TRUE]), decreasing = T))
+names(sort(table(playedIml[,2][, drop = TRUE])))
+names(sort(table(playedIml[,2])))
+names(sort(table(playedIml[,2][, drop = TRUE]), decreasing = T))
+names(sort(table(playedIml[,2]), decreasing = T))
+targetGenreName = names(sort(table(iml[,2]), decreasing = T))[i]
+targetGenreName = names(sort(table(iml[,2]), decreasing = T))
+targetGenreName
+graphData  = c()#
+ for(weekNum in 1 : 7){#
+	 for(i in 1:length(table(playedIml[,2][, drop = TRUE]))){#
+		targetGenreName = names(sort(table(playedIml[,2]), decreasing = T))[i]#
+		imlWeekGenre = playedIml[  as.POSIXlt(playedIml[,1])$wday==weekNum-1 & playedIml$genre == targetGenreName,]#
+	    imlWeekGenreTime = imlWeekGenre[,1]#
+	    wdayName = switch(weekNum, "Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday" )#
+	    histData = hist(as.POSIXlt(imlWeekGenreTime)$hour+as.POSIXlt(imlWeekGenreTime)$min/60+as.POSIXlt(imlWeekGenreTime)$sec/60/60, main=paste(wdayName, "_", targetGenreName, sep = "")  , breaks=seq(0,24,1), col = hsv(1*i/length(table(playedIml[,2])), 1, 1, alpha = 0.5), xlab = "Time", ylab = "Frequency", xlim = c(0,23), ylim = c(0, histMax)) #
+    	graphData = rbind(graphData, histData$counts)#
+    	quartz.save(paste("~/dropbox/thesis/out_png/", wdayName, "_", i, targetGenreName, ".png", sep=""))	#
+	}#
+}
+ml$playCount==1 & playedIml$genre == "Jazz",]#
+ graphData  = c()#
+ for(weekNum in 1 : 7){#
+	 for(i in 1:length(table(playedIml[,2][, drop = TRUE]))){#
+		targetGenreName = names(sort(table(playedIml[,2]), decreasing = T))[i]#
+		imlWeekGenre = playedIml[  as.POSIXlt(playedIml[,1])$wday==weekNum-1 & playedIml$genre == targetGenreName,]#
+	    imlWeekGenreTime = imlWeekGenre[,1]#
+	    wdayName = switch(weekNum, "Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday" )#
+	    histData = hist(as.POSIXlt(imlWeekGenreTime)$hour+as.POSIXlt(imlWeekGenreTime)$min/60+as.POSIXlt(imlWeekGenreTime)$sec/60/60, main=paste(wdayName, "_", targetGenreName, sep = "")  , breaks=seq(0,24,1), col = hsv(1*i/length(table(playedIml[,2])), 1, 1, alpha = 0.5), xlab = "Time", ylab = "Frequency", xlim = c(0,23), ylim = c(0, histMax)) #
+    	graphData = rbind(graphData, histData$counts)#
+    	quartz.save(paste("~/dropbox/thesis/out_png/", wdayName, "_", i, "_", targetGenreName, ".png", sep=""))	#
+	}#
+}
+graphData  = c()#
+ for(weekNum in 1 : 7){#
+	 for(i in 1:length(table(playedIml[,2][, drop = TRUE]))){#
+		targetGenreName = names(sort(table(playedIml[,2]), decreasing = T))[i]#
+		imlWeekGenre = playedIml[  as.POSIXlt(playedIml[,1])$wday==weekNum-1 & playedIml$genre == targetGenreName,]#
+	    imlWeekGenreTime = imlWeekGenre[,1]#
+	    wdayName = switch(weekNum, "Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday" )#
+	    histData = hist(as.POSIXlt(imlWeekGenreTime)$hour+as.POSIXlt(imlWeekGenreTime)$min/60+as.POSIXlt(imlWeekGenreTime)$sec/60/60, main=paste(wdayName, "_", targetGenreName, sep = "")  , breaks=seq(0,24,1), col = hsv(1*i/length(table(playedIml[,2])), 1, 1, alpha = 0.5), xlab = "Time", ylab = "Frequency", xlim = c(0,23), ylim = c(0, histMax)) #
+    	graphData = rbind(graphData, histData$counts)#
+    	quartz.save(paste("~/dropbox/thesis/out_png/", wdayName, "_", i,"_", targetGenreName, ".png", sep=""))	#
+	}#
+}
+graphData  = c()#
+ for(weekNum in 1 : 7){#
+	 for(i in 1:length(table(playedIml[,2][, drop = TRUE]))){#
+		targetGenreName = names(sort(table(playedIml[,2]), decreasing = T))[i]#
+		imlWeekGenre = playedIml[  as.POSIXlt(playedIml[,1])$wday==weekNum-1 & playedIml$genre == targetGenreName,]#
+	    imlWeekGenreTime = imlWeekGenre[,1]#
+	    wdayName = switch(weekNum, "Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday" )#
+	    histData = hist(as.POSIXlt(imlWeekGenreTime)$hour+as.POSIXlt(imlWeekGenreTime)$min/60+as.POSIXlt(imlWeekGenreTime)$sec/60/60, main=paste(wdayName, "_", targetGenreName, sep = "")  , breaks=seq(0,24,1), col = hsv(1*i/length(table(playedIml[,2])), 1, 1, alpha = 0.5), xlab = "Time", ylab = "Frequency", xlim = c(0,23), ylim = c(0, histMax)) #
+    	graphData = rbind(graphData, histData$counts)#
+    	quartz.save(paste("~/dropbox/thesis/out_png/", weekNum, wdayName, "_", i,"_", targetGenreName, ".png", sep=""))	#
+	}#
+}
+graphData  = c()#
+ for(weekNum in 1 : 7){#
+	 for(i in 1:length(table(playedIml[,2][, drop = TRUE]))){#
+		targetGenreName = names(sort(table(playedIml[,2]), decreasing = T))[i]#
+		imlWeekGenre = playedIml[  as.POSIXlt(playedIml[,1])$wday==weekNum-1 & playedIml$genre == targetGenreName,]#
+	    imlWeekGenreTime = imlWeekGenre[,1]#
+	    wdayName = switch(weekNum, "Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday" )#
+	    histData = hist(as.POSIXlt(imlWeekGenreTime)$hour+as.POSIXlt(imlWeekGenreTime)$min/60+as.POSIXlt(imlWeekGenreTime)$sec/60/60, main=paste(wdayName, "_", targetGenreName, sep = "")  , breaks=seq(0,24,1), col = hsv(1*i/length(table(playedIml[,2])), 1, 1, alpha = 0.5), xlab = "Time", ylab = "Frequency", xlim = c(0,23), ylim = c(0, histMax)) #
+    	graphData = rbind(graphData, histData$counts)#
+    	quartz.save(paste("~/dropbox/thesis/out_png/", weekNum, wdayName, "_", i,"_", targetGenreName, ".png", sep=""))	#
+	}#
+}
+graphData  = c()#
+ for(weekNum in 1 : 7){#
+	 for(i in 1:length(table(playedIml[,2][, drop = TRUE]))){#
+		targetGenreName = names(sort(table(playedIml[,2]), decreasing = T))[i]#
+		imlWeekGenre = playedIml[  as.POSIXlt(playedIml[,1])$wday==weekNum-1 & playedIml$genre == targetGenreName,]#
+	    imlWeekGenreTime = imlWeekGenre[,1]#
+	    wdayName = switch(weekNum, "Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday" )#
+	    histData = hist(as.POSIXlt(imlWeekGenreTime)$hour+as.POSIXlt(imlWeekGenreTime)$min/60+as.POSIXlt(imlWeekGenreTime)$sec/60/60, main=paste(wdayName, "_", targetGenreName, sep = "")  , breaks=seq(0,24,1), col = hsv(1*i/length(table(playedIml[,2])), 1, 1, alpha = 0.5), xlab = "Time", ylab = "Frequency", xlim = c(0,23), ylim = c(0, histMax)) #
+    	graphData = rbind(graphData, histData$counts)#
+    	quartz.save(paste("~/dropbox/thesis/out_png/", weekNum, "_", wdayName, "_", i,"_", targetGenreName, ".png", sep=""))	#
+	}#
+}
