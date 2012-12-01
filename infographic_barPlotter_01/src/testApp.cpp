@@ -18,6 +18,8 @@ void testApp::setup(){
     //myFont.loadFont("Menlo.ttc", 24);
     myFont.loadFont("MyriadPro-Semibold.otf", 20);
     myFont2.loadFont("MyriadPro-Bold.otf", 30);
+    myFontForTimeLabel.loadFont("Ricty-Bold.ttf", 10);
+    myFontJapanese.loadFont("Ricty-Bold.ttf", 10);
     newWeekSelected = false;
     afterSelectedFrameCounter = 0;
     afterBootFrameCounter = 360;
@@ -44,7 +46,6 @@ void testApp::setup(){
     
     //セーブデータから再構築
     myControlPanel.loadSettings("controlPanel.xml");
-    //FIXME: toggleがONになっている人のcsvを読み込む
     printf("読み込むべき人 %d %s\n", myControlPanel.getValueI("csvOwner"), dir.getName(myControlPanel.getValueI("csvOwner")).c_str());
     csv.loadFile(ofToDataPath(ofToString("csv/")+dirCSV.getName(myControlPanel.getValueI("csvOwner")).c_str()+ofToString("/graphData.csv")));
     genreNameList.loadFile(ofToDataPath(ofToString("csv/")+dirCSV.getName(myControlPanel.getValueI("csvOwner")).c_str()+ofToString("/genreNameList.csv")));
@@ -291,10 +292,10 @@ void testApp::draw(){
         ofTranslate(ofGetWidth()/7.0f*i, ofGetHeight()*0.9);
         ofPushStyle();
         ofColor col;
-        col.setHsb(255/7.0f*i, 255, 255);
+        col.setHsb(255, 255, 255);
         ofSetColor(col);
-        ofRect(0, 0, ofGetWidth()/7.0f, 30);
-        ofSetColor(0, 0, 0);
+        ofSetLineWidth(2);
+        ofLine(ofGetWidth()/7.0f, 0, ofGetWidth()/7.0f, 10);
         
         string str;
         switch (i) {
@@ -323,7 +324,7 @@ void testApp::draw(){
                 break;
         }
         
-        myFont.drawString(str, 10, myFont.stringHeight(str));
+        myFontForTimeLabel.drawString(str, ofGetWidth()/7.0f/2.0f-myFontForTimeLabel.stringWidth(str)/2, myFontForTimeLabel.stringHeight(str));
         ofPopStyle();
         ofPopMatrix();
     }
@@ -353,18 +354,16 @@ void testApp::draw(){
             currentDistFromGraphTop -= csv.getFloat(floor(i/24.0f)*genreNum+(genreNum-j-1)+1, i%24+1);
         }
     }
-    //時間情報
+    //時間情報の横軸表示
     for (int i=0; i<7; i++) {
         ofPushMatrix();
         ofTranslate(ofGetWidth()/7.0f*i, ofGetHeight()*0.9);
         ofPushStyle();
-        
-        
         ofColor col;
-        col.setHsb(255/7.0f*i, 255, 255);
+        col.setHsb(255, 255, 255);
         ofSetColor(col);
-        ofRect(0, 0, ofGetWidth()/7.0f, 30);
-        ofSetColor(0, 0, 0);
+        ofSetLineWidth(2);
+        ofLine(ofGetWidth()/7.0f, 0, ofGetWidth()/7.0f, 10);
         
         string str;
         switch (i) {
@@ -393,17 +392,17 @@ void testApp::draw(){
                 break;
         }
         
-        myFont.drawString(str, 10, myFont.stringHeight(str));
+        myFontForTimeLabel.drawString(str, ofGetWidth()/7.0f/2.0f-myFontForTimeLabel.stringWidth(str)/2, myFontForTimeLabel.stringHeight(str));
         ofPopStyle();
         ofPopMatrix();
     }
     ofPopMatrix();
     
     ofPushMatrix();
-    ofTranslate(0, ofGetHeight()*0.9+2);
+    ofTranslate(0, ofGetHeight()*0.9+1);//ofSetLineWidth(2)の半分の1ピクセルをずらす
     ofPushStyle();
     ofSetColor(255, 255, 255, 255);
-    ofSetLineWidth(4);
+    ofSetLineWidth(2);
     ofLine(0, 0, ofGetWidth(), 0);
     ofPopStyle();
     ofPopMatrix();
@@ -415,11 +414,13 @@ void testApp::draw(){
         ofPushStyle();
         ofSetColor(genreCol[i]);
         ofRect(0, 0, 10, 10);
-        ofDrawBitmapString(genreNameList.getString(1+i, 1).c_str(), 15, 10);
+        //ofDrawBitmapString(genreNameList.getString(1+i, 1).c_str(), 15, 10);
+        myFontJapanese.drawString(genreNameList.getString(1+i, 1), 15, 10);
         ofPopStyle();
         ofPopMatrix();
     }
-    ofDrawBitmapString("FRAME RATE:"+ofToString(ofGetFrameRate()), 5, 40);
+    //ofDrawBitmapString("FPS:"+ofToString(ofGetFrameRate()), 5, 40);
+    myFontJapanese.drawString("FPS:"+ofToString(ofGetFrameRate()), 4, 40);
 }
 
 
@@ -558,7 +559,6 @@ void testApp::mouseReleased(int x, int y, int button){
     csv = reloadCsv;
     genreNameList = reloadGenreNameList;
     genreNum = genreNameList.numRows-1;//ラベルを省くので-1しておく。
-
 }
 
 //--------------------------------------------------------------

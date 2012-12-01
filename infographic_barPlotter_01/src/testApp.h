@@ -6,6 +6,7 @@
 #include <string.h>
 #include "ofxControlPanel.h"
 #include "ofxXmlSettings.h"
+#include "ofxTrueTypeFontUC.h"
 
 #define CENTER_CIRCLE_RADIUS 150
 #define BAR_WIDTH 20
@@ -44,6 +45,10 @@ class testApp : public ofBaseApp{
     ofSoundPlayer myPlayer;
     string weekName;
     ofTrueTypeFont myFont, myFont2;
+    ofTrueTypeFont myFontForTimeLabel;
+    
+    ofxTrueTypeFontUC myFontJapanese;
+    
     bool newWeekSelected;
     float afterSelectedFrameCounter;
     float afterBootFrameCounter;

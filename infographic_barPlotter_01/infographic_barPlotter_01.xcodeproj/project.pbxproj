@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8D3D39A4166A8B4A00F1A6CB /* ofxTrueTypeFontUC.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D3D39A2166A8B4A00F1A6CB /* ofxTrueTypeFontUC.cpp */; };
 		8DCD3C2C1664F2E300938E95 /* ofxCsv.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DCD3C1A1664F2E300938E95 /* ofxCsv.cpp */; };
 		8DCD3C2D1664F2E300938E95 /* CreEPS.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DCD3C1F1664F2E300938E95 /* CreEPS.cpp */; };
 		8DCD3C2E1664F2E300938E95 /* ofxVectorGraphics.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DCD3C231664F2E300938E95 /* ofxVectorGraphics.cpp */; };
@@ -94,6 +95,10 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		8D3D399F166A8B4A00F1A6CB /* install.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = install.xml; sourceTree = "<group>"; };
+		8D3D39A0166A8B4A00F1A6CB /* README */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README; sourceTree = "<group>"; };
+		8D3D39A2166A8B4A00F1A6CB /* ofxTrueTypeFontUC.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ofxTrueTypeFontUC.cpp; sourceTree = "<group>"; };
+		8D3D39A3166A8B4A00F1A6CB /* ofxTrueTypeFontUC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ofxTrueTypeFontUC.h; sourceTree = "<group>"; };
 		8DCD3C1A1664F2E300938E95 /* ofxCsv.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ofxCsv.cpp; sourceTree = "<group>"; };
 		8DCD3C1B1664F2E300938E95 /* ofxCsv.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ofxCsv.h; sourceTree = "<group>"; };
 		8DCD3C1F1664F2E300938E95 /* CreEPS.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = CreEPS.cpp; sourceTree = "<group>"; };
@@ -222,6 +227,25 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		8D3D399E166A8B4A00F1A6CB /* ofxTrueTypeFontUC */ = {
+			isa = PBXGroup;
+			children = (
+				8D3D399F166A8B4A00F1A6CB /* install.xml */,
+				8D3D39A0166A8B4A00F1A6CB /* README */,
+				8D3D39A1166A8B4A00F1A6CB /* src */,
+			);
+			path = ofxTrueTypeFontUC;
+			sourceTree = "<group>";
+		};
+		8D3D39A1166A8B4A00F1A6CB /* src */ = {
+			isa = PBXGroup;
+			children = (
+				8D3D39A2166A8B4A00F1A6CB /* ofxTrueTypeFontUC.cpp */,
+				8D3D39A3166A8B4A00F1A6CB /* ofxTrueTypeFontUC.h */,
+			);
+			path = src;
+			sourceTree = "<group>";
+		};
 		8DCD3C071664F2E300938E95 /* ofxCsv */ = {
 			isa = PBXGroup;
 			children = (
@@ -375,6 +399,7 @@
 		BB4B014C10F69532006C3DED /* addons */ = {
 			isa = PBXGroup;
 			children = (
+				8D3D399E166A8B4A00F1A6CB /* ofxTrueTypeFontUC */,
 				8DCD3CF11665261D00938E95 /* ofxControlPanel */,
 				8DCD3C8D1665236B00938E95 /* ofxXmlSettings */,
 				8DCD3C071664F2E300938E95 /* ofxCsv */,
@@ -582,6 +607,7 @@
 				8DCD3D481665261D00938E95 /* simpleColor.cpp in Sources */,
 				8DCD3D491665261D00938E95 /* simpleFileLister.cpp in Sources */,
 				8DCD3D4A1665261D00938E95 /* simpleLogger.cpp in Sources */,
+				8D3D39A4166A8B4A00F1A6CB /* ofxTrueTypeFontUC.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
