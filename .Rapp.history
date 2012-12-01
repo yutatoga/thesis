@@ -51,7 +51,6 @@ names(sort(table(playedIml[,2]), decreasing = T))
 lenght(names(sort(table(playedIml[,2]), decreasing = T)))
 length(names(sort(table(playedIml[,2]), decreasing = T)))
 source("imlAnalyzer.R")
-source("imlAnalyzer.R")
 genre
 genrename
 genreName
@@ -64,7 +63,6 @@ GenreNameList[1]+"fooo"
 paste(GenreNameList[1], "foo")
 histData
 graphData
-source("imlAnalyzer.R")
 source("imlAnalyzer.R")
 help(csv)
 help(write.csv)
@@ -80,13 +78,11 @@ write.csv(genreNameList, "genreNameList.csv", row.names = FALSE, col.names)
 write.csv(genreNameList, "genreNameList.csv", row.names = FALSE, col.names = false)
 write.csv(genreNameList, "genreNameList.csv", row.names = FALSE, column.names = false)
 help(write.csv)
-help(write.csv)
 write.csv(genreNameList, "genreNameList.csv", row.names = FALSE, col.names = false)
 write.csv(genreNameList, "genreNameList.csv", row.names = FALSE, col.names = FALSE)
 write.csv(genreNameList, "genreNameList.csv",  col.names = FALSE)
 write.csv(genreNameList, "genreNameList.csv",  row.names = FALSE)
 write.csv(genreNameList, "genreNameList.csv",  col.names = FALSE)
-write.csv(genreNameList, "genreNameList.csv",  col.names = NA)
 write.csv(genreNameList, "genreNameList.csv",  col.names = NA)
 write.csv(genreNameList, "genreNameList.csv",  row.names = FALSE)
 names(genreNameList)
@@ -102,7 +98,6 @@ write.csv(genreNameList, "genreNameList.csv",  col.names = TRUE)
 write.csv(genreNameList, "genreNameList.csv",  col.names = TRUE, )
 help(write.csv)
 write.csv(genreNameList, "genreNameList.csv",  append = TRUE,)
-write.csv(genreNameList, "genreNameList.csv",  append = TRUE)
 write.csv(genreNameList, "genreNameList.csv",  append = TRUE)
 help(write.csv)
 write.table(genreNameList, file = "genreNameList.csv", sep = ",", col.names = NA)
@@ -123,17 +118,13 @@ playedIml
 table(playedIml[,2])
 playedIml
 table(playedIml[,2])
-table(playedIml[,2])
-table(playedIml[,2])
 playedIml
-table(playedIml[,2])
 table(playedIml[,2])
 names(playedIml)
 names(playedIml$gener)
 names(playedIml$genre)
 playedIml$genre
 Soundtrack
-playedIml$genre
 playedIml$genre
 names(playedIml$genre)
 sort(table(playedIml[,2]), decreasing = T)
@@ -166,17 +157,14 @@ playedIml[,2][1864]
 playedIml[,2][0]
 sort(table(playedIml[,2]), decreasing = T)
 sort(table(playedIml[,2][1:100]), decreasing = T)
-sort(table(playedIml[,2][1:100]), decreasing = T)
 help(help)
 sort(table(playedIml[,2][1:100]), decreasing = T, drop = ture)
-sort(table(playedIml[,2][1:100]), decreasing = T, drop = true)
 sort(table(playedIml[,2][1:100]), decreasing = T, drop = true)
 help(table))
 help(table)
 sort(table(playedIml[,2][1:100], drop = true), decreasing = T)
 sort(table(playedIml[,2][1:100], drop = TRUE), decreasing = T)
 sort(table(playedIml[,2][1:100, drop = TRUE]), decreasing = T)
-sort(table(playedIml[,2]), decreasing = T)
 sort(table(playedIml[,2]), decreasing = T)
 sort(table(iml[,2]), decreasing = T)
 sort(table(playedIml[,2], drop = TRUE), decreasing = T)
@@ -200,8 +188,6 @@ length(ort(table(playedIml[,2][, drop = TRUE]), decreasing = T))
 length(sort(table(playedIml[,2][, drop = TRUE]), decreasing = T))
 length(sort(table(playedIml[,2]), decreasing = T))
 graphData
-graphData
-graphData
 table(iml[,2]))
 table(iml[,2])
 table(playedIml[,2]))
@@ -212,7 +198,6 @@ table(playedIml[,2][, drop = false])
 table(playedIml[,2][, drop = FALSE])
 table(playedIml[,2][, drop = TRUE])
 length(table(playedIml[,2][, drop = TRUE]))
-length(table(playedIml[,2][, drop = TRUE]))
 clc
 source("imlAnalyzer.R")
 graphData
@@ -220,7 +205,6 @@ playedIml
 length(graphData)
 graphData
 playedIml
-length(table(playedIml[,2][, drop = TRUE]))
 length(table(playedIml[,2][, drop = TRUE]))
 graph
 graphData
@@ -291,18 +275,6 @@ graphData  = c()#
 	    wdayName = switch(weekNum, "Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday" )#
 	    histData = hist(as.POSIXlt(imlWeekGenreTime)$hour+as.POSIXlt(imlWeekGenreTime)$min/60+as.POSIXlt(imlWeekGenreTime)$sec/60/60, main=paste(wdayName, "_", targetGenreName, sep = "")  , breaks=seq(0,24,1), col = hsv(1*i/length(table(playedIml[,2])), 1, 1, alpha = 0.5), xlab = "Time", ylab = "Frequency", xlim = c(0,23), ylim = c(0, histMax)) #
     	graphData = rbind(graphData, histData$counts)#
-    	quartz.save(paste("~/dropbox/thesis/out_png/", weekNum, wdayName, "_", i,"_", targetGenreName, ".png", sep=""))	#
-	}#
-}
-graphData  = c()#
- for(weekNum in 1 : 7){#
-	 for(i in 1:length(table(playedIml[,2][, drop = TRUE]))){#
-		targetGenreName = names(sort(table(playedIml[,2]), decreasing = T))[i]#
-		imlWeekGenre = playedIml[  as.POSIXlt(playedIml[,1])$wday==weekNum-1 & playedIml$genre == targetGenreName,]#
-	    imlWeekGenreTime = imlWeekGenre[,1]#
-	    wdayName = switch(weekNum, "Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday" )#
-	    histData = hist(as.POSIXlt(imlWeekGenreTime)$hour+as.POSIXlt(imlWeekGenreTime)$min/60+as.POSIXlt(imlWeekGenreTime)$sec/60/60, main=paste(wdayName, "_", targetGenreName, sep = "")  , breaks=seq(0,24,1), col = hsv(1*i/length(table(playedIml[,2])), 1, 1, alpha = 0.5), xlab = "Time", ylab = "Frequency", xlim = c(0,23), ylim = c(0, histMax)) #
-    	graphData = rbind(graphData, histData$counts)#
     	quartz.save(paste("~/dropbox/thesis/out_png/", weekNum, "_", wdayName, "_", i,"_", targetGenreName, ".png", sep=""))	#
 	}#
 }
@@ -311,7 +283,6 @@ length(table(playedIml[,2][, dropbox = true]))
 length(table(playedIml[,2][, dropbox = TRUE]))
 length(table(playedIml[,2][,drop = TRUE]))
 length(table(playedIml[,2][, drop = TRUE]))
-source("imlAnalyzer.R")
 source("imlAnalyzer.R")
 source("imlAnalyzer.R")
 source("imlAnalyzer.R")
