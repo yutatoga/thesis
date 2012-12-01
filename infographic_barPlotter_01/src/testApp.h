@@ -61,4 +61,9 @@ class testApp : public ofBaseApp{
     float barHeightChanger;
     bool showCircleGraph;
     
+    //csv select UI
+    ofDirectory dirCSV;
+    vector<string> csvFileNameList;
+    int selectedItemID;
+    
 };

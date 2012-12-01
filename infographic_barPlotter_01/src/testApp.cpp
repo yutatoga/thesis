@@ -2,7 +2,7 @@
 
 //--------------------------------------------------------------
 void testApp::setup(){
-    ofSetFullscreen(true);
+//    ofSetFullscreen(true);
     ofSetCircleResolution(64);
     ofEnableSmoothing();
     ofSetVerticalSync(true);
@@ -11,9 +11,6 @@ void testApp::setup(){
     thetaDegree = 0;
     ofBackground(0, 0, 0, 255);
     ofSetBackgroundAuto(false);
-    csv.loadFile(ofToDataPath("graphData.csv"));
-    genreNameList.loadFile(ofToDataPath("genreNameList.csv"));
-    genreNum = genreNameList.numRows-1;//ラベルを省くので-1しておく。
     currentPos = -1;
     myPlayer.loadSound("Pop.aiff");
     weekName = "Week";
@@ -39,10 +36,38 @@ void testApp::setup(){
     //
     
     //control panel
-    myControlPanel.setup("Bar Ploter UI", 0, 50, 340, 150);
+    
+    //testing
+    //some path, may be absolute or relative to bin/data
+    ofDirectory dir("csv/");
+    //only show png files
+    dir.allowExt("");
+    //populate the directory object
+    dir.listDir();
+    
+    dirCSV = dir;
+    
+    myControlPanel.setup("Bar Ploter UI", 0, 50, 340, 400+150+25*dir.numFiles());
     myControlPanel.addPanel("panel_1", 1);
     myControlPanel.addSlider("bar_num", "barNum", 24*7, 1, 24*7, true);
-//    myControlPanel.addToggle("Sunday", "sunday", true);
+    
+    //go through and print out all the paths
+    for(int i = 0; i < dir.numFiles(); i++){
+        ofLogNotice(dir.getName(i));
+        csvFileNameList.push_back(dir.getName(i));
+        myControlPanel.addToggle(dir.getName(i), dir.getName(i), true);
+    }
+    
+    //FIXME: addMultiToggle使えば良かった
+    vector<string>foo;
+    foo.push_back("toga");
+    foo.push_back("kimoto");
+    foo.push_back("taru");
+    myControlPanel.addMultiToggle("foo", "bar", 0, foo);
+
+    
+
+    
 //    myControlPanel.addToggle("Monday", "monday", true);
 //    myControlPanel.addToggle("Tuesday", "tuesday", true);
 //    myControlPanel.addToggle("Wednesday", "wednesday", true);
@@ -50,6 +75,12 @@ void testApp::setup(){
 //    myControlPanel.addToggle("Friday", "friday", true);
 //    myControlPanel.addToggle("Saturday", "saturday", true);
     myControlPanel.loadSettings("controlPanel.xml");
+    printf("kimoto %d", myControlPanel.getValueB("kimoto"));
+    
+    //toggleがONになっている人のcsvを読み込む
+    csv.loadFile(ofToDataPath("graphData.csv"));
+    genreNameList.loadFile(ofToDataPath("genreNameList.csv"));
+    genreNum = genreNameList.numRows-1;//ラベルを省くので-1しておく。
     
     beginBarPosX = 0;
     //ジャンルの色を決定する。ベスト5以下は灰色にする。
@@ -59,8 +90,12 @@ void testApp::setup(){
         ofColor col;
         col.setHsb(255/5.0f*i, 255, 255, 255);
         genreCol.push_back(col);
+        ofPopStyle();
     }
     barHeightChanger = 5;
+    
+    
+
 }
 
 //--------------------------------------------------------------
@@ -176,15 +211,15 @@ void testApp::draw(){
         //起動後のアニメーション
         if (afterBootFrameCounter>0) {
             myPlayer.play();
-            ofPushStyle();
             ofPushMatrix();
+            ofPushStyle();
             ofTranslate(ofGetWidth()/2.0f, ofGetHeight()/2.0f);
             ofRotateZ(-90);
             ofSetColor(0, 0, 0, 255);
             afterBootFrameCounter -= 360/7/24*3;//これでok
             myVectorGraphics.arc(0, 0,  3*topPos+CENTER_CIRCLE_RADIUS+20, 0, -afterBootFrameCounter);
-            ofPopStyle();
             ofPopMatrix();
+            ofPopStyle();
         }
         
         //曜日:円弧グラフ
@@ -297,11 +332,8 @@ void testApp::draw(){
     
     //control panel
     myControlPanel.draw();
-    
-    //FIXME: 作業中
     //barplot
     //新・横並び
-    ofPushMatrix();    
     //飛ばした棒グラフ
     ofPushMatrix();
     ofTranslate(beginBarPosX, 0);
@@ -451,11 +483,11 @@ void testApp::draw(){
     ofLine(0, 0, ofGetWidth(), 0);
     ofPopStyle();
     ofPopMatrix();
-    
+
     //色とジャンルの対応を見せる
     for (int i = 0; i<5; i++) {
         ofPushMatrix();
-        ofTranslate(50, 250+15*i);
+        ofTranslate(150, 250+15*i);
         ofPushStyle();
         ofSetColor(genreCol[i]);
         ofRect(0, 0, 10, 10);
@@ -586,8 +618,47 @@ void testApp::mouseDragged(int x, int y, int button){
 
 //--------------------------------------------------------------
 void testApp::mousePressed(int x, int y, int button){
+    //ここで押される前のtoggleをとっておいて、
+    int oldSelectedItemID;
+    vector<bool> oldToggle;
+    for (int i = 0; i<dirCSV.numFiles(); i++) {
+        printf("old- %s\n", dirCSV.getName(i).c_str());
+        printf("old- %d\n", myControlPanel.getValueB(dirCSV.getName(i)));
+//        if (myControlPanel.getValueB(dirCSV.getName(i))) {
+//            oldSelectedItemID = i;
+//        }
+        oldToggle.push_back(myControlPanel.getValueB(dirCSV.getName(i)));
+    }
+    
+    
     myControlPanel.mousePressed(x, y, button);
     modeNum = currentPos;
+    
+    
+    
+    //ここで比べて何が押されたかを把握する。
+    for (int i = 0; i<dirCSV.numFiles(); i++) {        
+        //myControlPanel.getValueB("kimoto")
+        printf("new- %s\n", dirCSV.getName(i).c_str());
+        printf("new- %d\n", myControlPanel.getValueB(dirCSV.getName(i)));
+        //i番目以外のtoggleをオフにする。（押したものだけをONにする。１つだけをONにする。）
+        if (myControlPanel.getValueB(dirCSV.getName(i)) != oldToggle[i]) {
+            printf("今さわったのは%d番目のtoggleです。\n", i);
+            myControlPanel.setValueB(dirCSV.getName(i), true);
+            selectedItemID = i;
+        }
+    }
+    for (int i = 0; i<dirCSV.numFiles(); i++) {
+        if (i != selectedItemID) {
+            myControlPanel.setValueB(dirCSV.getName(i), false);
+        
+        }
+    }
+    
+    
+    printf("%multi %d", myControlPanel.getValueI("bar"));
+    
+    
 }
 
 //--------------------------------------------------------------
