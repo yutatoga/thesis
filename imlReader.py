@@ -97,8 +97,10 @@ for i in tracks_keys:
 		#Genre
 		try:
 			instantTextGenre = tracks[i]["Genre"]
-			#ジャンル名にコロンがあると、コロン区切りで読めなくなって困るので、スラッシュで置き換える。
-			instantTextGenre = instantTextGenre.replace(",", "/")
+			#ジャンル名にコロンがあると、コロン区切りで読めなくなって困るので、_ (アンダーバー）で置き換える。
+			instantTextGenre = instantTextGenre.replace(",", "_")
+			instantTextGenre = instantTextGenre.replace("/", "_")
+			#スラッシュでもディレクトリ記号と間違えたので、and に変更
 			countSuccess_genre += 1
 		except:
 			instantTextGenre = "none" 
@@ -113,7 +115,8 @@ for i in tracks_keys:
 		#Name
 		try:
 			instantTrackName = tracks[i]["Name"]
-			instantTrackName =  instantTrackName.replace(",", '/') 
+			instantTrackName =  instantTrackName.replace(",", '_') 
+			instantTrackName =  instantTrackName.replace("/", '_') 
 			countSuccess_trackName += 1
 		except:
 			instantTrackName = "untitled"

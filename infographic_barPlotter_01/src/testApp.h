@@ -63,7 +63,7 @@ class testApp : public ofBaseApp{
     
     //csv select UI
     ofDirectory dirCSV;
-    vector<string> csvFileNameList;
+    vector<string> csvOwnerList;
     int selectedItemID;
     
 };

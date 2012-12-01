@@ -1,0 +1,653 @@
+never,none,264562,0,dichterlibe_16
+never,none,47410,0,dichterlibe_5
+never,none,245392,0,Audio 7_01
+never,none,111110,0,dichterlibe_6
+never,none,28706,0,トラック 20
+never,none,90331,0,schubert_03
+never,none,9626,0,89 Window Aluminium_ Slide Open _ Sl
+never,none,209538,0,ブレーメン仮
+never,none,147500,0,ブレーメンEdit
+never,none,232466,0,starburst_katutaka_0619
+2011-10-22 08:34:38,Pop,334393,1,Our Love Song (Studio Live)
+never,none,390243,0,takemitu
+2011-10-22 08:29:04,Pop,316630,1,Unchanged Love
+never,none,100071,0,dichterlibe_4
+2011-10-22 08:23:47,Pop,290246,1,Lovely Days
+2011-10-22 08:18:57,Pop,240483,1,Peace!
+never,none,285512,0,ホシキラ
+never,none,80000,0,Escaflowne_bass
+never,none,527229,0,diveltiment
+never,none,174335,0,beteeven_2
+never,none,214645,0,beteeven_3
+never,none,438114,0,サヨナラノツバサ the end of triangle
+never,Pop,266448,0,FIRE
+2012-11-28 09:15:57,Soundtrack,377573,1,Ashes of Dreams / English Version
+never,Soundtrack,347115,0,Ashes of Dreams / Nouveau-FR Version
+never,none,246099,0,schubert_01
+never,Soundtrack,388780,0,Ashes of Dreams / Aratanaru-JP Version
+never,R&B,356075,0,Song for you
+never,none,303100,0,ギラギラサマー
+never,R&B,300199,0,星の銀貨
+never,R&B,280450,0,SEA OF DREAMS
+never,Pop,295366,0,Tender Rain
+never,none,288863,0,オベリスク
+never,Soundtrack,117159,0,ヨナ/ Ver. 弦 その2
+never,Soundtrack,158824,0,ヨナ/ Ver. 弦 その1
+never,Soundtrack,186226,0,ヨナ / Ver. 重奏
+never,Soundtrack,173191,0,ヨナ / Ver. ピアノ
+never,Soundtrack,93701,0,喪失 / Ver. オルゴール
+never,Soundtrack,261564,0,風の妖精
+2012-04-30 19:30:07,サウンドトラック,126066,1,Robot Waiting Room #6
+never,Soundtrack,221884,0,空からこぼれたStory
+never,Soundtrack,284316,0,想い出がかけぬけていく
+never,Pop,246569,0,太陽をつかまえに行こう
+never,Soundtrack,208274,0,好きなのに!
+never,none,2085225,0,second
+never,サウンドトラック,141583,0,Want You Gone
+2012-04-30 19:34:33,サウンドトラック,218462,1,Robots FTW
+never,none,614124,0,夜化粧_demo
+2012-04-30 19:30:54,サウンドトラック,47960,1,You Saved Science
+never,Soundtrack,216424,0,アイモ～鳥のひと
+2012-11-26 23:18:26,Rock,291840,15,ハート
+never,none,294429,0,虹色クマクマ
+2012-11-26 23:23:24,Rock,297848,14,Aokage
+never,Other,59493,0,下駄・雪駄・高下駄など11
+2012-11-26 23:13:34,Rock,281312,15,アゲハ蝶 (Red Mix)
+never,none,161239,0,会えないとき
+never,Other,16400,0,下駄・雪駄・高下駄など9
+never,none,262594,0,永遠
+2011-12-23 19:11:27,Other,13240,1,下駄・雪駄・高下駄など10
+never,none,286069,0,天使になっちゃった
+never,Other,64600,0,下駄・雪駄・高下駄など7
+never,none,318717,0,禁断のエリクシア
+never,Other,72960,0,下駄・雪駄・高下駄など8
+never,none,195389,0,7_Spirtogentile
+never,none,376218,0,8_ElsasTraum
+2012-07-10 06:32:58,Soundtrack,101015,1,Curandelo
+never,none,164326,0,5_An_den_Mond
+never,none,22290,0,Legacy_Epart
+never,none,152398,0,6_Hat_dich_die_Liebeberührt
+2012-07-11 04:38:18,Soundtrack,155898,3,YURIKA
+2012-07-10 07:57:49,Soundtrack,139180,2,Rosario
+never,Soundtrack,157048,0,キラキラ
+2012-07-11 04:34:32,Soundtrack,87640,3,Blowin' The Blues Away
+never,none,167164,0,9_A_te_O_cara_amort'allora
+2012-07-11 04:35:42,Soundtrack,69642,3,Satin Doll
+never,none,156409,0,dichterlibe_15
+never,none,84555,0,dichterlibe_14
+never,Other,28200,0,走る足音(男)単・複数2
+never,Other,38733,0,走る足音(男)単・複数1
+never,Other,15266,0,賭け寄り・駆け去りなどの動き1
+never,Other,15626,0,雪・氷・雲の上の歩き1
+never,Other,34773,0,走る足音(男)単・複数3
+2012-06-17 03:23:15,Pop,214099,3,モンタージュ
+never,none,34529,0,dichterlibe_3
+2012-06-17 03:28:16,Pop,300460,3,足音
+2012-06-17 03:32:51,Pop,275513,3,HAPPY DANCE
+2012-06-17 03:38:36,Pop,345182,3,STRIPE!
+2012-06-17 03:43:16,Pop,279666,3,Hungry Spider
+never,none,139760,0,dichterlibe_12
+2012-07-06 04:36:49,サウンドトラック,153312,1,Science is Fun
+never,Other,13760,0,水に落ちる
+never,Other,97973,0,洞穴の水滴
+never,Other,84773,0,ホースから水が勢いよく出る
+never,Other,31933,0,つるべ井戸
+never,Other,71666,0,噴水
+2012-11-29 03:13:55,none,150768,1,ikeziri_M8_voguide
+never,Soundtrack,78680,0,ビッグ・ボーイズ
+never,none,285387,0,TASCBM_0008-07
+never,none,285326,0,TASCBM_0008-07
+2012-11-28 16:59:46,Soundtrack,173479,1,光ノ風吹ク丘
+2012-11-28 16:12:07,Soundtrack,299154,1,夏ノ雪
+never,Soundtrack,281626,0,不完全ナ石
+never,none,120166,0,Dragon_Bass
+never,none,177300,0,hana to yome11.01.mp4
+2012-04-30 19:37:08,Traditional,155520,6,Goodbye Miss Goodavich / Rosie's Reel
+2011-09-15 05:32:39,Rock,228728,1,Save Me
+2011-12-15 19:52:20,Traditional,203133,4,Statia Donnelly's-I Will If I Can-Patsy Geary's
+2011-12-15 19:55:51,Traditional,211026,4,Higgins'-Cuckoo's Nest
+2011-09-15 05:25:19,Rock,172225,1,You're My Best Friend
+2012-04-30 19:41:52,Traditional,283826,6,The Floating Crowbar / McGlinchey's / The Almost Reel
+2011-09-15 05:28:50,Rock,211800,1,Don't Stop Me Now
+2011-09-15 05:19:23,Rock,204669,1,Fat Bottomed Girls
+2012-07-05 12:13:18,none,267189,1,Tama-Kyukoh set
+2011-09-15 05:22:27,Rock,183849,1,Bicycle Race
+never,none,57657,0,20120612_brushup
+never,Soundtrack,60943,0,SMS小隊の歌～あの娘はエイリアン
+2012-07-22 18:32:22,Soundtrack,88999,3,A Piece Of Blue
+2012-07-06 04:57:49,サウンドトラック,96444,1,Haunted Panels
+never,R&B,313155,0,SHININ'～虹色のリズム～
+never,R&B,288783,0,砂の城
+never,R&B,274651,0,Angel
+never,R&B,251637,0,LUV PARADE
+2012-07-13 18:39:22,サウンドトラック,179304,2,The Friendly Faith Plate
+never,R&B,338860,0,We are the music
+2012-07-13 18:36:23,サウンドトラック,190641,2,You Know Her?
+2012-07-13 18:33:12,サウンドトラック,260728,2,There She Is
+2012-07-13 18:28:51,サウンドトラック,201769,2,The Future Starts With You
+2012-11-28 09:04:14,Soundtrack,207281,1,エミール / 犠牲
+never,Soundtrack,201769,0,エミール / 業苦
+never,Soundtrack,254197,0,魔王ノ城 / 咆吼
+never,none,260156,0,01
+never,Soundtrack,54073,0,儚キ者達ノ舞踏
+never,none,150768,0,ikeziri_M8demo1
+never,none,37955,0,ikeziri_M6_click
+never,none,390826,0,girl_ok_01
+never,none,272535,0,ikeziri_M4_M5_demo1
+2012-11-28 09:09:39,Soundtrack,324806,1,魔王
+2012-07-13 19:04:03,サウンドトラック,98742,3,Turret Wife Serenade
+never,Soundtrack,226560,0,嵐のはじまり
+2012-07-13 19:08:00,サウンドトラック,236382,3,I Made It All Up
+2012-06-17 02:34:24,Pop,326452,3,彼女の恋人
+2012-07-13 19:11:29,サウンドトラック,209606,2,Comedy = Tragedy + Time
+2012-07-13 19:15:44,サウンドトラック,255059,2,Triple Laser Phase
+2012-07-02 23:18:52,Pop,231235,4,冬がはじまるよ
+2012-07-02 23:15:01,Pop,306546,5,どんなときも。
+2012-06-17 02:28:58,Pop,331911,3,北風～君にとどきますように～
+2012-07-13 19:02:25,サウンドトラック,156055,3,Adrenal Vapor
+2012-07-02 23:23:26,Pop,273711,4,もう恋なんてしない
+never,none,93600,0,53 Audio Track
+never,none,19306,0,96 Audio Track
+never,Soundtrack,191320,0,家路
+never,Soundtrack,398262,0,声優コメント
+never,Soundtrack,400640,0,闇から来る声
+never,Soundtrack,446432,0,いつか光みちて
+never,Other,45706,0,ハイヒールの歩き(女)2
+never,none,95155,0,110825_11
+2011-12-23 19:10:09,Other,16200,1,下駄・雪駄・高下駄など1
+never,Soundtrack,353828,0,プロローグ:物語の終わりは…
+never,Other,26773,0,走る足音(男)単・複数8
+never,Other,18333,0,道場・廊下の足音の動き3
+never,ボイスメモ,816753,0,12/01/31 11:14
+never,none,89077,0,dichterlibe_1
+never,ボイスメモ,2562947,0,11/10/23 18:36
+never,none,247459,0,m11
+2011-08-29 07:21:43,none,100217,1,110826_08
+never,ボイスメモ,1768194,0,12/01/31 17:42
+never,none,418229,0,m9
+never,none,145301,0,m10
+never,none,236495,0,Dragonborn_theme_Skyrin
+never,none,179484,0,m7
+never,none,257667,0,m8
+never,none,331128,0,beteeven_1
+never,none,97203,0,3_Das_Rosemband
+never,Soundtrack,224104,0,プレセア・コンバティール:笑顔の理由4
+never,Soundtrack,119196,0,プレセア・コンバティール:笑顔の理由1
+never,Soundtrack,278386,0,プレセア・コンバティール:笑顔の理由2
+never,none,161773,0,2_Ma_rendipur_contento
+2011-07-28 02:39:41,Classical,201743,1,Wenn Ein Starker Gewappneter Opus 109 N°2
+2011-07-28 02:30:56,Classical,128130,1,Motet Locus Iste A Deo Factus Est Opus 92
+2011-07-28 02:36:19,Classical,323552,1,Motet Os Justi Meditabur Sapientiam
+2011-07-28 02:25:29,Classical,105404,1,Das Agnus Dei Opus 138 N°6
+2011-07-28 02:28:48,Classical,198608,1,Wir Glauben An Einen Gott Opus 138 N°8
+never,none,224768,0,4_20120501
+never,Soundtrack,132754,0,Bajura
+2012-07-05 12:16:41,none,188490,1,Shokotan's Waltz
+never,none,248135,0,11_The_music_of_the_night
+2012-07-22 18:19:38,Soundtrack,102687,3,Someday My Prince Will Come
+never,Other,11626,0,道場・廊下の足音の動き2
+never,none,2708494,0,second 1
+never,none,3128500,0,first 1
+never,Other,22626,0,走る足音(男)単・複数7
+never,Other,13533,0,ハイヒールの歩き(女)1
+never,Other,14066,0,道場・廊下の足音の動き1
+never,Other,90906,0,いろいろなタイプの歩く音(男)2
+2012-07-22 18:24:51,Soundtrack,271203,3,But not for me
+never,Soundtrack,346514,0,Ashes of Dreams / Nuadhaich-GER Version
+never,none,12800,0,1_1_demo_amb
+never,Soundtrack,295784,0,魔王 -White-noteremix-
+never,none,6314,0,1_demo_nonmon
+never,none,6098,0,1_demo_tyutyo
+2011-12-15 16:09:08,none,12800,1,1_demo_amb
+never,none,12800,0,1_demo_kotyou
+2011-10-22 08:14:57,Pop,294060,1,Kamiarizuki
+2011-10-22 08:05:28,Pop,332747,1,Bokutoohimesamatomahoutsukai
+2011-10-22 08:10:03,Pop,274782,1,Drivin' With You
+2011-10-22 07:54:37,Pop,281965,1,Sing A Happy Song
+2011-10-22 07:59:55,Pop,318928,1,Kiminisasaguuta
+never,none,192075,0,meridian_child
+never,none,249660,0,Escaflowne_Dance_of_curse
+never,none,104210,0,Meridian_Bass
+never,none,390183,0,takemitu
+never,none,61100,0,Opening_Bass
+never,none,208640,0,edit_1_kttk
+never,none,196678,0,13_Til_I_here_you_sing
+never,none,93440,0,54 Audio Track
+never,none,41226,0,89 Thunder
+2012-03-08 04:50:08,Traditional,227226,5,Camaronian-Greenfields Of Rossbeigh-Connaught Heifers
+never,none,100706,0,トラック 03
+never,none,147997,0,from_B
+2012-11-28 09:36:24,Soundtrack,177136,1,喪失 / Ver. 弦
+never,Soundtrack,318693,0,キリエ
+never,Soundtrack,140643,0,深紅ノ敵
+never,Soundtrack,294922,0,最終兵器
+2012-11-28 09:33:27,Soundtrack,133694,1,喪失 / Ver. 重奏
+never,Soundtrack,159738,0,喪失 / Ver. ピアノ
+never,Soundtrack,229459,0,まいご
+2012-04-30 18:37:10,サウンドトラック,134269,1,Robot Waiting Room #1
+2012-07-05 12:40:01,Soundtrack,231810,1,おかあさん
+2012-07-05 12:36:10,Soundtrack,258246,1,となりのトトロ
+2012-07-05 12:31:51,Soundtrack,246622,1,風の谷のナウシカ
+2012-04-30 18:43:53,サウンドトラック,134295,1,Robot Waiting Room #4
+2012-04-30 18:46:08,サウンドトラック,134478,1,Robot Waiting Room #5
+2012-04-30 18:39:25,サウンドトラック,134452,1,Robot Waiting Room #2
+2012-04-30 18:41:39,サウンドトラック,134452,1,Robot Waiting Room #3
+never,Soundtrack,237165,0,もしも空を飛べたら
+never,none,527163,0,diveltiment
+never,none,260435,0,Get it on 〜光速クライmax
+never,Soundtrack,528979,0,守るべきもの
+never,Soundtrack,179931,0,Untitled
+never,Soundtrack,151196,0,Private Army
+never,none,284741,0,pink monsoon
+never,Soundtrack,93204,0,アイモ
+never,Soundtrack,168097,0,Innocent green
+never,none,167235,0,9_A_te_O_cara_amort'allora
+2012-11-26 23:03:50,Rock,230556,16,敵はどこだ?
+never,Other,12466,0,ハイヒールの歩き(女)7
+never,Other,15133,0,ハイヒールの歩き(女)6
+never,Other,13373,0,ハイヒールの歩き(女)5
+never,none,336364,0,dシュディスタb
+never,Other,15026,0,ハイヒールの歩き(女)4
+never,Other,65640,0,ハイヒールの歩き(女)3
+never,none,149350,0,dichterlibe_13
+2012-06-17 02:44:56,Pop,338573,3,ズル休み
+never,none,480480,0,ukiyodoko_onsei
+2012-06-17 02:39:17,Pop,293276,3,No.1
+2012-06-17 02:54:19,Pop,282827,3,2つの願い
+2012-06-17 02:49:36,Pop,280163,3,雪に願いを
+2012-07-10 06:34:36,Soundtrack,98716,1,Transparent
+2012-06-17 02:58:54,Pop,275173,3,SPY
+2012-07-10 06:36:11,Soundtrack,94928,1,Run
+never,Pop,264437,0,ら・ら・ら
+never,none,99324,0,4_Malinconia_Ninfa_gentile
+2012-07-22 18:28:12,Soundtrack,201195,3,My Favorite Things
+never,Pop,308741,0,もう一度だけ・・・
+never,none,128313,0,dichterlibe_10
+never,Other,69066,0,スニーカーの走り・歩き2
+never,Other,45973,0,スニーカーの走り・歩き1
+never,Other,50800,0,下駄・雪駄・高下駄など6
+never,Soundtrack,299833,0,鳥になった私
+never,Other,15960,0,下駄・雪駄・高下駄など5
+never,none,117353,0,beteeven_5
+never,Other,41800,0,雪・氷・雲の上の歩き2
+2012-06-17 04:01:51,Pop,277551,3,花火の夜
+2012-06-17 03:57:14,Pop,307617,3,雨ニモ負ケズ
+2012-06-17 03:52:06,Pop,236303,3,Are You OK?
+2012-06-17 03:48:10,Pop,294347,3,桃
+never,none,90266,0,schubert_03
+2012-06-17 04:06:26,Pop,274991,3,これはただの例え話じゃない
+never,none,246038,0,schubert_01
+never,Other,63866,0,水滴
+never,Other,94893,0,水車のまわる音
+never,Other,74200,0,筧の水
+never,Other,134773,0,泉水の水
+never,Other,135626,0,湧き水
+never,Other,10426,0,兵隊の歩きなど2
+2012-07-11 05:06:07,Soundtrack,164101,2,Apollon Blue
+never,Other,46706,0,水中の泡 ゴボゴボゴボ
+never,Other,82893,0,水中の泡 ブクブクブク
+never,Other,69666,0,潜水の泡
+never,Other,88160,0,水中の泡 合成音
+never,Other,70600,0,海底の渦
+never,none,189579,0,asahiondo
+never,none,148192,0,encore_4
+never,none,135549,0,encore_3
+never,none,146755,0,encore_2
+never,none,101511,0,encore_1
+2012-07-11 05:03:23,Soundtrack,163657,2,Milestones
+never,none,321364,0,Legacy_of_Terror
+2012-03-04 05:54:13,Traditional,186640,5,Taylor Bar/ 4am / Ceol Na Mara
+2012-03-01 07:36:56,Traditional,139213,5,The Strawberry Blossom-Honeymoon
+2012-03-01 07:34:36,Traditional,225693,5,An Róghaire Dubh-Connaughtman's Rambles-Cailleach An Airgid
+2012-03-04 05:51:06,Traditional,156866,5,Stolen Apples
+2012-03-08 04:36:03,Traditional,238693,6,Johnny Cope
+never,none,165459,0,schubert_04
+2012-07-08 14:28:35,none,218425,1,1_Pie_Jesu
+never,none,133196,0,beteeven_4
+2012-07-22 18:30:53,Soundtrack,161488,3,Equinox
+never,R&B,227030,0,TYO
+never,R&B,294060,0,REMEMBER LADY　
+never,R&B,413831,0,Stay in my heart
+never,R&B,248737,0,太陽がくれたプレゼント
+never,none,117838,0,schubert_06
+never,R&B,307356,0,月
+never,Soundtrack,116271,0,此ノ夢
+never,Soundtrack,159608,0,休息
+never,Soundtrack,178390,0,失ワレタ森
+never,none,161358,0,schubert_05
+never,Soundtrack,317335,0,イニシエノウタ / 運命
+never,Soundtrack,170240,0,魔王ノ城 / 記憶
+never,none,57293,0,20. Construction-Band Saw-Start/ Cut Metal/ Metal Falls/ Off
+never,none,817812,0,02
+never,ボイスメモ,1633777,0,12/10/11 13:37
+never,none,30826,0,47. Rattlesnake/ Rattling/ Animal/ Reptile
+never,サウンドトラック,92839,0,Space Phase
+never,Soundtrack,353332,0,メルトキオの弔鐘
+never,サウンドトラック,110837,0,Some Assembly Required
+never,サウンドトラック,153704,0,Cara Mia Addio
+never,none,351828,0,m1
+never,サウンドトラック,45766,0,Spaaaaace
+2012-06-16 05:26:15,Pop,298422,2,優しい歌が歌えない
+2012-06-16 05:21:17,Pop,294295,2,Good Morning!
+never,サウンドトラック,110419,0,Caroline Deleted
+2012-06-16 05:16:22,Pop,289880,2,君の名前を呼んだ後に
+2012-06-16 05:11:33,Pop,306677,2,Wow
+never,none,282476,0,schubert_02
+2011-10-01 16:53:36,none,68142,1,nikoG
+never,none,366581,0,m12
+2011-10-22 07:45:12,Pop,286667,1,Funky Party
+2011-10-22 07:40:26,Pop,339017,2,Super Woman
+2011-10-22 07:49:55,Pop,282305,1,Natsunoyoru
+never,none,101449,0,encore_1
+2012-08-03 01:56:22,Rock,158563,7,夜はお静かに
+2012-08-03 01:53:44,Rock,300930,8,ビタースイート
+never,ボイスメモ,9704,0,11/10/23 18:34
+2011-09-15 05:12:56,Rock,216920,1,Another One Bites The Dust
+2011-09-15 05:09:19,Rock,358922,1,Bohemian Rhapsody
+never,ボイスメモ,34015,0,11/07/20 14:48
+never,ボイスメモ,24124,0,11/07/31 17:03
+2011-09-15 05:15:58,Rock,182021,1,Killer Queen
+never,Soundtrack,357564,0,ダイアモンド クレバス
+never,ボイスメモ,1786,0,11/07/20 14:48
+2012-11-26 23:08:53,Rock,302785,16,ラスト オブ ヒーロー
+never,Other,12160,0,賭け寄り・駆け去りなどの動き8
+never,Other,32533,0,賭け寄り・駆け去りなどの動き9
+never,Other,44066,0,いろいろなタイプの歩く音(男)5
+never,Other,15066,0,賭け寄り・駆け去りなどの動き7
+never,Other,27200,0,賭け寄り・駆け去りなどの動き10
+2012-07-05 12:20:40,none,239040,1,Onigi-Reel set
+never,Soundtrack,186409,0,プレセア・コンバティール:笑顔の理由5
+2012-11-10 06:09:49,none,37337,1,Audio2_01
+2012-11-26 23:26:08,Rock,164257,14,クリスチーナ
+never,Other,32666,0,走る足音(男)単・複数6
+never,none,282573,0,イゾラド
+never,Other,48973,0,大勢の行進・歩き1
+never,Other,20760,0,賭け寄り・駆け去りなどの動き4
+never,Other,11906,0,賭け寄り・駆け去りなどの動き5
+never,Other,27600,0,走る足音(男)単・複数5
+2012-07-13 18:59:49,サウンドトラック,268669,2,I'm Different
+never,none,12800,0,1_3_demo_kotyou
+never,none,6098,0,1_2_demo_tyusyo
+never,Other,140226,0,水泳 クロール(ばた足がつく)
+never,Other,32333,0,水泳 飛び込み-泳ぎ
+never,Other,94973,0,水泳 バチャバチャ泳ぐ
+never,Soundtrack,925309,0,プレセア・コンバティール:笑顔の理由3
+2012-11-10 06:09:49,none,37407,1,Audio2_01
+never,Soundtrack,146024,0,仮面ノ誉
+2012-03-04 06:02:57,Traditional,229320,4,O'Carolan's Welcome / Rolling In The Barrel
+never,Soundtrack,242546,0,流砂ノ神殿
+2012-03-08 04:43:23,Traditional,208933,5,Humours Of Lisheen-Tom Billy's Fancy-Humours Of Kilkenny
+never,Soundtrack,137795,0,売買ノ街
+2012-03-04 05:59:07,Traditional,294440,4,Lafferty's / Crock Of Gold / Lady Birr / Abbey Reel
+never,Soundtrack,184084,0,イニシエノウタ / ポポル
+2012-03-08 04:39:54,Traditional,231373,4,Farewell To Miltown Malbay-West Clare Railway-Sporting Molly
+never,none,513571,0,m1 1
+never,none,213391,0,doitu3
+never,Soundtrack,277968,0,掟ニ囚ワレシ神
+2012-03-08 04:46:21,Traditional,178293,5,An Buachaill Dreoite
+never,none,37133,0,トラック 05
+never,none,4317576,0,TASCBM_0022
+2012-07-05 12:27:45,Soundtrack,199993,2,君をのせて
+2011-09-15 05:56:44,Rock,170527,1,Seven Seas Of Rhye
+2011-09-15 05:53:53,Rock,168489,1,Flash
+2011-09-15 06:01:47,Rock,180950,1,We Are The Champions
+2011-09-15 05:58:47,Rock,122827,1,We Will Rock You
+2012-07-06 04:42:17,サウンドトラック,191346,1,9999999
+never,Soundtrack,361874,0,射手座☆午後九時Don't be late (Sheryl On Stage)
+never,Soundtrack,167026,0,Vital Force
+never,none,111177,0,dichterlibe_6
+never,Soundtrack,278622,0,トライアングラー
+never,Soundtrack,184659,0,Zero Hour
+never,Soundtrack,286902,0,What 'bout my star? @Formo
+never,none,34586,0,dichterlibe_3
+never,none,57495,0,dichterlibe_2
+never,none,1630527,0,first
+never,none,100127,0,dichterlibe_4
+never,none,333418,0,Temerari/sortite fuori di questo loco!～Come scoglio immoto resta
+never,none,169696,0,Du Ring an meinem Finger
+2012-07-08 14:16:09,R&B,244062,1,FUTURE FUNK
+never,none,308096,0,Entlich allein!～Wie fremt und todt ist alles umher
+never,none,127738,0,Bremen_後半の仮トラック
+never,none,120973,0,3 Audio Track
+never,none,177344,0,hana to yome onkan11.01
+never,none,241975,0,requiem_1
+never,Other,45373,0,大勢の行進・歩き2
+2012-07-08 14:16:02,R&B,283715,1,Color of Life
+never,Other,42493,0,雪・氷・雲の上の歩き5
+2012-06-17 03:03:19,Pop,265639,3,SECRET HEAVEN
+2012-07-22 18:42:23,Soundtrack,125570,3,Easy Waltz
+2012-06-17 03:07:54,Pop,274416,3,COWBOY
+2012-05-13 21:40:07,none,252669,3,hurusato_110713
+2012-06-17 03:11:54,Pop,239751,2,どうしようもない僕に天使が降りてきた
+2012-06-17 03:15:59,Pop,245524,2,まだ生きてるよ
+2012-05-13 21:07:14,none,282708,2,Air_on_the_G_string_110713
+2012-06-17 03:19:41,Pop,222458,3,素直
+2012-05-13 21:35:54,none,214516,2,halleluijah_110713
+never,none,239040,0,3_20120501
+2012-07-22 18:38:29,Soundtrack,99369,3,Four
+2012-07-22 18:36:50,Soundtrack,80613,3,Jazz For Button
+never,none,3138000,0,second 2
+never,Soundtrack,183092,0,カイネ / 救済
+never,Soundtrack,460382,0,神子の劫火
+never,Other,59440,0,下駄・雪駄・高下駄など2
+never,Other,65960,0,下駄・雪駄・高下駄など3
+never,Other,14306,0,走る足音(男)単・複数9
+never,Other,122426,0,がれきを歩く二人
+never,none,459577,0,m2 1
+never,Other,16706,0,下駄・雪駄・高下駄など4
+never,none,26935,0,C_1_01
+never,none,9686,0,B_04
+never,none,57428,0,dichterlibe_2
+never,none,13840,0,B_03
+never,none,8544,0,B_02
+never,none,117785,0,schubert_06
+never,none,89007,0,dichterlibe_1
+never,none,165404,0,schubert_04
+never,Soundtrack,248137,0,インフィニティ
+never,none,161285,0,schubert_05
+never,none,26160,0,C_1_02
+never,none,481303,0,hukase
+never,Soundtrack,674429,0,風の吹く丘
+never,none,31904,0,110825_14
+never,none,246469,0,10_Think_of_me
+never,Other,63706,0,水中の泡 ボコボコボコ
+never,Other,135826,0,ぬかるみを歩く2・3人
+never,Other,115133,0,よどみながら流れる水
+never,Other,125266,0,舟べりに当たる波
+never,Other,34906,0,河童の泳ぎ
+never,none,188498,0,12_Wishing_you_were_somehow_here_agein
+never,Other,186000,0,海鳴り
+never,Other,94706,0,鹿おどし
+never,Other,83826,0,風呂につかっている音
+never,Other,65773,0,鉄砲水激しく
+never,Other,186600,0,いろいろなタイプの歩く音(男)1
+never,none,12991,0,B_01
+never,none,160107,0,14_Once_upon_another_time
+never,none,264620,0,dichterlibe_16
+never,none,139833,0,dichterlibe_12
+never,none,149420,0,dichterlibe_13
+never,none,84610,0,dichterlibe_14
+never,none,71842,0,dichterlibe_11
+never,none,156473,0,dichterlibe_15
+never,none,7360,0,24 Audio Track
+never,none,208704,0,edit_1_kttk
+never,none,76917,0,from_A_to_B
+never,none,76968,0,from_A_to_B
+never,none,148056,0,from_B
+2012-03-01 07:30:51,Traditional,141960,5,Micko Russell's-Moneymusk
+2012-03-04 05:43:39,Traditional,249026,5,Dr. Gilbert / Devils Of Dublin / Black Pat's
+2012-03-04 05:39:30,Traditional,184346,6,The Miller Of Drohan
+2012-03-04 05:48:29,Traditional,290893,5,Autumn Child / Heaton Chapel
+2012-03-01 07:28:29,Traditional,268000,7,May Morning Dew-Sporting Nell
+never,Soundtrack,272822,0,TALLY HO!
+never,Pop,270759,0,恋はメリーゴーランド
+never,Pop,258194,0,Summer Breeze
+never,Pop,318693,0,あなたがいればそれだけでよかった
+never,Pop,292493,0,いちばん近くにいてね
+never,Pop,313391,0,LOVIN' YOU
+never,Soundtrack,117133,0,彼ノ夢
+never,Soundtrack,23327,0,「超時空飯店 娘々」CMソング (Ranka Version)
+never,Soundtrack,186540,0,カイネ / 逃避
+never,Soundtrack,182752,0,全テヲ破壊スル黒キ巨人
+never,Soundtrack,161410,0,イニシエノウタ / 虚ロナ夢
+never,none,300000,0,Mixdown - main_para 1
+never,none,105220,0,Audio 3_01
+2012-07-13 19:39:45,サウンドトラック,374073,1,TEST
+never,none,583691,0,m6
+never,none,192104,0,しょこたんずわるつ
+2012-07-13 19:45:33,サウンドトラック,144483,1,Omg/ What has He Done?
+never,none,419042,0,m4
+2012-07-13 19:43:08,サウンドトラック,203232,1,The Part Where He Kills You
+never,none,475941,0,m5
+never,サウンドトラック,115356,0,Your Precious Moon
+never,none,329367,0,m2
+never,サウンドトラック,348133,0,Bombs for Throwing at You
+never,none,134060,0,m3
+never,none,214700,0,beteeven_3
+never,none,146680,0,encore_2
+never,none,135489,0,encore_3
+never,none,133250,0,beteeven_4
+never,none,148120,0,encore_4
+never,none,87969,0,dichterlibe_9
+never,none,331180,0,beteeven_1
+never,none,174393,0,beteeven_2
+never,none,117420,0,beteeven_5
+2012-11-26 23:44:48,Rock,290716,11,幸せについて本気出して考えてみた (アルバムバージョン)
+never,Soundtrack,302471,0,What 'bout my star? (Sheryl On Stage)
+2012-11-26 23:39:58,Rock,303647,11,パレット
+2012-11-26 23:34:54,Rock,280267,12,ヴォイス
+2012-11-26 23:30:14,Rock,245812,12,n.t.
+never,none,448957,0,娘々FinalAttackフロンティアグレイテストヒッツ
+never,none,305504,0,恋はドッグファイト
+never,Soundtrack,181133,0,Frontier 2059
+2012-08-03 02:45:04,Rock,234135,10,ニセ彼女
+never,Soundtrack,225201,0,Welcome To My FanClub's Night! (Sheryl On Stage)
+2012-07-11 04:23:49,Soundtrack,149655,3,KIDS ON THE SLOPE
+never,Other,61866,0,いろいろなタイプの歩く音(男)4
+2012-07-11 04:30:34,Soundtrack,283480,3,Moanin'
+2012-07-11 04:25:51,Soundtrack,122017,3,Chick's Diner
+never,Other,124000,0,雪・氷・雲の上の歩き4
+never,Other,125426,0,雪・氷・雲の上の歩き3
+never,Other,28600,0,走る足音(男)単・複数10
+never,Other,111773,0,兵隊の歩きなど6
+never,none,67939,0,dichterlibe_8
+never,none,194749,0,ancore_Pie_jesu
+never,none,235933,0,17_All_I_ask_of_you
+never,Other,47293,0,兵隊の歩きなど1
+never,none,251341,0,16_Love_never_dies
+never,none,359576,0,ユニバーサルバニー
+never,none,165596,0,15_why_does_she_love_me
+never,Other,38493,0,走る足音(男)単・複数4
+never,Other,11506,0,賭け寄り・駆け去りなどの動き3
+never,Other,12893,0,西部劇男の靴音
+never,none,73570,0,dichterlibe_7
+never,Other,9373,0,賭け寄り・駆け去りなどの動き2
+never,none,35293,0,61 オーディオトラック
+never,none,282540,0,schubert_02
+never,Soundtrack,109165,0,Take Off
+never,Other,64960,0,つぎつぎ飛び込みアップアップ
+never,Other,9706,0,飛び込み(ドボーン)
+never,Other,32426,0,水泳 飛び込み・競泳
+never,Other,68800,0,水泳 ばた足泳ぎ
+never,Other,19400,0,水面を叩く
+never,none,47464,0,dichterlibe_5
+2012-07-08 14:21:53,none,224768,2,Natsu-Mikan set
+never,none,4632696,0,20121031_audition_1
+never,Soundtrack,160391,0,青イ鳥
+never,Soundtrack,206315,0,心閉ザセシ鉄棺
+never,Soundtrack,220316,0,オバアチャン
+never,Soundtrack,184816,0,イニシエノウタ / デボル
+never,none,349947,0,m3 1
+never,Soundtrack,288104,0,愚カシイ機械
+never,none,219575,0,m4_1
+never,none,249558,0,m4_2
+never,none,319103,0,m5 1
+2012-03-04 05:29:19,Traditional,247133,5,The Butlers Of Glen Avenue / Sliabh Russell / Cathal McConnell's
+2011-09-15 05:51:05,Rock,213342,1,Play The Game
+2012-03-01 07:16:24,Traditional,205240,5,Kerry Reel-Kerry Fling-Joe Banes
+2012-07-11 04:33:05,Soundtrack,150282,3,Bag's Groove
+2012-03-04 05:36:25,Traditional,271626,8,January Snows / Laura Lynn Cunningham
+2012-03-01 07:20:36,Traditional,251533,6,Bumper Squire Jones-An Seán Duine-O'Sullivan's March
+2011-09-15 05:35:23,Rock,163866,1,Crazy Little Thing Called Love
+2012-03-01 07:24:01,Traditional,205133,6,Caisleán An Óir-Her Golden Hair Hanging Down Her Back
+2011-09-15 05:40:21,Rock,297743,1,Somebody To Love
+2011-09-15 05:44:36,Rock,255294,1,Now I'm Here
+2011-09-15 05:47:32,Rock,175934,1,Good Old-Fashioned Lover Boy
+never,none,88032,0,dichterlibe_9
+never,none,128365,0,dichterlibe_10
+never,none,73639,0,dichterlibe_7
+never,none,67996,0,dichterlibe_8
+never,Other,48266,0,大勢の行進・歩き3
+never,none,71915,0,dichterlibe_11
+never,Soundtrack,123898,0,Alto's Theme
+2011-12-23 19:10:57,Other,11426,1,賭け寄り・駆け去りなどの動き11
+never,Other,41973,0,ぬかるみを歩く
+never,none,241975,0,requiem_1
+never,Other,43106,0,下駄・雪駄・高下駄など12
+never,Other,62400,0,鉄階段の上り
+2012-07-13 18:44:22,サウンドトラック,299755,2,15 Acres of Broken Glass
+2012-07-13 18:49:19,サウンドトラック,297404,2,Love as a Construct
+2012-07-13 18:52:32,サウンドトラック,193227,2,I Saw a Deer Today
+never,Other,45826,0,道場・廊下の足音の動き4
+2012-07-13 18:55:20,サウンドトラック,168071,2,Hard Sunshine
+2011-07-28 02:45:15,Classical,89391,1,Lullaby
+2012-10-02 08:49:55,none,130900,4,O mio babbino caro
+never,none,262890,0,Deh vieni/non tardar
+never,none,275285,0,Gretchen am Spinnrade
+never,none,232536,0,starburst_katutaka_0619
+never,none,4317624,0,TASCBM_0022
+2011-07-28 02:43:45,Classical,244532,1,Motet Virga Jesse Floruit
+never,none,4632744,0,20121031_audition_1
+never,none,339670,0,Měsíčku na nebi hlubokém
+never,Soundtrack,204591,0,めぐる季節
+2012-07-13 19:24:58,サウンドトラック,248058,2,FrankenTurrets
+2012-07-02 23:04:45,Pop,285022,5,NG
+2012-07-13 19:20:50,サウンドトラック,149211,2,Wheatley Science
+never,Soundtrack,224261,0,あこがれのまち
+2012-07-13 19:33:31,サウンドトラック,272065,2,Excursion Funnel
+never,Soundtrack,125361,0,君をのせて
+2012-07-13 19:28:59,サウンドトラック,241554,2,Machiavellian Bach
+2012-07-06 04:49:16,サウンドトラック,201769,1,Technical Difficulties
+2012-07-06 04:45:54,サウンドトラック,217025,1,The Courtesy Call
+2012-07-02 23:09:54,Pop,309446,5,ANSWER
+2012-07-13 19:18:21,サウンドトラック,156577,2,Reconstructing More Science
+2012-07-06 04:52:06,サウンドトラック,170579,1,Overgrowth
+2012-07-06 04:39:06,サウンドトラック,136672,1,Concentration Enhancing Menu Initialiser
+never,none,188490,0,2_20120501
+never,Other,52666,0,賭け寄り・駆け去りなどの動き6
+2012-07-08 09:18:43,none,54648,1,cmdemo
+never,Other,25800,0,兵隊の歩きなど3
+never,Other,10733,0,兵隊の歩きなど4
+never,none,266499,0,1_20120501
+never,Other,10226,0,兵隊の歩きなど5
+never,Other,78666,0,いろいろなタイプの歩く音(男)3
+never,none,44210,0,C_1_03
+2012-07-22 18:35:29,Soundtrack,186775,3,Lullaby Of Birdland
+never,none,10588,0,C_2
+never,Soundtrack,238419,0,リフィル・セイジ / ジーニアス・セイジ:雨のあとさき5
+never,none,228066,0,50 オーディオトラック
+never,none,15015,0,master_sentaku_20120331
+never,none,2230136,0,frist
+never,Soundtrack,438334,0,リフィル・セイジ / ジーニアス・セイジ:雨のあとさき2
+never,Soundtrack,129462,0,リフィル・セイジ / ジーニアス・セイジ:雨のあとさき1
+never,Soundtrack,156708,0,リフィル・セイジ / ジーニアス・セイジ:雨のあとさき4
+never,Soundtrack,352914,0,The Target
+never,Soundtrack,469603,0,リフィル・セイジ / ジーニアス・セイジ:雨のあとさき3
+never,none,431216,0,stem_02
+2012-07-11 05:00:39,Soundtrack,86804,2,float
+never,none,132224,0,stem_03
+2011-07-28 02:23:44,Classical,582191,1,Warum Ist Das Licht Gegeben Dem Mühseligen? Opus 74 N°1
+never,Soundtrack,62746,0,ニンジーン Loves you yeah!
+2011-07-28 02:14:02,Classical,350040,1,Wo Ist Ein So Herrlich Volk? Opus 109 N°3
+never,none,189466,0,トラック 01
+2011-10-22 08:36:12,Classical,93570,3,Unsere Väter Hoffen Auf Dich Opus 109 N°1
+never,none,187820,0,katsutakauta
+never,none,3311528,0,charity_radio_110715
+never,none,206592,0,stem_01
+2012-07-06 04:56:12,サウンドトラック,246073,1,Ghost of Rattman
+never,none,282768,0,Air_on_the_G_string_110713
+2012-10-28 17:48:04,none,1471581,4,requiem_110713
+never,none,252720,0,hurusato_110713
+never,none,214584,0,halleluijah_110713
+never,none,1471632,0,requiem_110713
+2012-11-26 10:36:04,Soundtrack,219480,4,Kaoru & Sentaro Duo in BUNKASAI

@@ -22,64 +22,32 @@ void testApp::setup(){
     afterSelectedFrameCounter = 0;
     afterBootFrameCounter = 360;
     modeNum = -1;//-1-all 0:sun 1:Mon ...
-    
-    //read text file
-    //    /* Open and read from data file */
-    //    ifstream data;
-    //    data.open(  ofToDataPath("foo.txt").c_str()  );
-    //
-    //    while(!data.eof()){
-    //        getline(data, myText);
-    //        cout << "Reading: " << myText << endl;
-    //    }
-    //    data.close();
-    //
-    
     //control panel
     
-    //testing
-    //some path, may be absolute or relative to bin/data
+    //data/csvにあるフォルダ名（csvファイルの所有者の名前）を取得。
     ofDirectory dir("csv/");
     //only show png files
     dir.allowExt("");
     //populate the directory object
     dir.listDir();
-    
     dirCSV = dir;
-    
-    myControlPanel.setup("Bar Ploter UI", 0, 50, 340, 400+150+25*dir.numFiles());
+    myControlPanel.setup("Bar Ploter UI", 0, 50, 340, 150+25*dir.numFiles());
     myControlPanel.addPanel("panel_1", 1);
     myControlPanel.addSlider("bar_num", "barNum", 24*7, 1, 24*7, true);
-    
-    //go through and print out all the paths
+    //グラフをつくるのに使う、csvファイルを選択するtoggleボタン。（一個しか選べないようにしてある。）
     for(int i = 0; i < dir.numFiles(); i++){
         ofLogNotice(dir.getName(i));
-        csvFileNameList.push_back(dir.getName(i));
-        myControlPanel.addToggle(dir.getName(i), dir.getName(i), true);
+        csvOwnerList.push_back(dir.getName(i));
     }
-    
-    //FIXME: addMultiToggle使えば良かった
-    vector<string>foo;
-    foo.push_back("toga");
-    foo.push_back("kimoto");
-    foo.push_back("taru");
-    myControlPanel.addMultiToggle("foo", "bar", 0, foo);
+    myControlPanel.addMultiToggle("csvOwner", "csvOwner", 0, csvOwnerList);
 
     
-
-    
-//    myControlPanel.addToggle("Monday", "monday", true);
-//    myControlPanel.addToggle("Tuesday", "tuesday", true);
-//    myControlPanel.addToggle("Wednesday", "wednesday", true);
-//    myControlPanel.addToggle("Thursday", "thursday", true);
-//    myControlPanel.addToggle("Friday", "friday", true);
-//    myControlPanel.addToggle("Saturday", "saturday", true);
+    //セーブデータから再構築
     myControlPanel.loadSettings("controlPanel.xml");
-    printf("kimoto %d", myControlPanel.getValueB("kimoto"));
-    
-    //toggleがONになっている人のcsvを読み込む
-    csv.loadFile(ofToDataPath("graphData.csv"));
-    genreNameList.loadFile(ofToDataPath("genreNameList.csv"));
+    //FIXME: toggleがONになっている人のcsvを読み込む
+    printf("読み込むべき人 %d %s\n", myControlPanel.getValueI("csvOwner"), dir.getName(myControlPanel.getValueI("csvOwner")).c_str());
+    csv.loadFile(ofToDataPath(ofToString("csv/")+dirCSV.getName(myControlPanel.getValueI("csvOwner")).c_str()+ofToString("/graphData.csv")));
+    genreNameList.loadFile(ofToDataPath(ofToString("csv/")+dirCSV.getName(myControlPanel.getValueI("csvOwner")).c_str()+ofToString("/genreNameList.csv")));
     genreNum = genreNameList.numRows-1;//ラベルを省くので-1しておく。
     
     beginBarPosX = 0;
@@ -93,9 +61,6 @@ void testApp::setup(){
         ofPopStyle();
     }
     barHeightChanger = 5;
-    
-    
-
 }
 
 //--------------------------------------------------------------
@@ -110,47 +75,6 @@ void testApp::draw(){
     ofSetColor(0, 0, 0, 255);//全画面を黒くする。
     ofRect(0, 0, ofGetWidth(), ofGetHeight());
     ofPopStyle();
-    
-    
-    
-    //棒グラフ
-    
-    //ofCircle(ofGetWidth()/2, ofGetHeight()/2, 200);
-    //    for (int i = 0 ; i<10; i++) {
-    //        ofPushMatrix();
-    //        ofRotateZ(30*i);
-    //        ofRect(10*i, 300, 10, 10+i*10);
-    //        ofPopMatrix();
-    //    }
-    
-    
-    //    //データ:円棒グラフ
-    //    float oneStep = 360/(24.0f*7.0f);
-    //    for (int i = 0; i<7*24; i++) {
-    //        ofPushMatrix();
-    //        ofPushStyle();
-    //        ofTranslate(ofGetWidth()/2+100*cos(DEG_TO_RAD*oneStep*i), ofGetHeight()/2+100*sin(DEG_TO_RAD*oneStep*i));
-    //        ofRotateZ(oneStep*i-90);
-    //        ofSetColor(0, 255, 0, 25);
-    //        ofRect(0, 0, 5, 200);
-    //        ofPopStyle();
-    //        ofPopMatrix();
-    //        ofPushStyle();
-    //        ofSetColor(0, 0, 255);
-    //        ofCircle(ofGetWidth()/2, ofGetHeight()/2, 10);
-    //        ofPopStyle();
-    //    }
-    //    //データ:円弧グラフ-ver01
-    //    ofPushStyle();
-    //    for (int i = 0; i<7*24; i++) {
-    //        ofColor col;
-    //        col.setHsb(255/(7.0f*24.0f)*i, 255, 255);
-    //        ofSetColor(col);
-    //        myVectorGraphics.arc(ofGetWidth()/2, ofGetHeight()/2, 300*ofRandom(1), 360/(7.0f*24.0f)*i, 360/(7.0f*24.0f));
-    //    }
-    //    ofPopStyle();
-    //    ofPushStyle();
-    
     
     if (modeNum == -1) {
         //csv
@@ -182,7 +106,7 @@ void testApp::draw(){
         
         //累積円弧グラフ
         //配列の配列？
-        float barData[genreNum][24*7];//[row][column]と考えること。
+        //float barData[genreNum][24*7];//[row][column]と考えること。
         //now programming here.2012_11_19_10_19
         //        for (int i =0; i<genreNum; i++) {
         //            for (int j=0; j<24*7; j++) {
@@ -618,52 +542,23 @@ void testApp::mouseDragged(int x, int y, int button){
 
 //--------------------------------------------------------------
 void testApp::mousePressed(int x, int y, int button){
-    //ここで押される前のtoggleをとっておいて、
-    int oldSelectedItemID;
-    vector<bool> oldToggle;
-    for (int i = 0; i<dirCSV.numFiles(); i++) {
-        printf("old- %s\n", dirCSV.getName(i).c_str());
-        printf("old- %d\n", myControlPanel.getValueB(dirCSV.getName(i)));
-//        if (myControlPanel.getValueB(dirCSV.getName(i))) {
-//            oldSelectedItemID = i;
-//        }
-        oldToggle.push_back(myControlPanel.getValueB(dirCSV.getName(i)));
-    }
-    
-    
     myControlPanel.mousePressed(x, y, button);
     modeNum = currentPos;
-    
-    
-    
-    //ここで比べて何が押されたかを把握する。
-    for (int i = 0; i<dirCSV.numFiles(); i++) {        
-        //myControlPanel.getValueB("kimoto")
-        printf("new- %s\n", dirCSV.getName(i).c_str());
-        printf("new- %d\n", myControlPanel.getValueB(dirCSV.getName(i)));
-        //i番目以外のtoggleをオフにする。（押したものだけをONにする。１つだけをONにする。）
-        if (myControlPanel.getValueB(dirCSV.getName(i)) != oldToggle[i]) {
-            printf("今さわったのは%d番目のtoggleです。\n", i);
-            myControlPanel.setValueB(dirCSV.getName(i), true);
-            selectedItemID = i;
-        }
-    }
-    for (int i = 0; i<dirCSV.numFiles(); i++) {
-        if (i != selectedItemID) {
-            myControlPanel.setValueB(dirCSV.getName(i), false);
-        
-        }
-    }
-    
-    
-    printf("%multi %d", myControlPanel.getValueI("bar"));
-    
-    
 }
 
 //--------------------------------------------------------------
 void testApp::mouseReleased(int x, int y, int button){
     myControlPanel.mouseReleased();
+    //csv更新
+    ofxCsv reloadCsv;
+    ofxCsv reloadGenreNameList;
+    printf("読み込むべき人 %d %s\n", myControlPanel.getValueI("csvOwner"), dirCSV.getName(myControlPanel.getValueI("csvOwner")).c_str());
+    reloadCsv.loadFile(ofToDataPath(ofToString("csv/")+dirCSV.getName(myControlPanel.getValueI("csvOwner")).c_str()+ofToString("/graphData.csv")));
+    reloadGenreNameList.loadFile(ofToDataPath(ofToString("csv/")+dirCSV.getName(myControlPanel.getValueI("csvOwner")).c_str()+ofToString("/genreNameList.csv")));
+    csv = reloadCsv;
+    genreNameList = reloadGenreNameList;
+    genreNum = genreNameList.numRows-1;//ラベルを省くので-1しておく。
+
 }
 
 //--------------------------------------------------------------
