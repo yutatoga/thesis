@@ -1,4 +1,4 @@
-This is e-pTeXk, Version 3.1415926-p3.1.11-100420 (utf8.euc) (TeX Live 2009) (format=eplatex 2010.5.24)  1 DEC 2012 19:54
+This is e-pTeXk, Version 3.1415926-p3.1.11-100420 (utf8.euc) (TeX Live 2009) (format=eplatex 2010.5.24)  3 DEC 2012 02:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -110,27 +110,28 @@ LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
 (Font)              scaled to size 11.53198pt on input line 12.
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
 (Font)              scaled to size 11.53198pt on input line 12.
-File: musicLifeSheet_sample.pdf Graphic file (type pdf)
- <musicLifeSheet_sample.pdf> [1
+ [1
 
 ]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 39.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 37.
 
 (/usr/local/texlive/p2009/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 39.
-File: graph_sample.jpg Graphic file (type bmp)
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 37.
+File: musicLifeSheet_sample.pdf Graphic file (type pdf)
 
-<graph_sample.jpg> [2] [3] [4] (./thesis.aux) ) 
+<musicLifeSheet_sample.pdf> [2]
+File: graph_sample.jpg Graphic file (type bmp)
+ <graph_sample.jpg> [3] [4] [5] (./thesis.aux) ) 
 Here is how much of TeX's memory you used:
  751 strings out of 494089
  8829 string characters out of 3152919
- 62679 words of memory out of 3000000
+ 63679 words of memory out of 3000000
  4189 multiletter control sequences out of 15000+200000
  13517 words of font info for 59 fonts, out of 3000000 for 9000
  719 hyphenation exceptions out of 8191
- 25i,6n,21p,443b,290s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 25i,6n,21p,888b,288s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on thesis.dvi (4 pages, 7844 bytes).
+Output written on thesis.dvi (5 pages, 13824 bytes).
