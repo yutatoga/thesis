@@ -9,8 +9,9 @@
 #include "ofxTrueTypeFontUC.h"
 
 #define CENTER_CIRCLE_RADIUS 150
+#define ARC_RADIUS_CHANGER 2
 #define BAR_WIDTH 20
-
+#define BAR_HEIGHT_CHANGER 4
 using namespace wng;
 
 class testApp : public ofBaseApp{
@@ -63,12 +64,13 @@ class testApp : public ofBaseApp{
     float currentDistFromGraphTop;
     float beginBarPosX;
     vector<ofColor> genreCol;
-    float barHeightChanger;
     bool showCircleGraph;
+    int circleGraphRotateDegree;
     
     //csv select UI
     ofDirectory dirCSV;
     vector<string> csvOwnerList;
     int selectedItemID;
+    int topPos;
     
 };
