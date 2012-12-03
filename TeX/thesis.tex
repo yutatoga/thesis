@@ -51,9 +51,14 @@ iTunes, iPod, 時間情報, レコメンドサービス, ライフログ
 
 \item
 被験者に自分の生活を曜日毎にアンケートシートに書いてもらう。
+\begin{figure}[htbp]
 \begin{center}
+\fbox{
 \includegraphics[width=7cm]{musicLifeSheet_sample.pdf}
+}
+\caption{アンケートシートのサンプル}
 \end{center}
+\end{figure}
 
 被験者に渡したのは、0時から24時までを30分刻みで目盛りを付けたもので、普段の生活と、普段の音楽聴取を記入してもらうもので、月曜日から日曜日までの合計7枚のものである。
 不規則な生活、気まぐれな音楽再生など、毎週規則正しく定期的に書けない部分も備考として記入してもらう。
@@ -75,9 +80,12 @@ Rを用いて、２でつくったテキストファイルを読み込んで、�
 \item
 openFrameworksを用いて、csvファイルから、0時から24時まで30分刻みのヒストグラムを月曜から日曜までの累積棒グラフの形式でつくる。棒グラフの棒の数は、24(1時間刻み)*7(月曜から日曜)=168本になる。総合再生回数がベスト5のものだけをカラーにして、それ以外をその他としてグレーで描画した。
 
+\begin{figure}
 \begin{center}
 \includegraphics[width=14cm]{graph_sample.jpg}
+\caption{分析結果のグラフ}
 \end{center}
+\end{figure}
 
 \item
 ヒストグラムの見た目から、聴いている音楽と、時間に相関があるかを調べる。
@@ -91,7 +99,36 @@ openFrameworksを用いて、csvファイルから、0時から24時まで30分�
 \end{enumerate}
 
 \section{結果}
+
 ヒストグラムはこうなりました。寝ている時間が推測できる。必ず聴いていない時間が存在することがあり、その時間は定期的な会議などがあることが多かった。金曜の夜だけ多く聴いているというような、曜日による偏りが見られた。
+\subsection{規則的な人}
+規則的な人は、
+\begin{figure}[h]
+\begin{center}
+\includegraphics[width=14cm]{sample_regular.jpg}
+\caption{規則的な人の例}
+\label{sample_regular}
+\end{center}
+\end{figure}
+
+
+\subsection{不規則な人}
+不規則な人は、図\ref{sample_irregular}のグラフに示すように時間によって音楽の試聴のリズムは見られない。
+曜日によって、ばらばらになっている。
+
+\begin{figure}[h]
+\begin{center}
+\includegraphics[width=14cm]{sample_irregular.jpg}
+\caption{不規則な人の例}
+\label{sample_irregular}
+\end{center}
+\end{figure}
+
+\subsection{音楽ジャンルの分布が一定な人}
+図\ref{sample_irregular}のグラフに示すように、高さを見なかった場合、一定なパターンもある。それは、この場合、シャッフルプレイをしているために、iTunesに入っている音楽ライブラリのジャンル構成がそのまま音楽の再生の分布になっていると考えられる。
+\subsection{音楽ジャンルの分布が規則的な人}
+\subsection{音楽ジャンルの分布が不規則な人}
+
 
 \section{分析}
 iTunesの仕様により、再生履歴は最後に聞いた時間の情報しか残っていない。すなわち、10回聞いたの楽曲がある場合も、いつ聞いたのかという情報は最後の10回目しか記録されておらず、1回目から9回目の情報は上書きによって失われている。そのため、今回の研究では、アンケートにおいて、シャッフルで再生しているかどうかを聞き出すことにした。

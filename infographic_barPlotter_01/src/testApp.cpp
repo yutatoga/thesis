@@ -292,7 +292,6 @@ void testApp::draw(){
         ofTranslate(beginBarPosX, 0);
         // j is weekNum: sunday is 0, monday is 1 ...saturday is 6.
         
-        
         //音楽データの棒グラフ
         for (int i=0; i<24*7; i++) {
             currentDistFromGraphTop = graphTop[i];
@@ -308,9 +307,15 @@ void testApp::draw(){
                 }
                 ofSetColor(col);
                 ofRect(0, 0, ofGetWidth()/(float)myControlPanel.getValueI("barNum"), -BAR_HEIGHT_CHANGER*currentDistFromGraphTop);//最初の行がラベルなので１足す
+                ofPopMatrix();
                 
+                //音楽ジャンルの分布を描画
+                ofPushMatrix();
+                ofTranslate(ofGetWidth()/(float)myControlPanel.getValueI("barNum")*i, ofGetHeight());
+                ofRect(0, 0, ofGetWidth()/(float)myControlPanel.getValueI("barNum"), -20*currentDistFromGraphTop/(float)graphTop[i]);
                 ofPopStyle();
                 ofPopMatrix();
+                
                 currentDistFromGraphTop -= csv.getFloat(floor(i/24.0f)*genreNum+(genreNum-j-1)+1, i%24+1);
             }
         }
@@ -377,8 +382,15 @@ void testApp::draw(){
                 }
                 ofSetColor(col);
                 ofRect(0, 0, ofGetWidth()/(float)myControlPanel.getValueI("barNum"), -BAR_HEIGHT_CHANGER*currentDistFromGraphTop);//最初の行がラベルなので１足す
+                ofPopMatrix();
+                //音楽ジャンルの分布を描画
+                
+                ofPushMatrix();
+                ofTranslate(ofGetWidth()/(float)myControlPanel.getValueI("barNum")*i, ofGetHeight());
+                ofRect(0, 0, ofGetWidth()/(float)myControlPanel.getValueI("barNum"), -20*currentDistFromGraphTop/(float)graphTop[i]);
                 ofPopStyle();
                 ofPopMatrix();
+                
                 currentDistFromGraphTop -= csv.getFloat(floor(i/24.0f)*genreNum+(genreNum-j-1)+1, i%24+1);
             }
         }

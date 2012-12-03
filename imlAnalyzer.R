@@ -126,7 +126,8 @@ playDateExistIml = sortedIml[1:1863,]
 #play countを調べて、0でなかったら、リスト（playedIml）に追加。
 playedIml = iml[iml[,4]!=0,]
 playedImlSortedByPlayCount =  playedIml[sort.list(playedIml$playCount),] #これと同じ意味の式は右のようにも書ける。 playedImlSortedByPlayCount =  playedIml[sort.list(playedIml[,4]),]
-
+#実験で使用する2012年の4月からの情報だけにする、filteredPlayedImlという名前で。
+#filteredPlayedIml = playedIml[ , ]
 
 
 #for文で全ジャンル書き出してみる
