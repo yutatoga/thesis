@@ -153,7 +153,11 @@ playedImlSortedByPlayCount =  playedIml[sort.list(playedIml$playCount),] #これ
 #ジャズだけを取り出す　playedIml[playedIml$genre=="Jazz",]
 #日曜日だけ取り出す。  playedIml[as.POSIXlt(playedIml[,1])$wday==0,]
 #再生回数が1回で、ジャンルがJazzなものだけを取り出す。　playedIml[playedIml$playCount==1 & playedIml$genre == "Jazz",]
+ #24列で、曜日が変わったら、下の行に行く。（ジャンルが多いと、行（行はジャンルの数x7）が伸びて、列は24列固定。）
  graphData  = c()
+ #24x7列で、曜日か変わったら、右の列に行く。（ジャンルが多いと、行（行はジャンルの数とイコール）が増えて、列は24*7列固定。）
+ graphDataMatrix = c();
+ instantGraphDataMatrix = c()
  for(weekNum in 1 : 7){
 	 for(i in 1:length(table(playedIml[,2][, drop = TRUE]))){
 		targetGenreName = names(sort(table(playedIml[,2][, drop = TRUE]), decreasing = T))[i]
@@ -162,8 +166,11 @@ playedImlSortedByPlayCount =  playedIml[sort.list(playedIml$playCount),] #これ
 	    wdayName = switch(weekNum, "Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday" )
 	    histData = hist(as.POSIXlt(imlWeekGenreTime)$hour+as.POSIXlt(imlWeekGenreTime)$min/60+as.POSIXlt(imlWeekGenreTime)$sec/60/60, main=paste(wdayName, "_", targetGenreName, sep = "")  , breaks=seq(0,24,1), col = hsv(1*i/length(table(playedIml[,2][, drop = TRUE])), 1, 1, alpha = 0.5), xlab = "Time", ylab = "Frequency", xlim = c(0,23), ylim = c(0, histMax)) 
     	graphData = rbind(graphData, histData$counts)
+    	instantGraphDataMatrix = rbind(instantGraphDataMatrix, histData$counts)
     	quartz.save(paste("~/dropbox/thesis/out_png/", weekNum, "_", wdayName, "_", i,"_", targetGenreName, ".png", sep=""))	
 	}
+	graphDataMatrix = cbind(graphDataMatrix, instantGraphDataMatrix)
+	instantGraphDataMatrix = c()
 }
 
 
@@ -195,6 +202,9 @@ dim(imlPlusCount)
 #csvを書き出す。
 #曜日毎のジャンルの累積グラフのテーブル
 write.csv(graphData, "graphData.csv")
+#横軸
+write.csv(graphDataMatrix, "graphDataMatrix.csv");
+
 #ジャンル
 genreNameList = names(sort(table(playedIml[,2][, drop = TRUE]), decreasing = T))
 write.csv(genreNameList, "genreNameList.csv")
