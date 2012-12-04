@@ -73,4 +73,6 @@ class testApp : public ofBaseApp{
     int selectedItemID;
     int topPos;
     
+    //csv改
+//    int **csvMatrix;
 };

@@ -2,7 +2,7 @@
     <val_0>168.000000000</val_0>
 </barNum>
 <monday>
-    <val_0>1.000000000</val_0>
+    <val_0>60.666664124</val_0>
 </monday>
 <tuesday>
     <val_0>1.000000000</val_0>
@@ -43,3 +43,48 @@
 <graphType>
     <val_0>1.000000000</val_0>
 </graphType>
+<ratioMap>
+    <val_0>0.000000000</val_0>
+</ratioMap>
+<sundayStart>
+    <val_0>0.000000000</val_0>
+</sundayStart>
+<mondayStart>
+    <val_0>24.122222900</val_0>
+</mondayStart>
+<tuesdayStart>
+    <val_0>48.244445801</val_0>
+</tuesdayStart>
+<wednesdayStart>
+    <val_0>70.511108398</val_0>
+</wednesdayStart>
+<thursdayStart>
+    <val_0>94.633331299</val_0>
+</thursdayStart>
+<fridayStart>
+    <val_0>118.755561829</val_0>
+</fridayStart>
+<saturdayEnd>
+    <val_0>167.000000000</val_0>
+</saturdayEnd>
+<sundayEnd>
+    <val_0>23.194444656</val_0>
+</sundayEnd>
+<mondayEnd>
+    <val_0>47.316665649</val_0>
+</mondayEnd>
+<tuesdayEnd>
+    <val_0>69.583328247</val_0>
+</tuesdayEnd>
+<wednesdayEnd>
+    <val_0>93.705551147</val_0>
+</wednesdayEnd>
+<thursdayEnd>
+    <val_0>117.827781677</val_0>
+</thursdayEnd>
+<fridayEnd>
+    <val_0>141.022216797</val_0>
+</fridayEnd>
+<saturdayStart>
+    <val_0>142.877777100</val_0>
+</saturdayStart>
