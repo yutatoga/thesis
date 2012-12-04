@@ -29,8 +29,10 @@ class testApp : public ofBaseApp{
 		void windowResized(int w, int h);
 		void dragEvent(ofDragInfo dragInfo);
 		void gotMessage(ofMessage msg);
-
+    
+    
     void barplot(int modeNum);
+    void drawWeekRatio(string weekName, string csvOwnerName);
     
     float thetaDegree;
     ofxVectorGraphics myVectorGraphics;
@@ -74,5 +76,7 @@ class testApp : public ofBaseApp{
     int topPos;
     
     //csv改
-//    int **csvMatrix;
+    ofxCsv csvMatrix;
+    //曜日の文字列を入れておく配列
+    string weekNameStringList[7];
 };

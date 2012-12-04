@@ -107,13 +107,9 @@ if(histMax == -1){
 
 
 
-#音楽の長さと最後に聞いた時間をもとに、操作して選択された曲だけのリストを求める
-#iml[sort.list(iml$Played Date),]
-#iml[2036,][1]-round(iml[2036,][3]/1000)#ほとんど、同じか、1秒小さいか、1秒大きい。
-#nrow(iml)
-#append
 
 
+#再生時間でソート
 sortedIml = iml[sort.list(iml$playDate),]
 #ここまでrunning code
 #今回は1~1863(sortedImlで中身みて、2655までデータが存在して、2656からNANだったので、rownames(sortedIml)==2655でTRUE参照するというアナログで調べた)までデータ存在。
@@ -173,28 +169,35 @@ playedImlSortedByPlayCount =  playedIml[sort.list(playedIml$playCount),] #これ
 	instantGraphDataMatrix = c()
 }
 
-
+#音楽の長さと最後に聞いた時間をもとに、操作して選択された曲だけのリストを求める
+#iml[sort.list(iml$playDate),]
+#iml[2036,][1]-round(iml[2036,][3]/1000)#ほとんど、同じか、1秒小さいか、1秒大きい。
+#nrow(iml)
+#append
 diff = c()
 for (i in 2:nrow(playDateExistIml)){
 	diff = append(diff, playDateExistIml[i-1,][1] - (playDateExistIml[i,][1]-round(playDateExistIml[i,][3]/1000)))#ここはplay dateでソートしてから行うように書き換える！
 }
 diffAbs = abs(as.numeric(diff))
 selectedItems = diffAbs == 1
+
 #行番号取得　rownames(sortedIml)[nrow(sortedIml)]
 
 #再生回数に応じて、カウントの数を動的に変化させる。例えば、一回しか再生されていないものは、プラス１、2回再生されたものはプラス2というかんじ。回数が多いほど、お気に入りの可能性が高く、ランダム再生でたまたま再生される可能性が低いという推測から。
 #play count回数分をfor文で loopでコピーして追加する。
-instantCountOfPlayedImlSortedByPlayCount = dim(playedImlSortedByPlayCount)[1]
-imlPlusCount = playedImlSortedByPlayCount
-
-for(i in 1:instantCountOfPlayedImlSortedByPlayCount){
-    if(playedImlSortedByPlayCount[i,4]>1){
-        for (j in 1:(playedImlSortedByPlayCount[i,4]-1)){
-            imlPlusCount  = rbind(imlPlusCount, playedImlSortedByPlayCount[i,])
-            #imlPlusCount = rbind(imlPlusCount, rbind(rep(playedImlSortedByPlayCount[i,], playedImlSortedByPlayCount[i,4]-1)))
-        }
-    }
-}
+#
+#低速なのでコメントアウトする。
+#instantCountOfPlayedImlSortedByPlayCount = dim(playedImlSortedByPlayCount)[1]
+#imlPlusCount = playedImlSortedByPlayCount
+#
+#for(i in 1:instantCountOfPlayedImlSortedByPlayCount){
+#    if(playedImlSortedByPlayCount[i,4]>1){
+#        for (j in 1:(playedImlSortedByPlayCount[i,4]-1)){
+#            imlPlusCount  = rbind(imlPlusCount, playedImlSortedByPlayCount[i,])
+#            #imlPlusCount = rbind(imlPlusCount, rbind(rep(playedImlSortedByPlayCount[i,], playedImlSortedByPlayCount[i,4]-1)))
+#        }
+#    }
+#}
 
 sum(iml[,4])
 dim(imlPlusCount)

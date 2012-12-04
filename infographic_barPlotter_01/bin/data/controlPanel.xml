@@ -38,7 +38,7 @@
     <val_0>0.000000000</val_0>
 </toga>
 <csvOwner>
-    <val_0>7.000000000</val_0>
+    <val_0>11.000000000</val_0>
 </csvOwner>
 <graphType>
     <val_0>1.000000000</val_0>
@@ -88,3 +88,552 @@
 <saturdayStart>
     <val_0>142.877777100</val_0>
 </saturdayStart>
+<timeTableOwner>
+    <val_0>8.000000000</val_0>
+</timeTableOwner>
+<sundayStart_asano>
+    <val_0>0.000000000</val_0>
+</sundayStart_asano>
+<mondayStart_asano>
+    <val_0>24.000000000</val_0>
+</mondayStart_asano>
+<tuesdayStart_asano>
+    <val_0>48.000000000</val_0>
+</tuesdayStart_asano>
+<wednesdayStart_asano>
+    <val_0>72.000000000</val_0>
+</wednesdayStart_asano>
+<thursdayStart_asano>
+    <val_0>96.000000000</val_0>
+</thursdayStart_asano>
+<fridayStart_asano>
+    <val_0>120.000000000</val_0>
+</fridayStart_asano>
+<saturdayStart_asano>
+    <val_0>144.000000000</val_0>
+</saturdayStart_asano>
+<sundayEnd_asano>
+    <val_0>23.000000000</val_0>
+</sundayEnd_asano>
+<mondayEnd_asano>
+    <val_0>47.000000000</val_0>
+</mondayEnd_asano>
+<tuesdayEnd_asano>
+    <val_0>71.000000000</val_0>
+</tuesdayEnd_asano>
+<wednesdayEnd_asano>
+    <val_0>95.000000000</val_0>
+</wednesdayEnd_asano>
+<thursdayEnd_asano>
+    <val_0>119.000000000</val_0>
+</thursdayEnd_asano>
+<fridayEnd_asano>
+    <val_0>143.000000000</val_0>
+</fridayEnd_asano>
+<saturdayEnd_asano>
+    <val_0>167.000000000</val_0>
+</saturdayEnd_asano>
+<sundayStart_hasuo>
+    <val_0>0.000000000</val_0>
+</sundayStart_hasuo>
+<mondayStart_hasuo>
+    <val_0>24.000000000</val_0>
+</mondayStart_hasuo>
+<tuesdayStart_hasuo>
+    <val_0>48.000000000</val_0>
+</tuesdayStart_hasuo>
+<wednesdayStart_hasuo>
+    <val_0>72.000000000</val_0>
+</wednesdayStart_hasuo>
+<thursdayStart_hasuo>
+    <val_0>96.000000000</val_0>
+</thursdayStart_hasuo>
+<fridayStart_hasuo>
+    <val_0>120.000000000</val_0>
+</fridayStart_hasuo>
+<saturdayStart_hasuo>
+    <val_0>144.000000000</val_0>
+</saturdayStart_hasuo>
+<sundayEnd_hasuo>
+    <val_0>23.000000000</val_0>
+</sundayEnd_hasuo>
+<mondayEnd_hasuo>
+    <val_0>47.000000000</val_0>
+</mondayEnd_hasuo>
+<tuesdayEnd_hasuo>
+    <val_0>71.000000000</val_0>
+</tuesdayEnd_hasuo>
+<wednesdayEnd_hasuo>
+    <val_0>95.000000000</val_0>
+</wednesdayEnd_hasuo>
+<thursdayEnd_hasuo>
+    <val_0>119.000000000</val_0>
+</thursdayEnd_hasuo>
+<fridayEnd_hasuo>
+    <val_0>143.000000000</val_0>
+</fridayEnd_hasuo>
+<saturdayEnd_hasuo>
+    <val_0>167.000000000</val_0>
+</saturdayEnd_hasuo>
+<sundayStart_imamura>
+    <val_0>0.000000000</val_0>
+</sundayStart_imamura>
+<mondayStart_imamura>
+    <val_0>24.000000000</val_0>
+</mondayStart_imamura>
+<tuesdayStart_imamura>
+    <val_0>48.000000000</val_0>
+</tuesdayStart_imamura>
+<wednesdayStart_imamura>
+    <val_0>72.000000000</val_0>
+</wednesdayStart_imamura>
+<thursdayStart_imamura>
+    <val_0>96.000000000</val_0>
+</thursdayStart_imamura>
+<fridayStart_imamura>
+    <val_0>120.000000000</val_0>
+</fridayStart_imamura>
+<saturdayStart_imamura>
+    <val_0>144.000000000</val_0>
+</saturdayStart_imamura>
+<sundayEnd_imamura>
+    <val_0>23.000000000</val_0>
+</sundayEnd_imamura>
+<mondayEnd_imamura>
+    <val_0>47.000000000</val_0>
+</mondayEnd_imamura>
+<tuesdayEnd_imamura>
+    <val_0>71.000000000</val_0>
+</tuesdayEnd_imamura>
+<wednesdayEnd_imamura>
+    <val_0>95.000000000</val_0>
+</wednesdayEnd_imamura>
+<thursdayEnd_imamura>
+    <val_0>119.000000000</val_0>
+</thursdayEnd_imamura>
+<fridayEnd_imamura>
+    <val_0>143.000000000</val_0>
+</fridayEnd_imamura>
+<saturdayEnd_imamura>
+    <val_0>167.000000000</val_0>
+</saturdayEnd_imamura>
+<sundayStart_ito>
+    <val_0>0.000000000</val_0>
+</sundayStart_ito>
+<mondayStart_ito>
+    <val_0>24.000000000</val_0>
+</mondayStart_ito>
+<tuesdayStart_ito>
+    <val_0>48.000000000</val_0>
+</tuesdayStart_ito>
+<wednesdayStart_ito>
+    <val_0>72.000000000</val_0>
+</wednesdayStart_ito>
+<thursdayStart_ito>
+    <val_0>96.000000000</val_0>
+</thursdayStart_ito>
+<fridayStart_ito>
+    <val_0>120.000000000</val_0>
+</fridayStart_ito>
+<saturdayStart_ito>
+    <val_0>144.000000000</val_0>
+</saturdayStart_ito>
+<sundayEnd_ito>
+    <val_0>23.000000000</val_0>
+</sundayEnd_ito>
+<mondayEnd_ito>
+    <val_0>47.000000000</val_0>
+</mondayEnd_ito>
+<tuesdayEnd_ito>
+    <val_0>71.000000000</val_0>
+</tuesdayEnd_ito>
+<wednesdayEnd_ito>
+    <val_0>95.000000000</val_0>
+</wednesdayEnd_ito>
+<thursdayEnd_ito>
+    <val_0>119.000000000</val_0>
+</thursdayEnd_ito>
+<fridayEnd_ito>
+    <val_0>143.000000000</val_0>
+</fridayEnd_ito>
+<saturdayEnd_ito>
+    <val_0>167.000000000</val_0>
+</saturdayEnd_ito>
+<sundayStart_kimoto>
+    <val_0>0.000000000</val_0>
+</sundayStart_kimoto>
+<mondayStart_kimoto>
+    <val_0>24.000000000</val_0>
+</mondayStart_kimoto>
+<tuesdayStart_kimoto>
+    <val_0>48.000000000</val_0>
+</tuesdayStart_kimoto>
+<wednesdayStart_kimoto>
+    <val_0>72.000000000</val_0>
+</wednesdayStart_kimoto>
+<thursdayStart_kimoto>
+    <val_0>96.000000000</val_0>
+</thursdayStart_kimoto>
+<fridayStart_kimoto>
+    <val_0>120.000000000</val_0>
+</fridayStart_kimoto>
+<saturdayStart_kimoto>
+    <val_0>144.000000000</val_0>
+</saturdayStart_kimoto>
+<sundayEnd_kimoto>
+    <val_0>23.000000000</val_0>
+</sundayEnd_kimoto>
+<mondayEnd_kimoto>
+    <val_0>47.000000000</val_0>
+</mondayEnd_kimoto>
+<tuesdayEnd_kimoto>
+    <val_0>71.000000000</val_0>
+</tuesdayEnd_kimoto>
+<wednesdayEnd_kimoto>
+    <val_0>95.000000000</val_0>
+</wednesdayEnd_kimoto>
+<thursdayEnd_kimoto>
+    <val_0>119.000000000</val_0>
+</thursdayEnd_kimoto>
+<fridayEnd_kimoto>
+    <val_0>143.000000000</val_0>
+</fridayEnd_kimoto>
+<saturdayEnd_kimoto>
+    <val_0>167.000000000</val_0>
+</saturdayEnd_kimoto>
+<sundayStart_komai>
+    <val_0>0.000000000</val_0>
+</sundayStart_komai>
+<mondayStart_komai>
+    <val_0>24.000000000</val_0>
+</mondayStart_komai>
+<tuesdayStart_komai>
+    <val_0>48.000000000</val_0>
+</tuesdayStart_komai>
+<wednesdayStart_komai>
+    <val_0>72.000000000</val_0>
+</wednesdayStart_komai>
+<thursdayStart_komai>
+    <val_0>96.000000000</val_0>
+</thursdayStart_komai>
+<fridayStart_komai>
+    <val_0>120.000000000</val_0>
+</fridayStart_komai>
+<saturdayStart_komai>
+    <val_0>144.000000000</val_0>
+</saturdayStart_komai>
+<sundayEnd_komai>
+    <val_0>23.000000000</val_0>
+</sundayEnd_komai>
+<mondayEnd_komai>
+    <val_0>47.000000000</val_0>
+</mondayEnd_komai>
+<tuesdayEnd_komai>
+    <val_0>71.000000000</val_0>
+</tuesdayEnd_komai>
+<wednesdayEnd_komai>
+    <val_0>95.000000000</val_0>
+</wednesdayEnd_komai>
+<thursdayEnd_komai>
+    <val_0>119.000000000</val_0>
+</thursdayEnd_komai>
+<fridayEnd_komai>
+    <val_0>143.000000000</val_0>
+</fridayEnd_komai>
+<saturdayEnd_komai>
+    <val_0>167.000000000</val_0>
+</saturdayEnd_komai>
+<sundayStart_nakatani>
+    <val_0>0.000000000</val_0>
+</sundayStart_nakatani>
+<mondayStart_nakatani>
+    <val_0>24.000000000</val_0>
+</mondayStart_nakatani>
+<tuesdayStart_nakatani>
+    <val_0>48.000000000</val_0>
+</tuesdayStart_nakatani>
+<wednesdayStart_nakatani>
+    <val_0>72.000000000</val_0>
+</wednesdayStart_nakatani>
+<thursdayStart_nakatani>
+    <val_0>96.000000000</val_0>
+</thursdayStart_nakatani>
+<fridayStart_nakatani>
+    <val_0>120.000000000</val_0>
+</fridayStart_nakatani>
+<saturdayStart_nakatani>
+    <val_0>144.000000000</val_0>
+</saturdayStart_nakatani>
+<sundayEnd_nakatani>
+    <val_0>23.000000000</val_0>
+</sundayEnd_nakatani>
+<mondayEnd_nakatani>
+    <val_0>47.000000000</val_0>
+</mondayEnd_nakatani>
+<tuesdayEnd_nakatani>
+    <val_0>71.000000000</val_0>
+</tuesdayEnd_nakatani>
+<wednesdayEnd_nakatani>
+    <val_0>95.000000000</val_0>
+</wednesdayEnd_nakatani>
+<thursdayEnd_nakatani>
+    <val_0>119.000000000</val_0>
+</thursdayEnd_nakatani>
+<fridayEnd_nakatani>
+    <val_0>143.000000000</val_0>
+</fridayEnd_nakatani>
+<saturdayEnd_nakatani>
+    <val_0>167.000000000</val_0>
+</saturdayEnd_nakatani>
+<sundayStart_oda>
+    <val_0>0.000000000</val_0>
+</sundayStart_oda>
+<mondayStart_oda>
+    <val_0>24.000000000</val_0>
+</mondayStart_oda>
+<tuesdayStart_oda>
+    <val_0>48.000000000</val_0>
+</tuesdayStart_oda>
+<wednesdayStart_oda>
+    <val_0>72.000000000</val_0>
+</wednesdayStart_oda>
+<thursdayStart_oda>
+    <val_0>96.000000000</val_0>
+</thursdayStart_oda>
+<fridayStart_oda>
+    <val_0>120.000000000</val_0>
+</fridayStart_oda>
+<saturdayStart_oda>
+    <val_0>144.000000000</val_0>
+</saturdayStart_oda>
+<sundayEnd_oda>
+    <val_0>23.000000000</val_0>
+</sundayEnd_oda>
+<mondayEnd_oda>
+    <val_0>47.000000000</val_0>
+</mondayEnd_oda>
+<tuesdayEnd_oda>
+    <val_0>71.000000000</val_0>
+</tuesdayEnd_oda>
+<wednesdayEnd_oda>
+    <val_0>95.000000000</val_0>
+</wednesdayEnd_oda>
+<thursdayEnd_oda>
+    <val_0>119.000000000</val_0>
+</thursdayEnd_oda>
+<fridayEnd_oda>
+    <val_0>143.000000000</val_0>
+</fridayEnd_oda>
+<saturdayEnd_oda>
+    <val_0>167.000000000</val_0>
+</saturdayEnd_oda>
+<sundayStart_sato>
+    <val_0>0.000000000</val_0>
+</sundayStart_sato>
+<mondayStart_sato>
+    <val_0>24.000000000</val_0>
+</mondayStart_sato>
+<tuesdayStart_sato>
+    <val_0>48.000000000</val_0>
+</tuesdayStart_sato>
+<wednesdayStart_sato>
+    <val_0>72.000000000</val_0>
+</wednesdayStart_sato>
+<thursdayStart_sato>
+    <val_0>96.000000000</val_0>
+</thursdayStart_sato>
+<fridayStart_sato>
+    <val_0>120.000000000</val_0>
+</fridayStart_sato>
+<saturdayStart_sato>
+    <val_0>144.000000000</val_0>
+</saturdayStart_sato>
+<sundayEnd_sato>
+    <val_0>23.000000000</val_0>
+</sundayEnd_sato>
+<mondayEnd_sato>
+    <val_0>47.000000000</val_0>
+</mondayEnd_sato>
+<tuesdayEnd_sato>
+    <val_0>71.000000000</val_0>
+</tuesdayEnd_sato>
+<wednesdayEnd_sato>
+    <val_0>95.000000000</val_0>
+</wednesdayEnd_sato>
+<thursdayEnd_sato>
+    <val_0>119.000000000</val_0>
+</thursdayEnd_sato>
+<fridayEnd_sato>
+    <val_0>143.000000000</val_0>
+</fridayEnd_sato>
+<saturdayEnd_sato>
+    <val_0>167.000000000</val_0>
+</saturdayEnd_sato>
+<sundayStart_suzuki>
+    <val_0>0.000000000</val_0>
+</sundayStart_suzuki>
+<mondayStart_suzuki>
+    <val_0>24.000000000</val_0>
+</mondayStart_suzuki>
+<tuesdayStart_suzuki>
+    <val_0>48.000000000</val_0>
+</tuesdayStart_suzuki>
+<wednesdayStart_suzuki>
+    <val_0>72.000000000</val_0>
+</wednesdayStart_suzuki>
+<thursdayStart_suzuki>
+    <val_0>96.000000000</val_0>
+</thursdayStart_suzuki>
+<fridayStart_suzuki>
+    <val_0>120.000000000</val_0>
+</fridayStart_suzuki>
+<saturdayStart_suzuki>
+    <val_0>144.000000000</val_0>
+</saturdayStart_suzuki>
+<sundayEnd_suzuki>
+    <val_0>23.000000000</val_0>
+</sundayEnd_suzuki>
+<mondayEnd_suzuki>
+    <val_0>47.000000000</val_0>
+</mondayEnd_suzuki>
+<tuesdayEnd_suzuki>
+    <val_0>71.000000000</val_0>
+</tuesdayEnd_suzuki>
+<wednesdayEnd_suzuki>
+    <val_0>95.000000000</val_0>
+</wednesdayEnd_suzuki>
+<thursdayEnd_suzuki>
+    <val_0>119.000000000</val_0>
+</thursdayEnd_suzuki>
+<fridayEnd_suzuki>
+    <val_0>143.000000000</val_0>
+</fridayEnd_suzuki>
+<saturdayEnd_suzuki>
+    <val_0>167.000000000</val_0>
+</saturdayEnd_suzuki>
+<sundayStart_takino>
+    <val_0>0.000000000</val_0>
+</sundayStart_takino>
+<mondayStart_takino>
+    <val_0>24.000000000</val_0>
+</mondayStart_takino>
+<tuesdayStart_takino>
+    <val_0>48.000000000</val_0>
+</tuesdayStart_takino>
+<wednesdayStart_takino>
+    <val_0>72.000000000</val_0>
+</wednesdayStart_takino>
+<thursdayStart_takino>
+    <val_0>96.000000000</val_0>
+</thursdayStart_takino>
+<fridayStart_takino>
+    <val_0>120.000000000</val_0>
+</fridayStart_takino>
+<saturdayStart_takino>
+    <val_0>144.000000000</val_0>
+</saturdayStart_takino>
+<sundayEnd_takino>
+    <val_0>23.000000000</val_0>
+</sundayEnd_takino>
+<mondayEnd_takino>
+    <val_0>47.000000000</val_0>
+</mondayEnd_takino>
+<tuesdayEnd_takino>
+    <val_0>71.000000000</val_0>
+</tuesdayEnd_takino>
+<wednesdayEnd_takino>
+    <val_0>95.000000000</val_0>
+</wednesdayEnd_takino>
+<thursdayEnd_takino>
+    <val_0>119.000000000</val_0>
+</thursdayEnd_takino>
+<fridayEnd_takino>
+    <val_0>143.000000000</val_0>
+</fridayEnd_takino>
+<saturdayEnd_takino>
+    <val_0>167.000000000</val_0>
+</saturdayEnd_takino>
+<sundayStart_taru>
+    <val_0>4.638888836</val_0>
+</sundayStart_taru>
+<mondayStart_taru>
+    <val_0>33.400001526</val_0>
+</mondayStart_taru>
+<tuesdayStart_taru>
+    <val_0>57.522224426</val_0>
+</tuesdayStart_taru>
+<wednesdayStart_taru>
+    <val_0>81.644447327</val_0>
+</wednesdayStart_taru>
+<thursdayStart_taru>
+    <val_0>103.911117554</val_0>
+</thursdayStart_taru>
+<fridayStart_taru>
+    <val_0>128.033325195</val_0>
+</fridayStart_taru>
+<saturdayStart_taru>
+    <val_0>153.083343506</val_0>
+</saturdayStart_taru>
+<sundayEnd_taru>
+    <val_0>30.616666794</val_0>
+</sundayEnd_taru>
+<mondayEnd_taru>
+    <val_0>53.811111450</val_0>
+</mondayEnd_taru>
+<tuesdayEnd_taru>
+    <val_0>78.861106873</val_0>
+</tuesdayEnd_taru>
+<wednesdayEnd_taru>
+    <val_0>101.127777100</val_0>
+</wednesdayEnd_taru>
+<thursdayEnd_taru>
+    <val_0>125.250000000</val_0>
+</thursdayEnd_taru>
+<fridayEnd_taru>
+    <val_0>149.372222900</val_0>
+</fridayEnd_taru>
+<saturdayEnd_taru>
+    <val_0>3.711111307</val_0>
+</saturdayEnd_taru>
+<sundayStart_toga>
+    <val_0>0.000000000</val_0>
+</sundayStart_toga>
+<mondayStart_toga>
+    <val_0>24.000000000</val_0>
+</mondayStart_toga>
+<tuesdayStart_toga>
+    <val_0>48.000000000</val_0>
+</tuesdayStart_toga>
+<wednesdayStart_toga>
+    <val_0>72.000000000</val_0>
+</wednesdayStart_toga>
+<thursdayStart_toga>
+    <val_0>96.000000000</val_0>
+</thursdayStart_toga>
+<fridayStart_toga>
+    <val_0>120.000000000</val_0>
+</fridayStart_toga>
+<saturdayStart_toga>
+    <val_0>144.000000000</val_0>
+</saturdayStart_toga>
+<sundayEnd_toga>
+    <val_0>23.000000000</val_0>
+</sundayEnd_toga>
+<mondayEnd_toga>
+    <val_0>47.000000000</val_0>
+</mondayEnd_toga>
+<tuesdayEnd_toga>
+    <val_0>71.000000000</val_0>
+</tuesdayEnd_toga>
+<wednesdayEnd_toga>
+    <val_0>95.000000000</val_0>
+</wednesdayEnd_toga>
+<thursdayEnd_toga>
+    <val_0>119.000000000</val_0>
+</thursdayEnd_toga>
+<fridayEnd_toga>
+    <val_0>143.000000000</val_0>
+</fridayEnd_toga>
+<saturdayEnd_toga>
+    <val_0>167.000000000</val_0>
+</saturdayEnd_toga>

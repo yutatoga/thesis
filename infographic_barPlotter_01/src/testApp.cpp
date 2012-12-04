@@ -34,8 +34,7 @@ void testApp::setup(){
     dir.listDir();
     dirCSV = dir;
     myControlPanel.setup("Bar Ploter UI", 0, 50, 300+340+100, 180+25*dir.numFiles());
-    myControlPanel.addPanel("panel_1", 1);
-    myControlPanel.addPanel("weekTime", 4);
+    myControlPanel.addPanel("controlPanel", 5);
     myControlPanel.addSlider("bar_num", "barNum", 24*7, 1, 24*7, true);
     
     //グラフをつくるのに使う、csvファイルを選択するtoggleボタン。（一個しか選べないようにしてある。）
@@ -50,33 +49,41 @@ void testApp::setup(){
     graphType.push_back("bar");
     myControlPanel.addMultiToggle("graphType", "graphType", 0, graphType);
     myControlPanel.addToggle("ratioMap", "ratioMap", 0);
-    
-    //曜日の時間セッティング
-    myControlPanel.setWhichPanel(1);
-    myControlPanel.addSlider("sundayStart", "sundayStart", 5, 0, 24*7-1, true);
-    myControlPanel.addSlider("mondayStart", "mondayStart", 5, 0, 24*7-1, true);
-    myControlPanel.addSlider("tuesdayStart", "tuesdayStart", 5, 0, 24*7-1, true);
-    myControlPanel.addSlider("wednesdayStart", "wednesdayStart", 5, 0, 24*7-1, true);
-    myControlPanel.addSlider("thursdayStart", "thursdayStart", 5, 0, 24*7-1, true);
-    myControlPanel.addSlider("fridayStart", "fridayStart", 5, 0, 24*7-1, true);
-    myControlPanel.addSlider("saturdayStart", "saturdayStart", 5, 0, 24*7-1, true);
+    myControlPanel.setWhichColumn(5);
+    myControlPanel.addLabel("press 'f' --- full screen");
+    myControlPanel.addLabel("press <, >, --- move graph");
     
     
-    myControlPanel.setWhichColumn(3);
-    myControlPanel.addSlider("sundayEnd", "sundayEnd", 5, 0, 24*7-1, true);
-    myControlPanel.addSlider("mondayEnd", "mondayEnd", 5, 0, 24*7-1, true);
-    myControlPanel.addSlider("tuesdayEnd", "tuesdayEnd", 5, 0, 24*7-1, true);
-    myControlPanel.addSlider("wednesdayEnd", "wednesdayEnd", 5, 0, 24*7-1, true);
-    myControlPanel.addSlider("thursdayEnd", "thursdayEnd", 5, 0, 24*7-1, true);
-    myControlPanel.addSlider("fridayEnd", "fridayEnd", 5, 0, 24*7-1, true);
-    myControlPanel.addSlider("saturdayEnd", "saturdayEnd", 5, 0, 24*7-1, true);
     
+    
+    //人数分の曜日の時間セッティング
+    for (int i = 0; i< csvOwnerList.size(); i++) {
+        myControlPanel.addPanel("weekTimeSetting_"+csvOwnerList[i], 5);
+        myControlPanel.setWhichPanel(i+1);
+        myControlPanel.addSlider("sundayStart_"+csvOwnerList[i], "sundayStart_"+csvOwnerList[i], 24*0, 0, 24*7-1, true);
+        myControlPanel.addSlider("mondayStart_"+csvOwnerList[i], "mondayStart_"+csvOwnerList[i], 24*1, 0, 24*7-1, true);
+        myControlPanel.addSlider("tuesdayStart_"+csvOwnerList[i], "tuesdayStart_"+csvOwnerList[i], 24*2, 0, 24*7-1, true);
+        myControlPanel.addSlider("wednesdayStart_"+csvOwnerList[i], "wednesdayStart_"+csvOwnerList[i], 24*3, 0, 24*7-1, true);
+        myControlPanel.addSlider("thursdayStart_"+csvOwnerList[i], "thursdayStart_"+csvOwnerList[i], 24*4, 0, 24*7-1, true);
+        myControlPanel.addSlider("fridayStart_"+csvOwnerList[i], "fridayStart_"+csvOwnerList[i], 24*5, 0, 24*7-1, true);
+        myControlPanel.addSlider("saturdayStart_"+csvOwnerList[i], "saturdayStart_"+csvOwnerList[i], 24*6, 0, 24*7-1, true);
+        
+        myControlPanel.setWhichColumn(3);
+        myControlPanel.addSlider("sundayEnd_"+csvOwnerList[i], "sundayEnd_"+csvOwnerList[i], 24*0+23, 0, 24*7-1, true);
+        myControlPanel.addSlider("mondayEnd_"+csvOwnerList[i], "mondayEnd_"+csvOwnerList[i], 24*1+23, 0, 24*7-1, true);
+        myControlPanel.addSlider("tuesdayEnd_"+csvOwnerList[i], "tuesdayEnd_"+csvOwnerList[i], 24*2+23, 0, 24*7-1, true);
+        myControlPanel.addSlider("wednesdayEnd_"+csvOwnerList[i], "wednesdayEnd_"+csvOwnerList[i], 24*3+23, 0, 24*7-1, true);
+        myControlPanel.addSlider("thursdayEnd_"+csvOwnerList[i], "thursdayEnd_"+csvOwnerList[i], 24*4+23, 0, 24*7-1, true);
+        myControlPanel.addSlider("fridayEnd_"+csvOwnerList[i], "fridayEnd_"+csvOwnerList[i], 24*5+23, 0, 24*7-1, true);
+        myControlPanel.addSlider("saturdayEnd_"+csvOwnerList[i], "saturdayEnd_"+csvOwnerList[i], 24*6+23, 0, 24*7-1, true);
+    }
     
     
     //セーブデータから再構築
     myControlPanel.loadSettings("controlPanel.xml");
     printf("読み込むべき人 %d %s\n", myControlPanel.getValueI("csvOwner"), dir.getName(myControlPanel.getValueI("csvOwner")).c_str());
     csv.loadFile(ofToDataPath(ofToString("csv/")+dirCSV.getName(myControlPanel.getValueI("csvOwner")).c_str()+ofToString("/graphData.csv")));
+    csvMatrix.loadFile(ofToDataPath(ofToString("csv/")+dirCSV.getName(myControlPanel.getValueI("csvOwner")).c_str()+ofToString("/graphDataMatrix.csv")));    
     genreNameList.loadFile(ofToDataPath(ofToString("csv/")+dirCSV.getName(myControlPanel.getValueI("csvOwner")).c_str()+ofToString("/genreNameList.csv")));
     genreNum = genreNameList.numRows-1;//ラベルを省くので-1しておく。
     
@@ -111,6 +118,15 @@ void testApp::setup(){
         genreCol.push_back(col);
         ofPopStyle();
     }
+    //曜日の文字列を入れておく。
+    weekNameStringList[0] = "sunday";
+    weekNameStringList[1] = "monday";
+    weekNameStringList[2] = "tuesday";
+    weekNameStringList[3] = "wednesday";
+    weekNameStringList[4] = "thursday";
+    weekNameStringList[5] = "friday";
+    weekNameStringList[6] = "saturday";
+    printf("setupDone!\n");
 }
 
 //--------------------------------------------------------------
@@ -131,7 +147,7 @@ void testApp::draw(){
         if (modeNum == -1) {
             //csv
             //データ:円弧グラフ
-            //TODO: 横並び棒グラフのための目盛り(10刻み)を描画
+            //横並び棒グラフのための目盛り(10刻み)を描画
             ofPushMatrix();
             ofTranslate(ofGetWidth()/2.0f, ofGetHeight()/2.0f);
             for (int i = 0; i<10; i++) {
@@ -315,6 +331,60 @@ void testApp::draw(){
         }
         ofPopMatrix();
 
+        //csvOwnerの曜日の切れ目を描画
+        for (int i = 0; i<7; i++) {
+            //飛ばした方
+            ofPushMatrix();
+            ofTranslate(beginBarPosX, 0);
+            //曜日はじめ
+            ofPushMatrix();
+            ofTranslate(myControlPanel.getValueI(weekNameStringList[i]+"Start_"+csvOwnerList[myControlPanel.getValueI("csvOwner")])*ofGetWidth()/(float)myControlPanel.getValueI("barNum"), 0);
+            ofPushStyle();
+            ofSetLineWidth(1);
+            ofSetColor(255, 0, 0, 127);
+            ofLine(0, 0, 0, ofGetHeight());
+            ofPopStyle();
+            ofPopMatrix();
+            //曜日おわり
+            ofPushMatrix();
+            ofTranslate((myControlPanel.getValueI(weekNameStringList[i]+"End_"+csvOwnerList[myControlPanel.getValueI("csvOwner")])+1)*ofGetWidth()/(float)myControlPanel.getValueI("barNum"), 0);
+            ofPushStyle();
+            ofSetLineWidth(1);
+            ofSetColor(0, 0, 255, 127);
+            ofLine(0, 0, 0, ofGetHeight());
+            ofPopStyle();
+            ofPopMatrix();
+            ofPopMatrix();
+            
+            
+            //飛ばされた方
+            ofPushMatrix();
+            ofTranslate(-ofGetWidth()+beginBarPosX, 0);
+            //曜日はじめ
+            ofPushMatrix();
+            ofTranslate(myControlPanel.getValueI(weekNameStringList[i]+"Start_"+csvOwnerList[myControlPanel.getValueI("csvOwner")])*ofGetWidth()/(float)myControlPanel.getValueI("barNum"), 0);
+            ofPushStyle();
+            ofSetLineWidth(1);
+            ofSetColor(255, 0, 0, 127);
+            ofLine(0, 0, 0, ofGetHeight());
+            ofPopStyle();
+            ofPopMatrix();
+            //曜日おわり
+            ofPushMatrix();
+            ofTranslate((myControlPanel.getValueI(weekNameStringList[i]+"End_"+csvOwnerList[myControlPanel.getValueI("csvOwner")])+1)*ofGetWidth()/(float)myControlPanel.getValueI("barNum"), 0);
+            ofPushStyle();
+            ofSetLineWidth(1);
+            ofSetColor(0, 0, 255, 127);
+            ofLine(0, 0, 0, ofGetHeight());
+            ofPopStyle();
+            ofPopMatrix();
+            ofPopMatrix();
+            
+            
+        }
+        
+
+        
         //飛ばした棒グラフ
         ofPushMatrix();
         ofTranslate(beginBarPosX, 0);
@@ -418,6 +488,7 @@ void testApp::draw(){
                 currentDistFromGraphTop -= csv.getFloat(floor(i/24.0f)*genreNum+(genreNum-j-1)+1, i%24+1);
             }
         }
+
         //時間情報の横軸表示
         for (int i=0; i<7; i++) {
             ofPushMatrix();
@@ -486,7 +557,7 @@ void testApp::draw(){
     //色とジャンルの対応を見せる
     for (int i = 0; i<5; i++) {
         ofPushMatrix();
-        ofTranslate(150, 250+15*i);
+        ofTranslate(ofGetWidth()-150, 15*i+ofGetHeight()*0.1);
         ofPushStyle();
         ofSetColor(genreCol[i]);
         ofRect(0, 0, 10, 10);
@@ -498,14 +569,22 @@ void testApp::draw(){
     //ofDrawBitmapString("FPS:"+ofToString(ofGetFrameRate()), 5, 40);
     myFontJapanese.drawString("FPS:"+ofToString(ofGetFrameRate()), 2, 40);
     
-    myFontForTimeLabel.drawString( ofToString(myControlPanel.getValueI("sundayStart"), 3, '0') + " -Sun- " + ofToString(myControlPanel.getValueI("sundayEnd"), 3, '0'), 215, 155);
-    myFontForTimeLabel.drawString( ofToString(myControlPanel.getValueI("mondayStart"), 3, '0') + " -Mon- " + ofToString(myControlPanel.getValueI("mondayEnd"), 3, '0'), 215, 155+43*1);
-    myFontForTimeLabel.drawString( ofToString(myControlPanel.getValueI("tuesdayStart"), 3, '0') + " -Tue- " + ofToString(myControlPanel.getValueI("tuesdayEnd"), 3, '0'), 215, 155+43*2);
-    myFontForTimeLabel.drawString( ofToString(myControlPanel.getValueI("wednesdayStart"), 3, '0') + " -Wed- " + ofToString(myControlPanel.getValueI("wednesdayEnd"), 3, '0'), 215, 155+43*3);
-    myFontForTimeLabel.drawString( ofToString(myControlPanel.getValueI("thursdayStart"), 3, '0') + " -Thu- " + ofToString(myControlPanel.getValueI("thursdayEnd"), 3, '0'), 215, 155+43*4);
-    myFontForTimeLabel.drawString( ofToString(myControlPanel.getValueI("fridayStart"), 3, '0') + " -Fri- " + ofToString(myControlPanel.getValueI("fridayEnd"), 3, '0'), 215, 155+43*5);
-    myFontForTimeLabel.drawString( ofToString(myControlPanel.getValueI("saturdayStart"), 3, '0') + " -Sat- " + ofToString(myControlPanel.getValueI("saturdayEnd"), 3, '0'), 215, 155+43*6);
+    myFontForTimeLabel.drawString( ofToString(myControlPanel.getValueI("sundayStart_"+csvOwnerList[myControlPanel.getValueI("csvOwner")]), 3, '0') + " -Sun- " + ofToString(myControlPanel.getValueI("sundayEnd_"+csvOwnerList[myControlPanel.getValueI("csvOwner")]), 3, '0'), 215, 155);
+    myFontForTimeLabel.drawString( ofToString(myControlPanel.getValueI("mondayStart_"+csvOwnerList[myControlPanel.getValueI("csvOwner")]), 3, '0') + " -Mon- " + ofToString(myControlPanel.getValueI("mondayEnd_"+csvOwnerList[myControlPanel.getValueI("csvOwner")]), 3, '0'), 215, 155+43*1);
+    myFontForTimeLabel.drawString( ofToString(myControlPanel.getValueI("tuesdayStart_"+csvOwnerList[myControlPanel.getValueI("csvOwner")]), 3, '0') + " -Tue- " + ofToString(myControlPanel.getValueI("tuesdayEnd_"+csvOwnerList[myControlPanel.getValueI("csvOwner")]), 3, '0'), 215, 155+43*2);
+    myFontForTimeLabel.drawString( ofToString(myControlPanel.getValueI("wednesdayStart_"+csvOwnerList[myControlPanel.getValueI("csvOwner")]), 3, '0') + " -Wed- " + ofToString(myControlPanel.getValueI("wednesdayEnd_"+csvOwnerList[myControlPanel.getValueI("csvOwner")]), 3, '0'), 215, 155+43*3);
+    myFontForTimeLabel.drawString( ofToString(myControlPanel.getValueI("thursdayStart_"+csvOwnerList[myControlPanel.getValueI("csvOwner")]), 3, '0') + " -Thu- " + ofToString(myControlPanel.getValueI("thursdayEnd_"+csvOwnerList[myControlPanel.getValueI("csvOwner")]), 3, '0'), 215, 155+43*4);
+    myFontForTimeLabel.drawString( ofToString(myControlPanel.getValueI("fridayStart_"+csvOwnerList[myControlPanel.getValueI("csvOwner")]), 3, '0') + " -Fri- " + ofToString(myControlPanel.getValueI("fridayEnd_"+csvOwnerList[myControlPanel.getValueI("csvOwner")]), 3, '0'), 215, 155+43*5);
+    myFontForTimeLabel.drawString( ofToString(myControlPanel.getValueI("saturdayStart_"+csvOwnerList[myControlPanel.getValueI("csvOwner")]), 3, '0') + " -Sat- " + ofToString(myControlPanel.getValueI("saturdayEnd_"+csvOwnerList[myControlPanel.getValueI("csvOwner")]), 3, '0'), 215, 155+43*6);
 
+    //日曜のベスト5の閉める割合を出す。
+    drawWeekRatio("sunday", csvOwnerList[myControlPanel.getValueI("csvOwner")]);
+    drawWeekRatio("monday", csvOwnerList[myControlPanel.getValueI("csvOwner")]);
+    drawWeekRatio("tuesday", csvOwnerList[myControlPanel.getValueI("csvOwner")]);
+    drawWeekRatio("wednesday", csvOwnerList[myControlPanel.getValueI("csvOwner")]);
+    drawWeekRatio("thursday", csvOwnerList[myControlPanel.getValueI("csvOwner")]);
+    drawWeekRatio("friday", csvOwnerList[myControlPanel.getValueI("csvOwner")]);
+    drawWeekRatio("saturday", csvOwnerList[myControlPanel.getValueI("csvOwner")]);
     
     //decoration
     //title
@@ -513,6 +592,74 @@ void testApp::draw(){
     myFont.drawString(str, 2, myFont.stringHeight(str));
 }
 
+
+
+void testApp::drawWeekRatio(string weekName, string csvOwnerName){
+    int total = 0;
+    int bestFive = 0;
+    
+    //右端から左端に続く場合。（つまり、特に土曜の終わりが、日曜の午前をまたぐとき）
+    if (myControlPanel.getValueI(weekName + "Start_" + csvOwnerName) > myControlPanel.getValueI(weekName + "End_" + csvOwnerName)) {
+        //startから右端まで
+        for (int i = myControlPanel.getValueI(weekName + "Start_" + csvOwnerName); i < 7*24; i++) {
+            for (int j = 0; j < genreNum; j++) {
+                total += csvMatrix.getInt(j+1, i+1);
+                if (j<5) {
+                    bestFive += csvMatrix.getInt(j+1, i+1);
+                }
+            }
+        }
+        //左端からendまで
+        for (int i = 0; i < myControlPanel.getValueI(weekName + "End_" + csvOwnerName)+1; i++) {
+            for (int j = 0; j < genreNum; j++) {
+                total += csvMatrix.getInt(j+1, i+1);
+                if (j<5) {
+                    bestFive += csvMatrix.getInt(j+1, i+1);
+                }
+            }
+        }
+    }else{
+        //右端から左端に続かない場合。
+        for (int i = myControlPanel.getValueI(weekName + "Start_" + csvOwnerName); i < myControlPanel.getValueI(weekName + "End_" + csvOwnerName)+1; i++) {
+            for (int j = 0; j < genreNum; j++) {
+                total += csvMatrix.getInt(j+1, i+1);//一行目と一列目はラベルなので、1足す。
+                if (j<5) {
+                    bestFive += csvMatrix.getInt(j+1, i+1);
+                }
+            }
+        }
+    }
+    int posX;
+    if (weekName == "sunday") {
+        posX = 0;
+    }else if(weekName == "monday"){
+        posX = 1;
+    }else if(weekName == "tuesday"){
+        posX = 2;
+    }else if(weekName == "wednesday"){
+        posX = 3;
+    }else if(weekName == "thursday"){
+        posX = 4;
+    }else if(weekName == "friday"){
+        posX = 5;
+    }else if(weekName == "saturday"){
+        posX = 6;
+    }else{
+        printf("something wrong!!");
+    }
+    //飛ばした方
+    ofPushMatrix();
+    ofTranslate(beginBarPosX+ofGetWidth()/7.0f*posX, ofGetHeight()*0.96);
+    string str = "total:"+ofToString(total)+" top5:"+ ofToString(bestFive);
+    myFontForTimeLabel.drawString(str, ofGetWidth()/7.0f/2.0f-myFontForTimeLabel.stringWidth(str)/2, myFontForTimeLabel.stringHeight(str));
+    ofPopMatrix();
+    //飛ばされた方
+    ofPushMatrix();
+    ofTranslate(beginBarPosX+ofGetWidth()/7.0f*posX-ofGetWidth(), ofGetHeight()*0.96);
+    myFontForTimeLabel.drawString(str, ofGetWidth()/7.0f/2.0f-myFontForTimeLabel.stringWidth(str)/2, myFontForTimeLabel.stringHeight(str));
+    ofPopMatrix();
+    ofPopMatrix();
+}
 
 
 void testApp::barplot(int modeNum){
@@ -558,14 +705,14 @@ void testApp::keyPressed(int key){
         switch (key) {
             case OF_KEY_LEFT:
                 printf("left\n");
-                beginBarPosX -= ofGetWidth()/(float)myControlPanel.getValueI("barNum")/10.0f;
+                beginBarPosX -= ofGetWidth()/(float)myControlPanel.getValueI("barNum");
                 if (beginBarPosX < 0) {
                     beginBarPosX = ofGetWidth();
                 }
                 break;
             case OF_KEY_RIGHT:
                 printf("right\n");
-                beginBarPosX +=ofGetWidth()/(float)myControlPanel.getValueI("barNum")/10.0f;
+                beginBarPosX +=ofGetWidth()/(float)myControlPanel.getValueI("barNum");
                 if (beginBarPosX > ofGetWidth()) {
                     beginBarPosX = 0;
                 }
@@ -703,11 +850,14 @@ void testApp::mouseReleased(int x, int y, int button){
     myControlPanel.mouseReleased();
     //csv更新
     ofxCsv reloadCsv;
+    ofxCsv reloadCsvMatrix;
     ofxCsv reloadGenreNameList;
     printf("読み込むべき人 %d %s\n", myControlPanel.getValueI("csvOwner"), dirCSV.getName(myControlPanel.getValueI("csvOwner")).c_str());
     reloadCsv.loadFile(ofToDataPath(ofToString("csv/")+dirCSV.getName(myControlPanel.getValueI("csvOwner")).c_str()+ofToString("/graphData.csv")));
+    reloadCsvMatrix.loadFile(ofToDataPath(ofToString("csv/")+dirCSV.getName(myControlPanel.getValueI("csvOwner")).c_str()+ofToString("/graphDataMatrix.csv")));
     reloadGenreNameList.loadFile(ofToDataPath(ofToString("csv/")+dirCSV.getName(myControlPanel.getValueI("csvOwner")).c_str()+ofToString("/genreNameList.csv")));
     csv = reloadCsv;
+    csvMatrix = reloadCsvMatrix;
     genreNameList = reloadGenreNameList;
     genreNum = genreNameList.numRows-1;//ラベルを省くので-1しておく。
     //topPosとgraphTop更新
