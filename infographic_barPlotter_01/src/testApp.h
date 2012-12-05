@@ -39,6 +39,7 @@ class testApp : public ofBaseApp{
     ofxCsv csv;
     ofxCsv genreNameList;
     ofxCsv checkedImlGenreTable;
+    ofxCsv timeStamp;
     
     string myText;
     int genreNum;
@@ -84,4 +85,7 @@ class testApp : public ofBaseApp{
     int checkedTopFive;//トップファイブの合計値。
     int checkedTopFiveDetail[5];//トップファイブそれぞれの合計値。
     int checkedTotal;
+    
+    //画面キャプチャ
+    ofImage screenImg;
 };

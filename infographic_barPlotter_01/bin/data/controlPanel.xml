@@ -38,7 +38,7 @@
     <val_0>0.000000000</val_0>
 </toga>
 <csvOwner>
-    <val_0>12.000000000</val_0>
+    <val_0>14.000000000</val_0>
 </csvOwner>
 <graphType>
     <val_0>1.000000000</val_0>
@@ -640,3 +640,87 @@
 <topFiveRatio>
     <val_0>1.000000000</val_0>
 </topFiveRatio>
+<sundayStart_iwanaga>
+    <val_0>0.000000000</val_0>
+</sundayStart_iwanaga>
+<mondayStart_iwanaga>
+    <val_0>24.000000000</val_0>
+</mondayStart_iwanaga>
+<tuesdayStart_iwanaga>
+    <val_0>48.000000000</val_0>
+</tuesdayStart_iwanaga>
+<wednesdayStart_iwanaga>
+    <val_0>72.000000000</val_0>
+</wednesdayStart_iwanaga>
+<thursdayStart_iwanaga>
+    <val_0>96.000000000</val_0>
+</thursdayStart_iwanaga>
+<fridayStart_iwanaga>
+    <val_0>120.000000000</val_0>
+</fridayStart_iwanaga>
+<saturdayStart_iwanaga>
+    <val_0>144.000000000</val_0>
+</saturdayStart_iwanaga>
+<sundayEnd_iwanaga>
+    <val_0>23.000000000</val_0>
+</sundayEnd_iwanaga>
+<mondayEnd_iwanaga>
+    <val_0>47.000000000</val_0>
+</mondayEnd_iwanaga>
+<tuesdayEnd_iwanaga>
+    <val_0>71.000000000</val_0>
+</tuesdayEnd_iwanaga>
+<wednesdayEnd_iwanaga>
+    <val_0>95.000000000</val_0>
+</wednesdayEnd_iwanaga>
+<thursdayEnd_iwanaga>
+    <val_0>119.000000000</val_0>
+</thursdayEnd_iwanaga>
+<fridayEnd_iwanaga>
+    <val_0>143.000000000</val_0>
+</fridayEnd_iwanaga>
+<saturdayEnd_iwanaga>
+    <val_0>167.000000000</val_0>
+</saturdayEnd_iwanaga>
+<sundayStart_takakuwa>
+    <val_0>0.000000000</val_0>
+</sundayStart_takakuwa>
+<mondayStart_takakuwa>
+    <val_0>24.000000000</val_0>
+</mondayStart_takakuwa>
+<tuesdayStart_takakuwa>
+    <val_0>48.000000000</val_0>
+</tuesdayStart_takakuwa>
+<wednesdayStart_takakuwa>
+    <val_0>72.000000000</val_0>
+</wednesdayStart_takakuwa>
+<thursdayStart_takakuwa>
+    <val_0>96.000000000</val_0>
+</thursdayStart_takakuwa>
+<fridayStart_takakuwa>
+    <val_0>120.000000000</val_0>
+</fridayStart_takakuwa>
+<saturdayStart_takakuwa>
+    <val_0>144.000000000</val_0>
+</saturdayStart_takakuwa>
+<sundayEnd_takakuwa>
+    <val_0>23.000000000</val_0>
+</sundayEnd_takakuwa>
+<mondayEnd_takakuwa>
+    <val_0>47.000000000</val_0>
+</mondayEnd_takakuwa>
+<tuesdayEnd_takakuwa>
+    <val_0>71.000000000</val_0>
+</tuesdayEnd_takakuwa>
+<wednesdayEnd_takakuwa>
+    <val_0>95.000000000</val_0>
+</wednesdayEnd_takakuwa>
+<thursdayEnd_takakuwa>
+    <val_0>119.000000000</val_0>
+</thursdayEnd_takakuwa>
+<fridayEnd_takakuwa>
+    <val_0>143.000000000</val_0>
+</fridayEnd_takakuwa>
+<saturdayEnd_takakuwa>
+    <val_0>167.000000000</val_0>
+</saturdayEnd_takakuwa>

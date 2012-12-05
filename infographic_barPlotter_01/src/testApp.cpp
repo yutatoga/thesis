@@ -52,6 +52,7 @@ void testApp::setup(){
     myControlPanel.addToggle("topFiveRatio", "topFiveRatio", true);
     myControlPanel.setWhichColumn(5);
     myControlPanel.addLabel("press 'f' --- full screen");
+    myControlPanel.addLabel("press 'c' --- capture screen");
     myControlPanel.addLabel("press <, >, --- move graph");
     
     
@@ -81,10 +82,14 @@ void testApp::setup(){
     //セーブデータから再構築
     myControlPanel.loadSettings("controlPanel.xml");
     printf("読み込むべき人 %d %s\n", myControlPanel.getValueI("csvOwner"), dir.getName(myControlPanel.getValueI("csvOwner")).c_str());
+    
+    //csv
     csv.loadFile(ofToDataPath(ofToString("csv/")+dirCSV.getName(myControlPanel.getValueI("csvOwner")).c_str()+ofToString("/graphData.csv")));
     csvMatrix.loadFile(ofToDataPath(ofToString("csv/")+dirCSV.getName(myControlPanel.getValueI("csvOwner")).c_str()+ofToString("/graphDataMatrix.csv")));    
     genreNameList.loadFile(ofToDataPath(ofToString("csv/")+dirCSV.getName(myControlPanel.getValueI("csvOwner")).c_str()+ofToString("/genreNameList.csv")));
     checkedImlGenreTable.loadFile(ofToDataPath(ofToString("csv/")+dirCSV.getName(myControlPanel.getValueI("csvOwner")).c_str()+ofToString("/checkedImlGenreTable.csv")));
+    timeStamp.loadFile(ofToDataPath(ofToString("csv/")+dirCSV.getName(myControlPanel.getValueI("csvOwner")).c_str()+ofToString("/timeStamp_oldest_newest.csv")));
+    
     genreNum = genreNameList.numRows-1;//ラベルを省くので-1しておく。
     
     //配列の配列？
@@ -208,6 +213,7 @@ void testApp::draw(){
             
             //起動後のアニメーション
             if (afterBootFrameCounter>0) {
+                myPlayer.loadSound("Pop.aiff");
                 myPlayer.play();
                 ofPushMatrix();
                 ofPushStyle();
@@ -634,6 +640,11 @@ void testApp::draw(){
     drawWeekRatio("friday", csvOwnerList[myControlPanel.getValueI("csvOwner")]);
     drawWeekRatio("saturday", csvOwnerList[myControlPanel.getValueI("csvOwner")]);
     
+    //最も古い情報と、新しい情報を出す。
+    string timeStampStr;
+    timeStampStr = "oldest:" + timeStamp.getString(1, 1) + "\n" + "newest:" + timeStamp.getString(2, 1);
+    myFontForTimeLabel.drawString(timeStampStr, ofGetWidth()-myFontForTimeLabel.stringWidth(timeStampStr), myFontForTimeLabel.stringHeight(timeStampStr)/2.0f);
+    
     //decoration
     //title
     string str = "Graph Plotter by Yuta Toga";
@@ -645,6 +656,10 @@ void testApp::draw(){
 void testApp::drawWeekRatio(string weekName, string csvOwnerName){
     int total = 0;
     int topFive = 0;
+    int topFiveDetail[5];
+    for (int i = 0; i<5; i++) {
+        topFiveDetail[i] = 0;
+    }
     
     //右端から左端に続く場合。（つまり、特に土曜の終わりが、日曜の午前をまたぐとき）
     if (myControlPanel.getValueI(weekName + "Start_" + csvOwnerName) > myControlPanel.getValueI(weekName + "End_" + csvOwnerName)) {
@@ -654,6 +669,7 @@ void testApp::drawWeekRatio(string weekName, string csvOwnerName){
                 total += csvMatrix.getInt(j+1, i+1);
                 if (j<5) {
                     topFive += csvMatrix.getInt(j+1, i+1);
+                    topFiveDetail[j] += csvMatrix.getInt(j+1, i+1);
                 }
             }
         }
@@ -663,6 +679,7 @@ void testApp::drawWeekRatio(string weekName, string csvOwnerName){
                 total += csvMatrix.getInt(j+1, i+1);
                 if (j<5) {
                     topFive += csvMatrix.getInt(j+1, i+1);
+                    topFiveDetail[j] += csvMatrix.getInt(j+1, i+1);
                 }
             }
         }
@@ -673,6 +690,7 @@ void testApp::drawWeekRatio(string weekName, string csvOwnerName){
                 total += csvMatrix.getInt(j+1, i+1);//一行目と一列目はラベルなので、1足す。
                 if (j<5) {
                     topFive += csvMatrix.getInt(j+1, i+1);
+                    topFiveDetail[j] += csvMatrix.getInt(j+1, i+1);
                 }
             }
         }
@@ -705,7 +723,19 @@ void testApp::drawWeekRatio(string weekName, string csvOwnerName){
         ofPushStyle();
         ofSetColor(127, 127, 127, 127);
         ofCircle(0, 0, 20);
-        ofSetColor(255, 0, 0, 127);
+        //トップファイブのジャンルの比率を出す。
+        ofPushMatrix();
+        ofPushStyle();
+        for (int i = 0; i<5; i++) {
+            if (i > 0) {
+                ofRotateZ(360*topFiveDetail[i-1]/(float)total);
+            }
+            ofSetColor(genreCol[i].r, genreCol[i].g, genreCol[i].b, 127);
+            myVectorGraphics.arc(0, 0, 20, 0, 360*topFiveDetail[i]/(float)total);
+        }
+        ofPopStyle();
+        ofPopMatrix();
+        ofSetColor(127, 127, 127, 127);
         myVectorGraphics.arc(0, 0, 20, 0, 360*topFive/(float)total);
         ofPopStyle();
         ofPopMatrix();
@@ -718,7 +748,19 @@ void testApp::drawWeekRatio(string weekName, string csvOwnerName){
         ofPushStyle();
         ofSetColor(127, 127, 127, 127);
         ofCircle(0, 0, 20);
-        ofSetColor(255, 0, 0, 127);
+        //トップファイブのジャンルの比率を出す。
+        ofPushMatrix();
+        ofPushStyle();
+        for (int i = 0; i<5; i++) {
+            if (i > 0) {
+                ofRotateZ(360*topFiveDetail[i-1]/(float)total);
+            }
+            ofSetColor(genreCol[i].r, genreCol[i].g, genreCol[i].b, 127);
+            myVectorGraphics.arc(0, 0, 20, 0, 360*topFiveDetail[i]/(float)total);
+        }
+        ofPopStyle();
+        ofPopMatrix();
+        ofSetColor(127, 127, 127, 127);
         myVectorGraphics.arc(0, 0, 20, 0, 360*topFive/(float)total);
         ofPopStyle();
         ofPopMatrix();
@@ -767,6 +809,7 @@ void testApp::barplot(int modeNum){
 //--------------------------------------------------------------
 void testApp::keyPressed(int key){
     if (myControlPanel.getValueI("graphType") == 0) {
+        //累積円グラフ
         switch (key) {
             case OF_KEY_LEFT:
                 printf("left\n");
@@ -785,6 +828,7 @@ void testApp::keyPressed(int key){
                 break;
         }
     }else if (myControlPanel.getValueI("graphType") == 1){
+        //累積棒グラフ
         switch (key) {
             case OF_KEY_LEFT:
                 printf("left\n");
@@ -808,7 +852,14 @@ void testApp::keyPressed(int key){
                 break;
         }
     }
-    
+    if (key == 'c') {
+        //画面キャプチャー
+        printf("c\n");
+        myPlayer.loadSound("camera.wav");
+        myPlayer.play();
+        screenImg.grabScreen(0, 0, ofGetWidth(), ofGetHeight());
+        screenImg.saveImage("screen_" + csvOwnerList[myControlPanel.getValueI("csvOwner")] +"_" + ofGetTimestampString() + ".png");
+    }
 }
 
 //--------------------------------------------------------------
@@ -936,15 +987,22 @@ void testApp::mouseReleased(int x, int y, int button){
     ofxCsv reloadCsvMatrix;
     ofxCsv reloadGenreNameList;
     ofxCsv reloadCheckedImlGenreTable;
+    ofxCsv reloadTimeStamp;
+    
     printf("読み込むべき人 %d %s\n", myControlPanel.getValueI("csvOwner"), dirCSV.getName(myControlPanel.getValueI("csvOwner")).c_str());
     reloadCsv.loadFile(ofToDataPath(ofToString("csv/")+dirCSV.getName(myControlPanel.getValueI("csvOwner")).c_str()+ofToString("/graphData.csv")));
     reloadCsvMatrix.loadFile(ofToDataPath(ofToString("csv/")+dirCSV.getName(myControlPanel.getValueI("csvOwner")).c_str()+ofToString("/graphDataMatrix.csv")));
     reloadGenreNameList.loadFile(ofToDataPath(ofToString("csv/")+dirCSV.getName(myControlPanel.getValueI("csvOwner")).c_str()+ofToString("/genreNameList.csv")));
     reloadCheckedImlGenreTable.loadFile(ofToDataPath(ofToString("csv/")+dirCSV.getName(myControlPanel.getValueI("csvOwner")).c_str()+ofToString("/checkedImlGenreTable.csv")));
+    reloadTimeStamp.loadFile(ofToDataPath(ofToString("csv/")+dirCSV.getName(myControlPanel.getValueI("csvOwner")).c_str()+ofToString("/timeStamp_oldest_newest.csv")));
+    
+    //refresh
     csv = reloadCsv;
     csvMatrix = reloadCsvMatrix;
     genreNameList = reloadGenreNameList;
     checkedImlGenreTable = reloadCheckedImlGenreTable;
+    timeStamp = reloadTimeStamp;
+    
     checkedTotal = 0;
     checkedTopFive = 0;
     for (int i = 0; i<checkedImlGenreTable.numRows-1; i++) {
