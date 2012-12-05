@@ -79,6 +79,8 @@ countSuccess_playCount = 0
 countFail_playCount = 0
 countSuccess_trackName = 0
 countFail_trackName = 0
+countSuccess_disabled = 0
+countFail_disabled = 0
 for i in tracks_keys:
 		#Total Time
 		try:
@@ -125,8 +127,18 @@ for i in tracks_keys:
 		except:
 			instantTrackName = "untitled"
 			countFail_trackName += 1
+		try:
+			instantDisabled = tracks[i]["Disabled"]
+			instantDisabled = str(instantDisabled)
+			#Trueとなってしまうので、Tを小文字のtにしておく。
+			instantDisabled =  instantDisabled.replace("T", 't') 
+			countSuccess_disabled  += 1
+		except:		
+			instantDisabled = "false"
+			countFail_disabled  += 1
+			
 		#区切り文字をコロンにして行列にしていく。
-		iml = iml + str(instantTextDate) + ',' + str(instantTextGenre) + ',' + str(instantTextTime) + ',' + str(instantTextPlayCount) + ',' + str(instantTrackName)+ '\n'
+		iml = iml + str(instantTextDate) + ',' + str(instantTextGenre) + ',' + str(instantTextTime) + ',' + str(instantTextPlayCount) + ',' + str(instantDisabled) + ',' + str(instantTrackName) + '\n'
 print "\nsuccess-totalTime:%d"% (countSuccess_totalTime)
 print "fail-totalTime:%d"%countFail_totalTime
 print "total-totalTIme:%d"%(countSuccess_totalTime+countFail_totalTime)
@@ -136,16 +148,22 @@ print "fail-playDate%d"%countFail_playDateUTC
 print "total-playDate:%d"%(countSuccess_playDateUTC+countFail_playDateUTC)
 
 print "\nsuccess-genre:%d"% (countSuccess_genre)
-print "fail-genre%d"%countFail_genre
+print "fail-genre:%d"%countFail_genre
 print "total-genre%d"%(countSuccess_genre+countFail_genre)
 
 print "\nsuccess-playCount:%d"%countSuccess_playCount
 print "fail-playCount:%d"%countFail_playCount
 print "total-playCount:%d"%(countSuccess_playCount+countFail_playCount)
 
-print "\nsuccess-playName%d"%countSuccess_trackName
+print "\nsuccess-disabled:%d"%countSuccess_disabled
+print "fail-disabled:%d"%countFail_disabled
+print "total-disabled:%d"%(countSuccess_disabled+countFail_disabled)
+
+print "\nsuccess-playName:%d"%countSuccess_trackName
 print "fail-name:%d"%countFail_trackName
 print "total-name:%d"%(countSuccess_trackName+countFail_trackName)
+
+
 
 print "\ntotal:%d"%(len(tracks_keys))
 #print "iml\n:%s"%iml

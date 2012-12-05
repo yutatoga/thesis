@@ -5,7 +5,7 @@ iml = read.table('iml.txt', header = F, sep = ",", quote = "")
 #convert string to POSIXlt
 time = strptime(iml[,1],"%Y-%m-%d %H:%M:%S")
 #make data frame which consists of POXIlt and string about genre
-iml = data.frame(time, iml[,2], iml[,3], iml[,4], iml[,5])
+iml = data.frame(time, iml[,2], iml[,3], iml[,4], iml[,5], iml[6])
 #convert UTC to JST
 iml[,1] = iml[,1]+9*60*60
 #total time
@@ -13,7 +13,8 @@ names(iml)[1] = "playDate"
 names(iml)[2] = "genre"
 names(iml)[3] = "totalTime"
 names(iml)[4] = "playCount"
-names(iml)[5] = "trackName"
+names(iml)[5] = "disabled"
+names(iml)[6] = "trackName"
 
 #ヒストグラム-経時
 png(file = "~/dropbox/thesis/out_png/all.png")
@@ -131,8 +132,7 @@ playedImlSortedByPlayCount =  playedIml[sort.list(playedIml$playCount),] #これ
  for(i in 1:length(table(playedIml[,2][, drop = TRUE]))){
  	targetGenreName = names(sort(table(playedIml[,2]), decreasing = T))[i]
  	targetGenre = playedIml[,1][playedIml[,2] == targetGenreName]
-         print(targetGenreName)
-
+ 	
 #         #FIXME:なぜか日本語で書き出されない
     	#png(file=paste("~/dropbox/thesis/out_png/","genre_",i,".png", sep=""), bg="white", type="quartz")
  		#hist(as.POSIXlt(targetGenre)$hour+as.POSIXlt(targetGenre)$min/60+as.POSIXlt(targetGenre)$sec/60/60, main=targetGenreName, breaks=seq(0,24,1), col = hsv(1*i/length(table(iml[,2])), 1, 1, alpha = 0.5), xlab = "Time", ylab = "Frequency", xlim = c(0,23), ylim = c(0, histMax))
@@ -211,6 +211,11 @@ write.csv(graphDataMatrix, "graphDataMatrix.csv");
 #ジャンル
 genreNameList = names(sort(table(playedIml[,2][, drop = TRUE]), decreasing = T))
 write.csv(genreNameList, "genreNameList.csv")
+
+#disableが入っていない（チェックが入っている）楽曲をジャンルごとにカウントして、csvに書き出す。
+checkedIml = iml[iml[,5]=="false",]
+write.csv(sort(table(checkedIml[,2]), decreasing = T), "checkedImlGenreTable.csv")
+
 
 #最後まで完了
 cat("done!\n")

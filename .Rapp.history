@@ -1,56 +1,3 @@
-source("imlAnalyzer.R")
-genre
-genrename
-genreName
-iml$genre
-table(iml$genre)
-names(sort(table(iml[,2]), decreasing = T))
-GenreNameList = names(sort(table(iml[,2]), decreasing = T))
-GenreNameList[1]
-GenreNameList[1]+"fooo"
-paste(GenreNameList[1], "foo")
-histData
-graphData
-source("imlAnalyzer.R")
-help(csv)
-help(write.csv)
-write.csv(genreNameList, "genreNameList.csv", append = false)
-write.csv(genreNameList, "genreNameList.csv", append = FALSE)
-help(write.csv)
-write.csv(genreNameList, "genreNameList.csv", append = FALSE)
-write.csv(genreNameList,append = FALSE, "genreNameList.csv")
-help(write.csv)
-write.csv(genreNameList, "genreNameList.csv")
-write.csv(genreNameList, "genreNameList.csv", row.names = FALSE)
-write.csv(genreNameList, "genreNameList.csv", row.names = FALSE, col.names)
-write.csv(genreNameList, "genreNameList.csv", row.names = FALSE, col.names = false)
-write.csv(genreNameList, "genreNameList.csv", row.names = FALSE, column.names = false)
-help(write.csv)
-write.csv(genreNameList, "genreNameList.csv", row.names = FALSE, col.names = false)
-write.csv(genreNameList, "genreNameList.csv", row.names = FALSE, col.names = FALSE)
-write.csv(genreNameList, "genreNameList.csv",  col.names = FALSE)
-write.csv(genreNameList, "genreNameList.csv",  row.names = FALSE)
-write.csv(genreNameList, "genreNameList.csv",  col.names = FALSE)
-write.csv(genreNameList, "genreNameList.csv",  col.names = NA)
-write.csv(genreNameList, "genreNameList.csv",  row.names = FALSE)
-names(genreNameList)
-names(genreNameList.row)
-write.csv(genreNameList, "genreNameList.csv",  col.names = FALSE)
-write.csv(genreNameList, "genreNameList.csv",  row.names = FALSE)
-genreNameList
-write.csv(genreNameList, "genreNameList.csv",  names = FALSE)
-write.csv(genreNameList, "genreNameList.csv",  row.names = FALSE)
-write.csv(genreNameList, "genreNameList.csv",  col.names = NA.)
-write.csv(genreNameList, "genreNameList.csv",  col.names = NA)
-write.csv(genreNameList, "genreNameList.csv",  col.names = TRUE)
-write.csv(genreNameList, "genreNameList.csv",  col.names = TRUE, )
-help(write.csv)
-write.csv(genreNameList, "genreNameList.csv",  append = TRUE,)
-write.csv(genreNameList, "genreNameList.csv",  append = TRUE)
-help(write.csv)
-write.table(genreNameList, file = "genreNameList.csv", sep = ",", col.names = NA)
-write.table(genreNameList, file = "genreNameList.csv", sep = ",", col.names = False)
-write.table(genreNameList, file = "genreNameList.csv", sep = ",", col.names = "foo")
 write.table(genreNameList, file = "genreNameList.csv", sep = ",", col.names = NA)
 write.csv(genreNameList)
 genreNameList
@@ -233,9 +180,7 @@ length(table(playedIml[,2][,drop = TRUE]))
 length(table(playedIml[,2][, drop = TRUE]))
 source("imlAnalyzer.R")
 source("imlanalyzer.r")
-source("imlanalyzer.r")
 playedIml
-playedIml[,]
 playedIml[,]
 playedIml[]
 playedIml[c(true, true, false)]
@@ -243,12 +188,9 @@ playedIml[c(true, true, false),]
 iml[,4]!=0
 playedIml[c(TRUE, TRUE, FALSE),]
 playedIml[c(TRUE, TRUE, FALSE)]
-playedIml[c(TRUE, TRUE, FALSE)]
-playedIml[c(TRUE, TRUE, FALSE),]
 playedIml[c(TRUE, TRUE, FALSE),]
 playedIml[c(TRUE, FALSE),]
 playedIml[]
-iml
 iml
 source("imlanalyzer.r")
 foo
@@ -258,11 +200,6 @@ foobar = c(2,3,5)
 foobar
 foobar=c()
 foobar
-source("imlanalyzer.r")
-source("imlanalyzer.r")
-source("imlanalyzer.r")
-source("imlanalyzer.r")
-source("imlanalyzer.r")
 source("imlanalyzer.r")
 iml[2036,][1]-round(iml[2036,][3]/1000)
 dim(iml)
@@ -283,7 +220,13 @@ iml[1:2036,]
 iml
 iml[1:2036,][1]-round(iml[1:2036,][3]/1000)
 selectedItems
-selectedItems
+source("imlanalyzer.r")
+foo = c{1,2,3}
+foo = c(1,2,3)
+foo[1]
+foo[3]
+foo[4]
+foo[2]
 source("imlanalyzer.r")
 source("imlanalyzer.r")
 source("imlanalyzer.r")
@@ -293,14 +236,71 @@ source("imlanalyzer.r")
 source("imlanalyzer.r")
 source("imlanalyzer.r")
 source("imlanalyzer.r")
+iml
+iml[iml[,4]==false]
+iml[iml[,4]=="false"]
+iml[,4]
+iml[,3]
+iml[,1]
+iml[,5]
+iml[,5]==false
+iml[,5]=="false"
+iml[,5]==false
+iml[,5]=="false"
+iml[iml[,5]=="false"]
+iml[iml[,5]=="false"]
+iml[iml[,5]=="false",]
+iml[iml[,5]=="false",]
+iml
+iml[iml[,5]=="false",]
+iml[iml[,5]=="true",]
+checkedIml = iml[iml[,5]=="false",]
+checkedIMl
+checkediml
+checkedIml
+checkedIml[,3]
+checkedIml[,4]
+iml[1,]
+checkedIml[,2]
+checkedIml[,2][drop = true]
+checkedIml[,2][, drop = TRUE]
+checkedIml[,2][, drop = TRUE]
+checkedIml[,2]
+hist(checkedIml[,2])
+table(checkedIml[,2])
+table(checkedIml[,2][, drop = TRUE])
+checkedIml[,2][, drop = TRUE]
+checkedIml[,2]
+table(checkedIml[,2][, drop = TRUE])
+table(checkedIml[,2])
+names(sort(table(playedIml[,2][, drop = TRUE]), decreasing = T))
+names(sort(table(playedIml[,2], decreasing = T))
+)
+names(sort(table(playedIml[,2]), decreasing = T))
+names(sort(table(playedIml[,2], decreasing = T))
+)
+table(checkedIml[,2])
+table(sort(checkedIml[,2], decreasing = T)
+)
+table(sort(checkedIml[,2], decreasing = T))
+sort(table(checkedIml[,2], decreasing = T))
+sort(table(checkedIml[,2]), decreasing = T)
+write.csv(sort(table(checkedIml[,2]), decreasing = T), "checkedImlGenreTable.csv")
 source("imlanalyzer.r")
 source("imlanalyzer.r")
-source("imlanalyzer.r")
-source("imlanalyzer.r")
-source("imlanalyzer.r")
-source("imlanalyzer.r")
-source("imlanalyzer.r")
-source("imlanalyzer.r")
-source("imlanalyzer.r")
-source("imlanalyzer.r")
-source("imlanalyzer.r")
+source("checkedImlAnalyzer.r")
+source("checkedImlAnalyzer.r")
+source("checkedImlAnalyzer.r")
+source("checkedImlAnalyzer.r")
+source("checkedImlAnalyzer.r")
+source("checkedImlAnalyzer.r")
+source("checkedImlAnalyzer.r")
+source("checkedImlAnalyzer.r")
+source("checkedImlAnalyzer.r")
+source("checkedImlAnalyzer.r")
+source("checkedImlAnalyzer.r")
+source("checkedImlAnalyzer.r")
+source("checkedImlAnalyzer.r")
+source("checkedImlAnalyzer.r")
+source("checkedImlAnalyzer.r")
+source("checkedImlAnalyzer.r")
