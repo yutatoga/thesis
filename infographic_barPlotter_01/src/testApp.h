@@ -38,6 +38,7 @@ class testApp : public ofBaseApp{
     ofxVectorGraphics myVectorGraphics;
     ofxCsv csv;
     ofxCsv genreNameList;
+    ofxCsv checkedImlGenreTable;
     
     string myText;
     int genreNum;
@@ -79,4 +80,8 @@ class testApp : public ofBaseApp{
     ofxCsv csvMatrix;
     //曜日の文字列を入れておく配列
     string weekNameStringList[7];
+    //checkedIml
+    int checkedTopFive;//トップファイブの合計値。
+    int checkedTopFiveDetail[5];//トップファイブそれぞれの合計値。
+    int checkedTotal;
 };

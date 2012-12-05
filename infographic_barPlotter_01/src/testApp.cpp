@@ -48,12 +48,11 @@ void testApp::setup(){
     graphType.push_back("circle");
     graphType.push_back("bar");
     myControlPanel.addMultiToggle("graphType", "graphType", 0, graphType);
-    myControlPanel.addToggle("ratioMap", "ratioMap", 0);
+    myControlPanel.addToggle("ratioMap", "ratioMap", false);
+    myControlPanel.addToggle("topFiveRatio", "topFiveRatio", true);
     myControlPanel.setWhichColumn(5);
     myControlPanel.addLabel("press 'f' --- full screen");
     myControlPanel.addLabel("press <, >, --- move graph");
-    
-    
     
     
     //人数分の曜日の時間セッティング
@@ -85,6 +84,7 @@ void testApp::setup(){
     csv.loadFile(ofToDataPath(ofToString("csv/")+dirCSV.getName(myControlPanel.getValueI("csvOwner")).c_str()+ofToString("/graphData.csv")));
     csvMatrix.loadFile(ofToDataPath(ofToString("csv/")+dirCSV.getName(myControlPanel.getValueI("csvOwner")).c_str()+ofToString("/graphDataMatrix.csv")));    
     genreNameList.loadFile(ofToDataPath(ofToString("csv/")+dirCSV.getName(myControlPanel.getValueI("csvOwner")).c_str()+ofToString("/genreNameList.csv")));
+    checkedImlGenreTable.loadFile(ofToDataPath(ofToString("csv/")+dirCSV.getName(myControlPanel.getValueI("csvOwner")).c_str()+ofToString("/checkedImlGenreTable.csv")));
     genreNum = genreNameList.numRows-1;//ラベルを省くので-1しておく。
     
     //配列の配列？
@@ -126,6 +126,17 @@ void testApp::setup(){
     weekNameStringList[4] = "thursday";
     weekNameStringList[5] = "friday";
     weekNameStringList[6] = "saturday";
+    
+    checkedTopFive = 0;
+    checkedTotal = 0;
+    for (int i = 0; i<checkedImlGenreTable.numRows-1; i++) {
+        checkedTotal += checkedImlGenreTable.getInt(i+1, 1);
+        if (i < 5) {
+            checkedTopFive += checkedImlGenreTable.getInt(i+1, 1);
+            checkedTopFiveDetail[i] = checkedImlGenreTable.getInt(i+1, 1);
+        }
+    }
+    
     printf("setupDone!\n");
 }
 
@@ -161,6 +172,7 @@ void testApp::draw(){
                 ofPopStyle();
             }
             ofPopMatrix();
+            
             //一番高いところを描画
             ofPushMatrix();
             ofTranslate(ofGetWidth()/2.0f, ofGetHeight()/2.0f);
@@ -384,6 +396,7 @@ void testApp::draw(){
         }
         
 
+
         
         //飛ばした棒グラフ
         ofPushMatrix();
@@ -405,8 +418,8 @@ void testApp::draw(){
                 }
                 ofSetColor(col);
                 ofRect(0, 0, ofGetWidth()/(float)myControlPanel.getValueI("barNum"), -BAR_HEIGHT_CHANGER*currentDistFromGraphTop);//最初の行がラベルなので１足す
+                //音楽ジャンルの分布を描画
                 if (myControlPanel.getValueB("ratioMap")) {
-                    //音楽ジャンルの分布を描画
                     ofRect(0, 20, ofGetWidth()/(float)myControlPanel.getValueI("barNum"), 20*currentDistFromGraphTop/(float)graphTop[i]);                    
                 }
                 ofPopStyle();
@@ -554,18 +567,7 @@ void testApp::draw(){
     //control panel
     myControlPanel.draw();
 
-    //色とジャンルの対応を見せる
-    for (int i = 0; i<5; i++) {
-        ofPushMatrix();
-        ofTranslate(ofGetWidth()-150, 15*i+ofGetHeight()*0.1);
-        ofPushStyle();
-        ofSetColor(genreCol[i]);
-        ofRect(0, 0, 10, 10);
-        //ofDrawBitmapString(genreNameList.getString(1+i, 1).c_str(), 15, 10);
-        myFontJapanese.drawString(genreNameList.getString(1+i, 1), 15, 10);
-        ofPopStyle();
-        ofPopMatrix();
-    }
+
     //ofDrawBitmapString("FPS:"+ofToString(ofGetFrameRate()), 5, 40);
     myFontJapanese.drawString("FPS:"+ofToString(ofGetFrameRate()), 2, 40);
     
@@ -577,7 +579,53 @@ void testApp::draw(){
     myFontForTimeLabel.drawString( ofToString(myControlPanel.getValueI("fridayStart_"+csvOwnerList[myControlPanel.getValueI("csvOwner")]), 3, '0') + " -Fri- " + ofToString(myControlPanel.getValueI("fridayEnd_"+csvOwnerList[myControlPanel.getValueI("csvOwner")]), 3, '0'), 215, 155+43*5);
     myFontForTimeLabel.drawString( ofToString(myControlPanel.getValueI("saturdayStart_"+csvOwnerList[myControlPanel.getValueI("csvOwner")]), 3, '0') + " -Sat- " + ofToString(myControlPanel.getValueI("saturdayEnd_"+csvOwnerList[myControlPanel.getValueI("csvOwner")]), 3, '0'), 215, 155+43*6);
 
-    //日曜のベスト5の閉める割合を出す。
+    
+    //音楽ライブラリ全体のチェックされている楽曲のジャンルの比率を円グラフで出す。
+    ofPushMatrix();
+    ofTranslate(ofGetWidth()-ofGetWidth()*0.15, ofGetHeight()*0.1);
+    ofPushStyle();
+    ofSetColor(127, 127, 127, 127);
+    int checkedGraphRadius;
+    checkedGraphRadius = ofGetWidth()*0.03;
+    ofCircle(0, 0, ofGetWidth()*0.03);
+    ofSetColor(127, 127, 127, 127);
+    ofRotateZ(-90);
+    ofPushMatrix();
+    for (int i = 0; i< 5; i++) {
+        ofSetColor(genreCol[i].r, genreCol[i].g, genreCol[i].b, 127);
+        if (i>0) {
+            ofRotateZ(360*checkedTopFiveDetail[i-1]/(float)checkedTotal);
+        }
+        myVectorGraphics.arc(0, 0, checkedGraphRadius, 0, 360*checkedTopFiveDetail[i]/(float)checkedTotal);
+  
+    }
+    ofPopMatrix();
+    ofSetColor(127, 127, 127, 127);
+    myVectorGraphics.arc(0, 0, checkedGraphRadius, 0, 360*checkedTopFive/(float)checkedTotal);
+    
+    string checkedRatioLabel;
+    ofRotateZ(90);
+    checkedRatioLabel = ofToString(100*checkedTopFive/(float)checkedTotal, 1, 0, '0')+"%";
+                        
+    ofSetColor(255, 255, 255, 255);
+    myFontForTimeLabel.drawString(checkedRatioLabel, -myFontForTimeLabel.stringWidth(checkedRatioLabel)/2.0f, myFontForTimeLabel.stringHeight(checkedRatioLabel)*1+checkedGraphRadius);
+    ofPopStyle();
+    ofPopMatrix();
+    
+    //色とジャンルの対応を見せる
+    for (int i = 0; i<5; i++) {
+        ofPushMatrix();
+        ofTranslate(ofGetWidth()-ofGetWidth()*0.15-myFontForTimeLabel.stringWidth(checkedRatioLabel)/2.0f, 15*i+ofGetHeight()*0.1+checkedGraphRadius+myFontForTimeLabel.stringHeight(checkedRatioLabel)*1.5);
+        ofPushStyle();
+        ofSetColor(genreCol[i]);
+        ofRect(0, 0, 10, 10);
+        //ofDrawBitmapString(genreNameList.getString(1+i, 1).c_str(), 15, 10);
+        myFontJapanese.drawString(ofToString(100*checkedTopFiveDetail[i]/(float)checkedTotal, 1, 4, '0') + "%:" + genreNameList.getString(1+i, 1), 15, 10);
+        ofPopStyle();
+        ofPopMatrix();
+    }
+    
+    //曜日毎のベスト5の閉める割合を出す。
     drawWeekRatio("sunday", csvOwnerList[myControlPanel.getValueI("csvOwner")]);
     drawWeekRatio("monday", csvOwnerList[myControlPanel.getValueI("csvOwner")]);
     drawWeekRatio("tuesday", csvOwnerList[myControlPanel.getValueI("csvOwner")]);
@@ -596,7 +644,7 @@ void testApp::draw(){
 
 void testApp::drawWeekRatio(string weekName, string csvOwnerName){
     int total = 0;
-    int bestFive = 0;
+    int topFive = 0;
     
     //右端から左端に続く場合。（つまり、特に土曜の終わりが、日曜の午前をまたぐとき）
     if (myControlPanel.getValueI(weekName + "Start_" + csvOwnerName) > myControlPanel.getValueI(weekName + "End_" + csvOwnerName)) {
@@ -605,7 +653,7 @@ void testApp::drawWeekRatio(string weekName, string csvOwnerName){
             for (int j = 0; j < genreNum; j++) {
                 total += csvMatrix.getInt(j+1, i+1);
                 if (j<5) {
-                    bestFive += csvMatrix.getInt(j+1, i+1);
+                    topFive += csvMatrix.getInt(j+1, i+1);
                 }
             }
         }
@@ -614,7 +662,7 @@ void testApp::drawWeekRatio(string weekName, string csvOwnerName){
             for (int j = 0; j < genreNum; j++) {
                 total += csvMatrix.getInt(j+1, i+1);
                 if (j<5) {
-                    bestFive += csvMatrix.getInt(j+1, i+1);
+                    topFive += csvMatrix.getInt(j+1, i+1);
                 }
             }
         }
@@ -624,7 +672,7 @@ void testApp::drawWeekRatio(string weekName, string csvOwnerName){
             for (int j = 0; j < genreNum; j++) {
                 total += csvMatrix.getInt(j+1, i+1);//一行目と一列目はラベルなので、1足す。
                 if (j<5) {
-                    bestFive += csvMatrix.getInt(j+1, i+1);
+                    topFive += csvMatrix.getInt(j+1, i+1);
                 }
             }
         }
@@ -647,18 +695,53 @@ void testApp::drawWeekRatio(string weekName, string csvOwnerName){
     }else{
         printf("something wrong!!");
     }
+    
+    //topFiveの閉める割合を円グラフで出す。
+    //飛ばした方
+    if (myControlPanel.getValueB("topFiveRatio")) {
+        ofPushMatrix();
+        ofTranslate(beginBarPosX+ofGetWidth()/7.0f*posX+ofGetWidth()/7.0f/2.0f, ofGetHeight()*0.97);
+        ofRotateZ(-90);
+        ofPushStyle();
+        ofSetColor(127, 127, 127, 127);
+        ofCircle(0, 0, 20);
+        ofSetColor(255, 0, 0, 127);
+        myVectorGraphics.arc(0, 0, 20, 0, 360*topFive/(float)total);
+        ofPopStyle();
+        ofPopMatrix();
+    }
+    //飛ばされた方
+    if (myControlPanel.getValueB("topFiveRatio")) {
+        ofPushMatrix();
+        ofTranslate(beginBarPosX+ofGetWidth()/7.0f*posX-ofGetWidth()+ofGetWidth()/7.0f/2.0f, ofGetHeight()*0.97);
+        ofRotateZ(-90);
+        ofPushStyle();
+        ofSetColor(127, 127, 127, 127);
+        ofCircle(0, 0, 20);
+        ofSetColor(255, 0, 0, 127);
+        myVectorGraphics.arc(0, 0, 20, 0, 360*topFive/(float)total);
+        ofPopStyle();
+        ofPopMatrix();
+    }
+
+
+    //比率を文字列で描画
     //飛ばした方
     ofPushMatrix();
     ofTranslate(beginBarPosX+ofGetWidth()/7.0f*posX, ofGetHeight()*0.96);
-    string str = "total:"+ofToString(total)+" top5:"+ ofToString(bestFive);
-    myFontForTimeLabel.drawString(str, ofGetWidth()/7.0f/2.0f-myFontForTimeLabel.stringWidth(str)/2, myFontForTimeLabel.stringHeight(str));
+    string strRatio = ofToString(100*(float)topFive/total, 1, 0, '0')+"%";
+    string strDetail = "total:"+ofToString(total)+" top5:"+ ofToString(topFive);
+    myFontForTimeLabel.drawString(strRatio, ofGetWidth()/7.0f/2.0f-myFontForTimeLabel.stringWidth(strRatio)/2, myFontForTimeLabel.stringHeight(strDetail));
+    myFontForTimeLabel.drawString(strDetail, ofGetWidth()/7.0f/2.0f-myFontForTimeLabel.stringWidth(strDetail)/2, myFontForTimeLabel.stringHeight(strDetail)+myFontForTimeLabel.stringHeight(strRatio)+2);
     ofPopMatrix();
     //飛ばされた方
     ofPushMatrix();
     ofTranslate(beginBarPosX+ofGetWidth()/7.0f*posX-ofGetWidth(), ofGetHeight()*0.96);
-    myFontForTimeLabel.drawString(str, ofGetWidth()/7.0f/2.0f-myFontForTimeLabel.stringWidth(str)/2, myFontForTimeLabel.stringHeight(str));
+    myFontForTimeLabel.drawString(strRatio, ofGetWidth()/7.0f/2.0f-myFontForTimeLabel.stringWidth(strRatio)/2, myFontForTimeLabel.stringHeight(strDetail));
+    myFontForTimeLabel.drawString(strDetail, ofGetWidth()/7.0f/2.0f-myFontForTimeLabel.stringWidth(strDetail)/2, myFontForTimeLabel.stringHeight(strDetail)+myFontForTimeLabel.stringHeight(strRatio)+2);
     ofPopMatrix();
     ofPopMatrix();
+    
 }
 
 
@@ -852,13 +935,25 @@ void testApp::mouseReleased(int x, int y, int button){
     ofxCsv reloadCsv;
     ofxCsv reloadCsvMatrix;
     ofxCsv reloadGenreNameList;
+    ofxCsv reloadCheckedImlGenreTable;
     printf("読み込むべき人 %d %s\n", myControlPanel.getValueI("csvOwner"), dirCSV.getName(myControlPanel.getValueI("csvOwner")).c_str());
     reloadCsv.loadFile(ofToDataPath(ofToString("csv/")+dirCSV.getName(myControlPanel.getValueI("csvOwner")).c_str()+ofToString("/graphData.csv")));
     reloadCsvMatrix.loadFile(ofToDataPath(ofToString("csv/")+dirCSV.getName(myControlPanel.getValueI("csvOwner")).c_str()+ofToString("/graphDataMatrix.csv")));
     reloadGenreNameList.loadFile(ofToDataPath(ofToString("csv/")+dirCSV.getName(myControlPanel.getValueI("csvOwner")).c_str()+ofToString("/genreNameList.csv")));
+    reloadCheckedImlGenreTable.loadFile(ofToDataPath(ofToString("csv/")+dirCSV.getName(myControlPanel.getValueI("csvOwner")).c_str()+ofToString("/checkedImlGenreTable.csv")));
     csv = reloadCsv;
     csvMatrix = reloadCsvMatrix;
     genreNameList = reloadGenreNameList;
+    checkedImlGenreTable = reloadCheckedImlGenreTable;
+    checkedTotal = 0;
+    checkedTopFive = 0;
+    for (int i = 0; i<checkedImlGenreTable.numRows-1; i++) {
+        checkedTotal += checkedImlGenreTable.getInt(i+1, 1);
+        if (i < 5) {
+            checkedTopFive += checkedImlGenreTable.getInt(i+1, 1);
+            checkedTopFiveDetail[i] = checkedImlGenreTable.getInt(i+1, 1);
+        }
+    }
     genreNum = genreNameList.numRows-1;//ラベルを省くので-1しておく。
     //topPosとgraphTop更新
     topPos = 0;
