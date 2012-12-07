@@ -35,6 +35,7 @@ class testApp : public ofBaseApp{
     void drawWeekRatio(string weekName, string csvOwnerName);
     vector<float> getGenreRateWeek(string csvOwnerName, int weekNum);
     vector<float> getGenreRateTotal(string csvOwnerName);
+    void bubbleSort(float x[], int n);
     
     float thetaDegree;
     ofxVectorGraphics myVectorGraphics;

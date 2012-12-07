@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.10.26)  7 DEC 2012 16:35
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.10.26)  8 DEC 2012 03:19
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -21859,6 +21859,122 @@ Missing character: There is no ª in font nullfont!
 Missing character: There is no Ô in font nullfont!
 Missing character: There is no º in font nullfont!
 Missing character: There is no â in font nullfont!
+
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:327: LaTeX Error: Environment fi
+gure undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.327 \begin{figure}
+                    [h]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no ] in font nullfont!
+File: sortedOther.jpg Graphic file (type bmp)
+<sortedOther.jpg>
+
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:330: LaTeX Error: \caption outsi
+de float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.330 \caption
+              {iTunes„ÅÆ„Å™„Åã„ÅÆ„É©„Ç§„Éñ„É©„É™„Éº„ÅÆ„Ç∏„É£„É≥„É´„ÅÆÂÜÖË®≥Â...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no i in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no „ in font nullfont!
+Missing character: There is no Å in font nullfont!
+Missing character: There is no Æ in font nullfont!
+Missing character: There is no „ in font nullfont!
+Missing character: There is no Å in font nullfont!
+Missing character: There is no ™ in font nullfont!
+Missing character: There is no „ in font nullfont!
+Missing character: There is no Å in font nullfont!
+Missing character: There is no ã in font nullfont!
+Missing character: There is no „ in font nullfont!
+Missing character: There is no Å in font nullfont!
+Missing character: There is no Æ in font nullfont!
+Missing character: There is no „ in font nullfont!
+Missing character: There is no É in font nullfont!
+Missing character: There is no © in font nullfont!
+Missing character: There is no „ in font nullfont!
+Missing character: There is no Ç in font nullfont!
+Missing character: There is no § in font nullfont!
+Missing character: There is no „ in font nullfont!
+Missing character: There is no É in font nullfont!
+Missing character: There is no ñ in font nullfont!
+Missing character: There is no „ in font nullfont!
+Missing character: There is no É in font nullfont!
+Missing character: There is no © in font nullfont!
+Missing character: There is no „ in font nullfont!
+Missing character: There is no É in font nullfont!
+Missing character: There is no ™ in font nullfont!
+Missing character: There is no „ in font nullfont!
+Missing character: There is no É in font nullfont!
+Missing character: There is no º in font nullfont!
+Missing character: There is no „ in font nullfont!
+Missing character: There is no Å in font nullfont!
+Missing character: There is no Æ in font nullfont!
+Missing character: There is no „ in font nullfont!
+Missing character: There is no Ç in font nullfont!
+Missing character: There is no ∏ in font nullfont!
+Missing character: There is no „ in font nullfont!
+Missing character: There is no É in font nullfont!
+Missing character: There is no £ in font nullfont!
+Missing character: There is no „ in font nullfont!
+Missing character: There is no É in font nullfont!
+Missing character: There is no ≥ in font nullfont!
+Missing character: There is no „ in font nullfont!
+Missing character: There is no É in font nullfont!
+Missing character: There is no ´ in font nullfont!
+Missing character: There is no „ in font nullfont!
+Missing character: There is no Å in font nullfont!
+Missing character: There is no Æ in font nullfont!
+Missing character: There is no Â in font nullfont!
+Missing character: There is no Ü in font nullfont!
+Missing character: There is no Ö in font nullfont!
+Missing character: There is no Ë in font nullfont!
+Missing character: There is no ® in font nullfont!
+Missing character: There is no ≥ in font nullfont!
+Missing character: There is no Â in font nullfont!
+Missing character: There is no Ö in font nullfont!
+Missing character: There is no ® in font nullfont!
+Missing character: There is no Â in font nullfont!
+Missing character: There is no ì in font nullfont!
+Missing character: There is no ° in font nullfont!
+Missing character: There is no Â in font nullfont!
+Missing character: There is no à in font nullfont!
+Missing character: There is no Ü in font nullfont!
+
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:333: LaTeX Error: \begin{documen
+t} ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.333 \end{figure}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Ç in font nullfont!
 Missing character: There is no ∏ in font nullfont!
@@ -22332,14 +22448,14 @@ Missing character: There is no „ in font nullfont!
 Missing character: There is no Ä in font nullfont!
 Missing character: There is no Ç in font nullfont!
 
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:327: LaTeX Error: Environment fi
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:338: LaTeX Error: Environment fi
 gure undefined.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.327 \begin{figure}
+l.338 \begin{figure}
                     [h]
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -22351,14 +22467,14 @@ Missing character: There is no ] in font nullfont!
 File: topFive_heavy.png Graphic file (type bmp)
 <topFive_heavy.png>
 
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:330: LaTeX Error: \caption outsi
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:341: LaTeX Error: \caption outsi
 de float.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.330 \caption
+l.341 \caption
               {„Éà„ÉÉ„Éó„Éï„Ç°„Ç§„Éñ„Åå„Éò„Éì„Éº„Å™‰∫∫„Ç∞„É©„Éï„ÅÆ‰æã}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -22418,21 +22534,21 @@ Missing character: There is no ‰ in font nullfont!
 Missing character: There is no æ in font nullfont!
 Missing character: There is no ã in font nullfont!
 
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:333: LaTeX Error: \begin{documen
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:344: LaTeX Error: \begin{documen
 t} ended by \end{figure}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.333 \end{figure}
+l.344 \end{figure}
                   
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:335: Undefined control sequence.
-l.335 \subsection
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:346: Undefined control sequence.
+l.346 \subsection
                  {„Éé„É≥„Ç∏„É£„É≥„É´Ê¥æÔºàÈõëËâ≤Á≥ªÔºâ}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -23263,14 +23379,14 @@ Missing character: There is no „ in font nullfont!
 Missing character: There is no Ä in font nullfont!
 Missing character: There is no Å in font nullfont!
 
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:342: LaTeX Error: Environment fi
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:353: LaTeX Error: Environment fi
 gure undefined.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.342 \begin{figure}
+l.353 \begin{figure}
                     [h]
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -23282,14 +23398,14 @@ Missing character: There is no ] in font nullfont!
 File: topFive_light.png Graphic file (type bmp)
 <topFive_light.png>
 
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:345: LaTeX Error: \caption outsi
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:356: LaTeX Error: \caption outsi
 de float.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.345 \caption
+l.356 \caption
               {„Éà„ÉÉ„Éó„Éï„Ç°„Ç§„Éñ„Åå„É©„Ç§„Éà„Å™‰∫∫„Ç∞„É©„Éï„ÅÆ‰æã}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -23349,21 +23465,21 @@ Missing character: There is no ‰ in font nullfont!
 Missing character: There is no æ in font nullfont!
 Missing character: There is no ã in font nullfont!
 
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:348: LaTeX Error: \begin{documen
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:359: LaTeX Error: \begin{documen
 t} ended by \end{figure}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.348 \end{figure}
+l.359 \end{figure}
                   
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:350: Undefined control sequence.
-l.350 \subsection
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:361: Undefined control sequence.
+l.361 \subsection
                  {Èü≥Ê•Ω„Çí„ÅÇ„Åæ„ÇäËÅ¥„Åã„Å™„ÅÑ‰∫∫}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -23514,8 +23630,8 @@ Missing character: There is no Ñ in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Ä in font nullfont!
 Missing character: There is no Ç in font nullfont!
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:353: Undefined control sequence.
-l.353 \subsection
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:364: Undefined control sequence.
+l.364 \subsection
                  {„Ç∑„É£„ÉÉ„Éï„É´ÂÜçÁîü„Çí‰Ωø„ÅÜ‰∫∫„ÅÆ„ÉÅ„Çß„ÉÉ„ÇØ„Éû„Éº„ÇØ„...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -23608,7 +23724,7 @@ Missing character: There is no Â in font nullfont!
 Missing character: There is no õ in font nullfont!
 Missing character: There is no ≥ in font nullfont!
 Missing character: There is no 1 in font nullfont!
-Missing character: There is no 6 in font nullfont!
+Missing character: There is no 7 in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Å in font nullfont!
 Missing character: There is no ® in font nullfont!
@@ -23616,7 +23732,7 @@ Missing character: There is no Â in font nullfont!
 Missing character: There is no õ in font nullfont!
 Missing character: There is no ≥ in font nullfont!
 Missing character: There is no 1 in font nullfont!
-Missing character: There is no 7 in font nullfont!
+Missing character: There is no 8 in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Ç in font nullfont!
 Missing character: There is no í in font nullfont!
@@ -24032,14 +24148,14 @@ Missing character: There is no „ in font nullfont!
 Missing character: There is no Ä in font nullfont!
 Missing character: There is no Ç in font nullfont!
 
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:356: LaTeX Error: Environment fi
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:367: LaTeX Error: Environment fi
 gure undefined.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.356 \begin{figure}
+l.367 \begin{figure}
                     [h]
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -24051,14 +24167,14 @@ Missing character: There is no ] in font nullfont!
 File: taru_checkedItemGenreRatio.jpg Graphic file (type bmp)
 <taru_checkedItemGenreRatio.jpg>
 
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:359: LaTeX Error: \caption outsi
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:370: LaTeX Error: \caption outsi
 de float.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.359 \caption
+l.370 \caption
               {„Ç∑„É£„ÉÉ„Éï„É´ÂÜçÁîü„Çí‰Ωø„ÅÜ‰∫∫„ÅÆ„ÉÅ„Çß„ÉÉ„ÇØ„Éû„Éº„ÇØ„ÅÆÂ...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -24146,28 +24262,28 @@ Missing character: There is no ‰ in font nullfont!
 Missing character: There is no æ in font nullfont!
 Missing character: There is no ã in font nullfont!
 
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:362: LaTeX Error: \begin{documen
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:373: LaTeX Error: \begin{documen
 t} ended by \end{figure}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.362 \end{figure}
+l.373 \end{figure}
                   
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:364: LaTeX Error: Environment fi
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:375: LaTeX Error: Environment fi
 gure undefined.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.364 \begin{figure}
+l.375 \begin{figure}
                     [h]
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -24179,14 +24295,14 @@ Missing character: There is no ] in font nullfont!
 File: taru_weekGenreRatio.jpg Graphic file (type bmp)
 <taru_weekGenreRatio.jpg>
 
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:367: LaTeX Error: \caption outsi
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:378: LaTeX Error: \caption outsi
 de float.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.367 \caption
+l.378 \caption
               {„Ç∑„É£„ÉÉ„Éï„É´ÂÜçÁîü„Çí‰Ωø„ÅÜ‰∫∫„ÅÆÊõúÊó•ÊØé„ÅÆ„Ç∏„É£„É≥„É´Â...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -24265,21 +24381,21 @@ Missing character: There is no ‰ in font nullfont!
 Missing character: There is no æ in font nullfont!
 Missing character: There is no ã in font nullfont!
 
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:370: LaTeX Error: \begin{documen
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:381: LaTeX Error: \begin{documen
 t} ended by \end{figure}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.370 \end{figure}
+l.381 \end{figure}
                   
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:372: Undefined control sequence.
-l.372 \section
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:383: Undefined control sequence.
+l.383 \section
               {ÂàÜÊûê}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -25784,8 +25900,8 @@ Missing character: There is no ã in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Ä in font nullfont!
 Missing character: There is no Ç in font nullfont!
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:378: Undefined control sequence.
-l.378 \section
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:389: Undefined control sequence.
+l.389 \section
               {ËÄÉÂØü}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -32165,8 +32281,8 @@ Missing character: There is no ã in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Ä in font nullfont!
 Missing character: There is no Ç in font nullfont!
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:388: Undefined control sequence.
-l.388 \subsection
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:399: Undefined control sequence.
+l.399 \subsection
                  {„Ç¢„É≥„Ç±„Éº„Éà„Ç∑„Éº„Éà„Å®„ÅÆÂêàËá¥}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -32417,8 +32533,8 @@ Missing character: There is no ü in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Ä in font nullfont!
 Missing character: There is no Ç in font nullfont!
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:391: Undefined control sequence.
-l.391 \subsection
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:402: Undefined control sequence.
+l.402 \subsection
                  {„Ç¢„É≥„Ç±„Éº„Éà„Ç∑„Éº„Éà„Å®„ÅÆÈÅï„ÅÑ}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -32603,8 +32719,8 @@ Missing character: There is no ª in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no É in font nullfont!
 Missing character: There is no ª in font nullfont!
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:394: Undefined control sequence.
-l.394 \section
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:405: Undefined control sequence.
+l.405 \section
               {ÂÇôËÄÉ}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -32760,8 +32876,8 @@ Missing character: There is no ã in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Ä in font nullfont!
 Missing character: There is no Ç in font nullfont!
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:398: Undefined control sequence.
-l.398 \section
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:409: Undefined control sequence.
+l.409 \section
               {Ê≥®Èáà}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -32776,28 +32892,28 @@ Missing character: There is no È in font nullfont!
 Missing character: There is no á in font nullfont!
 Missing character: There is no à in font nullfont!
 
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:399: LaTeX Error: Environment de
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:410: LaTeX Error: Environment de
 scription undefined.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.399 \begin{description}
+l.410 \begin{description}
                          
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:400: LaTeX Error: Lonely \item--
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:411: LaTeX Error: Lonely \item--
 perhaps a missing list environment.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.400 \item[„Ç∑„É£„ÉÉ„Éï„É´„Éó„É¨„Ç§]
+l.411 \item[„Ç∑„É£„ÉÉ„Éï„É´„Éó„É¨„Ç§]
                                      
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -32908,21 +33024,21 @@ Missing character: There is no „ in font nullfont!
 Missing character: There is no Ä in font nullfont!
 Missing character: There is no Ç in font nullfont!
 
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:403: LaTeX Error: \begin{documen
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:414: LaTeX Error: \begin{documen
 t} ended by \end{description}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.403 \end{description}
+l.414 \end{description}
                        
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:405: Undefined control sequence.
-l.405 \section
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:416: Undefined control sequence.
+l.416 \section
               {ÂèÇËÄÉ}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -32937,28 +33053,28 @@ Missing character: There is no Ë in font nullfont!
 Missing character: There is no Ä in font nullfont!
 Missing character: There is no É in font nullfont!
 
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:406: LaTeX Error: Environment de
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:417: LaTeX Error: Environment de
 scription undefined.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.406 \begin{description}
+l.417 \begin{description}
                          
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:407: LaTeX Error: Lonely \item--
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:418: LaTeX Error: Lonely \item--
 perhaps a missing list environment.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.407 \item[Musicovery]
+l.418 \item[Musicovery]
                        
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -32986,14 +33102,14 @@ Missing character: There is no o in font nullfont!
 Missing character: There is no m in font nullfont!
 Missing character: There is no / in font nullfont!
 
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:409: LaTeX Error: Lonely \item--
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:420: LaTeX Error: Lonely \item--
 perhaps a missing list environment.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.409 \item[iPod]
+l.420 \item[iPod]
                  
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -33025,14 +33141,14 @@ Missing character: There is no o in font nullfont!
 Missing character: There is no d in font nullfont!
 Missing character: There is no / in font nullfont!
 
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:411: LaTeX Error: Lonely \item--
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:422: LaTeX Error: Lonely \item--
 perhaps a missing list environment.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.411 \item[iPhone]
+l.422 \item[iPhone]
                    
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -33066,14 +33182,14 @@ Missing character: There is no n in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no / in font nullfont!
 
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:413: LaTeX Error: Lonely \item--
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:424: LaTeX Error: Lonely \item--
 perhaps a missing list environment.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.413 \item[iTunes]
+l.424 \item[iTunes]
                    
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -33107,14 +33223,14 @@ Missing character: There is no e in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no / in font nullfont!
 
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:415: LaTeX Error: Lonely \item--
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:426: LaTeX Error: Lonely \item--
 perhaps a missing list environment.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.415 \item[Music Earth]
+l.426 \item[Music Earth]
                         
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -33155,14 +33271,14 @@ Missing character: There is no t in font nullfont!
 Missing character: There is no m in font nullfont!
 Missing character: There is no l in font nullfont!
 
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:417: LaTeX Error: Lonely \item--
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:428: LaTeX Error: Lonely \item--
 perhaps a missing list environment.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.417 \item[OtO]
+l.428 \item[OtO]
                 
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -33196,21 +33312,21 @@ Missing character: There is no t in font nullfont!
 Missing character: There is no m in font nullfont!
 Missing character: There is no l in font nullfont!
 
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:420: LaTeX Error: \begin{documen
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:431: LaTeX Error: \begin{documen
 t} ended by \end{description}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.420 \end{description}
+l.431 \end{description}
                        
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:425: LaTeX Error: The font size 
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:436: LaTeX Error: The font size 
 command \normalsize is not defined:
                there is probably something wrong with the class file.
 
@@ -33218,17 +33334,17 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.425 \end{document}
+l.436 \end{document}
                     
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 [2
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:425: Undefined control sequence.
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:436: Undefined control sequence.
 <write> \newlabel{sample_regular}{{}{\thepage 
                                               }}
-l.425 \end{document}
+l.436 \end{document}
                     
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -33236,10 +33352,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:425: Undefined control sequence.
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:436: Undefined control sequence.
 <write> \newlabel{sample_irregular}{{}{\thepage 
                                                 }}
-l.425 \end{document}
+l.436 \end{document}
                     
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -33247,10 +33363,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:425: Undefined control sequence.
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:436: Undefined control sequence.
 <write> \newlabel{genreMap_regular}{{}{\thepage 
                                                 }}
-l.425 \end{document}
+l.436 \end{document}
                     
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -33258,10 +33374,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:425: Undefined control sequence.
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:436: Undefined control sequence.
 <write> \newlabel{genreMap_irregular}{{}{\thepage 
                                                   }}
-l.425 \end{document}
+l.436 \end{document}
                     
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -33269,10 +33385,21 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:425: Undefined control sequence.
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:436: Undefined control sequence.
+<write> \newlabel{sortedOther}{{}{\thepage 
+                                           }}
+l.436 \end{document}
+                    
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:436: Undefined control sequence.
 <write> \newlabel{topFive_heavy}{{}{\thepage 
                                              }}
-l.425 \end{document}
+l.436 \end{document}
                     
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -33280,10 +33407,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:425: Undefined control sequence.
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:436: Undefined control sequence.
 <write> \newlabel{topFive_heavy}{{}{\thepage 
                                              }}
-l.425 \end{document}
+l.436 \end{document}
                     
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -33291,10 +33418,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:425: Undefined control sequence.
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:436: Undefined control sequence.
 <write> ...ckedItemsGenreMap_shuffle}{{}{\thepage 
                                                   }}
-l.425 \end{document}
+l.436 \end{document}
                     
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -33302,10 +33429,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:425: Undefined control sequence.
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:436: Undefined control sequence.
 <write> ...abel{weekGenreMap_shuffle}{{}{\thepage 
                                                   }}
-l.425 \end{document}
+l.436 \end{document}
                     
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -33319,16 +33446,16 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 846 strings out of 493488
- 13894 string characters out of 3141325
- 68597 words of memory out of 3000000
- 4166 multiletter control sequences out of 15000+200000
+ 849 strings out of 493488
+ 13937 string characters out of 3141325
+ 68607 words of memory out of 3000000
+ 4168 multiletter control sequences out of 15000+200000
  3640 words of font info for 14 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
  37i,5n,21p,3571b,261s stack positions out of 5000i,500n,10000p,200000b,50000s
 
 Output written on /Users/gentleman/Dropbox/thesis/TeX/./thesis.pdf (2 pages, 15
-53 bytes).
+72 bytes).
 PDF statistics:
  11 PDF objects out of 1000 (max. 8388607)
  6 compressed objects within 1 object stream

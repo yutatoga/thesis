@@ -127,6 +127,7 @@ void testApp::setup(){
 //        }
 //    }
     
+    
 
     topPos = 0;
     for (int i = 0; i<7*24; i++) {
@@ -632,6 +633,7 @@ void testApp::draw(){
         ofPopStyle();
         ofPopMatrix();
     }
+#>)
     
     //曜日毎のベスト5の閉める割合を出す。
     drawWeekRatio("sunday", csvOwnerList[myControlPanel.getValueI("csvOwner")]);
@@ -699,6 +701,82 @@ void testApp::draw(){
             ofPopMatrix();
         
         }
+        //TODO: ソートしてする。
+        vector<float> otherList;
+        for (int i = 0; i<csvOwnerList.size(); i++) {
+            otherList.push_back(getGenreRateTotal(csvOwnerList[i])[5]);
+        }
+        //printf("togayuta:%d\n", otherList.size());
+//        sort(otherList.begin(), otherList.end());
+//        for (int i = 0; otherList.size(); i++) {
+//            printf("%------------------f\n", otherList[i]);
+//        }
+        float x[otherList.size()];
+        float oldX[otherList.size()];
+        for (int i = 0; i<otherList.size(); i++) {
+            x[i] = otherList[i];
+            oldX[i] = otherList[i];
+        }
+
+        printf("%ld------------------------------------------\n", otherList.size());
+        for (int i = 0; i < otherList.size() ; i++){
+            printf("before sort:%f\n", x[i]);
+        }
+        bubbleSort(x, otherList.size());
+        for (int i = 0; i < otherList.size() ; i++){
+            
+            printf("after sort:%f\n", x[i]);
+        }
+        printf("===============================================\n");
+        int whereAmI[otherList.size()];
+        for (int i = 0; i< otherList.size(); i++) {
+            printf("%d ------> ", i);
+            for (int j = 0; j< otherList.size(); j++) {
+                if (oldX[i] == x[j]) {
+                    whereAmI[i] = j;
+                    printf("%d\n", j);
+                }
+            }
+        }
+        
+        //CSVのソートした順に描画する。
+        for (int i = 0; i<csvOwnerList.size(); i++) {
+            ofPushMatrix();
+            ofTranslate(500, 15*whereAmI[i]+500);
+            //名前
+            ofPopStyle();
+            ofSetColor(255, 255, 255);
+            myFontForTimeLabel.drawString(csvOwnerList[i], 0, myFontForTimeLabel.stringHeight(csvOwnerList[i]));
+            ofPopStyle();
+            ofPushMatrix();
+            ofPushMatrix();
+            ofTranslate(100, 0);
+            //ベストファイブをそれぞれ描画
+            for (int j = 0; j<6; j++) {
+                if (j>0) {
+                    ofTranslate(100*getGenreRateTotal(csvOwnerList[i])[j-1], 0);
+                }
+                if (j!= 5) {
+                    ofPushStyle();
+                    ofSetColor(genreCol[j].r, genreCol[j].g, genreCol[j].b, 255);
+                    ofRect(0, 0, 100*getGenreRateTotal(csvOwnerList[i])[j], 10);
+                    ofPopStyle();
+                }else{
+                    ofPushStyle();
+                    ofSetColor(255, 255, 255, 255);
+                    ofRect(0, 0, 100*getGenreRateTotal(csvOwnerList[i])[j], 10);
+                    ofPopStyle();
+                }
+            }
+            
+            ofPopMatrix();
+            ofPopMatrix();
+            ofPopMatrix();
+            
+        }
+        
+        
+
     }
     
     //UI
@@ -728,6 +806,43 @@ void testApp::draw(){
     string str = "Graph Plotter by Yuta Toga";
     myFont.drawString(str, 2, myFont.stringHeight(str));
 }
+
+
+
+//void testApp::bubbleSort(float x[ ], int n){
+//    int i, j, temp;
+//    for (i = 0; i < n - 1; i++) {
+//        for (j = n - 1; j > i; j--) {
+//            if (x[j - 1] > x[j]) {  /* 前の要素の方が大きかったら */
+//                temp = x[j];        /* 交換する */
+//                x[j] = x[j - 1];
+//                x[j - 1]= temp;
+//            }
+//        }
+//    }
+//}
+
+//floatのバブルソート（小さい順に並べ替え＝小さいものから大きいものへ並ぶ）
+//引数は数列の大きさと、数列
+//左から見てってならべかえが一度も起きなかったらおわり。
+void testApp::bubbleSort(float x[], int n){
+	int i, j, k;
+    float temp;
+	k = n - 1;
+	while (k >= 0) {
+		j = -1;
+		for (i = 1; i <= k; i++)
+            //左が右より大きかったら入れ替える。
+			if (x[i - 1] > x[i]) {
+				j = i - 1;
+				temp = x[j];
+                x[j] = x[i];
+                x[i] = temp;
+			}
+		k = j;
+	}
+}
+
 
 vector<float> testApp::getGenreRateWeek(string csvOwnerName, int weekNum){
     vector<float> foo;
