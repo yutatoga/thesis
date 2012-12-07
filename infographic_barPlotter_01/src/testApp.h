@@ -33,6 +33,8 @@ class testApp : public ofBaseApp{
     
     void barplot(int modeNum);
     void drawWeekRatio(string weekName, string csvOwnerName);
+    vector<float> getGenreRateWeek(string csvOwnerName, int weekNum);
+    vector<float> getGenreRateTotal(string csvOwnerName);
     
     float thetaDegree;
     ofxVectorGraphics myVectorGraphics;
@@ -40,6 +42,7 @@ class testApp : public ofBaseApp{
     ofxCsv genreNameList;
     ofxCsv checkedImlGenreTable;
     ofxCsv timeStamp;
+    
     
     string myText;
     int genreNum;
@@ -88,4 +91,7 @@ class testApp : public ofBaseApp{
     
     //画面キャプチャ
     ofImage screenImg;
+    
+    //all
+    
 };

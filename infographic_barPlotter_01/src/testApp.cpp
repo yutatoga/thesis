@@ -42,6 +42,16 @@ void testApp::setup(){
         ofLogNotice(dir.getName(i));
         csvOwnerList.push_back(dir.getName(i));
     }
+    
+    //曜日の文字列を入れておく。
+    weekNameStringList[0] = "sunday";
+    weekNameStringList[1] = "monday";
+    weekNameStringList[2] = "tuesday";
+    weekNameStringList[3] = "wednesday";
+    weekNameStringList[4] = "thursday";
+    weekNameStringList[5] = "friday";
+    weekNameStringList[6] = "saturday";
+    
     myControlPanel.addMultiToggle("csvOwner", "csvOwner", 0, csvOwnerList);
     
     vector<string> graphType;
@@ -55,11 +65,27 @@ void testApp::setup(){
     myControlPanel.addLabel("press 'c' --- capture screen");
     myControlPanel.addLabel("press <, >, --- move graph");
     
+    //全員分の比率比較
+    myControlPanel.addPanel("allPeople", 3);
+    myControlPanel.setWhichPanel(1);
+    vector<string> weekOrPersonStr;
+    weekOrPersonStr.push_back("week");
+    weekOrPersonStr.push_back("person");
+    myControlPanel.addMultiToggle("weekOrPerson", "weekOrPerson", 0, weekOrPersonStr);
+    myControlPanel.setWhichColumn(1);
+    myControlPanel.addMultiToggle("person", "person", 0, csvOwnerList);
+    myControlPanel.setWhichColumn(2);
+    vector<string> weekNameStringListVector;
+    for (int i = 0; i<7 ; i++) {
+        weekNameStringListVector.push_back(weekNameStringList[i]);
+    }
+    myControlPanel.addMultiToggle("week", "week", 0, weekNameStringListVector);
+    
     
     //人数分の曜日の時間セッティング
     for (int i = 0; i< csvOwnerList.size(); i++) {
         myControlPanel.addPanel("weekTimeSetting_"+csvOwnerList[i], 5);
-        myControlPanel.setWhichPanel(i+1);
+        myControlPanel.setWhichPanel(i+2);
         myControlPanel.addSlider("sundayStart_"+csvOwnerList[i], "sundayStart_"+csvOwnerList[i], 24*0, 0, 24*7-1, true);
         myControlPanel.addSlider("mondayStart_"+csvOwnerList[i], "mondayStart_"+csvOwnerList[i], 24*1, 0, 24*7-1, true);
         myControlPanel.addSlider("tuesdayStart_"+csvOwnerList[i], "tuesdayStart_"+csvOwnerList[i], 24*2, 0, 24*7-1, true);
@@ -123,14 +149,6 @@ void testApp::setup(){
         genreCol.push_back(col);
         ofPopStyle();
     }
-    //曜日の文字列を入れておく。
-    weekNameStringList[0] = "sunday";
-    weekNameStringList[1] = "monday";
-    weekNameStringList[2] = "tuesday";
-    weekNameStringList[3] = "wednesday";
-    weekNameStringList[4] = "thursday";
-    weekNameStringList[5] = "friday";
-    weekNameStringList[6] = "saturday";
     
     checkedTopFive = 0;
     checkedTotal = 0;
@@ -569,22 +587,6 @@ void testApp::draw(){
         //something wrong
     }
     
-    //UI
-    //control panel
-    myControlPanel.draw();
-
-
-    //ofDrawBitmapString("FPS:"+ofToString(ofGetFrameRate()), 5, 40);
-    myFontJapanese.drawString("FPS:"+ofToString(ofGetFrameRate()), 2, 40);
-    
-    myFontForTimeLabel.drawString( ofToString(myControlPanel.getValueI("sundayStart_"+csvOwnerList[myControlPanel.getValueI("csvOwner")]), 3, '0') + " -Sun- " + ofToString(myControlPanel.getValueI("sundayEnd_"+csvOwnerList[myControlPanel.getValueI("csvOwner")]), 3, '0'), 215, 155);
-    myFontForTimeLabel.drawString( ofToString(myControlPanel.getValueI("mondayStart_"+csvOwnerList[myControlPanel.getValueI("csvOwner")]), 3, '0') + " -Mon- " + ofToString(myControlPanel.getValueI("mondayEnd_"+csvOwnerList[myControlPanel.getValueI("csvOwner")]), 3, '0'), 215, 155+43*1);
-    myFontForTimeLabel.drawString( ofToString(myControlPanel.getValueI("tuesdayStart_"+csvOwnerList[myControlPanel.getValueI("csvOwner")]), 3, '0') + " -Tue- " + ofToString(myControlPanel.getValueI("tuesdayEnd_"+csvOwnerList[myControlPanel.getValueI("csvOwner")]), 3, '0'), 215, 155+43*2);
-    myFontForTimeLabel.drawString( ofToString(myControlPanel.getValueI("wednesdayStart_"+csvOwnerList[myControlPanel.getValueI("csvOwner")]), 3, '0') + " -Wed- " + ofToString(myControlPanel.getValueI("wednesdayEnd_"+csvOwnerList[myControlPanel.getValueI("csvOwner")]), 3, '0'), 215, 155+43*3);
-    myFontForTimeLabel.drawString( ofToString(myControlPanel.getValueI("thursdayStart_"+csvOwnerList[myControlPanel.getValueI("csvOwner")]), 3, '0') + " -Thu- " + ofToString(myControlPanel.getValueI("thursdayEnd_"+csvOwnerList[myControlPanel.getValueI("csvOwner")]), 3, '0'), 215, 155+43*4);
-    myFontForTimeLabel.drawString( ofToString(myControlPanel.getValueI("fridayStart_"+csvOwnerList[myControlPanel.getValueI("csvOwner")]), 3, '0') + " -Fri- " + ofToString(myControlPanel.getValueI("fridayEnd_"+csvOwnerList[myControlPanel.getValueI("csvOwner")]), 3, '0'), 215, 155+43*5);
-    myFontForTimeLabel.drawString( ofToString(myControlPanel.getValueI("saturdayStart_"+csvOwnerList[myControlPanel.getValueI("csvOwner")]), 3, '0') + " -Sat- " + ofToString(myControlPanel.getValueI("saturdayEnd_"+csvOwnerList[myControlPanel.getValueI("csvOwner")]), 3, '0'), 215, 155+43*6);
-
     
     //音楽ライブラリ全体のチェックされている楽曲のジャンルの比率を円グラフで出す。
     ofPushMatrix();
@@ -603,7 +605,7 @@ void testApp::draw(){
             ofRotateZ(360*checkedTopFiveDetail[i-1]/(float)checkedTotal);
         }
         myVectorGraphics.arc(0, 0, checkedGraphRadius, 0, 360*checkedTopFiveDetail[i]/(float)checkedTotal);
-  
+        
     }
     ofPopMatrix();
     ofSetColor(127, 127, 127, 127);
@@ -612,7 +614,7 @@ void testApp::draw(){
     string checkedRatioLabel;
     ofRotateZ(90);
     checkedRatioLabel = ofToString(100*checkedTopFive/(float)checkedTotal, 1, 0, '0')+"%";
-                        
+    
     ofSetColor(255, 255, 255, 255);
     myFontForTimeLabel.drawString(checkedRatioLabel, -myFontForTimeLabel.stringWidth(checkedRatioLabel)/2.0f, myFontForTimeLabel.stringHeight(checkedRatioLabel)*1+checkedGraphRadius);
     ofPopStyle();
@@ -640,18 +642,126 @@ void testApp::draw(){
     drawWeekRatio("friday", csvOwnerList[myControlPanel.getValueI("csvOwner")]);
     drawWeekRatio("saturday", csvOwnerList[myControlPanel.getValueI("csvOwner")]);
     
+    //UI
+    switch (myControlPanel.getSelectedPanel()) {
+        case 0:
+            myControlPanel.setSize(640, 180+25*dirCSV.numFiles());
+            break;
+        case 1:
+            myControlPanel.setSize(640, 400);
+            break;
+        default:
+            myControlPanel.setSize(640, 400);
+            break;
+    }
+    
+    
+    //V系-----------------------------------------------------------------------------------------------------------
+    
+    if (myControlPanel.getSelectedPanel() == 1) {
+        //TODO: 全員のジャンルを比べる。
+        ofPushStyle();
+        ofSetColor(0, 0, 0, 255);
+        ofRect(0, 0, ofGetWidth(), ofGetHeight());
+        ofPopStyle();
+        //CSVの名前順に描画する。
+        for (int i = 0; i<csvOwnerList.size(); i++) {
+            ofPushMatrix();
+            ofTranslate(10, 15*i+500);
+            //名前
+            ofPopStyle();
+            ofSetColor(255, 255, 255);
+            myFontForTimeLabel.drawString(csvOwnerList[i], 0, myFontForTimeLabel.stringHeight(csvOwnerList[i]));
+            ofPopStyle();
+            ofPushMatrix();
+            ofPushMatrix();
+            ofTranslate(100, 0);
+            //ベストファイブをそれぞれ描画
+            for (int j = 0; j<6; j++) {
+                if (j>0) {
+                    ofTranslate(100*getGenreRateTotal(csvOwnerList[i])[j-1], 0);                    
+                }
+                if (j!= 5) {
+                    ofPushStyle();
+                    ofSetColor(genreCol[j].r, genreCol[j].g, genreCol[j].b, 255);
+                    ofRect(0, 0, 100*getGenreRateTotal(csvOwnerList[i])[j], 10);
+                    ofPopStyle();
+                }else{
+                    ofPushStyle();
+                    ofSetColor(255, 255, 255, 255);
+                    ofRect(0, 0, 100*getGenreRateTotal(csvOwnerList[i])[j], 10);
+                    ofPopStyle();
+                }
+            }
+            
+            ofPopMatrix();
+            ofPopMatrix();
+            ofPopMatrix();
+        
+        }
+    }
+    
+    //UI
+    //control panel
+    myControlPanel.draw();
+
+    //ofDrawBitmapString("FPS:"+ofToString(ofGetFrameRate()), 5, 40);
+    myFontJapanese.drawString("FPS:"+ofToString(ofGetFrameRate()), 2, 40);
+    
+
+    if (myControlPanel.getSelectedPanel() != 1) {
+        myFontForTimeLabel.drawString( ofToString(myControlPanel.getValueI("sundayStart_"+csvOwnerList[myControlPanel.getValueI("csvOwner")]), 3, '0') + " -Sun- " + ofToString(myControlPanel.getValueI("sundayEnd_"+csvOwnerList[myControlPanel.getValueI("csvOwner")]), 3, '0'), 215, 155);
+        myFontForTimeLabel.drawString( ofToString(myControlPanel.getValueI("mondayStart_"+csvOwnerList[myControlPanel.getValueI("csvOwner")]), 3, '0') + " -Mon- " + ofToString(myControlPanel.getValueI("mondayEnd_"+csvOwnerList[myControlPanel.getValueI("csvOwner")]), 3, '0'), 215, 155+43*1);
+        myFontForTimeLabel.drawString( ofToString(myControlPanel.getValueI("tuesdayStart_"+csvOwnerList[myControlPanel.getValueI("csvOwner")]), 3, '0') + " -Tue- " + ofToString(myControlPanel.getValueI("tuesdayEnd_"+csvOwnerList[myControlPanel.getValueI("csvOwner")]), 3, '0'), 215, 155+43*2);
+        myFontForTimeLabel.drawString( ofToString(myControlPanel.getValueI("wednesdayStart_"+csvOwnerList[myControlPanel.getValueI("csvOwner")]), 3, '0') + " -Wed- " + ofToString(myControlPanel.getValueI("wednesdayEnd_"+csvOwnerList[myControlPanel.getValueI("csvOwner")]), 3, '0'), 215, 155+43*3);
+        myFontForTimeLabel.drawString( ofToString(myControlPanel.getValueI("thursdayStart_"+csvOwnerList[myControlPanel.getValueI("csvOwner")]), 3, '0') + " -Thu- " + ofToString(myControlPanel.getValueI("thursdayEnd_"+csvOwnerList[myControlPanel.getValueI("csvOwner")]), 3, '0'), 215, 155+43*4);
+        myFontForTimeLabel.drawString( ofToString(myControlPanel.getValueI("fridayStart_"+csvOwnerList[myControlPanel.getValueI("csvOwner")]), 3, '0') + " -Fri- " + ofToString(myControlPanel.getValueI("fridayEnd_"+csvOwnerList[myControlPanel.getValueI("csvOwner")]), 3, '0'), 215, 155+43*5);
+        myFontForTimeLabel.drawString( ofToString(myControlPanel.getValueI("saturdayStart_"+csvOwnerList[myControlPanel.getValueI("csvOwner")]), 3, '0') + " -Sat- " + ofToString(myControlPanel.getValueI("saturdayEnd_"+csvOwnerList[myControlPanel.getValueI("csvOwner")]), 3, '0'), 215, 155+43*6);
+    }
+    
     //最も古い情報と、新しい情報を出す。
     string timeStampStr;
     timeStampStr = "oldest:" + timeStamp.getString(1, 1) + "\n" + "newest:" + timeStamp.getString(2, 1);
     myFontForTimeLabel.drawString(timeStampStr, ofGetWidth()-myFontForTimeLabel.stringWidth(timeStampStr), myFontForTimeLabel.stringHeight(timeStampStr)/2.0f);
     
-    //decoration
-    //title
+    //タイトル
     string str = "Graph Plotter by Yuta Toga";
     myFont.drawString(str, 2, myFont.stringHeight(str));
 }
 
+vector<float> testApp::getGenreRateWeek(string csvOwnerName, int weekNum){
+    vector<float> foo;
+    
+    return  foo;
+}
 
+vector<float> testApp::getGenreRateTotal(string csvOwnerName){
+    vector<float> genreRateVector;
+    float instantTotal = 0;
+    float instantTopFive[5];
+    float instantOther = 0;
+    ofxCsv instantGenreCSV;
+    instantGenreCSV.loadFile(ofToDataPath(ofToString("csv/")+ ofToString(csvOwnerName) + ofToString("/checkedImlGenreTable.csv")));
+    
+    for (int i = 0; i<instantGenreCSV.numRows-1; i++) {
+        instantTotal += instantGenreCSV.getInt(i+1, 1);
+        if (i < 5) {
+            instantTopFive[i] = instantGenreCSV.getInt(i+1, 1);
+        }
+    }
+    
+    for (int i = 0; i< 5; i++) {
+        genreRateVector.push_back(instantTopFive[i]/(float)instantTotal);
+        
+    }
+    //その他をベクターの最後に入れる。
+    instantOther = 1;
+    for (int i = 0; i<5; i++) {
+        instantOther -= instantTopFive[i]/(float)instantTotal;
+    }
+    genreRateVector.push_back(instantOther);
+    return genreRateVector;
+}
 
 void testApp::drawWeekRatio(string weekName, string csvOwnerName){
     int total = 0;
