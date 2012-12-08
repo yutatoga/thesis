@@ -36,6 +36,12 @@ class testApp : public ofBaseApp{
     vector<float> getGenreRateWeek(string csvOwnerName, int weekNum);
     vector<float> getGenreRateTotal(string csvOwnerName);
     void bubbleSort(float x[], int n);
+    float meanTopRange(vector<float> topRangeVector);
+    float varTopRange(vector<float> topRangeVector);
+    float covTopRange(vector<float> targetTopRangeVector, vector<float> referenceTopRangeVector);
+    float corTopRange(float targetVar, float referenceVar, float cov);
+    
+    
     
     float thetaDegree;
     ofxVectorGraphics myVectorGraphics;
@@ -86,8 +92,8 @@ class testApp : public ofBaseApp{
     //曜日の文字列を入れておく配列
     string weekNameStringList[7];
     //checkedIml
-    int checkedTopFive;//トップファイブの合計値。
-    int checkedTopFiveDetail[5];//トップファイブそれぞれの合計値。
+    int currentOwnerCheckedTopRange;//トップファイブの合計値。
+    vector<int> currentOwnerCheckedTopRangeDetail;//トップレンジそれぞれの合計値。
     int checkedTotal;
     
     //画面キャプチャ
