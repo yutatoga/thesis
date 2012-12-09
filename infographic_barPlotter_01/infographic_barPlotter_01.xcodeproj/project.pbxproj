@@ -42,6 +42,7 @@
 		8DCD3D481665261D00938E95 /* simpleColor.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DCD3D2A1665261D00938E95 /* simpleColor.cpp */; };
 		8DCD3D491665261D00938E95 /* simpleFileLister.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DCD3D2C1665261D00938E95 /* simpleFileLister.cpp */; };
 		8DCD3D4A1665261D00938E95 /* simpleLogger.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DCD3D2E1665261D00938E95 /* simpleLogger.cpp */; };
+		8DFD01801673D65300F38088 /* ofxTable.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DFD017E1673D65300F38088 /* ofxTable.cpp */; };
 		BBAB23CB13894F3D00AA2426 /* GLUT.framework in CopyFiles */ = {isa = PBXBuildFile; fileRef = BBAB23BE13894E4700AA2426 /* GLUT.framework */; };
 		E4328149138ABC9F0047C5CB /* openFrameworksDebug.a in Frameworks */ = {isa = PBXBuildFile; fileRef = E4328148138ABC890047C5CB /* openFrameworksDebug.a */; };
 		E45BE97B0E8CC7DD009D7055 /* AGL.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E45BE9710E8CC7DD009D7055 /* AGL.framework */; };
@@ -173,6 +174,8 @@
 		8DCD3D2D1665261D00938E95 /* simpleFileLister.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = simpleFileLister.h; sourceTree = "<group>"; };
 		8DCD3D2E1665261D00938E95 /* simpleLogger.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = simpleLogger.cpp; sourceTree = "<group>"; };
 		8DCD3D2F1665261D00938E95 /* simpleLogger.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = simpleLogger.h; sourceTree = "<group>"; };
+		8DFD017E1673D65300F38088 /* ofxTable.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ofxTable.cpp; sourceTree = "<group>"; };
+		8DFD017F1673D65300F38088 /* ofxTable.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ofxTable.h; sourceTree = "<group>"; };
 		BBAB23BE13894E4700AA2426 /* GLUT.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GLUT.framework; path = ../../../libs/glut/lib/osx/GLUT.framework; sourceTree = "<group>"; };
 		E4328143138ABC890047C5CB /* openFrameworksLib.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = openFrameworksLib.xcodeproj; path = ../../../libs/openFrameworksCompiled/project/osx/openFrameworksLib.xcodeproj; sourceTree = SOURCE_ROOT; };
 		E45BE9710E8CC7DD009D7055 /* AGL.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AGL.framework; path = /System/Library/Frameworks/AGL.framework; sourceTree = "<absolute>"; };
@@ -474,6 +477,8 @@
 				E4B69E1D0A3A1BDC003C02F2 /* main.cpp */,
 				E4B69E1E0A3A1BDC003C02F2 /* testApp.cpp */,
 				E4B69E1F0A3A1BDC003C02F2 /* testApp.h */,
+				8DFD017E1673D65300F38088 /* ofxTable.cpp */,
+				8DFD017F1673D65300F38088 /* ofxTable.h */,
 			);
 			path = src;
 			sourceTree = SOURCE_ROOT;
@@ -608,6 +613,7 @@
 				8DCD3D491665261D00938E95 /* simpleFileLister.cpp in Sources */,
 				8DCD3D4A1665261D00938E95 /* simpleLogger.cpp in Sources */,
 				8D3D39A4166A8B4A00F1A6CB /* ofxTrueTypeFontUC.cpp in Sources */,
+				8DFD01801673D65300F38088 /* ofxTable.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

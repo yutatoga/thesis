@@ -7,6 +7,7 @@
 #include "ofxControlPanel.h"
 #include "ofxXmlSettings.h"
 #include "ofxTrueTypeFontUC.h"
+#include "ofxTable.h"
 
 #define CENTER_CIRCLE_RADIUS 150
 #define ARC_RADIUS_CHANGER 2
@@ -33,14 +34,15 @@ class testApp : public ofBaseApp{
     
     void barplot(int modeNum);
     void drawWeekRatio(string weekName, string csvOwnerName);
-    vector<float> getGenreRateWeek(string csvOwnerName, int weekNum);
-    vector<float> getGenreRateTotal(string csvOwnerName);
+    vector<float> getGenreRateWeek(int csvOwnerID, int weekNum);
+    vector<float> getGenreRateTotal(int csvOwnerID);
     void bubbleSort(float x[], int n);
     float meanTopRange(vector<float> topRangeVector);
     float varTopRange(vector<float> topRangeVector);
     float covTopRange(vector<float> targetTopRangeVector, vector<float> referenceTopRangeVector);
     float corTopRange(float targetVar, float referenceVar, float cov);
-    
+    void setWhereAmI();
+    void setCurrentTopRangeCorVector();
     
     
     float thetaDegree;
@@ -99,6 +101,19 @@ class testApp : public ofBaseApp{
     //画面キャプチャ
     ofImage screenImg;
     
-    //all
+    //csvを読み込んでベクターにしておく。
+    vector<ofxCsv> csvCheckedImlGenreTableVector;
+    vector<ofxCsv> csvGenreNameListVector;
+    vector<ofxCsv> csvGraphDataVector;
+    vector<ofxCsv> csvGraphDataMatrixVector;
+    vector<ofxCsv> csvTimeStampVector;
     
+    //ソートする順番を格納するベクター
+    vector<int> whereAmI;
+    
+    //テーブルを描く自作クラス
+    ofxTable myTable;
+    
+    //現在のtopRangeから相関係数を計算して格納するベクター
+    vector< vector<float> > currentTopRangeCorVector;
 };

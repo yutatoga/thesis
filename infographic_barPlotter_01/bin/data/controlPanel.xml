@@ -20,7 +20,7 @@
     <val_0>1.000000000</val_0>
 </saturday>
 <foo>
-    <val_0>1.000000000</val_0>
+    <val_0>7.099999905</val_0>
 </foo>
 <imamura>
     <val_0>0.000000000</val_0>
@@ -781,3 +781,6 @@
 <topRangeRatio>
     <val_0>1.000000000</val_0>
 </topRangeRatio>
+<mode>
+    <val_0>0.000000000</val_0>
+</mode>
