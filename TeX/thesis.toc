@@ -1,0 +1,39 @@
+\contentsline {section}{\numberline {1}イントロダクション}{2}
+\contentsline {subsection}{\numberline {1.1}世の中の現状分析}{2}
+\contentsline {subsection}{\numberline {1.2}現状分析から見えてくる問題点}{2}
+\contentsline {subsection}{\numberline {1.3}現状分析から見えてくるチャンス}{3}
+\contentsline {subsection}{\numberline {1.4}特に注目する問題ひとつ（研究課題）}{3}
+\contentsline {subsubsection}{\numberline {1.4.1}実験の背景}{3}
+\contentsline {subsubsection}{\numberline {1.4.2}Music Earth}{3}
+\contentsline {subsubsection}{\numberline {1.4.3}Place Melody}{4}
+\contentsline {subsection}{\numberline {1.5}OtO}{4}
+\contentsline {subsection}{\numberline {1.6}既知の障害}{5}
+\contentsline {subsection}{\numberline {1.7}先行研究}{5}
+\contentsline {subsection}{\numberline {1.8}研究動機}{6}
+\contentsline {subsection}{\numberline {1.9}方針}{6}
+\contentsline {subsection}{\numberline {1.10}期待される成果}{6}
+\contentsline {subsection}{\numberline {1.11}キーワード}{6}
+\contentsline {section}{\numberline {2}分析手順}{6}
+\contentsline {subsection}{\numberline {2.1}曜日について}{7}
+\contentsline {subsection}{\numberline {2.2}音楽について}{8}
+\contentsline {subsection}{\numberline {2.3}グラフと、アンケートシートの比較}{8}
+\contentsline {section}{\numberline {3}結果}{8}
+\contentsline {subsection}{\numberline {3.1}規則的な人}{8}
+\contentsline {subsection}{\numberline {3.2}不規則な人}{8}
+\contentsline {subsection}{\numberline {3.3}音楽ジャンルの分布が一定な人}{9}
+\contentsline {subsection}{\numberline {3.4}音楽ジャンルの分布むらがある人}{9}
+\contentsline {subsection}{\numberline {3.5}ジャンル派（偏食型）}{9}
+\contentsline {subsection}{\numberline {3.6}ノンジャンル派（雑色型）}{10}
+\contentsline {subsection}{\numberline {3.7}音楽をあまり聴かない人}{10}
+\contentsline {subsection}{\numberline {3.8}シャッフル機能を使う人のチェックマークの入った楽曲の例}{10}
+\contentsline {section}{\numberline {4}分析}{11}
+\contentsline {subsection}{\numberline {4.1}曜日毎に再生されたものと、音楽ライブラリのジャンルの相関}{11}
+\contentsline {section}{\numberline {5}考察}{12}
+\contentsline {subsection}{\numberline {5.1}アンケートシートとの合致}{14}
+\contentsline {subsection}{\numberline {5.2}アンケートシートとの違い}{14}
+\contentsline {subparagraph}{結論}{14}
+\contentsline {subsection}{\numberline {5.3}今後の展望}{14}
+\contentsline {section}{\numberline {6}備考}{15}
+\contentsline {section}{\numberline {7}注釈}{15}
+\contentsline {section}{\numberline {8}参考サイト}{15}
+\contentsline {section}{\numberline {9}参考文献}{16}

@@ -1,0 +1,1715 @@
+never,Soundtrack,157492,0,false,em outro lugar
+never,Soundtrack,43075,0,false,ビバこばら
+never,Soundtrack,141871,0,false,ママ新発売! オープニング
+never,Soundtrack,40777,0,false,MAGICSWEETS
+never,クラシック,188342,0,false,Pleiades Dances III: Interlude with a Hymn
+never,クラシック,82651,0,false,Pleiades Dances III: Dance toward Right
+never,クラシック,100702,0,false,Pleiades Dances III: Globular Romance
+never,クラシック,78497,0,false,Pleiades Dances III: Dance toward Left
+never,クラシック,98403,0,false,Pleiades Dances III: Nonchalantry Prelude
+never,ポップ（日本）,260571,0,false,Future　Stream
+never,Pop,209162,0,false,夜間飛行
+2012-07-13 01:53:04,146,44016,1,false,KOBA_G014_120713
+never,ポップ（日本）,296385,0,false,Dream　sign
+never,ポップ（日本）,278099,0,false,PRINCESS　CODE
+never,Pop,224809,0,false,THE TOKYO TASTE
+2012-07-14 09:36:44,その他,254615,1,false,MOON SIGNAL
+never,CLASSIC,695092,0,false,トゥーランガリラ交響曲　第８楽章　愛の高揚
+never,Classic,382824,0,false,トゥーランガリラ交響曲　第５楽章　星の血の喜び
+never,Classic,622863,0,false,トゥーランガリラ交響曲　第４楽章　愛の歌２
+never,Classic,242416,0,false,トゥーランガリラ交響曲　第７楽章　トゥーランガリラ２
+never,Classic,639033,0,false,トゥーランガリラ交響曲　第６楽章　愛の眠りの庭
+never,Classic,102687,0,false,プレイアデス舞曲集９ｏｐ．８５　３．穏やかな角度のワルツ
+never,Classic,152084,0,false,プレイアデス舞曲集９ｏｐ．８５　２．水晶の小さなロマンス
+never,Classic,97227,0,false,プレイアデス舞曲集９ｏｐ．８５　５．放物線をしたロマンス
+never,Classic,214491,0,false,プレイアデス舞曲集９ｏｐ．８５　４．星降る夜の子守歌
+never,Classic,132153,0,false,プレイアデス舞曲集９ｏｐ．８５　６．夢みるアラベスク
+never,Soundtrack,109714,0,false,New Hope (Symphonic Version) <M7B>
+never,Soundtrack,178860,0,false,NAGI～Hesitation <M65+M66>
+never,Soundtrack,80744,0,false,Truth <M64>
+never,Soundtrack,176796,0,false,タイムトラベル～1993年ドイツ <M62+M63>
+never,Soundtrack,207360,0,false,Magical Battle (extend Version～Strings Version) <M67~M32B>
+never,Rock,341211,0,false,コーナー
+never,Rock,267650,0,false,「思いつき!思いつき!!」 なに? 「キャトル・ミューティれるの。」
+2012-07-01 09:58:36,none,14494,1,false,2(re)
+never,none,199209,0,false,トラック 18
+never,none,187846,0,false,トラック 17
+never,none,244088,0,false,トラック 20
+never,none,125257,0,false,トラック 19
+never,Soundtrack,262791,0,false,「Fly Out! Ultimate Daibouken」（インストゥルメンタル）
+never,Soundtrack,277786,0,false,「轟轟戦隊ボウケンジャー」（インストゥルメンタル）
+never,Soundtrack,456986,0,false,最強のプレシャスサウンド（映画版Bgm）
+never,Soundtrack,140460,0,false,心のチカラ (Short Edit For Movie)
+never,Soundtrack,6582,0,false,アイキャッチB
+never,Classic,479791,0,false,夜想曲第５番変ロ長調ｏｐ．３７
+never,Soundtrack,56920,0,false,Sougen
+2012-07-01 12:11:33,Classical,159869,1,false,Biber: Mystery Sonata #14_ "The Assumption Of The Virgin" - 1. [Praeludium]
+2012-07-01 12:17:42,Classical,368666,1,false,Biber: Mystery Sonata #14_ "The Assumption Of The Virgin" - 2. Ciacona (Aria)
+never,Classical,83879,0,false,Biber: Mystery Sonata #5_ "The Finding In The Temple" - 3. Guigue
+2012-07-01 11:44:14,Classical,97097,1,false,Biber: Mystery Sonata #5_ "The Finding In The Temple" - 2. Allamanda
+2012-07-01 12:27:25,Classical,312189,1,false,Biber: Mystery Sonata #15_ "The Coronation Of The Virgin" - 2. Aria
+never,Classical,81475,0,false,Biber: Mystery Sonata #5_ "The Finding In The Temple" - 4. Sarabanda
+never,Pop,185391,0,false,昼下がりのテーブル
+never,ロック,230556,0,false,On the Run
+never,none,235833,0,false,プラチナLover's Day
+never,Rock,257410,0,false,h.b
+never,Rock,284290,0,false,夜光る
+never,Rock,252499,0,false,ブルーハンティング
+never,Rock,284290,0,false,だんだん夢みたい
+never,Rock,196205,0,false,これは花びらかな、そうじゃないかも。
+never,Classic,256287,0,false,夜想曲第３番変イ長調ｏｐ．３３－３
+never,Soundtrack,128052,0,false,恋する☆宇宙戦争っ!!
+never,Domestic(J-Pops),298448,0,false,セレナーデ
+2012-04-22 04:44:50,Pop,29962,2,false,プレイバック2001
+never,ニューエイジ,303908,0,false,Steady State
+2012-04-22 04:50:02,Pop,321149,3,false,クレオパトラ2001
+never,ニューエイジ,219820,0,false,Harmonic Necklace
+never,none,28813,0,false,3004
+never,ニューエイジ,113319,0,false,Pandaharmonium
+never,Soundtrack,121469,0,false,F
+never,ニューエイジ,326217,0,false,Nothing Really Blue
+never,Jazz,305110,0,false,Pennies From Heaven
+never,Jazz,299206,0,false,When Your Lover Has Gone
+never,Jazz,355004,0,false,Bo-Till
+never,Jazz,321906,0,false,Stairway To The Stars
+never,Jazz,546142,0,false,I've Found a New Baby
+2012-04-01 04:57:57,Pop,238863,1,false,スリーパー
+2012-04-01 04:53:58,Pop,217312,1,false,ストロベリィ・スレイランド
+2012-04-01 04:50:21,Pop,286066,1,false,ピース・ミュージック
+2012-04-01 04:45:35,Pop,160104,1,false,ソフィスティケイテッド・キャッチー
+never,Domestic(J-Pops),263288,0,false,Ｆｏｒｅｖｅｒ　Ｆｒｉｅｎｄｓ
+2012-04-01 05:01:40,Pop,223346,1,false,優しい木曜日
+never,Soundtrack,122409,0,false,Electric Super Highway
+never,Soundtrack,345547,0,false,SHADE
+never,Soundtrack,120058,0,false,LAX5
+never,Soundtrack,118595,0,false,BLACK. by X-Cross Fade
+never,Soundtrack,118413,0,false,DIAVOLO_
+2012-06-21 05:10:42,none,80248,1,false,1-1 2
+never,Domestic(J-Pops),344163,0,false,僕はここにいる（ライヴ・ヴァージョン）
+2012-06-18 13:22:56,146,99448,1,false,KOBA_C004_120618_melo_kari
+2012-06-17 13:32:58,146,78027,2,false,KOBA_C003_120617_melo_kari
+2012-06-21 05:09:22,none,60743,1,false,1-1 1
+2012-06-20 23:49:56,146,100597,2,false,michiru_kana_duet
+2012-03-20 17:30:48,Classical,141844,1,false,樅の木は残った
+2012-04-13 08:05:31,Classical,147226,4,false,天と地と
+never,Domestic(J-Pops),284368,0,false,マンハッタン・キス
+never,Soundtrack,206262,0,false,別れの決意 <M59+M60>
+never,Soundtrack,194821,0,false,明日菜 <M57+M58>
+2012-04-16 12:22:18,Indie Rock,92969,1,false,Toner
+2012-04-16 12:29:14,Indie Rock,416626,1,false,Wataridori
+2012-04-16 12:33:00,Indie Rock,225828,1,false,Gum
+2012-04-16 12:33:39,Indie Rock,38739,1,false,Scum
+never,Indie Rock,278360,0,false,Omstart
+never,Soundtrack,111856,0,false,刹那 必殺剣 <M56>
+never,Other,169273,0,false,ハープ
+never,Other,68963,0,false,16St.+Rythm St._Rythm+Fl.
+never,Soundtrack,118256,0,false,Japanese Magic <M55>
+never,Other,220186,0,false,ヴァイオリンのサウンド
+never,Other,48300,0,false,St.+Cl.
+never,ロック,168672,0,false,Breathe
+never,Soundtrack,73639,0,false,Melody
+never,Soundtrack,42762,0,false,From Metropolis
+2012-08-07 01:14:26,Soundtrack,100362,1,false,Long Goodbye
+never,ジャンル情報なし,68310,0,false,トラック 1
+never,その他,576731,0,false,夢のなか
+never,クラシック,807157,0,false,SF交響ファンタジー第1番
+never,その他,846106,0,false,プサッファ
+never,その他,791040,0,false,相即相入Ⅱ
+never,その他,678321,0,false,雨の樹
+never,Soundtrack,177893,0,false,双角猛る砂漠の暴君 _ ディアブロス
+never,ロック,352339,0,false,Take Me Home
+never,Pop,220943,0,false,モンロー・ウォーク
+never,Soundtrack,176091,0,false,怒れる雪獅子 _ ドドブランゴ
+never,Soundtrack,191346,0,false,樹海の眠鳥 _ ヒプノック
+never,Soundtrack,40881,0,false,眠りへの誘い
+never,Classic,243382,0,false,弦楽四重奏曲第１番「クロイツェル・ソナタ」　第１楽章
+never,Classic,276584,0,false,弦楽四重奏曲第１番「クロイツェル・ソナタ」　第２楽章
+never,CLASSIC,253440,0,false,トゥーランガリラ交響曲　第９楽章　トゥーランガリラ３
+never,CLASSIC,389929,0,false,トゥーランガリラ交響曲　第１０楽章　フィナル
+never,Classic,246439,0,false,弦楽四重奏曲第１番「クロイツェル・ソナタ」　第３楽章
+never,Classic,828447,0,false,森の奥へ～児童合唱のための
+never,ロック,330788,0,false,In the Air Tonight
+never,Classic,219898,0,false,２つのロマンス　２．誕生日のロマンス
+never,Classic,1292956,0,false,ハープ協奏曲「回帰」－辻邦生の追憶に－
+never,Classic,102948,0,false,プレイアデス舞曲集９ｏｐ．８５　７．フィナーレの風景
+never,Classic,183614,0,false,２つのロマンス　１．名前のロマンス
+never,Soundtrack,105482,0,false,ハッピー☆マテリアル (Acoustic Version) <M43B>
+never,Soundtrack,179095,0,false,太古の律動 _ リオレイア
+never,Soundtrack,93257,0,false,おしえてほしいぞぉ、師匠 (TV Size)
+never,Soundtrack,109008,0,false,Magical Land <M48+Vo.Version>
+never,Soundtrack,15516,0,false,お誕生日の歌
+never,その他,539663,0,false,01 Different Trains America - Before the War
+never,Classical,188003,0,false,生命ある者へ
+never,Classical,205505,0,false,可愛いアイルー
+never,Classical,359340,0,false,狩人よ、前へ
+never,Soundtrack,104594,0,false,咆哮 _ リオレウス
+never,Soundtrack,110080,0,false,New Moon
+never,none,355422,0,false,トラック 04
+never,none,89208,0,false,トラック 03
+2012-07-08 19:47:54,none,116244,1,false,トラック 02
+2012-07-08 19:45:11,none,113005,1,false,トラック 01
+never,Soundtrack,254537,0,false,星間飛行 [LIVE in アルカトラズ]
+never,none,156682,0,false,トラック 05
+never,Pop,231758,0,false,Scotch And Rain
+2012-07-01 11:57:28,Classical,118674,1,false,Biber: Mystery Sonata #12_ "The Ascension" - 3. Allamanda
+never,Soundtrack,330004,0,false,心の迷宮
+never,Soundtrack,165381,0,false,「S.G.S〜いざ進めサージェス！〜」（インストゥルメンタル）
+never,Soundtrack,288235,0,false,真のプレシャス
+never,Soundtrack,135680,0,false,冒険者、暴走！
+never,ロック,149054,0,false,Surfer Girl
+never,Soundtrack,205270,0,false,Have A Break
+2012-07-01 11:28:20,Classical,66795,1,false,Biber: Mystery Sonata #2_ "The Visitation" - 1. Sonata
+2012-07-01 11:29:20,Classical,59402,1,false,Biber: Mystery Sonata #2_ "The Visitation" - 2. Presto
+never,ロック,149342,0,false,Surfin' U.S.A.
+never,ロック,173531,0,false,The Warmth Of The Sun
+2012-07-01 11:54:10,Classical,37146,1,false,Biber: Mystery Sonata #12_ "The Ascension" - 1. Intrada
+never,ロック,127555,0,false,Be True To Your School
+2012-07-01 11:37:29,Classical,100493,1,false,Biber: Mystery Sonata #3_ "The Nativity" - 3. Double
+2012-07-01 11:35:49,Classical,105273,1,false,Biber: Mystery Sonata #3_ "The Nativity" - 2. Courente
+never,ジャズ,266370,0,false,Countdown (Captain Fingers)
+2012-07-01 11:32:24,Classical,49502,1,false,Biber: Mystery Sonata #2_ "The Visitation" - 4. Presto
+never,Rock,256261,0,false,ブラインドタッチ
+never,Rock,71444,0,false,チーク
+never,Rock,162142,0,false,最終電車で海へいこう
+never,Rock,301479,0,false,シュリンプ (ガリバー6)
+never,Rock,134295,0,false,反吐、反吐、汽車
+never,Domestic(J-Pops),339800,0,false,わが母の教え給いし歌
+never,Domestic(J-Pops),332721,0,false,あなたのとりこ
+never,Domestic(J-Pops),313600,0,false,雨
+never,Domestic(J-Pops),332016,0,false,恋は水色
+never,Domestic(J-Pops),330919,0,false,グノシェンヌ
+never,Soundtrack,116375,0,false,赤い太陽
+never,Jazz,455444,0,false,How High The Moon
+never,Jazz,278622,0,false,Requiem
+never,Jazz,430680,0,false,Things Are Getting Better
+never,Jazz,359706,0,false,Lover Man
+never,Jazz,315637,0,false,The Third
+2012-04-01 04:13:11,Pop,90226,1,false,ひとくちアドヴァイス4
+never,Pop,296829,0,false,ハッピー・サッド(カラオケ)
+2012-04-01 04:19:53,Pop,76016,1,false,ひとくちアドヴァイス5
+2012-04-01 04:18:37,Pop,325590,1,false,スーパースター(カラオケ)
+never,Pop,253074,0,false,陽の当たる大通り(カラオケ)
+2012-03-21 08:45:46,Pop,308897,1,false,東京の合唱 ～午後のカフェで
+2012-06-10 06:28:21,145,104306,1,false,KOBA_c001_120610_vo
+never,none,78529,0,false,恋チョコ仮歌3
+2012-06-08 13:12:44,none,78573,2,false,恋チョコ仮歌2
+2012-06-08 12:01:01,none,78356,1,false,恋チョコ仮歌1
+2012-06-10 07:09:34,146,28264,2,false,payapapa
+2012-03-21 07:10:36,Pop,688848,1,false,ダーリン・オブ・ディスコティック
+2012-03-21 06:59:07,Pop,265168,1,false,プレイボーイ・プレイガール
+2012-03-21 08:40:38,Pop,232124,1,false,パーフェクト・ワールド
+never,Jazz,259291,0,false,Toot_ Toot_ Tootsie
+2012-04-16 13:42:56,none,242520,3,false,[120416]gekiban1_tentochito_tomita
+never,Indie Rock,292075,0,false,Music
+never,Indie Rock,282644,0,false,Sleep Warm
+never,Indie Rock,243017,0,false,Beep It
+never,Indie Rock,208274,0,false,Like A Rolling Stone
+never,Other,53211,0,false,Fl.+Ob.unis Fl.+Cl.unis Ob.+Cl.unis
+never,Other,14994,0,false,クラリネットとオーボエ
+never,Other,13635,0,false,フルートとクラリネット
+never,Other,14367,0,false,フルートとオーボエ
+never,Soundtrack,178964,0,false,F refrain
+never,Other,40594,0,false,7ブラス、フルートとリズム
+never,Soundtrack,308793,0,false,恋はドッグファイト [FIRST LIVE in アトランティスドーム]
+2012-08-07 01:12:53,Soundtrack,185051,1,false,Dear Blue
+never,Soundtrack,98403,0,false,Life is Dance
+2012-08-07 00:59:29,Soundtrack,84244,1,false,Lion Man
+never,Soundtrack,125884,0,false,Thunderbolt
+never,Soundtrack,165407,0,false,水上の戦慄
+never,Soundtrack,157701,0,false,毒湿地の蟹将軍 _ ショウグンギザミ
+never,Pop,232385,0,false,Sleeping Lady
+never,Soundtrack,44538,0,false,炎河の溶岩竜
+never,Soundtrack,179487,0,false,マグマを纏う炎魔 _ ヴォルガノス
+never,Soundtrack,183170,0,false,秘境の伝説
+never,クラシック,740963,0,false,Pléïades_ for 6 percussionists: I: Mélanges
+never,クラシック,596950,0,false,Pléïades_ for 6 percussionists: II: Métaux
+never,クラシック,488960,0,false,Pléïades_ for 6 percussionists: III: Claviers
+never,クラシック,644780,0,false,Pléïades_ for 6 percussionists: IV: Peaux
+never,クラシック,675108,0,false,Psappha_ for solo percussion
+never,Classic,773198,0,false,牧歌「夏風の中で」
+never,Classic,660062,0,false,パッサカリアｏｐ．１
+never,Classic,54961,0,false,管弦楽のための６つの小品ｏｐ．６　１（２管改訂版）
+never,Classic,81397,0,false,管弦楽のための６つの小品ｏｐ．６　２（２管改訂版）
+never,ロック,128261,0,false,All Summer Long
+never,Classic,63373,0,false,管弦楽のための６つの小品ｏｐ．６　３（２管改訂版）
+never,Classic,79098,0,false,プレイアデス舞曲集８ｏｐ．７８ａ　３．水のアンダンテ
+never,Soundtrack,136881,0,false,walk travel along
+never,Soundtrack,284813,0,false,ホシキラ
+never,Classic,89991,0,false,プレイアデス舞曲集７ｏｐ．７６　６．柔らかな時の舞曲
+never,Classic,130455,0,false,プレイアデス舞曲集７ｏｐ．７６　７．優しき風のロンド
+never,Classic,100231,0,false,プレイアデス舞曲集８ｏｐ．７８ａ　１．月のプレリュード
+never,Classic,126589,0,false,プレイアデス舞曲集８ｏｐ．７８ａ　２．火のモデラート
+never,Pop,192862,0,false,スローなブギにしてくれ (I Want You)
+never,Classical,289436,0,false,英雄の証
+never,Classical,211617,0,false,精霊へ歌う唄
+never,Classical,238968,0,false,嵐に舞う黒い影 ～クシャルダオラ～ 炎国の王妃 ～テオ・テスカトル & ナナ・テスカトリ～
+never,Classical,201639,0,false,牙を剥く轟竜 _ ティガレックス ～ 闇に走る赤い残光 _ ナルガクルガ
+never,Classical,260597,0,false,ポッケ村のテーマ
+never,Classic,272300,0,false,交響曲第３番ｏｐ．２５　第２楽章　諧謔について
+never,Classic,423862,0,false,交響的二楽章ｏｐ．２２　第２楽章
+never,Classic,908486,0,false,交響曲第３番ｏｐ．２５　第１楽章　静かなる序曲－精神の誕生とその発展
+never,Classic,428225,0,false,こどものための小交響曲変ロ調ｏｐ．２４　第３楽章
+never,Classic,724140,0,false,交響的二楽章ｏｐ．２２　第１楽章
+never,Soundtrack,211382,0,false,サージェス･サロン
+never,Soundtrack,230870,0,false,見つからない宝物
+never,Soundtrack,335516,0,false,略奪者Vs冒険者
+never,Soundtrack,187297,0,false,轟轟合体!ダイボウケン!! (インストゥルメンタル)
+never,Soundtrack,23196,0,false,豹
+never,Soundtrack,175830,0,false,宿命の狩人
+never,none,144404,0,false,トラック 06
+never,none,195160,0,false,トラック 07
+2012-07-08 19:55:52,none,98742,1,false,トラック 08
+never,none,62563,0,false,トラック 09
+never,none,70164,0,false,トラック 10
+never,Soundtrack,260858,0,false,Get it on ～ 光速クライmax
+never,Jazz,260127,0,false,Moonlight Becomes You
+never,Jazz,476447,0,false,Polka Dots And Moonbeams
+never,Jazz,126850,0,false,Sure Thing
+never,Jazz,290246,0,false,Rock-A-Bye Your Baby With Dixie Melody
+never,Jazz,279875,0,false,Easy To Love
+2012-07-01 11:31:35,Classical,135314,1,false,Biber: Mystery Sonata #2_ "The Visitation" - 3. Allamanda
+never,ロック,130533,0,false,Catch A Wave
+2012-07-01 11:58:51,Classical,82651,1,false,Biber: Mystery Sonata #12_ "The Ascension" - 4. Courente
+never,ロック,128130,0,false,Surfin' Safari
+never,ジャズ,116349,0,false,No Sympathy (Reprise)
+2012-07-01 11:55:30,Classical,80013,1,false,Biber: Mystery Sonata #12_ "The Ascension" - 2. Aria Tubicinum
+never,ジャズ,252029,0,false,On the Slow Glide
+never,Soundtrack,334132,0,false,僕たちが恋をする理由
+never,Soundtrack,300747,0,false,マジックナンバー <123! mix>
+never,Soundtrack,289306,0,false,ループ ～sunset side
+never,Soundtrack,265560,0,false,光あれ
+never,Soundtrack,274128,0,false,Remedy
+never,Rock,261929,0,false,わぁ。 (驚きに満ちた小さな悲鳴)
+never,Rock,518008,0,false,耳うちせずにいられないことが
+never,Rock,295418,0,false,エンゼルコール
+never,Rock,263471,0,false,息をのんで
+never,Rock,355500,0,false,左腕◇ポエジー
+never,ニューエイジ,260466,0,false,Air
+never,ニューエイジ,152450,0,false,Telephone and Rubber Band
+never,ニューエイジ,289697,0,false,Dirt
+never,ニューエイジ,138344,0,false,Giles Farnaby's Dream
+never,ニューエイジ,190458,0,false,Oscar Tango
+never,Jazz,310334,0,false,Two Kinds Of Blues
+never,Jazz,326556,0,false,Falling In Love With Love
+never,Jazz,731794,0,false,I'll Remember April
+never,Jazz,268408,0,false,Carol
+never,Jazz,261015,0,false,Mythe
+never,Pop,145371,0,false,ひとくちアドヴァイス8
+never,Pop,56058,0,false,ひとくちアドヴァイス7
+never,Pop,345600,0,false,万事快調(カラオケ)
+2012-04-01 04:29:26,Pop,77583,1,false,ひとくちアドヴァイス6
+never,Pop,199549,0,false,トゥイギー・トゥイギー(カラオケ)
+2012-06-10 08:08:30,none,27974,1,false,payapapa 1
+never,クラシック,133720,0,false,Pièces froides (6 Cold Pieces) for piano: (Danses de travers) (3) [Complete]
+2012-06-13 09:46:25,146,124604,10,false,mifuyu_koichoco
+2012-06-10 11:53:50,146,124604,2,false,KOBA_c002_120610_vo
+never,クラシック,364773,0,false,Pavane pour une infante defunte_ for piano (or orchestra)
+2012-08-05 08:37:24,146,124604,4,false,KOBA_c002_120610_vo2
+2012-06-10 12:41:32,146,104306,1,false,KOBA_c001_120610_vo3
+never,Classic,460800,0,false,夜想曲第１３番ロ短調ｏｐ．１１９
+never,クラシック,804075,0,false,Bolero_ ballet for orchestra (or piano)
+never,Classic,236538,0,false,夜想曲第１１番嬰へ短調ｏｐ．１０４－１
+never,クラシック,80953,0,false,Pièces froides (6 Cold Pieces) for piano: (Danses de travers) (3) [Complete]
+never,クラシック,162168,0,false,Nocturnes (5) for piano: No. 5_ (w_out title)
+never,クラシック,69903,0,false,Parade_ ballet: Rag-Time
+never,Pop,306834,0,false,曠野へ
+never,クラシック,96287,0,false,Pièces froides (6 Cold Pieces) for piano: (Danses de travers) (3) [Complete]
+never,ロック,148401,0,false,Drive My Car
+never,Classic,325955,0,false,夜想曲第１２番ホ短調ｏｐ．１０７
+never,ロック,125152,0,false,Norwegian Wood (This Bird Has Flown)
+never,ロック,136071,0,false,We Can Work It Out
+never,Rock,156760,0,false,Show Business
+2012-04-16 13:58:31,Rock,279693,1,false,My Brave Face
+2012-04-16 13:53:52,Rock,220995,1,false,コメディ・ショウ
+never,ロック,169586,0,false,Day Tripper
+2012-05-26 13:59:48,Rock,210834,2,false,午前8時の脱走計画
+2012-06-04 01:39:01,Rock,223895,3,false,RALLY
+never,Other,58174,0,false,フォーカス4
+never,Other,75807,0,false,フォーカス3
+never,Other,165120,0,false,フレンチホルンのサウンド
+never,DOMESTIC(J-POPS),233743,0,false,幸せの探し方
+never,Other,36231,0,false,4ブラスとリズム
+never,DOMESTIC(J-POPS),260623,0,false,ロンサム・シーズン
+never,DOMESTIC(J-POPS),302288,0,false,Ｑｕｉｅｔ　Ｌｉｆｅ
+never,DOMESTIC(J-POPS),264646,0,false,シングル・アゲイン
+2012-08-07 01:09:54,Soundtrack,34690,1,false,Don't Spend MONEY! MONEY!
+2012-08-07 01:00:08,Soundtrack,41665,1,false,電線にタコが絡まっちゃったらどうするの?
+never,Soundtrack,34873,0,false,Modern Line
+never,Pop,192783,0,false,Marie_ Come Back
+never,Classic,163840,0,false,ニューヨーク・カウンターポイント　２．Ｓｌｏｗ
+never,Classic,303255,0,false,ニューヨーク・カウンターポイント　１．Ｆａｓｔ
+never,CLASSIC,1051559,0,false,エイト・ラインズ
+never,CLASSIC,214569,0,false,ニューヨーク・カウンターポイント　３．Ｆａｓｔ
+never,CLASSIC,953051,0,false,４台のオルガン
+never,Classic,172773,0,false,管弦楽のための６つの小品ｏｐ．６　５（２管改訂版）
+never,Classic,295392,0,false,管弦楽のための６つの小品ｏｐ．６　４（２管改訂版）
+never,Classic,56973,0,false,管弦楽のための５つの小品ｏｐ．１０　１
+never,Classic,120764,0,false,管弦楽のための６つの小品ｏｐ．６　６（２管改訂版）
+never,Classic,37093,0,false,管弦楽のための５つの小品ｏｐ．１０　２
+never,Classic,77766,0,false,プレイアデス舞曲集９ｏｐ．８５　１．しなやかな前奏曲
+never,Classic,94223,0,false,プレイアデス舞曲集８ｏｐ．７８ａ　５．金のアダージョ
+never,Classic,70034,0,false,プレイアデス舞曲集８ｏｐ．７８ａ　４．木のスケルツォ
+never,Classic,113162,0,false,プレイアデス舞曲集８ｏｐ．７８ａ　７．日のポストリュード
+never,Classic,117028,0,false,プレイアデス舞曲集８ｏｐ．７８ａ　６．土のアレグロ
+never,Classic,196310,0,false,こどものための小交響曲変ロ調ｏｐ．２４　第２楽章
+never,Classic,322899,0,false,こどものための小交響曲変ロ調ｏｐ．２４　第１楽章
+never,Classic,332277,0,false,人間の死　第三章　（「幽冥礼賛」より）
+never,Classic,789681,0,false,人間の死　第二章　（ＤＩＥＳ　ＩＲＡＥ，「父の死を悼む歌」より，声明と理趣経，「梁塵秘抄口伝集，巻十」より）
+never,Classic,311066,0,false,人間の死　第一章　ｃ郡（「ソレアの唄」）
+never,Soundtrack,204355,0,false,略奪の影
+never,Soundtrack,216894,0,false,冒険開始
+never,Soundtrack,232568,0,false,Today's Mission
+never,Soundtrack,100101,0,false,轟轟戦隊ボウケンジャー (TVサイズ)
+never,Soundtrack,202004,0,false,人に隠れて悪を成す!
+never,Soundtrack,166452,0,false,ねじれトラウマ
+never,Jazz,113737,0,false,Darn That Dream
+2012-07-25 13:16:32,146,75023,2,false,KOBA_C005_120717_kari
+never,Jazz,483422,0,false,Bobbie Pin
+2012-07-17 11:04:08,none,249129,1,false,【初音ミク】 Tell Your World ／ livetune (kz)
+never,Jazz,485694,0,false,It's You Or No One
+2012-07-19 00:13:43,146,97541,1,false,sphere2
+never,Jazz,317492,0,false,My Funny Valentine
+2012-07-18 21:36:21,146,97541,2,false,sphere1
+2012-07-19 01:20:17,none,72000,1,false,仮歌１
+never,Jazz,470987,0,false,Movin' Around
+never,Pop,94667,0,false,Overture
+never,ロック,216581,0,false,Good Vibrations
+2012-07-01 11:52:12,Classical,256000,1,false,Biber: Mystery Sonata #11_ "The Resurrection" - 2. Surrexit Christus Hodie
+never,Soundtrack,127164,0,false,WONDER WALKER
+never,ジャズ,429897,0,false,Run for Cover [Live]
+never,ロック,190145,0,false,Help Me_ Rhonda
+2012-07-01 11:47:56,Classical,167497,1,false,Biber: Mystery Sonata #11_ "The Resurrection" - 1. The Sweating Of Blood
+never,ジャズ,317884,0,false,Just What I Needed [New Version]
+never,Soundtrack,252734,0,false,NO FEAR _ あいすること
+never,Soundtrack,97253,0,false,yellow head joe
+never,Soundtrack,228284,0,false,ダニエル
+never,Soundtrack,296594,0,false,ユッカ
+never,Soundtrack,236120,0,false,blind summer fish
+never,Soundtrack,199026,0,false,gravity
+never,Rock,209502,0,false,「横浜市立阿龍公園」
+2012-07-01 11:42:37,Classical,80692,1,false,Biber: Mystery Sonata #5_ "The Finding In The Temple" - 1. Praeludium
+never,Rock,294844,0,false,天国北上
+never,Rock,242625,0,false,ハーシーズ・ムーンシャイン
+never,Soundtrack,126693,0,false,24th Century BOY
+never,Rock,405629,0,false,リトルエクスタシィ
+never,Classical,506880,0,false,Biber: Mystery Sonata #4_ "The Presentation" (Ciacona)
+never,Rock,266109,0,false,泡と光
+never,ニューエイジ,270236,0,false,Air à Danser
+never,none,356257,0,false,a little love song／恋チョコ千里ED
+never,ニューエイジ,254563,0,false,Rosasolis
+2012-05-28 08:26:25,none,348055,1,false,三つ葉のクローバー／恋チョコ衣更ED
+never,ニューエイジ,230373,0,false,White Mischief
+never,none,361064,0,false,きみいろ おしえて／恋チョコ未散ED
+never,ニューエイジ,349152,0,false,Yodel 3
+never,none,234057,0,false,青空StartingLine／恋チョコ皐月ED
+2012-06-01 21:43:24,146,84035,11,false,koichoco_beta
+never,ニューエイジ,72698,0,false,Prelude and Yodel
+never,Classical,128026,0,false,Biber: Mystery Sonata #9_ "The Carrying Of The Cross" - 3. Doubles 1 & 2
+never,Classical,92891,0,false,Biber: Mystery Sonata #9_ "The Carrying Of The Cross" - 4. Finale
+never,Jazz,203180,0,false,Move
+never,Jazz,203572,0,false,A Foggy Day
+never,Jazz,333139,0,false,Status Quo
+never,Soundtrack,112013,0,false,Ubique
+never,Pop,231784,0,false,日付変更線
+never,Pop,322377,0,false,柔らかな午後
+2012-03-28 07:27:45,Pop,120816,1,false,We Love Karaoke
+never,Soundtrack,303203,0,false,生誕のレクイエム
+never,Soundtrack,201978,0,false,決意
+never,Soundtrack,382484,0,false,君がいるから (Long Version)
+never,Soundtrack,282462,0,false,エンディングロール
+never,クラシック,166687,0,false,Nocturnes (5) for piano: No. 4_ (w_out title)
+never,Classic,263810,0,false,夜想曲第１０番ホ短調ｏｐ．９９
+never,クラシック,249129,0,false,Nocturnes (5) for piano: No. 1_ "Doux et calme"
+never,Classic,132284,0,false,夜想曲第８番変ニ長調ｏｐ．８４－８
+never,Other,71627,0,false,フリューゲルホーンのクラスター効果
+never,クラシック,220395,0,false,Nocturnes (5) for piano: No. 3_ "Un peu mouvemente"
+never,クラシック,150622,0,false,Nocturnes (5) for piano: No. 2_ "Un peu mouvemente"
+never,Soundtrack,151196,0,false,ドレッドノート大爆進!
+never,Soundtrack,146128,0,false,ライトニングのテーマ
+never,Soundtrack,205270,0,false,サッズのテーマ
+2012-03-28 13:05:49,Soundtrack,267624,1,false,アフロブルース
+never,Soundtrack,182413,0,false,遺棄領域ヴァイルピークス
+never,Soundtrack,106736,0,false,Almace
+never,Soundtrack,126902,0,false,Into The Sunlight
+never,Soundtrack,131813,0,false,Mermaid girl -秋葉工房 MIX-
+never,Soundtrack,124160,0,false,A MINSTREL ～ver. short-scape～
+never,Soundtrack,123480,0,false,Yellow Sunrise
+2012-07-25 12:54:38,Other,51617,1,false,フォーカス2
+2012-07-24 03:27:07,Other,150987,1,false,Time And Love
+2012-07-24 03:27:48,Other,45270,1,false,フォーカス(リズムとストリングス)
+never,オーケストラ,101929,0,false,The Light of Day
+2012-07-24 03:23:50,ポップス,67056,2,false,なんだこの美味さは～
+never,ジャズ,248973,0,false,(You Caught Me) Smilin'
+2012-08-07 01:09:22,Soundtrack,23405,1,false,チヤホヤされた女
+never,Pop,318145,0,false,Cool
+never,ロック,188891,0,false,Are You Lonesome Tonight?
+never,ロック,180741,0,false,Can't Help Falling in Love
+never,Classic,180793,0,false,交響曲ｏｐ．２１　第２楽章
+never,Classic,363102,0,false,交響曲ｏｐ．２１　第１楽章
+never,Classic,60995,0,false,管弦楽のための５つの小品ｏｐ．１０　５
+never,Classic,37955,0,false,管弦楽のための５つの小品ｏｐ．１０　４
+never,Classic,106971,0,false,管弦楽のための５つの小品ｏｐ．１０　３
+never,Soundtrack,450246,0,false,娘々FINAL ATTACK フロンティア グレイテスト☆ヒッツ!
+never,Pop,236564,0,false,プールサイド
+never,クラシック,938631,0,false,Music for a Large Ensemble
+never,クラシック,282984,0,false,3. Fast
+never,クラシック,201769,0,false,2. Slow
+never,クラシック,587441,0,false,Vermont Counterpoint (Version for Vibraphone)
+never,クラシック,994429,0,false,Six Marimbas Counterpoint
+never,Classic,830328,0,false,弦楽四重奏のための「ヘテロフォニー」
+never,その他,488280,0,false,交響曲 Ⅲ. Allegro - Lento - Allegro
+never,その他,249808,0,false,交響曲　Ⅱ. Adagio
+never,Classic,1034971,0,false,光の蜜
+never,Classic,644754,0,false,ピパ
+never,Soundtrack,262400,0,false,「Never Ending Voyage」（インストゥルメンタル）
+never,Soundtrack,214465,0,false,轟音炸裂！超絶轟轟合体!!
+never,Soundtrack,263026,0,false,「冒険者 ON THE ROAD(Album Version)」（インストゥルメンタル）
+never,Soundtrack,141035,0,false,ミッション完了！
+never,Soundtrack,20271,0,false,Next Mission
+never,Jazz,130377,0,false,L'Assassinat De Carala
+never,Jazz,653113,0,false,I Can't Get Started
+2012-07-21 04:00:38,none,96048,2,false,sphere_ed
+never,Jazz,181524,0,false,Softly With Feeling
+never,Jazz,182700,0,false,Mid-Forte
+2012-07-25 13:12:35,146,98089,4,false,KOBA_C005_120719_inst
+2012-07-21 03:56:01,146,96444,4,false,sphere_jurit
+never,Jazz,331180,0,false,Once In a While
+2012-07-25 13:15:25,146,98089,4,false,KOBA_C005_120719_vo
+2012-07-19 13:28:31,146,98089,1,false,KOBA_C005_120719_melo
+never,ジャズ,503013,0,false,My name is Daniel Pearl (I'm a Jewish American from Encino California)
+2012-03-21 01:43:46,Classical,165773,1,false,北条時宗
+never,Classic,90749,0,false,プレイアデス舞曲集６ｏｐ．７１　５．秋の舟唄
+never,クラシック,370703,0,false,Pulses
+never,ジャズ,384235,0,false,I saw a dream
+2012-03-21 01:35:10,Classical,146860,1,false,徳川慶喜
+2012-05-23 06:44:40,Classical,166556,3,false,毛利元就
+2012-03-21 01:41:01,Classical,166635,1,false,葵 ～徳川三代～
+never,ジャズ,610194,0,false,I sure hope Gabriel likes my music_ when the day is done
+2012-03-21 01:38:14,Classical,183902,1,false,元禄繚乱
+never,Classic,119588,0,false,プレイアデス舞曲集６ｏｐ．７１　７．ロンド…春ふたたび
+never,ジャズ,288287,0,false,No Sympathy
+never,ジャズ,269296,0,false,Is It You?
+never,ジャズ,209449,0,false,Mr. Briefcase
+never,ジャズ,254772,0,false,(Just) Tell Me Pretty Lies
+never,ジャズ,108225,0,false,Dreamwalk
+never,Pop,336091,0,false,冒険王
+never,ロック,161567,0,false,California Girls
+never,ロック,124525,0,false,Fun_ Fun_ Fun
+never,ロック,112065,0,false,Shut Down
+never,ロック,138501,0,false,Wendy
+never,ロック,136045,0,false,I Get Around
+2012-03-21 07:30:35,Soundtrack,244401,1,false,ポケットを空にして
+2012-03-21 07:22:00,Soundtrack,416626,1,false,Feel Myself
+2012-03-21 07:26:30,Soundtrack,270628,1,false,ユニバース
+never,Soundtrack,360411,0,false,30minutes night flight
+2012-07-08 19:43:18,Soundtrack,251689,3,false,プラチナ
+2012-05-16 06:31:57,Soundtrack,191190,3,false,The Untouchables
+2012-05-13 13:39:14,none,63480,1,false,wel_magi_cloud 1
+2012-05-28 09:35:50,none,276504,4,false,たっちしよ_下田麻美_ねえ_Final
+2012-05-23 06:03:12,Soundtrack,82494,6,false,純ちゃんの応援歌
+never,ロック,128130,0,false,Eleanor Rigby
+never,ロック,139154,0,false,Paperback Writer
+2012-05-28 09:37:52,none,114912,2,false,恋と選挙とチョコレート　OP
+never,ロック,151484,0,false,Girl
+never,ロック,147200,0,false,In My Life
+never,ロック,162403,0,false,Michelle
+never,Soundtrack,293459,0,false,カザミドリ
+never,クラシック,110706,0,false,Section 10
+never,Soundtrack,332800,0,false,tune the rainbow
+never,Soundtrack,238393,0,false,パイロット
+never,Soundtrack,350275,0,false,Gift
+never,Jazz,148166,0,false,Gotta Dance
+never,クラシック,323787,0,false,Section 9
+never,Soundtrack,216241,0,false,約束はいらない
+never,Classic,86517,0,false,プレイアデス舞曲集７ｏｐ．７６　３．数え直しのワルツ
+2012-04-01 04:08:14,Pop,75128,2,false,ひとくちアドヴァイス3
+never,クラシック,258977,0,false,Section 7
+2012-03-28 07:33:39,Pop,276819,1,false,スウィート・ソウル・レビュー(カラオケ)
+2012-07-01 12:19:44,Classical,122723,1,false,Biber: Mystery Sonata #14_ "The Assumption Of The Virgin" - 3. [Guigue]
+2012-03-28 07:29:03,Pop,77505,1,false,ピチカート・ファイブのひとくちアドヴァイス1
+2012-03-28 07:40:17,Pop,299049,1,false,東京は夜の七時(カラオケ)
+2012-04-10 08:56:58,Pop,98795,2,false,ひとくちアドヴァイス2
+never,Pop,238262,0,false,Girl
+never,Rock,86360,0,false,Trombone Dixie (Highlights From Tracking Date)
+never,Rock,198504,0,false,Sloop John B (Stereo Backing Track)
+never,Classic,338442,0,false,夜想曲第２番ロ長調ｏｐ．３３－２
+never,Classic,400300,0,false,夜想曲第１番変ホ短調ｏｐ．３３－１
+never,Classic,366968,0,false,夜想曲第４番変ホ長調ｏｐ．３６
+never,Rock,57103,0,false,Pet Sounds (Highlights From Tracking Date)
+2012-03-28 13:01:22,Soundtrack,64365,1,false,撃墜
+2012-03-28 13:00:17,Soundtrack,119066,1,false,脱出
+never,Soundtrack,157753,0,false,騎兵隊のテーマ
+never,Rock,170762,0,false,Trombone Dixie (Stereo Backing Track)
+2012-03-28 12:56:23,Soundtrack,128208,1,false,つかのまの安息
+2012-03-28 12:54:14,Soundtrack,75102,1,false,バトルリザルト
+never,Soundtrack,125074,0,false,Lucky Days
+never,Soundtrack,126928,0,false,prompt
+never,Soundtrack,126850,0,false,ЁVOLUTIΦN
+2012-07-01 12:22:13,Classical,148375,1,false,Biber: Mystery Sonata #15_ "The Coronation Of The Virgin" - 1. Sonata
+never,Soundtrack,105404,0,false,陽炎
+never,Soundtrack,124995,0,false,ユミル
+never,Rock,330710,0,false,ウィッグビーチ
+never,Rock,408920,0,false,「潜水バースディ」
+never,Rock,315297,0,false,大きなベイベ
+never,Rock,266292,0,false,頭上の水面 白 白 白
+never,Rock,252368,0,false,天使が降りたつまえに
+2012-08-03 13:04:20,Pop,256496,5,false,エトランゼ
+2012-08-03 03:01:10,Soundtrack,243853,7,false,You & Me
+2012-08-03 01:41:55,ポップス,58592,3,false,おはよう! お兄ちゃん!!
+2012-08-03 01:40:57,ポップ,202396,6,false,candy smile
+2012-08-03 04:01:27,Pop,289567,4,false,Tomorrow
+never,ジャズ,269008,0,false,Nadine
+never,ロック,154592,0,false,A Hard Day's Night
+never,ロック,133067,0,false,Can't Buy Me Love
+2012-08-07 01:08:39,Soundtrack,240666,1,false,Exaelitus
+never,ジャズ,214334,0,false,Goodbye Pork Pie Hat
+2012-08-08 07:38:06,Soundtrack,69720,1,false,お嬢様と執事 ～ 夏の田舎
+never,ワールド,125293,0,false,Finding a Flower Between the Pages
+never,Pop,263862,0,false,黒猫 (シャ・ノアール)
+never,ワールド,244173,0,false,Postlude
+never,ワールド,219573,0,false,玉響〜tamayura〜
+never,Musique Religieuse,1282612,0,false,SAINT-FRANCOIS D'ASSISE. - Acte I: 1° Tableau: La Croix
+never,Classic,153051,0,false,協奏曲ｏｐ．２４～フルート，オーボエ，クラリネット，ホルン，トランペット，トロンボーン，ヴァイオリン，ヴィオラとピアノのための　第１楽章
+never,Classic,125962,0,false,協奏曲ｏｐ．２４～フルート，オーボエ，クラリネット，ホルン，トランペット，トロンボーン，ヴァイオリン，ヴィオラとピアノのための　第２楽章
+never,ワールド,187893,0,false,Vernal Wish
+never,Classic,85864,0,false,協奏曲ｏｐ．２４～フルート，オーボエ，クラリネット，ホルン，トランペット，トロンボーン，ヴァイオリン，ヴィオラとピアノのための　第３楽章
+never,Classic,421302,0,false,変奏曲ｏｐ．３０
+never,none,198008,0,false,トラック 11
+never,none,146991,0,false,トラック 10
+never,none,283480,0,false,トラック 9
+never,none,153991,0,false,トラック 8
+never,none,223451,0,false,トラック 7
+never,R&Amp,1302648,0,false,Six Pianos
+never,R&Amp,1200483,0,false,IN C
+never,クラシック,919457,0,false,Violin Phase
+2012-07-12 03:24:54,none,221,1,false,VEH2 Snares - 027
+never,クラシック,1049913,0,false,Octet
+2012-07-12 03:24:52,none,226,1,false,VEH2 Snares - 025
+2012-07-12 03:24:53,none,234,1,false,VEH2 Snares - 026
+never,アバンギャルド,292806,0,false,Clapping Music
+2012-07-12 03:24:49,none,308,1,false,VEH2 Snares - 023
+2012-07-12 03:24:50,none,140,1,false,VEH2 Snares - 024
+never,その他,725185,0,false,ピアノ協奏曲 第2番　Ⅰ.
+never,その他,1206726,0,false,ピアノ協奏曲 第2番　Ⅱ.
+never,Classic,816013,0,false,交響曲第３番ｏｐ．２５　第３楽章　死についての諸観念
+never,その他,812956,0,false,管弦楽のための前奏曲
+never,その他,722782,0,false,交響曲 Ⅰ. Andante - Lento - Allegro - Lento
+never,Soundtrack,91219,0,false,the isle of mayan
+never,Soundtrack,235833,0,false,総攻撃！ネガティブシンジケート
+never,Soundtrack,276114,0,false,破滅への序曲
+never,Soundtrack,276375,0,false,野望結集
+never,Soundtrack,382275,0,false,燃やせ！不屈の冒険魂
+never,Soundtrack,284081,0,false,「Start Up!〜絆〜」（インストゥルメンタル）
+never,Jazz,205792,0,false,Turkish Mambo
+never,Jazz,285544,0,false,Serves Me Right
+never,Jazz,175464,0,false,The Last Time I Saw Paris
+never,Jazz,273893,0,false,It Don't Mean a Thing If It Ain't Got That Swing
+never,Jazz,197041,0,false,I'll Be Seeing You
+never,Classic,121234,0,false,プレイアデス舞曲集７ｏｐ．７６　１．途切れた淡い前奏曲
+2012-04-01 09:52:59,Classical,166373,2,false,秀吉
+never,Classic,134400,0,false,プレイアデス舞曲集７ｏｐ．７６　２．静止した夢のパヴァーヌ
+never,クラシック,214569,0,false,Section 8
+never,Classic,92029,0,false,プレイアデス舞曲集７ｏｐ．７６　４．流動的なインベンション
+never,Classic,134426,0,false,プレイアデス舞曲集７ｏｐ．７６　５．遠い夢のロマンス
+2012-03-21 01:18:40,Classical,163160,1,false,琉球の風
+2012-03-21 01:21:32,Classical,172800,1,false,炎立つ
+2012-03-21 01:24:23,Classical,170840,1,false,花の乱
+never,クラシック,344346,0,false,Section 11
+2012-03-21 01:27:11,Classical,167601,1,false,八代将軍吉宗
+never,ロック,151379,0,false,And I Love Her
+never,ジャズ,214987,0,false,Home
+never,ジャズ,207124,0,false,Nikki's Groove
+never,ロック,129175,0,false,All My Loving
+never,ジャズ,394318,0,false,I Want to Be There (Unsual Girl)
+never,Soundtrack,209841,0,false,悲愴
+never,ロック,164493,0,false,Eight Days a Week
+2012-03-21 07:42:01,Dance & House,349335,1,false,Garden of Eden
+2012-03-21 07:36:11,Soundtrack,336770,1,false,everywhere
+2012-03-21 07:50:37,Dance & House,207360,1,false,Steal up Behind
+2012-03-21 07:47:09,Dance & House,300773,1,false,LIAR GAME -Season 2 edit-
+never,Pop,214569,0,false,眠りの坂道
+2012-03-21 07:56:11,Dance & House,334393,1,false,Desert Road
+never,none,198269,0,false,トラック 1
+never,Soundtrack,317910,0,false,禁断のエリクシア
+never,ニューエイジ,375431,0,false,Penguin Cafe Single
+never,ロック,159503,0,false,Yellow Submarine
+never,ニューエイジ,163970,0,false,Music for a Found Harmonium
+never,ニューエイジ,219663,0,false,Music for a Found Harmonium
+never,ニューエイジ,269766,0,false,Perpetuum Mobile
+2012-04-01 12:35:16,Soundtrack,249704,1,false,ヘミソフィア
+never,Soundtrack,334001,0,false,紅茶
+never,Soundtrack,223033,0,false,指輪 -23カラット-
+never,Soundtrack,260597,0,false,奇跡の海
+never,Jazz,286458,0,false,Thou Swell
+never,Jazz,314618,0,false,Sometimes I'm Happy
+never,Soundtrack,354925,0,false,風が吹く日
+never,Jazz,487471,0,false,Sunflower
+never,Classic,232960,0,false,弦楽四重奏曲ト短調ｏｐ．１０　第２楽章
+never,Classic,428956,0,false,弦楽四重奏曲ト短調ｏｐ．１０　第３楽章
+never,クラシック,563252,0,false,Prelude a l'apres-midi d'un faune (Prelude to the Afternoon of a Faun)_ for orchestra_ L. 86
+never,Classic,377965,0,false,弦楽四重奏曲ト短調ｏｐ．１０　第１楽章
+never,Classic,420963,0,false,弦楽四重奏曲ト短調ｏｐ．１０　第４楽章
+2012-07-25 13:19:04,146,78785,11,false,KOBA_C003_120624_vo_3
+2012-07-25 13:02:50,146,78785,2,false,KOBA_C003_120624_vo
+2012-06-21 05:12:09,none,80433,1,false,2-1
+2012-07-25 12:59:33,146,118308,12,false,KOBA_C004_120624_vo_3
+2012-07-25 13:01:32,146,118308,2,false,KOBA_C004_120624_vo_2
+never,Soundtrack,89861,0,false,セラのテーマ
+never,Soundtrack,124421,0,false,希望なき闘争
+never,Soundtrack,160313,0,false,ルシ狩り作戦
+never,Soundtrack,252551,0,false,グラン=パルスのルシ
+never,Soundtrack,158145,0,false,恩讐の果て
+never,Soundtrack,123219,0,false,KYAMISAMA ONEGAI!
+never,Soundtrack,140251,0,false,ANAGRAMS Ito Y
+never,Soundtrack,124551,0,false,Change the World
+never,Soundtrack,125022,0,false,Liquid Crystal Girl
+never,Soundtrack,122671,0,false,Trust -MATERIAL ver- (IIDX Edition)
+never,Rock,245760,0,false,バンブーズ
+never,Rock,275147,0,false,昔の発明
+never,Rock,227134,0,false,赤い星 (サーチンソール)
+never,Jazz,424515,0,false,Mean To Me
+never,Rock,144901,0,false,ヒタ・リーを聴きながら
+never,Rock,274468,0,false,ラストシーン
+never,none,231157,0,false,hanauta_off - 0041 - オーディオ - ok
+2012-04-26 22:33:43,none,168360,1,false,[120427]gekiban2_nobunaga_mouri
+never,none,231157,0,false,hanauta_off - 0036 - オーディオ - Audio 07
+never,none,231157,0,false,hanauta_off - 0040 - オーディオ - Audio 12
+2012-04-29 00:09:07,Soundtrack,168437,1,false,徳川家康
+never,Soundtrack,238367,0,false,終焉の揺籃
+2012-08-03 01:50:30,Pop,270759,3,false,Beautiful Amulet
+2012-08-03 01:56:16,146,83957,3,false,erepyon_fin
+2012-07-29 23:19:18,146,83957,3,false,KOBA_C006_120727_vo
+2012-08-03 01:53:35,レゲエ,185208,2,false,海! 海! 海!!
+2012-08-03 01:54:57,146,82520,8,false,KOBA_C006_120729_vo_2
+never,Jazz,408659,0,false,This Is New
+never,Pop,174080,0,false,Paradiso (Remembered)
+never,Other,27036,0,false,7ブラス、ピッコロとリズム
+never,Pop,250801,0,false,月に向って
+never,Soundtrack,168620,0,false,Glass Shoes
+2012-08-07 01:03:11,Soundtrack,132336,1,false,Seeds of Life
+never,none,126667,0,false,トラック 6
+never,none,216476,0,false,トラック 2
+never,none,164649,0,false,トラック 3
+never,none,236486,0,false,トラック 4
+never,none,200359,0,false,トラック 5
+2012-07-12 03:24:47,none,214,1,false,VEH2 Snares - 022
+2012-07-12 03:24:46,none,426,1,false,VEH2 Snares - 021
+2012-07-12 03:24:45,none,237,1,false,VEH2 Snares - 020
+never,Pop,259500,0,false,風にさらわれて
+2012-07-12 03:22:11,none,302,1,false,VEH2 Snares - 012
+2012-07-12 03:22:10,none,328,1,false,VEH2 Snares - 011
+never,Classic,575869,0,false,悲しみの森－オーケストラのための
+never,ジャンル情報なし,1228199,0,false,トラック 1
+never,クラシック,709799,0,false,Asterism
+never,クラシック,344659,0,false,グリーン
+never,クラシック,470177,0,false,弦楽のためのレクイエム
+never,Soundtrack,439353,0,false,サヨナラノツバサ ～ the end of triangle
+never,Classic,92368,0,false,プレイアデス舞曲集６ｏｐ．７１　１．小さな春への前奏曲
+never,Classic,206288,0,false,ピアノ・フォリオ…消えたプレイアードによせて
+never,Classic,140564,0,false,３つのワルツ　ベルベット・ワルツ
+never,Classic,131369,0,false,３つのワルツ　虹色の薔薇のワルツ
+never,Classic,72698,0,false,プレイアデス舞曲集６ｏｐ．７１　２．春の終わりのワルツ
+never,Rock,198426,0,false,I Know There's An Answer (Stereo Mix)
+never,Rock,186827,0,false,I'm Waiting For The Day (Stereo Mix)
+never,Rock,144692,0,false,Let's Go Away For Awhile (Stereo Mix)
+never,Rock,179670,0,false,Sloop John B (Stereo Mix)
+never,Soundtrack,83748,0,false,Maria
+never,Rock,174915,0,false,God Only Knows (Stereo Mix)
+never,Rock,172094,0,false,Let's Go Away For Awhile (Stereo Track Without String Overdub)
+never,Jazz,267311,0,false,Sophisticated Lady
+never,ロック,178024,0,false,Ame Caline
+never,Jazz,259160,0,false,Love For Sale
+never,Jazz,504946,0,false,Exitus
+never,Jazz,223712,0,false,Sweet Sue
+never,Rock,154801,0,false,Wouldn't It Be Nice (Stereo Backing Track)
+never,クラシック,353436,0,false,Third Movement_ Pt. 2
+never,クラシック,419709,0,false,Third Movement_ Pt. 1
+2012-03-21 01:14:46,Classical,167183,1,false,信長
+never,クラシック,214961,0,false,Fourth Movement
+never,クラシック,354768,0,false,Third Movement_ Pt. 3
+2012-04-01 09:49:25,Classical,159346,2,false,翔ぶが如く
+2012-03-21 01:11:59,Classical,153286,1,false,太平記
+never,Rock,440006,0,false,Wouldn't It Be Nice (Highlights From Tracking Date)
+2012-03-21 01:04:25,Classical,159399,1,false,武田信玄
+2012-04-01 09:46:46,Classical,141165,2,false,春日局
+never,Soundtrack,149760,0,false,a bit of happiness
+never,Soundtrack,247144,0,false,silent life
+never,Soundtrack,200933,0,false,Sit Beside Me
+never,Soundtrack,139154,0,false,Magic And Sword
+2012-07-01 11:17:37,Soundtrack,97671,2,false,Obsession TV-Mix
+never,ロック,141923,0,false,Love Me Do
+never,ロック,121286,0,false,Please Please Me
+never,ロック,117733,0,false,From Me to You
+never,ジャズ,360150,0,false,Serious
+never,Soundtrack,55301,0,false,The Secret Magic
+never,ロック,146677,0,false,I Want to Hold Your Hand
+never,ジャズ,314749,0,false,Ethiopia
+never,Soundtrack,90017,0,false,Red Swingin'
+2012-03-21 08:08:10,Dance & House,238393,1,false,Paradise Lost
+2012-03-21 08:04:12,Dance & House,44120,1,false,Selfish
+2012-03-21 08:03:28,Dance & House,148427,1,false,Silent Revive
+2012-03-21 08:00:59,Dance & House,288470,1,false,Golden Rule
+never,Dance & House,288626,0,false,Electric Circuit
+never,Soundtrack,189962,0,false,お弁当を食べながら
+never,Jazz,167888,0,false,Générique
+never,Pop,163265,0,false,東京物語(プロローグ)
+never,Jazz,183040,0,false,Doublin' With Dublin
+never,Jazz,354351,0,false,Bags' Groove
+never,Jazz,231888,0,false,The Song Is You
+never,Jazz,261746,0,false,No More
+2012-05-26 23:45:23,Pop,259787,6,false,大都会交響楽
+2012-03-21 08:54:12,Pop,213681,1,false,モナムール東京
+never,Pop,318563,0,false,きみみたいにきれいな女の子
+2012-03-20 17:13:02,Pop,258063,1,false,恋のルール・新しいルール
+2012-03-21 08:36:37,Pop,220760,1,false,ウィークエンド
+never,Soundtrack,218723,0,false,いろのいろいろ
+never,ロック,180166,0,false,Such a Night
+2012-07-01 11:23:05,Classical,146416,1,false,Biber: Mystery Sonata #1_ "The Annunciation" - 1. Praeludium
+never,ロック,145319,0,false,Good Luck Charm
+2012-06-24 22:22:00,146,78785,7,false,KOBA_C003_120624_vo_2
+never,ロック,270132,0,false,Suspicious Minds
+never,Soundtrack,166060,0,false,Let's 5
+never,ロック,195552,0,false,Kentucky Rain
+never,ロック,232437,0,false,I'm Leavin'
+never,Classical,374230,0,false,Bartók: String Quartet #6_ Sz. 114: 4. Mesto
+2012-07-01 11:24:31,Classical,85472,1,false,Biber: Mystery Sonata #1_ "The Annunciation" - 2. Aria & Variations
+never,Classical,453120,0,false,Bartók: String Quartet #6_ Sz. 114: 1. Mesto_ Più Mosso_ Pesante_ Vivace
+never,Classical,461453,0,false,Bartók: String Quartet #6_ Sz. 114: 2. Mesto_ Marcia
+never,Soundtrack,109949,0,false,果てなき疾走
+never,Soundtrack,226560,0,false,サンレス水郷
+never,Soundtrack,165015,0,false,ガプラ樹林
+never,Soundtrack,208195,0,false,緊迫
+never,Soundtrack,177893,0,false,見失った希望
+never,Soundtrack,116218,0,false,衰色小町メランコリア
+never,Soundtrack,126302,0,false,Round and Round
+never,Soundtrack,113920,0,false,突撃! ガラスのニーソ姫!
+never,Soundtrack,119405,0,false,Drive Me Crazy
+never,Soundtrack,123454,0,false,Express Emotion
+2012-07-01 13:08:03,Pop,174027,1,false,Seduction
+2012-07-01 13:00:51,Pop,197041,1,false,Happy New Year
+2012-07-01 13:05:09,Pop,258037,1,false,Love In The Rain
+2012-07-01 12:52:49,Pop,269035,1,false,The Blue Rose
+2012-07-01 12:57:34,Pop,285022,1,false,Emotion
+2012-04-20 10:26:51,none,190000,1,false,sunshine - SteelDrum
+2012-04-16 13:29:12,none,162696,1,false,suirenka_fin
+2012-04-22 04:20:51,Pop,441338,1,false,キャンパスノート
+never,Soundtrack,169195,0,false,FINAL FANTASY XIII ～奇跡～
+never,Soundtrack,140669,0,false,使命
+2012-04-20 11:05:25,none,190000,1,false,sunshine - VOCAL
+2012-03-21 06:21:55,Pop,326504,1,false,キャッチー (Voltage Unlimited Catchy)
+never,Other,105743,0,false,歌詞から導き出されるアイディア
+never,Other,241815,0,false,The Sun Died
+never,Other,59924,0,false,メロディー
+never,Other,59506,0,false,ヴォイスサウンド
+2012-08-05 08:35:13,146,118308,4,false,KOBA_C004_120624_inst
+2012-08-07 00:58:07,Soundtrack,111072,1,false,彼100%トレビアン
+2012-08-07 01:00:59,Soundtrack,53368,1,false,Silent Star
+never,Classical,196963,0,false,恵み深い人々の村
+never,Pop,221701,0,false,ソバカスのある少女
+never,Classical,244950,0,false,目覚め
+never,Classical,217756,0,false,Monster Hunter
+never,Classical,282070,0,false,動く霊峰 ～ 勇者のためのマーチ
+never,Pop,212166,0,false,月夜の晩には
+never,Classical,262713,0,false,眼光 -Hunted- ～Lioleus _ 咆哮 ～Monoblos _ 真紅の角
+never,Classic,738455,0,false,巫楽１～管楽器群と打楽器のためのヘテロフォニー
+never,Classic,538357,0,false,マナ１～１２人のチェロ奏者のための
+never,Classic,689841,0,false,交響曲第４番　２
+never,Classic,646791,0,false,交響曲第４番　１
+never,Soundtrack,153495,0,false,動乱のエデン
+never,Classic,1033560,0,false,交響曲第７番「一滴の共感へ」
+never,Classic,130351,0,false,４つの小さな夢の歌　春；５月の夢の歌
+never,Classic,111046,0,false,４つの小さな夢の歌　夏；８月の歪んだワルツ
+never,Soundtrack,202866,0,false,カウントダウン
+never,Classic,154200,0,false,４つの小さな夢の歌　秋；１１月の夢の歌
+never,Classic,105717,0,false,４つの小さな夢の歌　冬；子守歌
+never,Soundtrack,202501,0,false,密林の大食漢 _ ババコンガ
+never,Classic,81632,0,false,３つのワルツ　緑のワルツ
+never,Soundtrack,66821,0,false,帰郷
+never,none,280816,0,false,トラック 06
+never,Rock,178520,0,false,Don't Talk (Put Your Head On My Shoulder) (Stereo Mix)
+never,none,85551,0,false,トラック 07
+never,none,233012,0,false,トラック 08
+never,none,240195,0,false,トラック 09
+never,Rock,154279,0,false,Wouldn't It Be Nice (Stereo Mix)
+2012-07-09 05:16:59,none,75702,2,false,トラック 10
+never,Soundtrack,145397,0,false,蒼空へ… (蒼太のテーマ)
+never,Soundtrack,228806,0,false,色のない世界
+never,Rock,151457,0,false,That's Not Me (Stereo Mix)
+never,Rock,156342,0,false,You Still Believe In Me (Stereo Mix)
+2012-08-04 14:55:54,Pop,208561,6,false,恋のタイムマシン
+2012-03-20 18:06:56,Classical,170004,1,false,山河燃ゆ
+never,Jazz,276636,0,false,Someday I'll Find You
+2012-03-20 18:04:06,Classical,167836,1,false,徳川家康
+2012-03-21 00:59:12,Classical,154566,1,false,いのち
+2012-03-21 00:56:38,Classical,159634,1,false,春の波涛
+never,Jazz,197198,0,false,Blow Top Blues
+never,Classical,81136,0,false,Biber: Mystery Sonata #10_ "The Cruxification" - 1. Praeludium
+2012-03-21 01:01:46,Classical,153704,1,false,独眼竜政宗
+never,Jazz,312137,0,false,Worrying The Life Out Of Me
+never,Jazz,258272,0,false,Embraceable You
+never,クラシック,419082,0,false,Second Movement
+never,ロック,140904,0,false,Girl Don't Tell Me
+never,ジャズ,214099,0,false,Fast
+never,クラシック,473939,0,false,First Movement
+never,ジャズ,694987,0,false,Fast
+never,ジャズ,411506,0,false,Slow
+never,Soundtrack,48326,0,false,まさか？なぞの挑戦者 ! (M-4)
+never,Soundtrack,152737,0,false,いつものタコカフェで(M-3)
+never,ジャズ,298579,0,false,Forevermore
+never,Soundtrack,84114,0,false,Danzen ! ふたりはプリキュア Ver.Max Heart (劇場Version)
+2012-06-30 11:37:47,Soundtrack,54674,1,false,プロローグ～うごめく邪心(M-1)
+never,Soundtrack,67970,0,false,七人の妖精たち (M-7)
+never,ロック,136489,0,false,You're So Good To Me
+never,ロック,164153,0,false,Nowhere Man
+never,Classical,140094,0,false,Biber: Mystery Sonata #10_ "The Cruxification" - 3. Variatio 1-2
+never,Soundtrack,21106,0,false,蜂
+never,Classical,77296,0,false,Biber: Mystery Sonata #10_ "The Cruxification" - 2. Aria
+never,Jazz,221988,0,false,Pam's Waltz
+never,Jazz,136515,0,false,Sur l'autoroute
+never,Jazz,126615,0,false,Rondette
+never,Dance & House,225384,0,false,Far Away
+never,Dance & House,241319,0,false,Electrode Spark 0102
+never,Dance & House,194586,0,false,Coming Closer
+never,Dance & House,194977,0,false,Strangers
+never,ワールド,198306,0,false,Beyond the Sky
+never,Dance & House,125231,0,false,Strategy Meeting
+never,Soundtrack,21133,0,false,子鹿
+never,Pop,323108,0,false,Boy Meets A Girl
+2012-08-07 04:47:59,Pop,285492,1,false,微笑みのプルマージュ
+2012-05-22 07:12:45,Pop,254302,1,false,陽の当たる大通り
+2012-05-22 07:17:01,Pop,255843,1,false,悲しい歌
+never,Pop,245211,0,false,ベイビィ・ポータブル・ロック
+2012-05-22 07:23:10,Pop,224104,1,false,メッセージ・ソング
+never,Pop,247040,0,false,イッツ・ア・ビューティフル・デイ
+never,ロック,112744,0,false,Surrender
+never,ジャンル情報なし,148427,0,false,トラック 1
+never,ロック,196048,0,false,It's Now or Never
+never,Classical,396904,0,false,Bartók: String Quartet #5_ Sz. 102: 5. Finale: Allegro Vivace_ Presto
+never,Classical,284395,0,false,Bartók: String Quartet #5_ Sz. 102: 4. Andante
+never,Classical,286798,0,false,Bartók: String Quartet #5_ Sz. 102: 3. Scherzo: Alla Bulgarese_ Trio
+never,Classical,328333,0,false,Bartók: String Quartet #5_ Sz. 102: 2. Adagio Molto
+never,Classical,428068,0,false,Bartók: String Quartet #5_ Sz. 102: 1. Allegro
+never,Soundtrack,179774,0,false,ヴァニラのテーマ
+never,Soundtrack,42135,0,false,刻限
+never,Soundtrack,131866,0,false,ポンパ・サンクタ
+never,Soundtrack,297900,0,false,歓楽都市ノーチラス
+never,Soundtrack,177214,0,false,コクーンdeチョコボ ～夢を見ようよII～
+never,Classical,144300,0,false,Biber: Mystery Sonata #9_ "The Carrying Of The Cross" - 1. Sonata
+never,Classical,61805,0,false,Biber: Mystery Sonata #8_ "The Crowning With Thorns" - 5. Double #2
+never,Classical,35317,0,false,Biber: Mystery Sonata #8_ "The Crowning With Thorns" - 4. Double #1
+never,Classical,47020,0,false,Biber: Mystery Sonata #8_ "The Crowning With Thorns" - 3. Guigue
+never,Jazz,321776,0,false,You Came Along (From Out Of Nowhere)
+never,Classical,70608,0,false,Biber: Mystery Sonata #9_ "The Carrying Of The Cross" - 2. Courente
+never,Soundtrack,116297,0,false,Snake Stick
+never,Soundtrack,112692,0,false,Voxane
+never,Soundtrack,120502,0,false,Star Trail
+never,Soundtrack,141583,0,false,Miami Sunset Drive
+never,Soundtrack,122671,0,false,CALL
+never,Jazz,146076,0,false,Ribs And Hot Sauce
+2012-07-01 13:25:54,Pop,164022,1,false,African Summer
+2012-07-01 13:23:10,Pop,238027,1,false,Live For Life
+2012-07-01 13:19:12,Pop,239020,1,false,A Man And A Woman
+2012-07-01 13:15:13,Pop,273502,1,false,Par Le Sang Des Autres
+2012-07-01 13:10:40,Pop,157048,1,false,Intimate Moments
+2012-05-13 13:38:10,none,64560,1,false,ange_next_cloud
+2012-05-12 06:02:30,none,83832,2,false,[120511]gekiban4_kyo-hutari_takahashi
+2012-05-13 13:35:27,none,80256,1,false,infinite_stereo
+2012-05-13 13:33:34,none,83040,2,false,kiss_cloud
+never,none,218200,0,false,lily
+never,Soundtrack,125257,0,false,Scharfrichter
+never,Soundtrack,117133,0,false,In the Blackest Den
+never,Soundtrack,127947,0,false,LETHEBOLG ～双神威に斬り咲けり～
+never,Soundtrack,118935,0,false,The Sampling Paradise
+never,Soundtrack,121155,0,false,聖人の塔
+never,Soundtrack,339591,0,false,dシュディスタb
+never,Soundtrack,35369,0,false,チョコと勇気
+never,Soundtrack,109871,0,false,いちじよじ
+2012-07-01 11:26:03,Classical,92656,1,false,Biber: Mystery Sonata #1_ "The Annunciation" - 3. Adagio
+never,Other,33933,0,false,16St._Hrp.+Cl.
+never,Other,33071,0,false,16St._Hrp+Hrn
+never,Other,54465,0,false,リズムと6種類のギターサウンド
+never,Other,53028,0,false,リズムトラック(Perc.)
+never,Other,51095,0,false,シンセサイザーサウンド
+2012-07-01 11:27:14,Classical,70504,1,false,Biber: Mystery Sonata #1_ "The Annunciation" - 4. Finale
+never,Soundtrack,95216,0,false,Living In Future
+2012-07-12 03:24:59,none,141,1,false,VEH2 Snares - 030
+never,クラシック,474044,0,false,SINFONIA TAPKAARA - 2. Adagio
+2012-07-12 03:25:03,none,222,2,false,VEH2 Snares - 031
+2012-07-12 03:24:56,none,234,1,false,VEH2 Snares - 028
+2012-07-12 03:24:57,none,270,1,false,VEH2 Snares - 029
+never,Classic,326896,0,false,弦楽四重奏曲第１番「クロイツェル・ソナタ」　第４楽章
+never,クラシック,432222,0,false,BALLATA SINFONICA - 1. Allegro capriccioso
+2012-07-12 03:58:49,Soundtrack,44355,2,false,一同団欒
+never,クラシック,458866,0,false,BALLATA SINFONICA - 2. Andante rapsodico
+never,クラシック,722076,0,false,SINFONIA TAPKAARA - 1. Lento-Allegro
+never,Pop,251898,0,false,ブルーズでも歌って
+never,Soundtrack,225071,0,false,key of the twilight
+never,Soundtrack,108329,0,false,kiss
+never,Soundtrack,303464,0,false,The World
+2012-07-01 11:19:11,Soundtrack,93231,1,false,yasashii yoake TV-size
+never,不明,660244,0,false,鳥は星形の庭に降りる（1977）
+never,クラシック,162795,0,false,Pleiades Dances II: Positive Rondo
+never,クラシック,103026,0,false,Pleiades Dances II: Fragmentary Dance
+never,クラシック,57730,0,false,Pleiades Dances II: Dry Little Fuga
+never,クラシック,129488,0,false,Pleiades Dances II: Alignment Romance
+never,クラシック,65123,0,false,Pleiades Dances II: Interlude with Birds
+never,none,270393,0,false,トラック 12
+never,Soundtrack,127294,0,false,Foreigners
+never,none,195526,0,false,トラック 11
+never,Soundtrack,156081,0,false,b.t.
+never,none,357328,0,false,トラック 14
+never,Soundtrack,184633,0,false,Aura
+never,none,175725,0,false,トラック 13
+never,Soundtrack,116323,0,false,Before Dawn
+never,none,466128,0,false,トラック 15
+never,Soundtrack,92421,0,false,アイ君と私
+never,Soundtrack,167444,0,false,a stray child
+never,Jazz,427598,0,false,Echoes Of You
+never,Jazz,153391,0,false,My Devotion
+never,Jazz,170579,0,false,Just A-Sittin' And A-Rockin'
+never,Jazz,340271,0,false,Muy
+never,Jazz,176509,0,false,Will You Still Be Mine ?
+2012-03-28 12:11:59,Soundtrack,54778,1,false,逃げてもいいの
+2012-03-28 12:11:04,Soundtrack,73168,1,false,下界のファルシ
+2012-03-28 12:09:51,Soundtrack,212427,1,false,帰るための戦い
+2012-03-28 12:06:19,Soundtrack,184946,1,false,パージされる者たち
+2012-03-28 12:29:58,Soundtrack,227761,1,false,スノウのテーマ
+never,アバンギャルド,326478,0,false,Music for 18 Musicians - Pulses
+never,アバンギャルド,307513,0,false,NEW YORK COUNTERPOINT : First movement
+never,アバンギャルド,376032,0,false,City Life
+never,アバンギャルド,486504,0,false,The Desert Music
+never,アバンギャルド,160235,0,false,The Cave
+never,Soundtrack,106527,0,false,きらめく光の国～希望の園 (M-9)
+never,Soundtrack,36963,0,false,出発 ! 希望の園へ (M-8)
+never,Soundtrack,59977,0,false,美しき女王 (M-11)
+never,Soundtrack,94328,0,false,もう限界 !?～宮殿の出会い (M-10)
+never,Soundtrack,145319,0,false,輝くダイヤモンドライン (M-12)
+never,ジャズ,361430,0,false,Panther
+never,ロック,131265,0,false,You've Got to Hide Your Love Away
+never,Classical,157988,0,false,Biber: Mystery Sonata #10_ "The Cruxification" - 4. Variatio 3
+never,ロック,125492,0,false,Yesterday
+never,ジャズ,358765,0,false,Scoop
+never,ジャズ,313861,0,false,Spend Some Time with Me
+2012-03-20 17:24:27,Classical,111804,1,false,三姉妹
+never,DOMESTIC(J-POPS),236173,0,false,コンビニ・ラヴァー
+2012-03-20 17:17:11,Classical,88346,1,false,花の生涯
+2012-03-20 17:18:55,Classical,104594,1,false,赤穂浪士
+2012-03-20 17:20:31,Classical,95817,1,false,太閤記
+2012-03-20 17:22:36,Classical,124734,1,false,源義経
+never,Soundtrack,7941,0,false,アイキャッチA
+never,Soundtrack,235075,0,false,ボウケンジャー Go On Fighting! (インストゥルメンタル)
+never,Soundtrack,258115,0,false,Ready GO!!
+never,Soundtrack,220708,0,false,Confession～Fall'in Love <M49～M50>
+never,Soundtrack,75493,0,false,Paper Golem <M54>
+never,ロック,273031,0,false,Gloria
+2012-03-20 17:40:43,Classical,150595,1,false,勝海舟
+2012-03-20 17:38:12,Classical,149002,1,false,国盗り物語
+2012-03-20 17:45:31,Classical,146703,1,false,風と雲と虹と
+2012-03-20 17:43:04,Classical,141818,1,false,元禄太平記
+never,Soundtrack,82494,0,false,ミテのうた
+2012-03-20 17:47:55,Classical,144457,1,false,花神
+never,Soundtrack,55875,0,false,火祭りの踊り
+never,ロック,296881,0,false,Le Bal Des Laze
+never,Pop,302602,0,false,雪のクリスマス・カード
+never,Soundtrack,369632,0,false,マメシバ
+never,Soundtrack,333400,0,false,birds
+2012-03-21 08:50:23,Pop,276924,1,false,12月24日
+never,Soundtrack,281887,0,false,I.D.
+never,Soundtrack,228702,0,false,うちゅうひこうしのうた
+never,クラシック,89808,0,false,Pièces froides (6 Cold Pieces) for piano: (Airs à faire fuir) (3) [Complete]
+never,Classic,293955,0,false,弦楽四重奏曲ヘ長調　第４楽章
+never,クラシック,265064,0,false,Prélude de la porte héroïque du ciel (Prelude to 'The Heroic Gate of Heaven')_ incidental music for piano (or orchestra)
+never,Classic,376973,0,false,弦楽四重奏曲ヘ長調　第２楽章
+never,クラシック,142367,0,false,Pièces froides (6 Cold Pieces) for piano: (Airs à faire fuir) (3) [Complete]
+never,クラシック,280790,0,false,Je te veux (I Want You)_ café-concert song for voice & piano
+never,Soundtrack,62145,0,false,PSICOM
+never,Soundtrack,319764,0,false,父ちゃん奮闘だぁ!
+never,Soundtrack,136463,0,false,お前の家はここだ
+never,Soundtrack,210546,0,false,ホープのテーマ
+never,Soundtrack,263627,0,false,償い
+never,Soundtrack,72803,0,false,Wild Fight
+never,Jazz & Fusion,129593,0,false,ビーイング・コールド
+never,Classic,228284,0,false,夜想曲第９番ロ短調ｏｐ．９７
+never,Jazz & Fusion,213342,0,false,ダウンタウン・ループ
+never,Jazz & Fusion,341603,0,false,ザ・ルート・オブ・ザ・ライト
+never,Classical,71706,0,false,Biber: Mystery Sonata #8_ "The Crowning With Thorns" - 2. Presto
+never,Jazz & Fusion,305606,0,false,ラッキー・サザン
+never,クラシック,142367,0,false,Pièces froides (6 Cold Pieces) for piano: (Airs à faire fuir) (3) [Complete]
+2012-08-04 14:22:05,Soundtrack,247431,5,false,Love Sick
+never,Soundtrack,117028,0,false,DON'T WAKE ME FROM THE DREAM (2010 Summer Edition)
+never,Soundtrack,114076,0,false,SA.YO.NA.RA. SUPER STAR
+never,Classic,521534,0,false,夜想曲第７番嬰ハ短調ｏｐ．７４
+never,Soundtrack,104907,0,false,GIGANT
+never,Soundtrack,123715,0,false,Release The Music
+never,Soundtrack,123820,0,false,Follow Tomorrow
+never,ロック,140251,0,false,Help!
+never,Classic,505965,0,false,夜想曲第６番変ニ長調ｏｐ．６３
+never,Soundtrack,144248,0,false,Mambo No. 5
+never,Classical,136437,0,false,Biber: Mystery Sonata #10_ "The Cruxification" - 5. Variatio 4-5
+2012-07-01 13:41:18,Pop,221857,1,false,Solitude
+never,ロック,190902,0,false,Ticket to Ride
+2012-07-01 13:29:15,Pop,201038,1,false,Sur Notre Etoile
+2012-07-01 13:37:36,Pop,146155,1,false,Smic Smac Smoc
+2012-07-01 13:35:10,Pop,204042,1,false,Les Uns Et Les Autres
+2012-05-04 07:10:36,Soundtrack,84114,1,false,京、ふたり
+never,ロック,140355,0,false,I Feel Fine
+2012-05-02 04:45:31,none,63480,1,false,wel_magi_cloud
+2012-05-10 17:01:07,none,89496,2,false,inst
+2012-05-10 17:03:46,none,80587,4,false,iNFINITE_miku_fin
+never,none,80953,0,false,infinite_miku_master
+never,Soundtrack,133381,0,false,YAKSHA
+never,Soundtrack,124055,0,false,The Limbo
+never,Soundtrack,133067,0,false,NNRT
+never,Soundtrack,129906,0,false,Todestrieb
+never,Soundtrack,132780,0,false,天空の夜明け
+never,Domestic(J-Pops),226377,0,false,ＴＨＥ　ＣＨＲＩＳＴＭＡＳ　ＳＯＮＧ
+2012-07-01 13:31:46,Pop,151013,1,false,La Ronde
+never,DOMESTIC(J-POPS),295941,0,false,告白
+never,Domestic(J-Pops),285309,0,false,ＣＯＯＬ　ＤＯＷＮ
+never,Domestic(J-Pops),212688,0,false,Ａｆｔｅｒ　Ｙｅａｒｓ
+never,Soundtrack,244218,0,false,さよの想い出 <M51+M52>
+never,Soundtrack,147905,0,false,Time Passing <M53>
+never,Soundtrack,84035,0,false,Black Magic <M10>
+never,Soundtrack,251663,0,false,秘宝争奪大決戦!
+never,Soundtrack,211069,0,false,TOYS MUSEUM (バンダイCM音楽集)
+never,Pop,226612,0,false,ジャングル・ジム・ランド
+2012-07-10 12:01:48,Jazz,508995,1,false,Fly With The Wind
+never,クラシック,586422,0,false,Ⅲ．頌偈：交響頌偈「釈迦」
+2012-07-10 12:14:02,Jazz,734302,1,false,Salvadore De Samba
+2012-07-10 12:19:36,Jazz,333583,1,false,Beyond the Sun
+2012-07-10 12:26:31,Jazz,415137,1,false,You Stepped Out Of A Dream
+never,クラシック,1405962,0,false,CONCERTO No.2 for Violin and Orchestra
+2012-07-10 12:32:15,Jazz,344502,1,false,Rolem
+never,クラシック,474070,0,false,SINFONIA TAPKAARA - 3. Vivace
+never,クラシック,949159,0,false,Ⅱ．ブダガヤの降魔：交響頌偈「釈迦」
+never,クラシック,890827,0,false,Ⅰ．カピラバスツの悉達多：交響頌偈「釈迦」
+never,不明,702014,0,false,ヴァイオリンとオーケストラのための「遠い叫びの彼方へ」（1980）
+never,クラシック,544940,0,false,地平線のドーリア
+never,不明,701570,0,false,夢の時（1981）
+never,不明,669910,0,false,ノスタルジア（1987）
+never,不明,888764,0,false,虹へ向かって、パルマ（1984）
+never,クラシック,60760,0,false,Pleiades Dances II: Conventional Invention
+never,クラシック,135758,0,false,Pleiades Dances II: Negative Prelude
+never,クラシック,135784,0,false,Pleiades Dances I: Platan Dance
+never,クラシック,83617,0,false,Pleiades Dances I: Invention for about 03 voices
+never,クラシック,117968,0,false,Pleiades Dances I: Leaflet Dance
+never,Soundtrack,124734,0,false,Interlude
+never,Soundtrack,155350,0,false,Fake Wings
+never,Soundtrack,166635,0,false,Where The Sky Is High
+never,Soundtrack,214151,0,false,valley of mist
+never,Soundtrack,160705,0,false,Fear
+never,Jazz,349204,0,false,Why Cry?
+never,Jazz,415451,0,false,Fair Weather
+never,Jazz,135471,0,false,Autumn In New York
+never,Soundtrack,184555,0,false,牙を剥く轟竜 _ ティガレックス
+never,Jazz,423888,0,false,Swim_ Jim
+never,Jazz,350589,0,false,I Got It Bad And That Ain't Good
+never,Soundtrack,165381,0,false,空に浮く山岳 _ ヤマツカミ
+never,Soundtrack,178808,0,false,黄金の鬣 _ ラージャン
+never,Soundtrack,162742,0,false,老山龍!?
+never,Soundtrack,149420,0,false,大敵への挑戦 _ シェンガオレン
+2012-03-28 11:48:31,Soundtrack,143934,1,false,運命への反逆
+never,Soundtrack,193645,0,false,ブレイズエッジ
+2012-03-28 11:45:14,Soundtrack,92813,1,false,FINAL FANTASY XIII ～誓い～
+2012-03-28 11:46:07,Soundtrack,53629,1,false,第13日
+2012-03-28 11:52:17,Soundtrack,205688,1,false,封鎖区画ハングドエッジ
+never,アバンギャルド,276741,0,false,Nagoya Marimbas
+never,アバンギャルド,546220,0,false,Different Trains
+never,アバンギャルド,272770,0,false,Electric Counterpoint
+never,アバンギャルド,352130,0,false,SEXTET : Fifth movement
+never,アバンギャルド,592770,0,false,Drumming
+never,Soundtrack,138605,0,false,ピンチのルミナス、なぎさよ早く ! (M-17)
+never,Soundtrack,47856,0,false,美しい明日へ行きませんか
+never,Soundtrack,75728,0,false,襲来 ! 闇の世界の魔女 !! (M-15)
+never,Soundtrack,62354,0,false,ルミナス変身 (M-6 _ M-16)
+never,Soundtrack,59376,0,false,パーティだもん、キメなくちゃ !! (M-12)
+never,Soundtrack,65280,0,false,式典序曲 (M-14)
+never,Soundtrack,197616,0,false,闇に走る赤い残光 _ ナルガクルガ
+2012-06-08 10:09:05,146,78994,2,false,koichoco_mihuyu_kari2
+2012-03-20 17:35:43,Classical,149472,1,false,新・平家物語
+2012-03-20 17:33:14,Classical,145658,1,false,春の坂道
+never,DOMESTIC(J-POPS),134269,0,false,ｍｕｄ　ｓｋｉｆｆｌｅ　ｔｒａｃｋ　６
+2012-06-07 21:51:55,146,78994,2,false,KOBA_c002_120608_melo_kari
+2012-03-20 17:25:59,Classical,91820,1,false,竜馬がゆく
+never,Soundtrack,237714,0,false,眩き閃光!ボウケンシルバー (インストゥルメンタル)
+never,Soundtrack,289724,0,false,神秘の輝き
+never,Soundtrack,322847,0,false,プレシャス発動!
+never,Soundtrack,249704,0,false,Shadow Of Precious
+never,Soundtrack,254641,0,false,追跡アドベンチャー
+2012-06-07 13:11:54,146,34873,1,false,koichoco2_sabi
+never,Soundtrack,111986,0,false,誤解 <M61>
+2012-03-20 17:50:39,Classical,163735,1,false,黄金の日日
+2012-03-20 17:53:18,Classical,159164,1,false,草燃える
+2012-03-20 17:55:56,Classical,157988,1,false,獅子の時代
+2012-03-20 17:58:37,Classical,161018,1,false,おんな太閤記
+2012-03-20 18:01:19,Classical,161645,1,false,峠の群像
+never,ロック,101120,0,false,Little Deuce Coupe
+never,none,372767,0,false,トラック 13
+never,none,216476,0,false,トラック 14
+never,none,182622,0,false,トラック 11
+2012-07-08 20:00:28,none,57364,1,false,トラック 12
+2012-07-01 11:39:41,Classical,131866,1,false,Biber: Mystery Sonata #3_ "The Nativity" - 4. Adagio
+2012-07-09 04:16:59,none,168228,1,false,トラック 15
+2012-07-01 11:53:33,Classical,81084,1,false,Biber: Mystery Sonata #11_ "The Resurrection" - 3. Adagio
+2012-08-07 04:53:09,Pop,252316,1,false,君とLOVE
+never,クラシック,152973,0,false,Gymnopédies (3)_ for piano: No 3_ Lent et grave
+never,Jazz,862014,0,false,Medley: Autumn In New York - Embraceable You - What's New
+never,クラシック,179017,0,false,Gnossiennes (6)  for piano
+never,ロック,134791,0,false,In My Room
+never,クラシック,184581,0,false,Gymnopédies (3)_ for piano: No 1_ Lent et douloureux
+never,クラシック,162455,0,false,Gymnopédies (3)_ for piano: No 2_ Lent et triste
+never,Jazz,190458,0,false,Opus De Funk
+never,Jazz,253100,0,false,I Wished On The Moon
+never,クラシック,111360,0,false,Gnossiennes (6)  for piano
+never,Jazz,190171,0,false,It Don't Mean a Thing
+2012-07-01 11:34:04,Classical,99526,1,false,Biber: Mystery Sonata #3_ "The Nativity" - 1. Sonata
+never,Classic,291239,0,false,左手のためのピアノ協奏曲　２．
+never,Classic,463098,0,false,ピアノ協奏曲ト長調　第１楽章
+never,Classic,521090,0,false,ピアノ協奏曲ト長調　第２楽章
+never,ジャズ,223373,0,false,Good Question
+never,Classic,238915,0,false,ピアノ協奏曲ト長調　第３楽章
+never,Classic,484545,0,false,左手のためのピアノ協奏曲　１．
+2012-08-05 12:56:11,none,260284,10,false,Sensitive Venus
+never,Soundtrack,229459,0,false,死闘
+never,Soundtrack,136907,0,false,継ぎゆく意志
+never,Soundtrack,161724,0,false,ルシたちの想い
+never,Soundtrack,147826,0,false,宿命への抗い
+never,Soundtrack,182595,0,false,聖府代表ダイスリー
+never,Classical,74031,0,false,Biber: Mystery Sonata #8_ "The Crowning With Thorns" - 1. Sonata
+never,Classical,215327,0,false,Biber: Mystery Sonata #7_ "The Scourging At The Pillar" - 4. Variatio
+never,Jazz & Fusion,323604,0,false,フォレスト・スター
+never,Jazz & Fusion,287608,0,false,ジャイアント・ステップス
+never,Jazz & Fusion,433606,0,false,アイム・ゴナ・ゴー・フィッシン
+never,Soundtrack,193488,0,false,優しい思い出
+never,Soundtrack,204773,0,false,スーリヤ湖
+never,Soundtrack,258560,0,false,パルスdeチョコボ
+never,Soundtrack,130612,0,false,ヤシャス山
+never,Soundtrack,188264,0,false,テージンタワー
+never,ロック,207934,0,false,Love Me_ Please Love Me
+never,ロック,258220,0,false,Tous Les Bateaux_ Tous Les Oiseaux
+never,Pop,197120,0,false,Whitechapel
+2012-07-10 12:35:10,ロック,174262,1,false,Tout_ Tout Pour Ma Cherie
+never,ロック,104855,0,false,Ca N'arrive Qu'aux Autres
+never,Soundtrack,42057,0,false,World you reached
+2012-04-16 12:55:08,Rock,258037,1,false,Wingspan
+2012-07-12 02:32:02,Rock,263784,5,false,Highway Star_ Speed Star
+2012-05-26 11:42:18,Rock,246386,2,false,Swing_ Swing_ Swing!
+2012-07-12 02:27:32,Rock,254432,4,false,Higher than the Sun
+2012-05-26 13:02:54,Rock,135941,2,false,Sine
+never,Soundtrack,261433,0,false,Round and Round (Original Mix)
+never,Soundtrack,197302,0,false,Express Emotion (Extended ver.)
+2012-03-30 14:07:21,none,177259,2,false,睡蓮花2
+never,Soundtrack,187559,0,false,Follow Tomorrow (for future mix)
+2012-03-30 14:42:56,none,433475,1,false,睡蓮花　湘南乃風　高音質.mp4
+2012-06-07 09:54:45,none,109300,1,false,1
+2012-06-05 11:03:59,145,166086,1,false,Spirale
+2012-06-05 22:24:18,none,341368,6,false,スピラーレ-高音質ver.-
+2012-06-04 15:56:43,none,223843,1,false,Brazilian Anthem
+never,none,277992,0,false,衣更オケメロ
+2012-06-05 09:59:11,Pop,245733,1,false,ぐるぐるカーテン
+never,Soundtrack,115722,0,false,Phoenix
+never,Soundtrack,35970,0,false,ゆうじ CMバージョン
+never,Soundtrack,68179,0,false,Family Affair
+never,Soundtrack,292519,0,false,虹色クマクマ
+never,Classic,506958,0,false,弦楽四重奏曲ヘ長調　第３楽章
+never,クラシック,153312,0,false,Gnossiennes (6)  for piano
+never,Classic,459964,0,false,弦楽四重奏曲ヘ長調　第１楽章
+never,Classic,316630,0,false,左手のためのピアノ協奏曲　３．
+never,クラシック,408999,0,false,Beethoven: 5th Symphony _ First Movement
+never,none,420832,0,false,トラック 16
+never,Pop,263418,0,false,Party Rock Anthem
+never,none,230164,0,false,トラック 18
+never,Pop,194873,0,false,これで準備OK
+2012-07-10 00:54:54,none,94302,1,false,【にゃんこい!OP】 にゃんだふる! 【高音質】
+never,クラシック,87013,0,false,Pleiades Dances I: Interlude to Water
+never,Soundtrack,136097,0,false,All you need is love
+never,クラシック,137090,0,false,Pleiades Dances I: Floral Dance
+never,クラシック,142262,0,false,Pleiades Dances V: Scene of Rondo
+never,クラシック,125831,0,false,Pleiades Dances I: Apple Seed Dance
+never,クラシック,104254,0,false,Pleiades Dances I: Invention for about 02 voices
+never,Jazz,393795,0,false,Blue Lights
+never,Soundtrack,23275,0,false,深き木々の大海 ～昼
+never,Soundtrack,159791,0,false,Monster Hunter Portable 2nd G
+never,Jazz,504424,0,false,Jor-Du
+never,Soundtrack,168097,0,false,祖なる龍
+never,Jazz,231000,0,false,Just In Time
+never,Soundtrack,111986,0,false,舞い降りる伝説
+never,Jazz,229093,0,false,Basie Goes Wess
+never,Soundtrack,227735,0,false,獄炎の覇王 _ アカムトルム
+never,Jazz,249417,0,false,Sad Walk
+2012-03-28 11:43:41,Soundtrack,175542,1,false,FINAL FANTASY XIII プレリュード
+never,クラシック,408685,0,false,Section 5
+never,クラシック,396904,0,false,Section 4
+never,クラシック,225724,0,false,Section 3B
+never,クラシック,235049,0,false,Section 3A
+2012-03-21 02:02:09,Classical,168881,1,false,風林火山
+2012-03-21 02:04:57,Classical,168202,1,false,篤姫
+2012-03-21 02:07:46,Classical,168646,1,false,天地人
+2012-03-21 02:10:32,Classical,166504,1,false,龍馬伝
+never,クラシック,294164,0,false,Section 6
+never,Soundtrack,113240,0,false,船の墓場の戦い (M-22)
+never,Soundtrack,92447,0,false,Remember me
+never,Soundtrack,67996,0,false,プリキュア変身 Max Heart (M-5 _ M-18)
+never,Soundtrack,49371,0,false,魔女は笑う (M-19)
+never,Soundtrack,88685,0,false,希望の涙～Tears For Tomorrow～(劇場Version)
+never,Soundtrack,108930,0,false,崩れゆく世界～決意の旅立ち (M-21)
+never,Pop,259291,0,false,突然炎のごとく
+never,DOMESTIC(J-POPS),287895,0,false,江古田
+never,ワールド ミュージック,519784,0,false,Ⅴ章　邂逅［近未来］Disco
+never,ワールド ミュージック,513097,0,false,Ⅳ章　熟壊［近・現代］Catastrophe
+never,Domestic(J-Pops),272561,0,false,Ｐａｓｓａｇｅ
+never,ワールド ミュージック,653531,0,false,Ⅵ章　讃歌［エピローグ］Gaia
+2012-07-01 12:31:50,Classical,149838,1,false,Biber: Mystery Sonata #15_ "The Coronation Of The Virgin" - 4. Sarabanda & Double
+2012-07-01 12:29:20,Classical,115644,1,false,Biber: Mystery Sonata #15_ "The Coronation Of The Virgin" - 3. Canzona
+never,Soundtrack,93675,0,false,ハッピー☆マテリアル [2月度オープニングテーマ (TV Size)]
+2012-07-01 12:40:40,Classical,530024,1,false,Biber: Mystery Sonata #16 (Passagalia)
+never,Soundtrack,92551,0,false,ハッピー☆マテリアル [3月度オープニングテーマ (TV Size)]
+never,Jazz,322560,0,false,I've Told Ev'ry Little Star
+2012-07-08 20:13:36,none,137299,1,false,トラック 19
+never,none,322324,0,false,トラック 18
+never,none,331415,0,false,トラック 17
+never,none,235102,0,false,トラック 16
+2012-07-09 04:27:23,none,277812,2,false,トラック 20
+never,Pop,219115,0,false,アンドロメダまで1hour
+never,Rock,269296,0,false,「生涯の秘密」
+never,Jazz,238288,0,false,Knee Deep
+never,Classical,551392,0,false,Bartók : String Quartet No.1 Op.7 Sz40 : I Lento
+never,Classical,526053,0,false,Bartók : String Quartet No.1 Op.7 Sz40 : II Poco A Poco Accelerando All'allegretto
+never,Pop,389302,0,false,陽の当たる大通り (Sunday Morning Takimix)
+never,Classical,679758,0,false,Bartók : String Quartet No.1 Op.7 Sz40 : III Introduzione - Allegro - Allegro Vivace
+2012-03-21 06:10:59,Pop,362057,1,false,CDJ
+never,Classical,591203,0,false,Bartók : String Quartet No.2 Op.17 Sz67 : I Moderato
+2012-03-21 06:04:57,Pop,220708,1,false,大人になりましょう
+never,Pop,244532,0,false,トゥイギー・トゥイギー～トゥイギー対ジェームズ・ポンド
+2012-03-31 12:45:55,Pop,205609,1,false,我が名はグルーヴィー
+never,Pop,231680,0,false,咲かせて乙女
+never,Soundtrack,74814,0,false,ゲームオーバー
+never,クラシック,647575,0,false,Fifth Movement
+never,Soundtrack,196649,0,false,偽りの饗宴
+never,Soundtrack,216137,0,false,夢の終わり
+never,Soundtrack,142680,0,false,ルシの試練
+never,Soundtrack,76538,0,false,世界の敵
+never,Classical,77217,0,false,Biber: Mystery Sonata #7_ "The Scourging At The Pillar" - 3. Sarabanda
+never,Jazz & Fusion,290612,0,false,フォー・ヘヴンズ・セイク
+never,Jazz & Fusion,282592,0,false,テイク・ミー・イン・ユア・アームス
+never,Jazz & Fusion,408607,0,false,シング，シング，シング｜ギヴ・ミー・ア・ブレイク
+2012-06-30 02:57:47,Jazz & Fusion,120450,1,false,キープ・スマイリング
+never,Soundtrack,138057,0,false,異境大陸グラン=パルス
+never,Soundtrack,211226,0,false,ファングのテーマ
+never,Soundtrack,260466,0,false,Choose to Fight
+never,Soundtrack,161410,0,false,神秘
+never,Soundtrack,264777,0,false,アルカキルティ大陸
+never,ロック,156969,0,false,Qui A Tue Grand' Maman
+never,ロック,162951,0,false,Dans La Maison Vide
+never,Rock,300591,0,false,萌の歯
+never,ロック,192679,0,false,La Poupee Qui Fait Non
+never,Rock,175856,0,false,ルイノン (9 May '99)
+never,Rock,239490,0,false,オーギュ、空を撃つ。
+never,Rock,304274,0,false,ココロはこうして売るの(2)
+2012-07-01 10:54:16,Rock,306102,1,false,「男娼ネリ」第19夜 シーン8
+never,International(Pops),233064,0,false,悲しみの兵士
+never,International(Pops),223973,0,false,想い出のマリッツァ
+never,International(Pops),176457,0,false,ズン・ズン・ズン
+never,International(Pops),195369,0,false,男の子のように
+never,International(Pops),201665,0,false,愛のかたち
+never,Rock,181551,0,false,Hey_ Leader!
+never,Rock,192992,0,false,Do You Believe In Magic?
+never,Rock,218592,0,false,More Respected Man
+never,Rock,173008,0,false,Mr. Noone Special
+never,Rock,158693,0,false,This Year's Gear
+2012-03-30 14:44:34,none,153737,1,false,睡蓮花2-6
+never,none,176493,0,false,睡蓮花2-4
+never,その他,9299,0,false,meka_ge_tokei_kizami02
+2012-03-30 14:29:47,none,172174,1,false,睡蓮花2-1
+never,none,177259,0,false,睡蓮花2-5
+never,Pop,236251,0,false,夜の翼
+never,Classical,91611,0,false,Biber: Mystery Sonata #5_ "The Finding In The Temple" - 5. Double
+never,ジャズ,205217,0,false,Could It Be You
+never,ジャズ,398628,0,false,Juice
+never,Soundtrack,117707,0,false,LOVE B.B.B
+never,ロック,197067,0,false,You Gave Me a Mountain
+never,Soundtrack,121469,0,false,Session 12 -Esther-
+never,ロック,156316,0,false,Separate Ways
+never,Soundtrack,128052,0,false,君のハートにロックオン
+2012-07-01 12:44:04,Pop,203859,1,false,Bilitis
+never,Soundtrack,114390,0,false,Quick Silver
+never,ロック,154618,0,false,The Wonder of You
+never,Soundtrack,112979,0,false,Several Words
+never,ジャズ,87457,0,false,Running Through My Dreams (Interlude)
+2012-07-01 12:48:20,Pop,256026,1,false,Theme From ''Love Story''
+2012-06-08 11:16:40,none,79072,1,false,kari
+never,ロック,142445,0,false,She Loves You
+never,Classical,227683,0,false,Biber: Mystery Sonata #6_ "The Sweating Of Blood" - 1. Lamento
+never,ワールド,214506,0,false,One Summer Afternoon
+2012-08-05 01:29:43,Soundtrack,216058,1,false,Super Special Smiling Shy girl
+never,ワールド,283520,0,false,Moon Garde
+never,Classical,172042,0,false,Biber: Mystery Sonata #6_ "The Sweating Of Blood" - 2. [Aria]
+never,ワールド,154040,0,false,春茜〜haruakane〜
+never,ワールド,236533,0,false,And Now_ Here We Are
+never,Soundtrack,162977,0,false,MAGICSWEETS -Masao Nisugi Remix-
+never,Pop,155924,0,false,眠れぬ夜の小夜曲
+2012-07-12 03:22:09,none,529,1,false,VEH2 Snares - 010
+2012-07-12 03:22:21,none,234,3,false,VEH2 Snares - 009
+never,Pop,180662,0,false,ピストル
+2012-07-12 03:22:21,none,250,3,false,VEH2 Snares - 008
+2012-07-12 03:22:20,none,117,3,false,VEH2 Snares - 007
+2012-07-12 03:22:20,none,220,3,false,VEH2 Snares - 006
+2012-07-03 09:09:41,Jazz & Fusion,327157,2,false,トランス・カフェ
+2012-07-04 05:13:31,ワールド,295613,1,false,Felice
+never,クラシック,124969,0,false,Pleiades Dances V: Inclined Elegy
+never,クラシック,111986,0,false,Pleiades Dances V: Arabesque in Twilight
+never,クラシック,140355,0,false,Pleiades Dances V: Pavane in the Dark Morning
+never,クラシック,109165,0,false,Pleiades Dances V: Dance in Afternoon
+never,クラシック,164675,0,false,Pleiades Dances V: Noel in Midnight
+never,Soundtrack,198556,0,false,勇者のためのマーチ
+never,Jazz,321828,0,false,Walkin'
+never,Jazz,595539,0,false,Hotel 49
+never,Soundtrack,169769,0,false,毒霞 _ ゲリョス
+never,Jazz,284577,0,false,Easy Living
+never,Soundtrack,203467,0,false,真紅の角 _ モノブロス
+never,Jazz,302080,0,false,Metropolitan Blues
+never,Soundtrack,195552,0,false,動く霊峰
+never,Jazz,227996,0,false,Alone Together
+never,Soundtrack,127268,0,false,地裂 _ グラビモス
+never,アバンギャルド,238184,0,false,MUSIC FOR 18 MUSICIANS - Section 1
+never,アバンギャルド,308610,0,false,Music for 18 Musicians - Section 2
+never,クラシック,326791,0,false,Pulses
+never,クラシック,238184,0,false,Section 1
+2012-05-23 07:11:18,Classical,167706,3,false,功名が辻
+never,クラシック,313077,0,false,Section 2
+2012-03-21 01:56:33,Classical,172930,1,false,義経
+2012-03-21 01:53:40,Classical,173583,1,false,新選組!
+2012-03-21 01:50:46,Classical,257906,1,false,武蔵 MUSASHI
+2012-04-01 12:23:05,Classical,162115,2,false,利家とまつ ～加賀百万石物語～
+never,Soundtrack,78315,0,false,突入！魔女の洞窟へ (M-27)
+never,Pop,281573,0,false,避暑地の出来事
+never,Soundtrack,39262,0,false,魔女の逆襲 (M-24)
+never,Soundtrack,26279,0,false,ボスコウモリをぶっとばせ！(M-23)
+never,Soundtrack,89782,0,false,悲しみの海をあとに (M-26)
+never,Soundtrack,62902,0,false,一閃 ! プリキュア・マーブルスクリュー・マックス (M-25)
+never,ワールド ミュージック,663902,0,false,Ⅱ章　創生［原初・古代］Genesis
+never,ワールド ミュージック,838870,0,false,Ⅰ章　黎明［プロローグ］Chaos
+never,ポップ,300773,0,false,光 (Original Karaoke)
+never,ポップ,279066,0,false,光 (Godson Mix)
+never,ワールド ミュージック,1048973,0,false,Ⅲ章　祝濤［中・近世］Euphony
+never,Soundtrack,197485,0,false,Mystery～Tension <M46～M47>
+never,Soundtrack,93413,0,false,ハッピー☆マテリアル [6月度オープニングテーマ (TV Size)]
+never,Soundtrack,112927,0,false,あやかのテーマ <M45>
+never,Soundtrack,92708,0,false,ハッピー☆マテリアル [4月度オープニングテーマ (TV Size)]
+never,Soundtrack,92081,0,false,ハッピー☆マテリアル [5月度オープニングテーマ (TV Size)]
+never,none,138762,0,false,トラック 22
+2012-08-04 14:06:50,Soundtrack,197198,1,false,Rainy Rainy Sunday
+never,none,93857,0,false,トラック 21
+2012-07-08 20:23:30,none,91402,1,false,トラック 24
+2012-07-08 20:21:58,none,93413,1,false,トラック 23
+never,none,212741,0,false,トラック 25
+never,Soundtrack,330501,0,false,放課後オーバーフロウ
+never,Rock,323239,0,false,グライドしてた
+never,Rock,124891,0,false,Neon
+never,Rock,254615,0,false,真夜中2時→
+2012-03-31 12:42:29,Pop,297168,1,false,東京は夜の七時
+never,Rock,283193,0,false,完璧な朝
+2012-03-31 12:35:15,Pop,16431,3,false,We Love Pizzicato Five
+never,Rock,244244,0,false,ナイト・グロウイン
+2012-03-21 02:15:43,Pop,276897,1,false,スウィート・ソウル・レヴュー
+2012-03-31 12:34:58,146,249704,2,false,welcomemagical2
+never,Soundtrack,65645,0,false,Chase the Lady
+never,Classical,150674,0,false,Biber: Mystery Sonata #7_ "The Scourging At The Pillar" - 2. Variatio
+2012-06-30 02:45:29,Jazz & Fusion,344189,1,false,エアロトレイン
+2012-06-30 02:39:44,Jazz & Fusion,360933,1,false,シャドウ・オブ・ライト
+2012-06-30 02:55:49,Jazz & Fusion,312555,1,false,テンダー・アイズ
+2012-06-30 02:50:36,Jazz & Fusion,307539,1,false,キャット・ダンス
+never,ロック,382720,0,false,Money
+never,ロック,170031,0,false,L'oiseau De Nuit
+never,ロック,140251,0,false,La Michetonneuse
+2012-07-01 12:05:20,Classical,96522,1,false,Biber: Mystery Sonata #13_ "The Descent Of The Holy Ghost" - 2. Gavotte
+never,ロック,230556,0,false,Sous Quelle Etoile Suis-Je Ne
+never,ロック,143464,0,false,Ta-Ta-Ta-Ta
+never,Rock,300773,0,false,バニフォーおもちゃ工場の連中だよ! ～露コナツ最初の日～
+never,ロック,141400,0,false,Time Will Tell.
+never,Rock,312633,0,false,コナツ最後の日々。
+never,Rock,607059,0,false,ガリバー2
+2012-07-01 12:03:43,Classical,199497,1,false,Biber: Mystery Sonata #13_ "The Descent Of The Holy Ghost" - 1. Sonata
+never,International(Pops),176431,0,false,アブラカタブラ
+2012-04-22 04:05:11,Pop,371069,1,false,highway RUN
+never,International(Pops),185103,0,false,恋人を探せ
+2012-04-22 03:59:00,Pop,214413,1,false,雨模様
+never,International(Pops),247562,0,false,哀しみのシンフォニー
+2012-04-22 03:55:19,Pop,304848,1,false,once upon a time
+never,International(Pops),175072,0,false,悲しきジプシー
+2012-04-22 04:58:35,Rock,160809,1,false,Visualized!
+never,International(Pops),141061,0,false,悲しき雨音
+never,ロック,284081,0,false,The Great Gig in the Sky
+2012-04-22 04:09:42,Pop,270811,1,false,Lovin' You
+never,Soundtrack,104646,0,false,Success Road
+2012-03-31 12:23:25,146,134426,1,false,suiren_kari
+never,Pop,241920,0,false,Midnight Love Call
+never,146,134426,0,false,suiren
+2012-03-31 09:48:36,146,134426,1,false,suiren1_delay
+2012-03-31 09:50:50,146,134426,3,false,suiren2_reverb
+2012-03-31 09:53:39,none,149024,1,false,睡蓮花2-7
+never,Pop,217730,0,false,スタンダード・ナンバー
+2012-07-04 06:17:04,ゲーム,95973,12,false,murmur twins
+2012-06-04 02:08:15,Soundtrack,187376,1,false,Main Title
+never,ロック,143699,0,false,Spanish Eyes
+2012-06-02 19:28:47,ゲーム,394814,1,false,Love is Orange
+2012-06-11 14:15:05,none,335020,2,false,CAT JAZZ -------55 Marble Version -----
+never,ロック,169482,0,false,That's Someone You Never Forget
+never,ロック,161593,0,false,Puppet on a String
+2012-06-02 19:35:12,none,293746,1,false,CHOCOLATE PHILOSOPHY
+never,ロック,163892,0,false,Love Me Tender
+never,ロック,130063,0,false,She's Not You
+2012-08-03 16:35:33,Pop,254824,6,false,チェルシーガール
+2012-08-04 02:36:53,Soundtrack,301792,8,false,バンビーノ・バンビーナ
+never,Pop,408920,0,false,ノンストップ・トゥ・トーキョー
+never,Soundtrack,63738,0,false,Melty Kiss
+2012-07-12 03:22:19,none,242,3,false,VEH2 Snares - 005
+2012-07-12 03:22:18,none,458,3,false,VEH2 Snares - 001
+2012-07-12 03:22:18,none,484,3,false,VEH2 Snares - 002
+2012-07-12 03:22:19,none,116,3,false,VEH2 Snares - 003
+2012-07-12 03:22:19,none,211,3,false,VEH2 Snares - 004
+never,Pop,263915,0,false,おいらギャングだぞ (Album Version)
+never,クラシック,106475,0,false,Pleiades Dances IV: Memory of Interlude
+never,クラシック,124995,0,false,Pleiades Dances IV: Distant Dark Pastoral
+never,クラシック,149002,0,false,Pleiades Dances IV: Dance toward East
+never,クラシック,96026,0,false,Pleiades Dances IV: Season of Alleluia
+never,クラシック,104202,0,false,Pleiades Dances V: Image of Prelude
+2012-06-30 07:44:21,Pop,264202,1,false,Party Rock Anthem
+never,Soundtrack,177475,0,false,嵐に舞う黒い影 _ クシャルダオラ
+never,Soundtrack,199026,0,false,炎国の王妃 _ テオ・テスカトル & ナナ・テスカトリ
+never,Soundtrack,141792,0,false,最終決戦
+never,Soundtrack,227082,0,false,唸る一匹狼 _ イャンガルルガ
+never,Soundtrack,94197,0,false,島アイモ
+never,Soundtrack,171990,0,false,深い森の幻影 _ オオナズチ
+never,Classical,421120,0,false,Bartók: String Quartet #6_ Sz. 114: 3. Mesto: Burletta: Moderato
+never,Pop,264777,0,false,クレッセント・ナイト
+never,Classic,76042,0,false,歌垣　第三章　ｂ．雅歌　２章１６～１７
+never,Classic,141374,0,false,歌垣　第三章　ａ．雅歌　２章１０～１３
+never,Classic,347219,0,false,歌垣　第二章　ｅ．つくはねの
+never,Classic,160104,0,false,歌垣　第二章　ｄ．もの思はず
+never,Classic,47124,0,false,歌垣　第二章　ｃ．むかつをに
+never,Soundtrack,348708,0,false,奇跡と退屈
+never,Musique Religieuse,2675461,0,false,SAINT-FRANCOIS D'ASSISE. - Acte II: 6° Tableau: Le Prêche aux oiseaux
+never,Musique Religieuse,1992097,0,false,ACTE II. 4 - L'Ange voyageur
+never,Musique Religieuse,1752737,0,false,5 - L'Ange musicien
+never,Musique Religieuse,1030112,0,false,II - Les Laudes
+never,Musique Religieuse,1765198,0,false,III - Le Baiser au lépreux
+2012-03-28 12:49:56,Soundtrack,170292,1,false,召喚獣
+never,Classic,735268,0,false,想起～マリンバのための
+2012-03-28 12:52:51,Soundtrack,175020,1,false,閃光
+never,クラシック,796839,0,false,ピアノ協奏曲
+2012-03-28 12:45:29,Soundtrack,251480,1,false,ビルジ湖
+never,Classic,726125,0,false,相聞歌～声，筝，チェロ，室内オーケストラのための　１．味真野に
+2012-03-28 12:47:06,Soundtrack,97384,1,false,下界のルシたち
+never,Classic,627774,0,false,相聞歌～声，筝，チェロ，室内オーケストラのための　２．遠くとも
+2012-03-28 12:52:59,Soundtrack,8150,1,false,栄光のファンファーレ
+never,クラシック,526393,0,false,ヴァイオリン協奏曲-Dialogue_Lento
+never,Soundtrack,90488,0,false,My love
+never,International(Pops),223216,0,false,いとしき若者（デルタの夜明け）
+never,International(Pops),228728,0,false,ディスコ・クイーン（愛しのジョニー）
+never,International(Pops),204408,0,false,愛はジタンの香り
+never,ポップ,303960,0,false,光
+never,ポップ,345652,0,false,光 (Planitb Remix)
+never,その他,270733,0,false,06 Electric Counterpoint Fast
+never,Rock,169168,0,false,Pet Sounds (Stereo Track Without Guitar Overdub)
+never,その他,450324,0,false,02 Different Trains Europe - During The War
+never,その他,632189,0,false,03 Different Trains After the War
+never,その他,411115,0,false,04 Electric Counterpoint Fast
+never,その他,201769,0,false,05 Electric Counterpoint Electric Counterpoint Slow
+never,Soundtrack,125204,0,false,Share
+never,none,123062,0,false,トラック 05
+2012-07-08 20:31:19,none,246778,1,false,トラック 03
+never,none,232515,0,false,トラック 04
+never,none,133224,0,false,トラック 01
+never,none,192235,0,false,トラック 02
+never,Soundtrack,134112,0,false,ワイルダーズ
+never,Soundtrack,21812,0,false,絶体絶命の妖精たち(M-31)
+never,Soundtrack,107650,0,false,迫り来る危機 (M-30)
+never,Soundtrack,63346,0,false,空とぶ幽霊船 (M-29)
+never,Soundtrack,60839,0,false,怒りのパンチを受けてみろ！(M-28)
+never,Soundtrack,66768,0,false,光の戦士ふたたび (M-32)
+never,Classical,307382,0,false,Bartók: String Quartet #3_ Sz. 85: 3. Ricapitulazione Della Prima Parte: Moderato_ Coda: Allegro Molto
+never,Classical,321802,0,false,Bartók: String Quartet #3_ Sz. 85: 2. Seconda Parte: Allegro
+never,Classical,279771,0,false,Bartók: String Quartet #3_ Sz. 85: 1. Prima Parte: Moderato
+never,Classical,315036,0,false,Bartók : String Quartet No.4 Sz91 : V Allegro Molto
+never,Classical,158772,0,false,Bartók : String Quartet No.4 Sz91 : IV Allegretto Pizzicato
+2012-07-04 04:55:18,Jazz & Fusion,378279,3,false,ゲノム
+2012-06-30 02:33:16,Jazz & Fusion,351320,1,false,ストローリング・ボブ
+never,Soundtrack,132388,0,false,Green
+2012-06-30 02:20:49,Jazz & Fusion,335777,1,false,アヴェニュー２１
+never,Classical,96130,0,false,Biber: Mystery Sonata #6_ "The Sweating Of Blood" - 3. Adagio
+never,Classical,153286,0,false,Biber: Mystery Sonata #7_ "The Scourging At The Pillar" - 1. Allamanda
+2012-03-21 08:32:46,Pop,208169,2,false,We Love Pizzicato Five
+2012-08-05 04:48:38,none,242886,2,false,おしえて A to Z
+never,Rock,154305,0,false,Wouldn't It Be Nice (Stereo Track With Background Vocals)
+never,ロック,159660,0,false,Ballade Pour Toi  Ce Que Je Cherche Est En Toi
+never,ロック,209502,0,false,Mes Regrets
+never,Rock,140382,0,false,Let's Go Away For Awhile (Highlights From Tracking Date)
+never,ロック,169952,0,false,Allo Georgina
+never,ロック,162560,0,false,Jour Apres Jour
+never,Rock,259004,0,false,E.G.G.
+2012-05-26 13:06:16,Rock,189100,1,false,アメリカの女王
+2012-05-26 13:09:03,Rock,167653,1,false,Sailing Song
+never,International(Pops),184633,0,false,悲しきスクリーン
+2012-05-28 06:47:22,Rock,233247,3,false,Love Thing
+never,Classic,118099,0,false,プレイアデス舞曲集６ｏｐ．７１　６．冬のパストラル
+never,Rock,309655,0,false,怒れる小さな茶色い犬
+never,Domestic(J-Pops),351137,0,false,辺り一面の愛
+never,International(Pops),152398,0,false,アイドルを探せ
+never,Domestic(J-Pops),198034,0,false,ナオミの夢
+never,Domestic(J-Pops),352809,0,false,ブラック・イズ・ザ・カラー
+2012-03-21 06:43:00,Pop,346017,1,false,万事快調
+never,Pop,285675,0,false,スウィート・ソウル・レビュー
+never,ジャズ,282488,0,false,Let the dream fall back on the dreaded
+2012-05-22 06:58:06,Pop,300199,1,false,東京は夜の七時
+2012-05-22 07:03:04,Pop,298031,1,false,ハッピー・サッド
+2012-05-22 07:08:31,Pop,326974,1,false,スーパースター
+never,Classic,77348,0,false,プレイアデス舞曲集６ｏｐ．７１　４．けだるい夏へのロマンス
+2012-04-13 07:54:37,New Age,241057,4,false,天と地と[オープニング・テーマ～甲斐の軍勢～越後の雪]
+2012-04-22 05:16:34,146,83513,13,false,ange_est
+2012-04-22 05:17:55,146,81005,9,false,infinite
+never,Classic,120790,0,false,プレイアデス舞曲集６ｏｐ．７１　３．夏のパストラル
+2012-04-16 14:35:58,146,288679,2,false,blue_oke
+2012-04-22 04:31:01,146,83513,15,false,ange_est_v
+2012-06-07 09:34:40,ゲーム,84009,3,false,Mobo Moga
+2012-06-04 14:18:13,146,105142,9,false,koichoco_on_vocal
+2012-06-07 09:33:16,146,105142,3,false,koichoco_off_vocal
+2012-06-02 19:47:05,none,339069,1,false,Nyandafuru 55
+never,none,277958,0,false,恋するクローバー_demo 1
+never,ロック,205244,0,false,Against All Odds (Take a Look at Me Now)
+never,ロック,291239,0,false,Something Happened on the Way to Heaven
+never,ロック,204643,0,false,Two Hearts
+never,ロック,328411,0,false,I Wish It Would Rain Down
+never,ロック,246543,0,false,Separate Lives
+never,Soundtrack,49110,0,false,Beautiful Memories
+never,クラシック,95059,0,false,Pleiades Dances III: Slightly Bright Waltz
+never,Soundtrack,178651,0,false,降誕
+never,クラシック,101825,0,false,Pleiades Dances III: Romance from the Past
+never,クラシック,142471,0,false,Pleiades Dances IV: Canticle of Quiet Rain
+never,クラシック,151457,0,false,Pleiades Dances IV: Memory of Prelude
+never,クラシック,107102,0,false,Pleiades Dances IV: Dance toward West
+never,Soundtrack,224156,0,false,罪深き希望
+never,Jazz,455627,0,false,Line For Lions
+never,Soundtrack,159973,0,false,ファブラ・ノヴァ・クリスタル
+never,Pop,163422,0,false,涙のステラ
+never,Soundtrack,23353,0,false,深き木々の大海 ～夜
+never,Soundtrack,44146,0,false,黒き迅竜
+never,Pop,260048,0,false,冬夜空
+never,Soundtrack,291866,0,false,目覚めの章 ～魂を宿す唄
+never,Soundtrack,55614,0,false,Secret Track
+never,Soundtrack,100362,0,false,I'm so Happy
+never,Classic,244218,0,false,人間の死　第一章　Ｂ郡（「青森挽歌」より）
+never,Soundtrack,125570,0,false,蛇神
+never,Classic,69564,0,false,歌垣　第三章　ｃ．雅歌　７章１１～１２
+never,Classic,233639,0,false,歌垣　第三章　ｄ．結びのうた
+never,Classic,249025,0,false,人間の死　プロローグ（人生の短さについて）
+never,Classic,201012,0,false,人間の死　第一章　Ａ郡（「マルテの手記」より）
+never,Soundtrack,118674,0,false,Far east nightbird
+never,Pop,262556,0,false,Peace
+never,Classic,305266,0,false,トゥーランガリラ交響曲　第３楽章　トゥーランガリラ１
+never,Classic,479973,0,false,トゥーランガリラ交響曲　第２楽章　愛の歌１
+never,Classic,370181,0,false,トゥーランガリラ交響曲　第１楽章　イントロデュクシオン
+never,Soundtrack,101982,0,false,Snow Goose
+never,none,2420688,0,false,トラック 1
+never,Musique Religieuse,1262158,0,false,Acte III: 7° Tableau: Les Stigmates
+never,Classic,85681,0,false,歌垣　第二章　ａ．Ｈｏｚａｓｈｉ
+never,Classic,272744,0,false,歌垣　第一章（「常陸国風土記」より）
+never,Soundtrack,206968,0,false,Eternal Love (Short Version)
+never,クラシック,561449,0,false,ヴァイオリン協奏曲-Lamentabile_lento=Presto
+never,クラシック,450716,0,false,ヴァイオリン協奏曲-Ostinato.Presto
+2012-03-28 12:36:32,Soundtrack,226664,1,false,ラグナロク
+2012-03-28 12:32:46,Soundtrack,168097,1,false,異跡
+2012-03-28 12:40:20,Soundtrack,144169,1,false,永遠の誓い
+never,Classic,99657,0,false,歌垣　第二章　ｂ．うるわしと
+2012-03-28 12:37:56,Soundtrack,84088,1,false,あの日の空
+never,Soundtrack,399830,0,false,ダイアモンド クレバス ～ thank you_ Frontier
+never,Rock,157727,0,false,Pet Sounds (Stereo Mix)
+never,Rock,178860,0,false,Caroline_ No (Stereo Mix)
+never,Rock,187402,0,false,Here Today (Stereo Mix)
+never,Rock,201247,0,false,I Just Wasn't Made For These Times (Stereo Mix)
+never,Rock,64862,0,false,Sloop John B (Highlights From Tracking Date)
+never,Jazz,295706,0,false,Red Boy Blues
+never,クラシック,413126,0,false,1. Fast
+never,クラシック,1091422,0,false,Drumming_ Pt. II
+never,クラシック,1050618,0,false,Drumming_ Pt. I
+never,クラシック,589975,0,false,Drumming_ Pt. IV
+never,クラシック,671373,0,false,Drumming_ Pt. III
+never,ロック,226899,0,false,Brain Damage
+never,none,219533,0,false,トラック 16
+never,none,231392,0,false,トラック 12
+never,none,214230,0,false,トラック 13
+never,none,275879,0,false,トラック 14
+never,none,295575,0,false,トラック 15
+never,Soundtrack,76800,0,false,負けない ! 一人はみんなのために (M-33)
+never,Soundtrack,54804,0,false,デビル変身！魔女の正体 !? (M-34)
+never,Soundtrack,256000,0,false,奇跡の力・希望の光 (M-35)
+never,Soundtrack,91820,0,false,別れのとき (M-36)
+never,Soundtrack,60995,0,false,絶対忘れない ! (M-37)
+never,Domestic(J-Pops),293616,0,false,家（うち）に帰ろう（マイ・スイート・ホーム）
+never,Classical,324466,0,false,Bartók : String Quartet No.4 Sz91 : III Non Troppo Lento
+never,Classical,450977,0,false,Bartók : String Quartet No.2 Op.17 Sz67 : II Allegro Molto Capriccioso
+never,Classical,494027,0,false,Bartók : String Quartet No.2 Op.17 Sz67 : III Lento
+never,Classical,360646,0,false,Bartók : String Quartet No.4 Sz91 : I Allegro
+never,Classical,167758,0,false,Bartók : String Quartet No.4 Sz91 : II Prestissimo_ Con Sordino
+never,ロック,131500,0,false,Eclipse
+2012-07-01 12:07:16,Classical,116715,1,false,Biber: Mystery Sonata #13_ "The Descent Of The Holy Ghost" - 3. Guigue
+never,ロック,469812,0,false,Us and Them
+never,ロック,409573,0,false,Time
+2012-07-01 12:00:24,Classical,93022,1,false,Biber: Mystery Sonata #12_ "The Ascension" - 5. Double
+never,Jazz & Fusion,210573,0,false,キャブ・トーク
+never,ロック,206184,0,false,Any Colour You Like
+2012-07-01 12:08:53,Classical,97071,1,false,Biber: Mystery Sonata #13_ "The Descent Of The Holy Ghost" - 4. Sarabanda
+never,Rock,71601,0,false,You Still Believe In Me (Highlights From Tracking Date)
+never,Rock,156055,0,false,You Still Believe In Me (Stereo Backing Track)
+never,Rock,99369,0,false,You Still Believe In Me (Intro-Session)
+never,Rock,15360,0,false,You Still Believe In Me (Intro-Master Take)
+2012-07-01 10:46:50,Rock,118360,1,false,最低になれピンクパンク...!
+never,ロック,172329,0,false,You Can't Hurry Love
+never,ロック,197668,0,false,Holidays
+never,ロック,322429,0,false,Another Day in Paradise
+never,ロック,274390,0,false,True Colors
+never,ロック,302706,0,false,Easy Lover
+never,International(Pops),165642,0,false,あなたのとりこ
+2012-04-01 05:20:07,Pop,203206,1,false,ハレルヤ・ハレクリシュナ
+never,International(Pops),156212,0,false,しあわせの２分３５秒
+2012-04-01 05:16:43,Pop,210599,1,false,愛の神話
+never,International(Pops),152528,0,false,ジョニーはどこに
+2012-04-01 05:13:13,Pop,147461,1,false,皆既日食
+never,International(Pops),168124,0,false,わたしを愛して
+2012-04-01 05:10:46,Pop,315062,1,false,ゴー・ゴー・ダンサー
+never,International(Pops),121103,0,false,いつでもあなたを
+2012-04-01 05:05:31,Pop,230791,1,false,レイン・ソング
+2012-03-21 06:33:46,Pop,366550,1,false,マジック・カーペット・ライド
+2012-03-21 06:27:40,Pop,344894,1,false,サンキュー
+never,Jazz,201482,0,false,Groovin' High
+never,Pop,343640,0,false,ハッピー・サッド
+never,Jazz,210546,0,false,Line Up
+never,Jazz,186096,0,false,Palo Alto
+never,Jazz,411768,0,false,Solemn Meditation
+never,Jazz,1166288,0,false,The Freedom Suite
+never,Pop,321123,0,false,スウィート・ソウル・レヴュー
+2012-04-01 04:41:29,Pop,348342,1,false,マジック・カーペット・ライド
+never,Pop,319399,0,false,マジック・カーペット・ライド(カラオケ)
+2012-04-01 04:34:10,Pop,161959,1,false,ロックン・ロール
+never,Pop,205165,0,false,我が名はグルーヴィー
+2012-06-20 05:02:12,none,64719,2,false,Output 1-2
+never,Soundtrack,119640,0,false,RESISTANCE
+2012-06-11 14:17:30,ラテン,144744,1,false,マリオ・ストーリー
+2012-06-26 00:18:38,146,124604,3,false,美冬キャラソン
+2012-06-13 10:01:09,146,104306,2,false,未散キャラソン
+2012-06-13 10:02:53,146,104306,2,false,KOBA_c001_120610_vo 1
+never,Jazz,294164,0,false,Blues Original
+never,Jazz,266579,0,false,Straight Life
+never,Jazz,414458,0,false,Wee-Jay
+never,Jazz,411742,0,false,Migty Moe And Joe
+never,ロック,263026,0,false,Dance into the Light
+2012-04-16 12:16:54,Indie Rock,239595,1,false,Fit Song
+never,ロック,261616,0,false,Sussudio
+2012-04-16 12:12:55,Indie Rock,261903,1,false,Sensuous
+never,ロック,285910,0,false,One More Night
+never,none,21455,0,false,1-1
+never,ロック,397217,0,false,Both Sides of the Story
+never,none,21548,0,false,6-1
+never,Soundtrack,45270,0,false,Blue Groovin'
+never,ロック,209293,0,false,A Groovy Kind of Love
+2012-04-16 12:20:45,Indie Rock,230530,1,false,Breezin'
