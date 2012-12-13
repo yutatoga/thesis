@@ -350,7 +350,7 @@ guiTypeSlider * ofxControlPanel::addSlider(string sliderName, string xmlName, fl
 
     //setup and dimensions
     tmp->setup(sliderName, value, min, max);
-    tmp->setDimensions(180, 10);
+    tmp->setDimensions(210, 10);
     tmp->xmlName = xmlName;
 
     //we can say we want to an int or a float!
@@ -506,7 +506,7 @@ guiTypeCustom * ofxControlPanel::addCustomRect(string name, guiCustomImpl * cust
 }
 
 //-------------------------------
-guiTypeButtonSlider * ofxControlPanel::addButtonSlider(string sliderName, string xmlName, float value , float min, float max, bool isInt )
+guiTypeButtonSlider * ofxControlPanel::addButtonSlider(string sliderName, string xmlName, float value , float min, float max, bool isInt)
 {
     if( currentPanel < 0 || currentPanel >= (int) panels.size() )return NULL;
 
@@ -516,7 +516,8 @@ guiTypeButtonSlider * ofxControlPanel::addButtonSlider(string sliderName, string
 	setLayoutFlag(tmp);
 
     //setup and dimensions
-    tmp->setup(sliderName, 210, 15, value, min, max, false);
+    
+    tmp->setup(sliderName, 210, 15, value, min, max, isInt);
     tmp->xmlName = xmlName;
 
     //we can say we want to an int or a float!

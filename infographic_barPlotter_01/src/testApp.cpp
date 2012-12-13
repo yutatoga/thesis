@@ -6,8 +6,7 @@ void testApp::setup(){
     //５より少ないジャンルしかないituens music libarary.xmlは読めないと思われる。
     //読み込むowenerの情報からsliderの最大値を再定義する方法がしりたい。
     
-    
-//    ofSetFullscreen(true);
+    ofSetFullscreen(true);
     ofSetCircleResolution(64);
     ofEnableSmoothing();
     ofSetVerticalSync(true);
@@ -44,6 +43,10 @@ void testApp::setup(){
     modeStr.push_back("developer");
     modeStr.push_back("secret");
     myControlPanel.addMultiToggle("mode", "mode", 0, modeStr);
+    vector<string> timeUnitStr;
+    timeUnitStr.push_back("hour");
+    timeUnitStr.push_back("hourAndWeek");
+    myControlPanel.addMultiToggle("timeUnit", "timeUnit", 1, timeUnitStr);
     myControlPanel.addSlider("barNum", "barNum", 24*7, 1, 24*7, true);
     myControlPanel.addSlider("topRange", "topRange", 5, 1, 10, true);
 //  myControlPanel.removeObject(string xmlName);
@@ -82,6 +85,13 @@ void testApp::setup(){
     myControlPanel.addPanel("allPeople", 3);
     myControlPanel.setWhichPanel(1);
     myControlPanel.addSlider("topRange_", "topRange_", 5, 1, 10, true);
+    myControlPanel.addSlider("corAbsThreshold", "corAbsThreshold", 0.8, 0, 1, false);
+
+    vector<string> weekOrHourStr;
+    weekOrHourStr.push_back("week");
+    weekOrHourStr.push_back("hour");
+    myControlPanel.addMultiToggle("weekOrHour", "weekOrHour", 0, weekOrHourStr);
+    
     vector<string> weekOrPersonStr;
     weekOrPersonStr.push_back("week");
     weekOrPersonStr.push_back("person");
@@ -100,8 +110,9 @@ void testApp::setup(){
     myControlPanel.addMultiToggle("week", "week", 0, weekNameStringListVector);
     //人数分の曜日の時間セッティング
     for (int i = 0; i< csvOwnerList.size(); i++) {
-        myControlPanel.addPanel("weekTimeSetting_"+csvOwnerList[i], 5);
+        myControlPanel.addPanel("weekTimeSetting_"+csvOwnerList[i], 4);
         myControlPanel.setWhichPanel(i+2);
+        myControlPanel.setSliderWidth(1000);
         myControlPanel.addSlider("sundayStart_"+csvOwnerList[i], "sundayStart_"+csvOwnerList[i], 24*0, 0, 24*7-1, true);
         myControlPanel.addSlider("mondayStart_"+csvOwnerList[i], "mondayStart_"+csvOwnerList[i], 24*1, 0, 24*7-1, true);
         myControlPanel.addSlider("tuesdayStart_"+csvOwnerList[i], "tuesdayStart_"+csvOwnerList[i], 24*2, 0, 24*7-1, true);
@@ -109,7 +120,7 @@ void testApp::setup(){
         myControlPanel.addSlider("thursdayStart_"+csvOwnerList[i], "thursdayStart_"+csvOwnerList[i], 24*4, 0, 24*7-1, true);
         myControlPanel.addSlider("fridayStart_"+csvOwnerList[i], "fridayStart_"+csvOwnerList[i], 24*5, 0, 24*7-1, true);
         myControlPanel.addSlider("saturdayStart_"+csvOwnerList[i], "saturdayStart_"+csvOwnerList[i], 24*6, 0, 24*7-1, true);
-        
+
         myControlPanel.setWhichColumn(3);
         myControlPanel.addSlider("sundayEnd_"+csvOwnerList[i], "sundayEnd_"+csvOwnerList[i], 24*0+23, 0, 24*7-1, true);
         myControlPanel.addSlider("mondayEnd_"+csvOwnerList[i], "mondayEnd_"+csvOwnerList[i], 24*1+23, 0, 24*7-1, true);
@@ -200,14 +211,8 @@ void testApp::setup(){
         }
     }
     
-    
-//    //TODO: 相関係数を格納
-//    vector<float> foo;
-//    foo.push_back(42);
-//    foo.push_back(4.2);
-//    currentTopRangeCorVector.push_back(foo);
-    
     setCurrentTopRangeCorVector();
+    setCurrentTopRangeCorVectorHour();
     printf("setupDone!\n");
 }
 
@@ -300,224 +305,596 @@ void testApp::draw(){
             //something wrong
         }
         
-        //曜日名を描画
-        for (int i = 0; i<7; i++) {
+        if (myControlPanel.getValueI("weekOrHour") == 0) {
+            //week
+            //曜日名を描画
+            for (int i = 0; i<7; i++) {
+                ofPushMatrix();
+                ofTranslate(200+100*i, 15*csvOwnerList.size()+508);
+                myFontForTimeLabel.drawString(weekNameStringList[i], 50-myFontForTimeLabel.stringWidth(weekNameStringList[i])/2.0f, 0);
+                ofPopMatrix();
+            }
+            //TODO: 相関係数表を描画
             ofPushMatrix();
-            ofTranslate(200+100*i, 15*csvOwnerList.size()+508);
-            myFontForTimeLabel.drawString(weekNameStringList[i], 50-myFontForTimeLabel.stringWidth(weekNameStringList[i])/2.0f, 0);
+            ofTranslate(200, 495);
+            ofPushStyle();
+            ofSetLineWidth(1);
+            //テーブルの設定
+            myTable.setup();
+            myTable.setFont(myFontForTimeLabel);
+            myTable.setBoxSize(100, 15);
+            myTable.setEnableHighlihgt(myControlPanel.getValueF("corAbsThreshold"), true);
+            myTable.setTableSize(csvOwnerList.size(), 7);
+            ofSetColor(127, 127, 127, 127);
+            //テーブルの背景描画
+            myTable.drawBase();
+            ofSetColor(255, 255, 255, 127);
+            //テーブルに文字を描画
+            ofSetColor(255, 255, 255, 255);
+            for (int i=0; i<csvOwnerList.size(); i++) {
+                myTable.drawVectorFloat(currentTopRangeCorVector[i], whereAmI[i], true);
+            }
+            //テーブルの枠線描画
+            ofSetColor(0, 0, 0, 255);
+            myTable.drawFrame();
+            //ラベル
+            ofSetColor(255, 255, 255, 255);
+            myFontForTimeLabel.drawString("iTunesGenreRatio" , -125, -10);
+            myFontForTimeLabel.drawString("Correlation Coefficient" , 268, -10);
+            ofPopStyle();
             ofPopMatrix();
+        }else if(myControlPanel.getValueI("weekOrHour") == 1){
+            //hour
+            //曜日名を描画
+            for (int i = 0; i<=24; i++) {
+                ofPushMatrix();
+                ofTranslate(150+60*i, 15*csvOwnerList.size()+508);
+                myFontForTimeLabel.drawString(ofToString(i), 50-myFontForTimeLabel.stringWidth(ofToString(i))/2.0f, 0);
+                ofPopMatrix();
+            }
+            //TODO: 相関係数表を描画
+            ofPushMatrix();
+            ofTranslate(200, 495);
+            ofPushStyle();
+            ofSetLineWidth(1);
+            //テーブルの設定
+            myTable.setup();
+            myTable.setFont(myFontForTimeLabel);
+            myTable.setBoxSize(60, 15);
+            myTable.setEnableHighlihgt(myControlPanel.getValueF("corAbsThreshold"), true);
+            myTable.setTableSize(csvOwnerList.size(), 24);
+            ofSetColor(127, 127, 127, 127);
+            //テーブルの背景描画
+            myTable.drawBase();
+            ofSetColor(255, 255, 255, 127);
+            //テーブルに文字を描画
+            ofSetColor(255, 255, 255, 255);
+            for (int i=0; i<csvOwnerList.size(); i++) {
+                myTable.drawVectorFloat(currentTopRangeCorVectorHour[i], whereAmI[i], true);
+            }
+            //テーブルの枠線描画
+            ofSetColor(0, 0, 0, 255);
+            myTable.drawFrame();
+            //ラベル
+            ofSetColor(255, 255, 255, 255);
+            myFontForTimeLabel.drawString("iTunesGenreRatio" , -125, -10);
+            myFontForTimeLabel.drawString("Correlation Coefficient" , 500, -10);
+            ofPopStyle();
+            ofPopMatrix();
+        }else{
+            //something wrong
         }
-        //TODO: 相関係数表を描画
-        ofPushMatrix();
-        ofTranslate(200, 495);
-        ofPushStyle();
-        ofSetLineWidth(1);
-        //テーブルの設定
-        myTable.setBoxSize(100, 15);
-        myTable.setTableSize(csvOwnerList.size(), 7);
-        ofSetColor(127, 127, 127, 127);
-        //テーブルの背景描画
-        myTable.drawBase();
-        ofSetColor(255, 255, 255, 127);
-        //テーブルの枠線描画
-        myTable.drawFrame();
-        //テーブルに文字を描画
-        ofSetColor(255, 255, 255, 255);
-        for (int i=0; i<csvOwnerList.size(); i++) {
-            myTable.drawVectorFloat(currentTopRangeCorVector[i], whereAmI[i], true);
-        }
-        //ラベル
-        myFontForTimeLabel.drawString("iTunesGenreRatio" , -125, -10);
-        myFontForTimeLabel.drawString("Correlation Coefficient" , 268, -10);
-        ofPopStyle();
-        ofPopMatrix();
-        
     }else{
-        ofPushStyle();
-        ofSetColor(0, 0, 0, 255);//全画面を黒くする。
-        ofRect(0, 0, ofGetWidth(), ofGetHeight());
-        ofPopStyle();
-        
-        //Graph Type
-        if (myControlPanel.getValueI("graphType") == 0) {
-            if (modeNum == -1) {
-                //csv
-                //データ:円弧グラフ
-                //横並び棒グラフのための目盛り(10刻み)を描画
-                ofPushMatrix();
-                ofTranslate(ofGetWidth()/2.0f, ofGetHeight()/2.0f);
-                for (int i = 0; i<10; i++) {
-                    ofPushStyle();
-                    ofPushStyle();
-                    ofSetLineWidth(1);
-                    ofSetColor(255, 255, 255, 127);
-                    ofNoFill();
-                    ofSetLineWidth(1);
-                    ofCircle(0, 0, CENTER_CIRCLE_RADIUS+3*10*i);
-                    ofPopStyle();
-                }
-                ofPopMatrix();
-                
-                //一番高いところを描画
-                ofPushMatrix();
-                ofTranslate(ofGetWidth()/2.0f, ofGetHeight()/2.0f);
-                ofRotateZ(-90+circleGraphRotateDegree);
-                ofPushStyle();
-                for (int i = 0; i<7*24; i++) {
-                    ofColor col;
-                    col.setHsb(255/(7.0f*24.0f)*i, 255, 255);
-                    ofSetColor(col);
-                    myVectorGraphics.arc(0, 0, CENTER_CIRCLE_RADIUS+ARC_RADIUS_CHANGER*graphTop[i], 360/(7.0f*24.0f)*i, 360/(7.0f*24.0f));
-                }
-                ofPopStyle();
-                ofPopMatrix();
-                //累積円弧グラフにするために高さ方向に色を変えて描画（半透明な黒を重ねる。）
-                ofPushMatrix();
-                ofTranslate(ofGetWidth()/2.0f, ofGetHeight()/2.0f);
-                ofRotateZ(-90+circleGraphRotateDegree);
-                ofPushStyle();
-                for (int i =0; i<7*24; i++) {
-                    currentDistFromGraphTop = graphTop[i];
-                    for (int j=0; j<genreNum; j++) {
-                        ofColor col;
-                        col.setHsb(255, 255, 0, 255/(float)genreNum);
-                        ofSetColor(col);
-                        myVectorGraphics.arc(0, 0, CENTER_CIRCLE_RADIUS+ARC_RADIUS_CHANGER*currentDistFromGraphTop, 360/(7.0f*24.0f)*i, 360/(7.0f*24.0f));
-                        currentDistFromGraphTop -= csv.getFloat(floor(i/24.0f)*genreNum+(genreNum-j-1)+1, i%24+1);
+        if (myControlPanel.getValueI("timeUnit") == 1) {
+            //hour and week
+            ofPushStyle();
+            ofSetColor(0, 0, 0, 255);//全画面を黒くする。
+            ofRect(0, 0, ofGetWidth(), ofGetHeight());
+            ofPopStyle();
+            
+            //Graph Type
+            if (myControlPanel.getValueI("graphType") == 0) {
+                if (modeNum == -1) {
+                    //csv
+                    //データ:円弧グラフ
+                    //横並び棒グラフのための目盛り(10刻み)を描画
+                    ofPushMatrix();
+                    ofTranslate(ofGetWidth()/2.0f, ofGetHeight()/2.0f);
+                    for (int i = 0; i<10; i++) {
+                        ofPushStyle();
+                        ofPushStyle();
+                        ofSetLineWidth(1);
+                        ofSetColor(255, 255, 255, 127);
+                        ofNoFill();
+                        ofSetLineWidth(1);
+                        ofCircle(0, 0, CENTER_CIRCLE_RADIUS+3*10*i);
+                        ofPopStyle();
                     }
-                }
-                ofPopStyle();
-                ofPopMatrix();
-                
-                
-                
-                //起動後のアニメーション
-                if (afterBootFrameCounter>0) {
-                    myPlayer.loadSound("Pop.aiff");
-                    myPlayer.play();
+                    ofPopMatrix();
+                    
+                    //一番高いところを描画
+                    ofPushMatrix();
+                    ofTranslate(ofGetWidth()/2.0f, ofGetHeight()/2.0f);
+                    ofRotateZ(-90+circleGraphRotateDegree);
+                    ofPushStyle();
+                    for (int i = 0; i<7*24; i++) {
+                        ofColor col;
+                        col.setHsb(255/(7.0f*24.0f)*i, 255, 255);
+                        ofSetColor(col);
+                        myVectorGraphics.arc(0, 0, CENTER_CIRCLE_RADIUS+ARC_RADIUS_CHANGER*graphTop[i], 360/(7.0f*24.0f)*i, 360/(7.0f*24.0f));
+                    }
+                    ofPopStyle();
+                    ofPopMatrix();
+                    //累積円弧グラフにするために高さ方向に色を変えて描画（半透明な黒を重ねる。）
+                    ofPushMatrix();
+                    ofTranslate(ofGetWidth()/2.0f, ofGetHeight()/2.0f);
+                    ofRotateZ(-90+circleGraphRotateDegree);
+                    ofPushStyle();
+                    for (int i =0; i<7*24; i++) {
+                        currentDistFromGraphTop = graphTop[i];
+                        for (int j=0; j<genreNum; j++) {
+                            ofColor col;
+                            col.setHsb(255, 255, 0, 255/(float)genreNum);
+                            ofSetColor(col);
+                            myVectorGraphics.arc(0, 0, CENTER_CIRCLE_RADIUS+ARC_RADIUS_CHANGER*currentDistFromGraphTop, 360/(7.0f*24.0f)*i, 360/(7.0f*24.0f));
+                            currentDistFromGraphTop -= csv.getFloat(floor(i/24.0f)*genreNum+(genreNum-j-1)+1, i%24+1);
+                        }
+                    }
+                    ofPopStyle();
+                    ofPopMatrix();
+                    
+                    
+                    
+                    //起動後のアニメーション
+                    if (afterBootFrameCounter>0) {
+                        myPlayer.loadSound("Pop.aiff");
+                        myPlayer.play();
+                        ofPushMatrix();
+                        ofPushStyle();
+                        ofTranslate(ofGetWidth()/2.0f, ofGetHeight()/2.0f);
+                        ofRotateZ(-90+circleGraphRotateDegree);
+                        ofSetColor(0, 0, 0, 255);
+                        afterBootFrameCounter -= 360/7/24*3;//これでok
+                        myVectorGraphics.arc(0, 0, ofGetWidth() > ofGetHeight() ? ofGetWidth() : ofGetHeight(), 0, -afterBootFrameCounter);
+                        ofPopMatrix();
+                        ofPopStyle();
+                    }
+                    
+                    //曜日:円弧グラフ
                     ofPushMatrix();
                     ofPushStyle();
                     ofTranslate(ofGetWidth()/2.0f, ofGetHeight()/2.0f);
                     ofRotateZ(-90+circleGraphRotateDegree);
-                    ofSetColor(0, 0, 0, 255);
-                    afterBootFrameCounter -= 360/7/24*3;//これでok
-                    myVectorGraphics.arc(0, 0, ofGetWidth() > ofGetHeight() ? ofGetWidth() : ofGetHeight(), 0, -afterBootFrameCounter);
-                    ofPopMatrix();
+                    for (int i = 0; i<7; i++) {
+                        ofColor col;
+                        col.setHsb(255/7.0f*i, 255, 255);
+                        ofSetColor(col);
+                        myVectorGraphics.arc(0, 0, CENTER_CIRCLE_RADIUS, 360/7.0f*i, 360/7.0f);
+                    }
                     ofPopStyle();
+                    ofPopMatrix();
+                    
+                    
+                    //UI
+                    ofPushMatrix();
+                    ofTranslate(ofGetWidth()/2.0f, ofGetHeight()/2.0f);
+                    myFont2.drawString(weekName, -myFont2.stringWidth(weekName)/2.0f, myFont2.stringHeight(weekName)/2.0f);
+                    ofPopMatrix();
+                    if (afterSelectedFrameCounter > 0) {
+                        afterSelectedFrameCounter -= 15;
+                        switch (currentPos) {
+                            case 0:
+                                ofPushStyle();
+                                ofPushMatrix();
+                                ofTranslate(ofGetWidth()/2.0f, ofGetHeight()/2.0f);
+                                ofRotateZ(-90+circleGraphRotateDegree);
+                                ofSetColor(255, 255, 255, afterSelectedFrameCounter);
+                                myVectorGraphics.arc(0, 0, CENTER_CIRCLE_RADIUS, 360/7.0f*currentPos, 360/7.0f);
+                                ofPopStyle();
+                                ofPopMatrix();
+                                break;
+                            case 1:
+                                ofPushStyle();
+                                ofPushMatrix();
+                                ofTranslate(ofGetWidth()/2.0f, ofGetHeight()/2.0f);
+                                ofRotateZ(-90+circleGraphRotateDegree);
+                                ofSetColor(255, 255, 255, afterSelectedFrameCounter);
+                                myVectorGraphics.arc(0, 0, CENTER_CIRCLE_RADIUS, 360/7.0f*currentPos, 360/7.0f);
+                                ofPopStyle();
+                                ofPopMatrix();
+                                break;
+                            case 2:
+                                ofPushStyle();
+                                ofPushMatrix();
+                                ofTranslate(ofGetWidth()/2.0f, ofGetHeight()/2.0f);
+                                ofRotateZ(-90+circleGraphRotateDegree);
+                                ofSetColor(255, 255, 255, afterSelectedFrameCounter);
+                                myVectorGraphics.arc(0, 0, CENTER_CIRCLE_RADIUS, 360/7.0f*currentPos, 360/7.0f);
+                                ofPopStyle();
+                                ofPopMatrix();
+                                break;
+                            case 3:
+                                ofPushStyle();
+                                ofPushMatrix();
+                                ofTranslate(ofGetWidth()/2.0f, ofGetHeight()/2.0f);
+                                ofRotateZ(-90+circleGraphRotateDegree);
+                                ofSetColor(255, 255, 255, afterSelectedFrameCounter);
+                                myVectorGraphics.arc(0, 0, CENTER_CIRCLE_RADIUS, 360/7.0f*currentPos, 360/7.0f);
+                                ofPopStyle();
+                                ofPopMatrix();
+                                break;
+                            case 4:
+                                ofPushStyle();
+                                ofPushMatrix();
+                                ofTranslate(ofGetWidth()/2.0f, ofGetHeight()/2.0f);
+                                ofRotateZ(-90+circleGraphRotateDegree);
+                                ofSetColor(255, 255, 255, afterSelectedFrameCounter);
+                                myVectorGraphics.arc(0, 0, CENTER_CIRCLE_RADIUS, 360/7.0f*currentPos, 360/7.0f);
+                                ofPopStyle();
+                                ofPopMatrix();
+                                break;
+                            case 5:
+                                ofPushStyle();
+                                ofPushMatrix();
+                                ofTranslate(ofGetWidth()/2.0f, ofGetHeight()/2.0f);
+                                ofRotateZ(-90+circleGraphRotateDegree);
+                                ofSetColor(255, 255, 255, afterSelectedFrameCounter);
+                                myVectorGraphics.arc(0, 0, CENTER_CIRCLE_RADIUS, 360/7.0f*currentPos, 360/7.0f);
+                                ofPopStyle();
+                                ofPopMatrix();
+                                break;
+                            case 6:
+                                ofPushStyle();
+                                ofPushMatrix();
+                                ofTranslate(ofGetWidth()/2.0f, ofGetHeight()/2.0f);
+                                ofRotateZ(-90+circleGraphRotateDegree);
+                                ofSetColor(255, 255, 255, afterSelectedFrameCounter);
+                                myVectorGraphics.arc(0, 0, CENTER_CIRCLE_RADIUS, 360/7.0f*currentPos, 360/7.0f);
+                                ofPopStyle();
+                                ofPopMatrix();
+                                break;
+                            default:
+                                break;
+                        }
+                    }
                 }
-                
-                //曜日:円弧グラフ
+                //Sunday View Mode
+                else{
+                    barplot(modeNum);
+                    
+                }
+            }else if(myControlPanel.getValueI("graphType") == 1){
+                //新・横並び
+                //barplot
+                //横並び棒グラフのための目盛り(10刻み)を描画
                 ofPushMatrix();
-                ofPushStyle();
-                ofTranslate(ofGetWidth()/2.0f, ofGetHeight()/2.0f);
-                ofRotateZ(-90+circleGraphRotateDegree);
+                ofTranslate(0, ofGetHeight()*0.9);
+                for (int i = 0; i<15; i++) {
+                    ofPushMatrix();
+                    ofTranslate(0, -10*(i+1)*BAR_HEIGHT_CHANGER);
+                    ofPushStyle();
+                    ofPushStyle();
+                    ofSetLineWidth(1);
+                    ofSetColor(255, 255, 255, 127);
+                    ofLine(0, 0, ofGetWidth(), 0);
+                    ofPopStyle();
+                    ofPopMatrix();
+                }
+                ofPopMatrix();
+                
+                //csvOwnerの曜日の切れ目を描画
                 for (int i = 0; i<7; i++) {
-                    ofColor col;
-                    col.setHsb(255/7.0f*i, 255, 255);
-                    ofSetColor(col);
-                    myVectorGraphics.arc(0, 0, CENTER_CIRCLE_RADIUS, 360/7.0f*i, 360/7.0f);
+                    //飛ばした方
+                    ofPushMatrix();
+                    ofTranslate(beginBarPosX, 0);
+                    //曜日はじめ
+                    ofPushMatrix();
+                    ofTranslate(myControlPanel.getValueI(weekNameStringList[i]+"Start_"+csvOwnerList[myControlPanel.getValueI("csvOwner")])*ofGetWidth()/(float)myControlPanel.getValueI("barNum"), 0);
+                    ofPushStyle();
+                    ofSetLineWidth(1);
+                    ofSetColor(255, 0, 0, 127);
+                    ofLine(0, 0, 0, ofGetHeight());
+                    ofPopStyle();
+                    ofPopMatrix();
+                    //曜日おわり
+                    ofPushMatrix();
+                    ofTranslate((myControlPanel.getValueI(weekNameStringList[i]+"End_"+csvOwnerList[myControlPanel.getValueI("csvOwner")])+1)*ofGetWidth()/(float)myControlPanel.getValueI("barNum"), 0);
+                    ofPushStyle();
+                    ofSetLineWidth(1);
+                    ofSetColor(0, 0, 255, 127);
+                    ofLine(0, 0, 0, ofGetHeight());
+                    ofPopStyle();
+                    ofPopMatrix();
+                    ofPopMatrix();
+                    
+                    
+                    //飛ばされた方
+                    ofPushMatrix();
+                    ofTranslate(-ofGetWidth()+beginBarPosX, 0);
+                    //曜日はじめ
+                    ofPushMatrix();
+                    ofTranslate(myControlPanel.getValueI(weekNameStringList[i]+"Start_"+csvOwnerList[myControlPanel.getValueI("csvOwner")])*ofGetWidth()/(float)myControlPanel.getValueI("barNum"), 0);
+                    ofPushStyle();
+                    ofSetLineWidth(1);
+                    ofSetColor(255, 0, 0, 127);
+                    ofLine(0, 0, 0, ofGetHeight());
+                    ofPopStyle();
+                    ofPopMatrix();
+                    //曜日おわり
+                    ofPushMatrix();
+                    ofTranslate((myControlPanel.getValueI(weekNameStringList[i]+"End_"+csvOwnerList[myControlPanel.getValueI("csvOwner")])+1)*ofGetWidth()/(float)myControlPanel.getValueI("barNum"), 0);
+                    ofPushStyle();
+                    ofSetLineWidth(1);
+                    ofSetColor(0, 0, 255, 127);
+                    ofLine(0, 0, 0, ofGetHeight());
+                    ofPopStyle();
+                    ofPopMatrix();
+                    ofPopMatrix();
                 }
-                ofPopStyle();
-                ofPopMatrix();
                 
                 
-                //UI
+                //飛ばした棒グラフ
                 ofPushMatrix();
-                ofTranslate(ofGetWidth()/2.0f, ofGetHeight()/2.0f);
-                myFont2.drawString(weekName, -myFont2.stringWidth(weekName)/2.0f, myFont2.stringHeight(weekName)/2.0f);
-                ofPopMatrix();
-                if (afterSelectedFrameCounter > 0) {
-                    afterSelectedFrameCounter -= 15;
-                    switch (currentPos) {
+                ofTranslate(beginBarPosX, 0);
+                // j is weekNum: sunday is 0, monday is 1 ...saturday is 6.
+                
+                //音楽データの棒グラフ
+                for (int i=0; i<24*7; i++) {
+                    currentDistFromGraphTop = graphTop[i];
+                    for (int j=0; j<genreNum; j++) {
+                        ofPushMatrix();
+                        ofTranslate(ofGetWidth()/(float)myControlPanel.getValueI("barNum")*i, ofGetHeight()*0.9);
+                        ofPushStyle();
+                        ofColor col;
+                        if (j>genreNum-myControlPanel.getValueI("topRange")-1) {
+                            col.setHsb(genreCol[genreNum-j-1].getHue(), 255, 255);
+                        }else{
+                            col.set(127, 127, 127);
+                        }
+                        ofSetColor(col);
+                        ofRect(0, 0, ofGetWidth()/(float)myControlPanel.getValueI("barNum"), -BAR_HEIGHT_CHANGER*currentDistFromGraphTop);//最初の行がラベルなので１足す
+                        //音楽ジャンルの分布を描画
+                        if (myControlPanel.getValueB("ratioMap")) {
+                            ofRect(0, 20, ofGetWidth()/(float)myControlPanel.getValueI("barNum"), 20*currentDistFromGraphTop/(float)graphTop[i]);
+                        }
+                        ofPopStyle();
+                        ofPopMatrix();
+                        currentDistFromGraphTop -= csv.getFloat(floor(i/24.0f)*genreNum+(genreNum-j-1)+1, i%24+1);
+                    }
+                }
+                //時間情報の横軸表示
+                for (int i=0; i<7; i++) {
+                    ofPushMatrix();
+                    ofTranslate(ofGetWidth()/7.0f*i, ofGetHeight()*0.9);
+                    ofPushStyle();
+                    ofColor col;
+                    col.setHsb(255, 255, 255);
+                    ofSetColor(col);
+                    ofSetLineWidth(2);
+                    ofLine(ofGetWidth()/7.0f, 0, ofGetWidth()/7.0f, 10);
+                    if (myControlPanel.getValueB("ratioMap")) {
+                        ofLine(ofGetWidth()/7.0f, 20, ofGetWidth()/7.0f, 10-1);
+                    }
+                    string str;
+                    switch (i) {
                         case 0:
-                            ofPushStyle();
-                            ofPushMatrix();
-                            ofTranslate(ofGetWidth()/2.0f, ofGetHeight()/2.0f);
-                            ofRotateZ(-90+circleGraphRotateDegree);
-                            ofSetColor(255, 255, 255, afterSelectedFrameCounter);
-                            myVectorGraphics.arc(0, 0, CENTER_CIRCLE_RADIUS, 360/7.0f*currentPos, 360/7.0f);
-                            ofPopStyle();
-                            ofPopMatrix();
+                            str="Sunday";
                             break;
                         case 1:
-                            ofPushStyle();
-                            ofPushMatrix();
-                            ofTranslate(ofGetWidth()/2.0f, ofGetHeight()/2.0f);
-                            ofRotateZ(-90+circleGraphRotateDegree);
-                            ofSetColor(255, 255, 255, afterSelectedFrameCounter);
-                            myVectorGraphics.arc(0, 0, CENTER_CIRCLE_RADIUS, 360/7.0f*currentPos, 360/7.0f);
-                            ofPopStyle();
-                            ofPopMatrix();
+                            str = "Monday";
                             break;
                         case 2:
-                            ofPushStyle();
-                            ofPushMatrix();
-                            ofTranslate(ofGetWidth()/2.0f, ofGetHeight()/2.0f);
-                            ofRotateZ(-90+circleGraphRotateDegree);
-                            ofSetColor(255, 255, 255, afterSelectedFrameCounter);
-                            myVectorGraphics.arc(0, 0, CENTER_CIRCLE_RADIUS, 360/7.0f*currentPos, 360/7.0f);
-                            ofPopStyle();
-                            ofPopMatrix();
+                            str = "Tuesday";
                             break;
                         case 3:
-                            ofPushStyle();
-                            ofPushMatrix();
-                            ofTranslate(ofGetWidth()/2.0f, ofGetHeight()/2.0f);
-                            ofRotateZ(-90+circleGraphRotateDegree);
-                            ofSetColor(255, 255, 255, afterSelectedFrameCounter);
-                            myVectorGraphics.arc(0, 0, CENTER_CIRCLE_RADIUS, 360/7.0f*currentPos, 360/7.0f);
-                            ofPopStyle();
-                            ofPopMatrix();
+                            str = "Wednesday";
                             break;
                         case 4:
-                            ofPushStyle();
-                            ofPushMatrix();
-                            ofTranslate(ofGetWidth()/2.0f, ofGetHeight()/2.0f);
-                            ofRotateZ(-90+circleGraphRotateDegree);
-                            ofSetColor(255, 255, 255, afterSelectedFrameCounter);
-                            myVectorGraphics.arc(0, 0, CENTER_CIRCLE_RADIUS, 360/7.0f*currentPos, 360/7.0f);
-                            ofPopStyle();
-                            ofPopMatrix();
+                            str = "Thursday";
                             break;
                         case 5:
-                            ofPushStyle();
-                            ofPushMatrix();
-                            ofTranslate(ofGetWidth()/2.0f, ofGetHeight()/2.0f);
-                            ofRotateZ(-90+circleGraphRotateDegree);
-                            ofSetColor(255, 255, 255, afterSelectedFrameCounter);
-                            myVectorGraphics.arc(0, 0, CENTER_CIRCLE_RADIUS, 360/7.0f*currentPos, 360/7.0f);
-                            ofPopStyle();
-                            ofPopMatrix();
+                            str = "Friday";
                             break;
                         case 6:
-                            ofPushStyle();
-                            ofPushMatrix();
-                            ofTranslate(ofGetWidth()/2.0f, ofGetHeight()/2.0f);
-                            ofRotateZ(-90+circleGraphRotateDegree);
-                            ofSetColor(255, 255, 255, afterSelectedFrameCounter);
-                            myVectorGraphics.arc(0, 0, CENTER_CIRCLE_RADIUS, 360/7.0f*currentPos, 360/7.0f);
-                            ofPopStyle();
-                            ofPopMatrix();
+                            str = "Saturday";
                             break;
                         default:
                             break;
                     }
+                    
+                    myFontForTimeLabel.drawString(str, ofGetWidth()/7.0f/2.0f-myFontForTimeLabel.stringWidth(str)/2, myFontForTimeLabel.stringHeight(str));
+                    ofPopStyle();
+                    ofPopMatrix();
                 }
+                ofPopMatrix();
+                //飛ばされた棒グラフ
+                ofPushMatrix();
+                ofTranslate(-ofGetWidth()+beginBarPosX, 0);
+                
+                
+                //音楽データの棒グラフ
+                for (int i=0; i<24*7; i++) {
+                    currentDistFromGraphTop = graphTop[i];
+                    for (int j=0; j<genreNum; j++) {
+                        ofPushMatrix();
+                        ofTranslate(ofGetWidth()/(float)myControlPanel.getValueI("barNum")*i, ofGetHeight()*0.9);
+                        ofPushStyle();
+                        ofColor col;
+                        if (j>genreNum-myControlPanel.getValueI("topRange")-1) {
+                            col.setHsb(genreCol[genreNum-j-1].getHue(), 255, 255);
+                        }else{
+                            col.set(127, 127, 127);
+                        }
+                        ofSetColor(col);
+                        ofRect(0, 0, ofGetWidth()/(float)myControlPanel.getValueI("barNum"), -BAR_HEIGHT_CHANGER*currentDistFromGraphTop);//最初の行がラベルなので１足す
+                        if (myControlPanel.getValueB("ratioMap")) {
+                            //音楽ジャンルの分布を描画
+                            ofRect(0, 20, ofGetWidth()/(float)myControlPanel.getValueI("barNum"), 20*currentDistFromGraphTop/(float)graphTop[i]);
+                        }
+                        ofPopStyle();
+                        ofPopMatrix();
+                        currentDistFromGraphTop -= csv.getFloat(floor(i/24.0f)*genreNum+(genreNum-j-1)+1, i%24+1);
+                    }
+                }
+                
+                //時間情報の横軸表示
+                for (int i=0; i<7; i++) {
+                    ofPushMatrix();
+                    ofTranslate(ofGetWidth()/7.0f*i, ofGetHeight()*0.9);
+                    ofPushStyle();
+                    ofColor col;
+                    col.setHsb(255, 255, 255);
+                    ofSetColor(col);
+                    ofSetLineWidth(2);
+                    ofLine(ofGetWidth()/7.0f, 0, ofGetWidth()/7.0f, 10);
+                    if (myControlPanel.getValueB("ratioMap")) {
+                        ofLine(ofGetWidth()/7.0f, 20, ofGetWidth()/7.0f, 10-1);
+                    }
+                    string str;
+                    switch (i) {
+                        case 0:
+                            str="Sunday";
+                            break;
+                        case 1:
+                            str = "Monday";
+                            break;
+                        case 2:
+                            str = "Tuesday";
+                            break;
+                        case 3:
+                            str = "Wednesday";
+                            break;
+                        case 4:
+                            str = "Thursday";
+                            break;
+                        case 5:
+                            str = "Friday";
+                            break;
+                        case 6:
+                            str = "Saturday";
+                            break;
+                        default:
+                            break;
+                    }
+                    
+                    myFontForTimeLabel.drawString(str, ofGetWidth()/7.0f/2.0f-myFontForTimeLabel.stringWidth(str)/2, myFontForTimeLabel.stringHeight(str));
+                    ofPopStyle();
+                    ofPopMatrix();
+                }
+                ofPopMatrix();
+                
+                ofPushMatrix();
+                ofTranslate(0, ofGetHeight()*0.9+1);//ofSetLineWidth(2)の半分の1ピクセルをずらす
+                ofPushStyle();
+                ofSetColor(255, 255, 255, 255);
+                ofSetLineWidth(2);
+                ofLine(0, 0, ofGetWidth(), 0);
+                if (myControlPanel.getValueB("ratioMap")) {
+                    ofLine(0, 20-1, ofGetWidth(), 20-1);//ofSetLineWidth(2)の半分の1ピクセルをずらす
+                }
+                ofPopStyle();
+                ofPopMatrix();
+            }else{
+                //something wrong
             }
-            //Sunday View Mode
-            else{
-                barplot(modeNum);
+            
+            
+            //音楽ライブラリ全体のチェックされている楽曲のジャンルの比率を円グラフで出す。
+            ofPushMatrix();
+            ofTranslate(ofGetWidth()-ofGetWidth()*0.15, ofGetHeight()*0.1);
+            ofPushStyle();
+            ofSetColor(127, 127, 127, 127);
+            int checkedGraphRadius;
+            checkedGraphRadius = ofGetWidth()*0.03;
+            ofCircle(0, 0, ofGetWidth()*0.03);
+            ofSetColor(127, 127, 127, 127);
+            ofRotateZ(-90);
+            ofPushMatrix();
+            for (int i = 0; i< myControlPanel.getValueI("topRange"); i++) {
+                ofSetColor(genreCol[i].r, genreCol[i].g, genreCol[i].b, 127);
+                if (i>0) {
+                    ofRotateZ(360*currentOwnerCheckedTopRangeDetail[i-1]/(float)checkedTotal);
+                }
+                myVectorGraphics.arc(0, 0, checkedGraphRadius, 0, 360*currentOwnerCheckedTopRangeDetail[i]/(float)checkedTotal);
                 
             }
-        }else if(myControlPanel.getValueI("graphType") == 1){
-            //新・横並び
+            ofPopMatrix();
+            ofSetColor(127, 127, 127, 127);
+            myVectorGraphics.arc(0, 0, checkedGraphRadius, 0, 360*currentOwnerCheckedTopRange/(float)checkedTotal);
+            
+            string checkedRatioLabel;
+            ofRotateZ(90);
+            checkedRatioLabel = ofToString(100*currentOwnerCheckedTopRange/(float)checkedTotal, 1, 0, '0')+"%";
+            
+            ofSetColor(255, 255, 255, 255);
+            myFontForTimeLabel.drawString(checkedRatioLabel, -myFontForTimeLabel.stringWidth(checkedRatioLabel)/2.0f, myFontForTimeLabel.stringHeight(checkedRatioLabel)*1+checkedGraphRadius);
+            ofPopStyle();
+            ofPopMatrix();
+            
+            //色とジャンルの対応を見せる
+            for (int i = 0; i<myControlPanel.getValueI("topRange"); i++) {
+                ofPushMatrix();
+                ofTranslate(ofGetWidth()-ofGetWidth()*0.15-myFontForTimeLabel.stringWidth(checkedRatioLabel)/2.0f, 15*i+ofGetHeight()*0.1+checkedGraphRadius+myFontForTimeLabel.stringHeight(checkedRatioLabel)*1.5);
+                ofPushStyle();
+                ofSetColor(genreCol[i]);
+                ofRect(0, 0, 10, 10);
+                myFontJapanese.drawString(ofToString(100*currentOwnerCheckedTopRangeDetail[i]/(float)checkedTotal, 1, 4, '0') + "%:" + genreNameList.getString(1+i, 1), 15, 10);
+                ofPopStyle();
+                ofPopMatrix();
+            }
+            
+            //平均を描画
+            float currentOwnerRatioMean;
+            currentOwnerRatioMean = meanTopRange(getGenreRateTotal(myControlPanel.getValueI("csvOwner")));
+            myFontJapanese.drawString("ratioMean:" + ofToString(currentOwnerRatioMean), ofGetWidth()-ofGetWidth()*0.15-myFontForTimeLabel.stringWidth(checkedRatioLabel)/2.0f, 15*6+ofGetHeight()*0.1+checkedGraphRadius+myFontForTimeLabel.stringHeight(checkedRatioLabel)*1.5);
+            //分散を描画
+            float currentOwnerRatioVar;
+            currentOwnerRatioVar = varTopRange(getGenreRateTotal(myControlPanel.getValueI("csvOwner")));
+            myFontJapanese.drawString("ratioVar :" + ofToString(currentOwnerRatioVar), ofGetWidth()-ofGetWidth()*0.15-myFontForTimeLabel.stringWidth(checkedRatioLabel)/2.0f, 15*7+ofGetHeight()*0.1+checkedGraphRadius+myFontForTimeLabel.stringHeight(checkedRatioLabel)*1.5);
+            
+            //曜日毎のベストレンジの閉める割合を出す。
+            drawWeekRatio("sunday", csvOwnerList[myControlPanel.getValueI("csvOwner")]);
+            drawWeekRatio("monday", csvOwnerList[myControlPanel.getValueI("csvOwner")]);
+            drawWeekRatio("tuesday", csvOwnerList[myControlPanel.getValueI("csvOwner")]);
+            drawWeekRatio("wednesday", csvOwnerList[myControlPanel.getValueI("csvOwner")]);
+            drawWeekRatio("thursday", csvOwnerList[myControlPanel.getValueI("csvOwner")]);
+            drawWeekRatio("friday", csvOwnerList[myControlPanel.getValueI("csvOwner")]);
+            drawWeekRatio("saturday", csvOwnerList[myControlPanel.getValueI("csvOwner")]);
+        }else{
+            //hour
+            //TODO: construction
+            
+            //描画するベクターをつくる。
+            hourBarVector.clear();
+            for (int i = 0; i<24; i++) {
+                vector<float> instantOneHourBar;
+                for (int j = 0; j<csvGenreNameListVector[myControlPanel.getValueI("csvOwner")].numRows-1; j++) {
+                    //累積になっているジャンルを、曜日に関係ない1時間にまとめる。
+                    float instantSumHour = 0;
+                    for (int k = 0; k<7; k++) {
+                        instantSumHour += csvGraphDataMatrixVector[myControlPanel.getValueI("csvOwner")].getInt(j+1, 24*k+i+1);//最初の行と列がラベルなのでそれぞれ１足す;
+                    }
+                    instantOneHourBar.push_back(instantSumHour);
+                }
+                //一時間分の棒グラフの累積データを格納。
+                hourBarVector.push_back(instantOneHourBar);
+            }
+            
+            
+            
+            ofPushStyle();
+            ofSetColor(0, 0, 0, 255);//全画面を黒くする。
+            ofRect(0, 0, ofGetWidth(), ofGetHeight());
+            ofPopStyle();
+            
+            //24時間だけ
             //barplot
             //横並び棒グラフのための目盛り(10刻み)を描画
             ofPushMatrix();
             ofTranslate(0, ofGetHeight()*0.9);
-            for (int i = 0; i<15; i++) {
+            for (int i = 0; i<30; i++) {
                 ofPushMatrix();
-                ofTranslate(0, -10*(i+1)*BAR_HEIGHT_CHANGER);
+                ofTranslate(0, -10*(i+1)*BAR_HEIGHT_CHANGER/(float)2);
                 ofPushStyle();
                 ofPushStyle();
                 ofSetLineWidth(1);
@@ -528,202 +905,102 @@ void testApp::draw(){
             }
             ofPopMatrix();
             
-            //csvOwnerの曜日の切れ目を描画
-            for (int i = 0; i<7; i++) {
-                //飛ばした方
-                ofPushMatrix();
-                ofTranslate(beginBarPosX, 0);
-                //曜日はじめ
-                ofPushMatrix();
-                ofTranslate(myControlPanel.getValueI(weekNameStringList[i]+"Start_"+csvOwnerList[myControlPanel.getValueI("csvOwner")])*ofGetWidth()/(float)myControlPanel.getValueI("barNum"), 0);
-                ofPushStyle();
-                ofSetLineWidth(1);
-                ofSetColor(255, 0, 0, 127);
-                ofLine(0, 0, 0, ofGetHeight());
-                ofPopStyle();
-                ofPopMatrix();
-                //曜日おわり
-                ofPushMatrix();
-                ofTranslate((myControlPanel.getValueI(weekNameStringList[i]+"End_"+csvOwnerList[myControlPanel.getValueI("csvOwner")])+1)*ofGetWidth()/(float)myControlPanel.getValueI("barNum"), 0);
-                ofPushStyle();
-                ofSetLineWidth(1);
-                ofSetColor(0, 0, 255, 127);
-                ofLine(0, 0, 0, ofGetHeight());
-                ofPopStyle();
-                ofPopMatrix();
-                ofPopMatrix();
-                
-                
-                //飛ばされた方
-                ofPushMatrix();
-                ofTranslate(-ofGetWidth()+beginBarPosX, 0);
-                //曜日はじめ
-                ofPushMatrix();
-                ofTranslate(myControlPanel.getValueI(weekNameStringList[i]+"Start_"+csvOwnerList[myControlPanel.getValueI("csvOwner")])*ofGetWidth()/(float)myControlPanel.getValueI("barNum"), 0);
-                ofPushStyle();
-                ofSetLineWidth(1);
-                ofSetColor(255, 0, 0, 127);
-                ofLine(0, 0, 0, ofGetHeight());
-                ofPopStyle();
-                ofPopMatrix();
-                //曜日おわり
-                ofPushMatrix();
-                ofTranslate((myControlPanel.getValueI(weekNameStringList[i]+"End_"+csvOwnerList[myControlPanel.getValueI("csvOwner")])+1)*ofGetWidth()/(float)myControlPanel.getValueI("barNum"), 0);
-                ofPushStyle();
-                ofSetLineWidth(1);
-                ofSetColor(0, 0, 255, 127);
-                ofLine(0, 0, 0, ofGetHeight());
-                ofPopStyle();
-                ofPopMatrix();
-                ofPopMatrix();
-            }
-            
             
             //飛ばした棒グラフ
             ofPushMatrix();
-            ofTranslate(beginBarPosX, 0);
+            float convertedBeginBarPosX = beginBarPosX*7.0f-ofGetWidth()*floor(beginBarPosX*7.0f/(float)ofGetWidth());
+            ofTranslate(convertedBeginBarPosX, 0);
             // j is weekNum: sunday is 0, monday is 1 ...saturday is 6.
             
             //音楽データの棒グラフ
-            for (int i=0; i<24*7; i++) {
+            for (int i=0; i<24; i++) {
                 currentDistFromGraphTop = graphTop[i];
-                for (int j=0; j<genreNum; j++) {
-                    ofPushMatrix();
-                    ofTranslate(ofGetWidth()/(float)myControlPanel.getValueI("barNum")*i, ofGetHeight()*0.9);
+                ofPushMatrix();
+                ofTranslate(ofGetWidth()/(float)24*i, ofGetHeight()*0.9);
+                float posY = 0;
+                for (int j=0; j<csvGenreNameListVector[myControlPanel.getValueI("csvOwner")].numRows-1; j++) {
                     ofPushStyle();
                     ofColor col;
-                    if (j>genreNum-myControlPanel.getValueI("topRange")-1) {
-                        col.setHsb(genreCol[genreNum-j-1].getHue(), 255, 255);
+                    if (j<myControlPanel.getValueI("topRange")) {
+                        col.setHsb(255/(float)myControlPanel.getValueI("topRange")*j, 255, 255);
                     }else{
-                        col.set(127, 127, 127);
+                        col.set(127, 127, 127, 255);
                     }
-                    ofSetColor(col);
-                    ofRect(0, 0, ofGetWidth()/(float)myControlPanel.getValueI("barNum"), -BAR_HEIGHT_CHANGER*currentDistFromGraphTop);//最初の行がラベルなので１足す
-                    //音楽ジャンルの分布を描画
-                    if (myControlPanel.getValueB("ratioMap")) {
-                        ofRect(0, 20, ofGetWidth()/(float)myControlPanel.getValueI("barNum"), 20*currentDistFromGraphTop/(float)graphTop[i]);
-                    }
+                    
+                    ofSetColor(col.r, col.g, col.b, 255);
+                    //ここで棒を描画する。
+                    ofRect(0, -posY, ofGetWidth()/(float)24, -BAR_HEIGHT_CHANGER/(float)2*hourBarVector[i][j]);
+                    posY += BAR_HEIGHT_CHANGER/(float)2*hourBarVector[i][j];
                     ofPopStyle();
-                    ofPopMatrix();
-                    currentDistFromGraphTop -= csv.getFloat(floor(i/24.0f)*genreNum+(genreNum-j-1)+1, i%24+1);
                 }
+                ofPopMatrix();
             }
             //時間情報の横軸表示
-            for (int i=0; i<7; i++) {
+            for (int i=0; i<24; i++) {
                 ofPushMatrix();
-                ofTranslate(ofGetWidth()/7.0f*i, ofGetHeight()*0.9);
+                ofTranslate(ofGetWidth()/24.0f*i, ofGetHeight()*0.9);
                 ofPushStyle();
                 ofColor col;
                 col.setHsb(255, 255, 255);
                 ofSetColor(col);
                 ofSetLineWidth(2);
-                ofLine(ofGetWidth()/7.0f, 0, ofGetWidth()/7.0f, 10);
+                ofLine(ofGetWidth()/24.0f, 0, ofGetWidth()/24.0f, 10);
                 if (myControlPanel.getValueB("ratioMap")) {
                     ofLine(ofGetWidth()/7.0f, 20, ofGetWidth()/7.0f, 10-1);
                 }
-                string str;
-                switch (i) {
-                    case 0:
-                        str="Sunday";
-                        break;
-                    case 1:
-                        str = "Monday";
-                        break;
-                    case 2:
-                        str = "Tuesday";
-                        break;
-                    case 3:
-                        str = "Wednesday";
-                        break;
-                    case 4:
-                        str = "Thursday";
-                        break;
-                    case 5:
-                        str = "Friday";
-                        break;
-                    case 6:
-                        str = "Saturday";
-                        break;
-                    default:
-                        break;
-                }
+                string str = ofToString(i);
+
                 
-                myFontForTimeLabel.drawString(str, ofGetWidth()/7.0f/2.0f-myFontForTimeLabel.stringWidth(str)/2, myFontForTimeLabel.stringHeight(str));
+                myFontForTimeLabel.drawString(str, -myFontForTimeLabel.stringWidth(str)/2, myFontForTimeLabel.stringHeight(str)*2);
                 ofPopStyle();
                 ofPopMatrix();
             }
             ofPopMatrix();
             //飛ばされた棒グラフ
             ofPushMatrix();
-            ofTranslate(-ofGetWidth()+beginBarPosX, 0);
-            
+            ofTranslate(-ofGetWidth()+convertedBeginBarPosX, 0);
             
             //音楽データの棒グラフ
-            for (int i=0; i<24*7; i++) {
+            for (int i=0; i<24; i++) {
                 currentDistFromGraphTop = graphTop[i];
-                for (int j=0; j<genreNum; j++) {
-                    ofPushMatrix();
-                    ofTranslate(ofGetWidth()/(float)myControlPanel.getValueI("barNum")*i, ofGetHeight()*0.9);
+                ofPushMatrix();
+                ofTranslate(ofGetWidth()/(float)24*i, ofGetHeight()*0.9);
+                float posY = 0;
+                for (int j=0; j<csvGenreNameListVector[myControlPanel.getValueI("csvOwner")].numRows-1; j++) {
                     ofPushStyle();
                     ofColor col;
-                    if (j>genreNum-myControlPanel.getValueI("topRange")-1) {
-                        col.setHsb(genreCol[genreNum-j-1].getHue(), 255, 255);
+                    if (j<myControlPanel.getValueI("topRange")) {
+                        col.setHsb(255/(float)myControlPanel.getValueI("topRange")*j, 255, 255);
                     }else{
-                        col.set(127, 127, 127);
+                        col.set(127, 127, 127, 255);
                     }
-                    ofSetColor(col);
-                    ofRect(0, 0, ofGetWidth()/(float)myControlPanel.getValueI("barNum"), -BAR_HEIGHT_CHANGER*currentDistFromGraphTop);//最初の行がラベルなので１足す
-                    if (myControlPanel.getValueB("ratioMap")) {
-                        //音楽ジャンルの分布を描画
-                        ofRect(0, 20, ofGetWidth()/(float)myControlPanel.getValueI("barNum"), 20*currentDistFromGraphTop/(float)graphTop[i]);
-                    }
+                    
+                    ofSetColor(col.r, col.g, col.b, 255);
+                    //ここで棒を描画する。
+                    ofRect(0, -posY, ofGetWidth()/(float)24, -BAR_HEIGHT_CHANGER/(float)2*hourBarVector[i][j]);
+                    posY += BAR_HEIGHT_CHANGER/(float)2*hourBarVector[i][j];
                     ofPopStyle();
-                    ofPopMatrix();
-                    currentDistFromGraphTop -= csv.getFloat(floor(i/24.0f)*genreNum+(genreNum-j-1)+1, i%24+1);
                 }
+                ofPopMatrix();
             }
             
             //時間情報の横軸表示
-            for (int i=0; i<7; i++) {
+            for (int i=0; i<24; i++) {
                 ofPushMatrix();
-                ofTranslate(ofGetWidth()/7.0f*i, ofGetHeight()*0.9);
+                ofTranslate(ofGetWidth()/24.0f*i, ofGetHeight()*0.9);
                 ofPushStyle();
                 ofColor col;
                 col.setHsb(255, 255, 255);
                 ofSetColor(col);
                 ofSetLineWidth(2);
-                ofLine(ofGetWidth()/7.0f, 0, ofGetWidth()/7.0f, 10);
+                ofLine(ofGetWidth()/24.0f, 0, ofGetWidth()/24.0f, 10);
                 if (myControlPanel.getValueB("ratioMap")) {
                     ofLine(ofGetWidth()/7.0f, 20, ofGetWidth()/7.0f, 10-1);
                 }
-                string str;
-                switch (i) {
-                    case 0:
-                        str="Sunday";
-                        break;
-                    case 1:
-                        str = "Monday";
-                        break;
-                    case 2:
-                        str = "Tuesday";
-                        break;
-                    case 3:
-                        str = "Wednesday";
-                        break;
-                    case 4:
-                        str = "Thursday";
-                        break;
-                    case 5:
-                        str = "Friday";
-                        break;
-                    case 6:
-                        str = "Saturday";
-                        break;
-                    default:
-                        break;
-                }
+                string str = ofToString(i);
                 
-                myFontForTimeLabel.drawString(str, ofGetWidth()/7.0f/2.0f-myFontForTimeLabel.stringWidth(str)/2, myFontForTimeLabel.stringHeight(str));
+                
+                myFontForTimeLabel.drawString(str, -myFontForTimeLabel.stringWidth(str)/2, myFontForTimeLabel.stringHeight(str)*2);
                 ofPopStyle();
                 ofPopMatrix();
             }
@@ -740,80 +1017,61 @@ void testApp::draw(){
             }
             ofPopStyle();
             ofPopMatrix();
-        }else{
-            //something wrong
-        }
-        
-        
-        //音楽ライブラリ全体のチェックされている楽曲のジャンルの比率を円グラフで出す。
-        ofPushMatrix();
-        ofTranslate(ofGetWidth()-ofGetWidth()*0.15, ofGetHeight()*0.1);
-        ofPushStyle();
-        ofSetColor(127, 127, 127, 127);
-        int checkedGraphRadius;
-        checkedGraphRadius = ofGetWidth()*0.03;
-        ofCircle(0, 0, ofGetWidth()*0.03);
-        ofSetColor(127, 127, 127, 127);
-        ofRotateZ(-90);
-        ofPushMatrix();
-        for (int i = 0; i< myControlPanel.getValueI("topRange"); i++) {
-            ofSetColor(genreCol[i].r, genreCol[i].g, genreCol[i].b, 127);
-            if (i>0) {
-                ofRotateZ(360*currentOwnerCheckedTopRangeDetail[i-1]/(float)checkedTotal);
-            }
-            myVectorGraphics.arc(0, 0, checkedGraphRadius, 0, 360*currentOwnerCheckedTopRangeDetail[i]/(float)checkedTotal);
+
             
-        }
-        ofPopMatrix();
-        ofSetColor(127, 127, 127, 127);
-        myVectorGraphics.arc(0, 0, checkedGraphRadius, 0, 360*currentOwnerCheckedTopRange/(float)checkedTotal);
-        
-        string checkedRatioLabel;
-        ofRotateZ(90);
-        checkedRatioLabel = ofToString(100*currentOwnerCheckedTopRange/(float)checkedTotal, 1, 0, '0')+"%";
-        
-        ofSetColor(255, 255, 255, 255);
-        myFontForTimeLabel.drawString(checkedRatioLabel, -myFontForTimeLabel.stringWidth(checkedRatioLabel)/2.0f, myFontForTimeLabel.stringHeight(checkedRatioLabel)*1+checkedGraphRadius);
-        ofPopStyle();
-        ofPopMatrix();
-        
-        //色とジャンルの対応を見せる
-        for (int i = 0; i<myControlPanel.getValueI("topRange"); i++) {
+            
+            
+            //音楽ライブラリ全体のチェックされている楽曲のジャンルの比率を円グラフで出す。
             ofPushMatrix();
-            ofTranslate(ofGetWidth()-ofGetWidth()*0.15-myFontForTimeLabel.stringWidth(checkedRatioLabel)/2.0f, 15*i+ofGetHeight()*0.1+checkedGraphRadius+myFontForTimeLabel.stringHeight(checkedRatioLabel)*1.5);
+            ofTranslate(ofGetWidth()-ofGetWidth()*0.15, ofGetHeight()*0.1);
             ofPushStyle();
-            ofSetColor(genreCol[i]);
-            ofRect(0, 0, 10, 10);
-            myFontJapanese.drawString(ofToString(100*currentOwnerCheckedTopRangeDetail[i]/(float)checkedTotal, 1, 4, '0') + "%:" + genreNameList.getString(1+i, 1), 15, 10);
+            ofSetColor(127, 127, 127, 127);
+            int checkedGraphRadius;
+            checkedGraphRadius = ofGetWidth()*0.03;
+            ofCircle(0, 0, ofGetWidth()*0.03);
+            ofSetColor(127, 127, 127, 127);
+            ofRotateZ(-90);
+            ofPushMatrix();
+            for (int i = 0; i< myControlPanel.getValueI("topRange"); i++) {
+                ofSetColor(genreCol[i].r, genreCol[i].g, genreCol[i].b, 127);
+                if (i>0) {
+                    ofRotateZ(360*currentOwnerCheckedTopRangeDetail[i-1]/(float)checkedTotal);
+                }
+                myVectorGraphics.arc(0, 0, checkedGraphRadius, 0, 360*currentOwnerCheckedTopRangeDetail[i]/(float)checkedTotal);
+                
+            }
+            ofPopMatrix();
+            ofSetColor(127, 127, 127, 127);
+            myVectorGraphics.arc(0, 0, checkedGraphRadius, 0, 360*currentOwnerCheckedTopRange/(float)checkedTotal);
+            
+            string checkedRatioLabel;
+            ofRotateZ(90);
+            checkedRatioLabel = ofToString(100*currentOwnerCheckedTopRange/(float)checkedTotal, 1, 0, '0')+"%";
+            
+            ofSetColor(255, 255, 255, 255);
+            myFontForTimeLabel.drawString(checkedRatioLabel, -myFontForTimeLabel.stringWidth(checkedRatioLabel)/2.0f, myFontForTimeLabel.stringHeight(checkedRatioLabel)*1+checkedGraphRadius);
             ofPopStyle();
             ofPopMatrix();
+            
+            //色とジャンルの対応を見せる
+            for (int i = 0; i<myControlPanel.getValueI("topRange"); i++) {
+                ofPushMatrix();
+                ofTranslate(ofGetWidth()-ofGetWidth()*0.15-myFontForTimeLabel.stringWidth(checkedRatioLabel)/2.0f, 15*i+ofGetHeight()*0.1+checkedGraphRadius+myFontForTimeLabel.stringHeight(checkedRatioLabel)*1.5);
+                ofPushStyle();
+                ofSetColor(genreCol[i]);
+                ofRect(0, 0, 10, 10);
+                myFontJapanese.drawString(ofToString(100*currentOwnerCheckedTopRangeDetail[i]/(float)checkedTotal, 1, 4, '0') + "%:" + genreNameList.getString(1+i, 1), 15, 10);
+                ofPopStyle();
+                ofPopMatrix();
+            }
+            
         }
-        
-        //平均を描画
-        float currentOwnerRatioMean;
-        currentOwnerRatioMean = meanTopRange(getGenreRateTotal(myControlPanel.getValueI("csvOwner")));
-        myFontJapanese.drawString("ratioMean:" + ofToString(currentOwnerRatioMean), ofGetWidth()-ofGetWidth()*0.15-myFontForTimeLabel.stringWidth(checkedRatioLabel)/2.0f, 15*6+ofGetHeight()*0.1+checkedGraphRadius+myFontForTimeLabel.stringHeight(checkedRatioLabel)*1.5);
-        //分散を描画
-        float currentOwnerRatioVar;
-        currentOwnerRatioVar = varTopRange(getGenreRateTotal(myControlPanel.getValueI("csvOwner")));
-        myFontJapanese.drawString("ratioVar :" + ofToString(currentOwnerRatioVar), ofGetWidth()-ofGetWidth()*0.15-myFontForTimeLabel.stringWidth(checkedRatioLabel)/2.0f, 15*7+ofGetHeight()*0.1+checkedGraphRadius+myFontForTimeLabel.stringHeight(checkedRatioLabel)*1.5);
-        
-        //曜日毎のベストレンジの閉める割合を出す。
-        drawWeekRatio("sunday", csvOwnerList[myControlPanel.getValueI("csvOwner")]);
-        drawWeekRatio("monday", csvOwnerList[myControlPanel.getValueI("csvOwner")]);
-        drawWeekRatio("tuesday", csvOwnerList[myControlPanel.getValueI("csvOwner")]);
-        drawWeekRatio("wednesday", csvOwnerList[myControlPanel.getValueI("csvOwner")]);
-        drawWeekRatio("thursday", csvOwnerList[myControlPanel.getValueI("csvOwner")]);
-        drawWeekRatio("friday", csvOwnerList[myControlPanel.getValueI("csvOwner")]);
-        drawWeekRatio("saturday", csvOwnerList[myControlPanel.getValueI("csvOwner")]);
-        
-
     }
     //V系========================================================================================================================================================================
     //UI
     switch (myControlPanel.getSelectedPanel()) {
         case 0:
-            myControlPanel.setSize(640, 270+25*dirCSV.numFiles());
+            myControlPanel.setSize(640, 300+25*dirCSV.numFiles());
             break;
         case 1:
             myControlPanel.setSize(640, 400);
@@ -830,13 +1088,13 @@ void testApp::draw(){
     
 
     if (myControlPanel.getSelectedPanel() != 1) {
-        myFontForTimeLabel.drawString( ofToString(myControlPanel.getValueI("sundayStart_"+csvOwnerList[myControlPanel.getValueI("csvOwner")]), 3, '0') + " -Sun- " + ofToString(myControlPanel.getValueI("sundayEnd_"+csvOwnerList[myControlPanel.getValueI("csvOwner")]), 3, '0'), 217, 155);
-        myFontForTimeLabel.drawString( ofToString(myControlPanel.getValueI("mondayStart_"+csvOwnerList[myControlPanel.getValueI("csvOwner")]), 3, '0') + " -Mon- " + ofToString(myControlPanel.getValueI("mondayEnd_"+csvOwnerList[myControlPanel.getValueI("csvOwner")]), 3, '0'), 217, 155+43*1);
-        myFontForTimeLabel.drawString( ofToString(myControlPanel.getValueI("tuesdayStart_"+csvOwnerList[myControlPanel.getValueI("csvOwner")]), 3, '0') + " -Tue- " + ofToString(myControlPanel.getValueI("tuesdayEnd_"+csvOwnerList[myControlPanel.getValueI("csvOwner")]), 3, '0'), 217, 155+43*2);
-        myFontForTimeLabel.drawString( ofToString(myControlPanel.getValueI("wednesdayStart_"+csvOwnerList[myControlPanel.getValueI("csvOwner")]), 3, '0') + " -Wed- " + ofToString(myControlPanel.getValueI("wednesdayEnd_"+csvOwnerList[myControlPanel.getValueI("csvOwner")]), 3, '0'), 217, 155+43*3);
-        myFontForTimeLabel.drawString( ofToString(myControlPanel.getValueI("thursdayStart_"+csvOwnerList[myControlPanel.getValueI("csvOwner")]), 3, '0') + " -Thu- " + ofToString(myControlPanel.getValueI("thursdayEnd_"+csvOwnerList[myControlPanel.getValueI("csvOwner")]), 3, '0'), 217, 155+43*4);
-        myFontForTimeLabel.drawString( ofToString(myControlPanel.getValueI("fridayStart_"+csvOwnerList[myControlPanel.getValueI("csvOwner")]), 3, '0') + " -Fri- " + ofToString(myControlPanel.getValueI("fridayEnd_"+csvOwnerList[myControlPanel.getValueI("csvOwner")]), 3, '0'), 217, 155+43*5);
-        myFontForTimeLabel.drawString( ofToString(myControlPanel.getValueI("saturdayStart_"+csvOwnerList[myControlPanel.getValueI("csvOwner")]), 3, '0') + " -Sat- " + ofToString(myControlPanel.getValueI("saturdayEnd_"+csvOwnerList[myControlPanel.getValueI("csvOwner")]), 3, '0'), 217, 155+43*6);
+        myFontForTimeLabel.drawString( ofToString(myControlPanel.getValueI("sundayStart_"+csvOwnerList[myControlPanel.getValueI("csvOwner")]), 3, '0') + " -Sun- " + ofToString(myControlPanel.getValueI("sundayEnd_"+csvOwnerList[myControlPanel.getValueI("csvOwner")]), 3, '0'),       245, 155);
+        myFontForTimeLabel.drawString( ofToString(myControlPanel.getValueI("mondayStart_"+csvOwnerList[myControlPanel.getValueI("csvOwner")]), 3, '0') + " -Mon- " + ofToString(myControlPanel.getValueI("mondayEnd_"+csvOwnerList[myControlPanel.getValueI("csvOwner")]), 3, '0'),       245, 155+43*1);
+        myFontForTimeLabel.drawString( ofToString(myControlPanel.getValueI("tuesdayStart_"+csvOwnerList[myControlPanel.getValueI("csvOwner")]), 3, '0') + " -Tue- " + ofToString(myControlPanel.getValueI("tuesdayEnd_"+csvOwnerList[myControlPanel.getValueI("csvOwner")]), 3, '0'),     245, 155+43*2);
+        myFontForTimeLabel.drawString( ofToString(myControlPanel.getValueI("wednesdayStart_"+csvOwnerList[myControlPanel.getValueI("csvOwner")]), 3, '0') + " -Wed- " + ofToString(myControlPanel.getValueI("wednesdayEnd_"+csvOwnerList[myControlPanel.getValueI("csvOwner")]), 3, '0'), 245, 155+43*3);
+        myFontForTimeLabel.drawString( ofToString(myControlPanel.getValueI("thursdayStart_"+csvOwnerList[myControlPanel.getValueI("csvOwner")]), 3, '0') + " -Thu- " + ofToString(myControlPanel.getValueI("thursdayEnd_"+csvOwnerList[myControlPanel.getValueI("csvOwner")]), 3, '0'),   245, 155+43*4);
+        myFontForTimeLabel.drawString( ofToString(myControlPanel.getValueI("fridayStart_"+csvOwnerList[myControlPanel.getValueI("csvOwner")]), 3, '0') + " -Fri- " + ofToString(myControlPanel.getValueI("fridayEnd_"+csvOwnerList[myControlPanel.getValueI("csvOwner")]), 3, '0'),       245, 155+43*5);
+        myFontForTimeLabel.drawString( ofToString(myControlPanel.getValueI("saturdayStart_"+csvOwnerList[myControlPanel.getValueI("csvOwner")]), 3, '0') + " -Sat- " + ofToString(myControlPanel.getValueI("saturdayEnd_"+csvOwnerList[myControlPanel.getValueI("csvOwner")]), 3, '0'),   245, 155+43*6);
     }
     
     //最も古い情報と、新しい情報を出す。
@@ -945,6 +1203,9 @@ float testApp::corTopRange(float targetVar, float referenceVar, float cov){
     return cor;
 }
 
+
+
+
 void testApp::setCurrentTopRangeCorVector(){
     currentTopRangeCorVector.clear();
     vector<float> instantCor;
@@ -963,8 +1224,67 @@ void testApp::setCurrentTopRangeCorVector(){
     }
 }
 
+void testApp::setCurrentTopRangeCorVectorHour(){
+    currentTopRangeCorVectorHour.clear();
+    vector<float> instantCor;
+    for (int j = 0; j<csvOwnerList.size(); j++) {
+        instantCor.clear();
+        for (int i = 0; i<24; i++) {
+            float targetVar;
+            float referenceVar;
+            float cov;
+            targetVar = varTopRange(getGenreRateHour(j, i));
+            referenceVar = varTopRange(getGenreRateTotal(j));
+            cov = covTopRange(getGenreRateHour(j, i), getGenreRateTotal(j));
+            instantCor.push_back(corTopRange(targetVar, referenceVar, cov));
+        }
+        currentTopRangeCorVectorHour.push_back(instantCor);
+    }
+}
+
+vector< vector<float> > testApp::getTwentyFourHourBarGraphVector(int csvOwnerID){
+    vector< vector<float> > twentyFourHour;
+    //描画するベクターをつくる。
+    hourBarVector.clear();
+    for (int i = 0; i<24; i++) {
+        vector<float> instantOneHourBar;
+        for (int j = 0; j<csvGenreNameListVector[csvOwnerID].numRows-1; j++) {
+            //累積になっているジャンルを、曜日に関係ない1時間にまとめる。
+            float instantSumHour = 0;
+            for (int k = 0; k<7; k++) {
+                instantSumHour += csvGraphDataMatrixVector[csvOwnerID].getInt(j+1, 24*k+i+1);//最初の行と列がラベルなのでそれぞれ１足す;
+            }
+            instantOneHourBar.push_back(instantSumHour);
+        }
+        //一時間分の棒グラフの累積データを格納。
+        twentyFourHour.push_back(instantOneHourBar);
+    }
+    return twentyFourHour;
+}
+
+
+vector<float> testApp::getGenreRateHour(int csvOwnerID, int hourNum){
+    //0~1の比率ではなくただのカウントの内訳が返ってくる。
+    int total = 0;
+    int topRange = 0;
+    vector<float> thisHourTopRangeDetail;
+    vector<float> allThisHourDetail;
+    
+    allThisHourDetail = getTwentyFourHourBarGraphVector(csvOwnerID)[hourNum];
+    for (int i = 0; i<allThisHourDetail.size(); i++) {
+        total += allThisHourDetail[i];
+        if (i< myControlPanel.getValueI("topRange")) {
+            thisHourTopRangeDetail.push_back(allThisHourDetail[i]);
+        }
+    }
+//    for (int i = 0; i<myControlPanel.getValueI("topRange"); i++) {
+//        thisHourTopRangeDetail[i] /= total;
+//    }
+    return thisHourTopRangeDetail;
+}
 
 vector<float> testApp::getGenreRateWeek(int csvOwnerID, int weekNum){
+    //0~1の比率ではなくただのカウントの内訳が返ってくる。
     int total = 0;
     int topRange = 0;
     
@@ -1255,6 +1575,7 @@ void testApp::keyPressed(int key){
         }
     }else if (myControlPanel.getValueI("graphType") == 1){
         //累積棒グラフ
+        //FIXME: OF_KEY_LEFTとOF_KEY_RIGHT以外はなるべく共通にしておく。ガイドメッセージも出るようにする。
         switch (key) {
             case OF_KEY_LEFT:
                 printf("left\n");
@@ -1419,10 +1740,12 @@ void testApp::mouseDragged(int x, int y, int button){
     //コントロールパネル更新
     myControlPanel.mouseDragged(x, y, button);
     //2つのスライダーのシンクを取る。
+    //トップレンジの設定に変更があったら再計算すべきものを再計算する。
     if (oldTopRange != myControlPanel.getValueI("topRange")) {
         myControlPanel.setValueI("topRange_", myControlPanel.getValueI("topRange"), 0);
         setWhereAmI();
         setCurrentTopRangeCorVector();
+        
     }
     if (oldTopRange_ != myControlPanel.getValueI("topRange_")) {
         myControlPanel.setValueI("topRange", myControlPanel.getValueI("topRange_"), 0);

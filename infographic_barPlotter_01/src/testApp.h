@@ -34,6 +34,8 @@ class testApp : public ofBaseApp{
     
     void barplot(int modeNum);
     void drawWeekRatio(string weekName, string csvOwnerName);
+    vector< vector<float> > getTwentyFourHourBarGraphVector(int csvOwnerID);
+    vector<float> getGenreRateHour(int csvOwnerID, int hourNum);
     vector<float> getGenreRateWeek(int csvOwnerID, int weekNum);
     vector<float> getGenreRateTotal(int csvOwnerID);
     void bubbleSort(float x[], int n);
@@ -42,7 +44,8 @@ class testApp : public ofBaseApp{
     float covTopRange(vector<float> targetTopRangeVector, vector<float> referenceTopRangeVector);
     float corTopRange(float targetVar, float referenceVar, float cov);
     void setWhereAmI();
-    void setCurrentTopRangeCorVector();
+    void setCurrentTopRangeCorVector();//week version
+    void setCurrentTopRangeCorVectorHour();
     
     
     float thetaDegree;
@@ -114,6 +117,11 @@ class testApp : public ofBaseApp{
     //テーブルを描く自作クラス
     ofxTable myTable;
     
-    //現在のtopRangeから相関係数を計算して格納するベクター
+    //現在のtopRangeから相関係数を計算して格納するベクター(week version)
     vector< vector<float> > currentTopRangeCorVector;
+    //現在のtopRangeから相関係数を計算して格納するベクター(hour version)
+    vector< vector<float> > currentTopRangeCorVectorHour;
+    
+    //時刻（曜日は関係なく）だけの情報を累積情報を格納するベクター
+    vector< vector<float> > hourBarVector;
 };

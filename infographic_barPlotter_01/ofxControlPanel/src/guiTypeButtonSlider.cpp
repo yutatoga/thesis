@@ -97,7 +97,7 @@ void guiTypeButtonSlider::setup(string buttonSliderName, float panelWidth, float
 	slider->setup(buttonSliderName, defaultVal, min, max);
 	value.addValue(defaultVal, min, max);
 
-	slider->setDimensions(180, 10);
+	slider->setDimensions(173, 10);
 	if(isInt){
 		slider->setTypeInt();
 	}else{
@@ -107,14 +107,14 @@ void guiTypeButtonSlider::setup(string buttonSliderName, float panelWidth, float
 
 	/* left button setup */
 	leftButton = new guiTypeMinusButton();
-	leftButton->setup(buttonSliderName+string("1"), false);
+	leftButton->setup(/* buttonSliderName+*/ string("1"), false);
 	leftButton->setDimensions(10, 10);
 	leftButton->setTypeBool();
 	leftButton->setShowText(false);
 
 	/* right button setup */
 	rightButton = new guiTypePlusButton();
-	rightButton->setup(buttonSliderName+string("2"), false);
+	rightButton->setup(/* buttonSliderName+ */ string("2"), false);
 	rightButton->setDimensions(10, 10);
 	rightButton->setTypeBool();
 	rightButton->setShowText(false);

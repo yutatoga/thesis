@@ -8,6 +8,26 @@
 
 #include "ofxTable.h"
 
+void ofxTable::setup(){
+    doHighlight = false;
+    doAbs = false;
+    highlightCol.set(255, 0, 0, 127);
+}
+
+void ofxTable::setFont(ofTrueTypeFont font){
+    myFont = font;
+}
+
+void ofxTable::setEnableHighlihgt(float threshold, bool doAbsThreshold){
+    highlightThreshold = threshold;
+    doHighlight = true;
+    doAbs = doAbsThreshold;
+}
+
+void ofxTable::setHightlightCol(ofColor col){
+    highlightCol = col;
+}
+
 void ofxTable::setTableSize(int rowNum, int columnNum){
     tableRowNum = rowNum;
     tableColumnNum = columnNum;
@@ -20,10 +40,7 @@ void ofxTable::setBoxSize(int width, int height){
 }
 
 
-
 void ofxTable::drawFrame(){
-    // TODO: should replace your font
-    myFont.loadFont("Ricty-Bold.ttf", 10);
     //draw row line
     for (int i = 0; i<tableRowNum+1; i++) {
         ofPushMatrix();
@@ -62,9 +79,30 @@ void ofxTable::drawVectorFloat(vector<float> vectorFloat, int pos, bool iAmForRo
     if (iAmForRow) {
         for (int i = 0; i<tableColumnNum; i++) {
             string stringForOneBox;
-            stringForOneBox = ofToString(vectorFloat[i]);
+            if (doHighlight) {
+                ofPushStyle();
+                ofSetColor(highlightCol);
+                if (doAbs) {
+                    if (abs(vectorFloat[i]) > highlightThreshold) {
+                        drawHighlight(i, pos);
+                    }
+                }else{
+                    if (vectorFloat[i] > highlightThreshold) {
+                        drawHighlight(i, pos);
+                    }
+                }
+                ofPopStyle();
+            }
+            stringForOneBox = ofToString(vectorFloat[i], 3, 0, '0');
             myFont.drawString(stringForOneBox, i * oneBoxWidth+oneBoxWidth/2.0f-myFont.stringWidth(stringForOneBox)/2.0f, pos*oneBoxHeight+oneBoxHeight/2.0f+myFont.stringHeight(stringForOneBox)/2.0f);
         }
     }
+}
+
+void ofxTable::drawHighlight(int row, int column){
+    ofPushMatrix();
+    ofTranslate(oneBoxWidth*row, oneBoxHeight*column);
+    ofRect(0, 0, oneBoxWidth, oneBoxHeight);
+    ofPopMatrix();
 }
 
