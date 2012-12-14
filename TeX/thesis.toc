@@ -4,7 +4,6 @@
 \contentsline {subsection}{\numberline {1.3}音楽再生の現状から見えてくる問題点}{3}
 \contentsline {subsection}{\numberline {1.4}先行研究}{4}
 \contentsline {subsection}{\numberline {1.5}研究課題として時刻に注目した背景}{5}
-\contentsline {subsubsection}{\numberline {1.5.1}研究の背景}{5}
 \contentsline {subsection}{\numberline {1.6}場所の情報に注目して作ったもの}{6}
 \contentsline {subsubsection}{\numberline {1.6.1}Music Earth}{6}
 \contentsline {subsubsection}{\numberline {1.6.2}Place Melody}{7}
@@ -13,8 +12,8 @@
 \contentsline {subsection}{\numberline {1.8}方針}{10}
 \contentsline {section}{\numberline {2}分析するデータの収集方法}{10}
 \contentsline {subsection}{\numberline {2.1}分析の流れ}{10}
-\contentsline {subsection}{\numberline {2.2}被験者について}{11}
-\contentsline {subsection}{\numberline {2.3}分析手法について}{11}
+\contentsline {subsection}{\numberline {2.2}調査の対象者}{11}
+\contentsline {subsection}{\numberline {2.3}分析手法}{11}
 \contentsline {section}{\numberline {3}結果}{13}
 \contentsline {subsection}{\numberline {3.1}音楽を時刻に対して規則的に聴いている人}{13}
 \contentsline {subsection}{\numberline {3.2}音楽を時刻に対して不規則に聴いている人}{14}
@@ -43,6 +42,5 @@
 \contentsline {paragraph}{楽曲全てについてジャンル名をユーザーに付けてもらう}{23}
 \contentsline {paragraph}{楽曲の再生された時刻の履歴を全て残す}{24}
 \contentsline {section}{\numberline {6}結論}{24}
-\contentsline {subsection}{\numberline {6.1}今後の展望}{24}
 \contentsline {section}{\numberline {7}備考}{24}
 \contentsline {section}{\numberline {8}参考文献}{25}

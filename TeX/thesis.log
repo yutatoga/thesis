@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.10.26)  14 DEC 2012 09:39
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.10.26)  14 DEC 2012 12:53
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -700,8 +700,14 @@ Missing character: There is no Á in font nullfont!
 Missing character: There is no æ in font nullfont!
 Missing character: There is no © in font nullfont!
 Missing character: There is no „ in font nullfont!
-Missing character: There is no Ç in font nullfont!
-Missing character: There is no í in font nullfont!
+Missing character: There is no Å in font nullfont!
+Missing character: There is no ® in font nullfont!
+Missing character: There is no „ in font nullfont!
+Missing character: There is no Å in font nullfont!
+Missing character: There is no ó in font nullfont!
+Missing character: There is no „ in font nullfont!
+Missing character: There is no Å in font nullfont!
+Missing character: There is no ¶ in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Ä in font nullfont!
 Missing character: There is no Å in font nullfont!
@@ -3062,38 +3068,56 @@ Missing character: There is no „ in font nullfont!
 Missing character: There is no Å in font nullfont!
 Missing character: There is no Ø in font nullfont!
 Missing character: There is no „ in font nullfont!
-Missing character: There is no Ç in font nullfont!
-Missing character: There is no ∏ in font nullfont!
+Missing character: There is no Ä in font nullfont!
+Missing character: There is no Å in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no É in font nullfont!
-Missing character: There is no £ in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no É in font nullfont!
-Missing character: There is no ≥ in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no É in font nullfont!
-Missing character: There is no ´ in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Ç in font nullfont!
-Missing character: There is no í in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no É in font nullfont!
-Missing character: There is no ô in font nullfont!
+Missing character: There is no ¶ in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no É in font nullfont!
 Missing character: There is no º in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Ç in font nullfont!
-Missing character: There is no π in font nullfont!
+Missing character: There is no ∂ in font nullfont!
+Missing character: There is no „ in font nullfont!
+Missing character: There is no É in font nullfont!
+Missing character: There is no º in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Å in font nullfont!
-Missing character: There is no ® in font nullfont!
+Missing character: There is no Æ in font nullfont!
+Missing character: There is no È in font nullfont!
+Missing character: There is no ü in font nullfont!
+Missing character: There is no ≥ in font nullfont!
+Missing character: There is no Ê in font nullfont!
+Missing character: There is no • in font nullfont!
+Missing character: There is no Ω in font nullfont!
+Missing character: There is no „ in font nullfont!
+Missing character: There is no É in font nullfont!
+Missing character: There is no © in font nullfont!
+Missing character: There is no „ in font nullfont!
+Missing character: There is no Ç in font nullfont!
+Missing character: There is no § in font nullfont!
+Missing character: There is no „ in font nullfont!
+Missing character: There is no É in font nullfont!
+Missing character: There is no ñ in font nullfont!
+Missing character: There is no „ in font nullfont!
+Missing character: There is no É in font nullfont!
+Missing character: There is no © in font nullfont!
+Missing character: There is no „ in font nullfont!
+Missing character: There is no É in font nullfont!
+Missing character: There is no ™ in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Å in font nullfont!
-Missing character: There is no ó in font nullfont!
+Missing character: There is no Æ in font nullfont!
+Missing character: There is no Ê in font nullfont!
+Missing character: There is no É in font nullfont!
+Missing character: There is no Ö in font nullfont!
+Missing character: There is no Â in font nullfont!
+Missing character: There is no † in font nullfont!
+Missing character: There is no ± in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Å in font nullfont!
-Missing character: There is no ¶ in font nullfont!
+Missing character: There is no å in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Ä in font nullfont!
 Missing character: There is no Å in font nullfont!
@@ -3104,14 +3128,17 @@ Missing character: There is no n in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no „ in font nullfont!
-Missing character: There is no É in font nullfont!
-Missing character: There is no ¶ in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no É in font nullfont!
-Missing character: There is no º in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Ç in font nullfont!
-Missing character: There is no ∂ in font nullfont!
+Missing character: There is no Å in font nullfont!
+Missing character: There is no Æ in font nullfont!
+Missing character: There is no ‰ in font nullfont!
+Missing character: There is no Ω in font nullfont!
+Missing character: There is no ø in font nullfont!
+Missing character: There is no Á in font nullfont!
+Missing character: There is no î in font nullfont!
+Missing character: There is no ® in font nullfont!
+Missing character: There is no Ë in font nullfont!
+Missing character: There is no Ä in font nullfont!
+Missing character: There is no Ö in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Å in font nullfont!
 Missing character: There is no ã in font nullfont!
@@ -3434,6 +3461,12 @@ Missing character: There is no õ in font nullfont!
 Missing character: There is no ≤ in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Å in font nullfont!
+Missing character: There is no Æ in font nullfont!
+Missing character: There is no ‰ in font nullfont!
+Missing character: There is no ∏ in font nullfont!
+Missing character: There is no ≠ in font nullfont!
+Missing character: There is no „ in font nullfont!
+Missing character: There is no Å in font nullfont!
 Missing character: There is no ã in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Ç in font nullfont!
@@ -3775,11 +3808,17 @@ Missing character: There is no „ in font nullfont!
 Missing character: There is no Å in font nullfont!
 Missing character: There is no ç in font nullfont!
 Missing character: There is no „ in font nullfont!
-Missing character: There is no Å in font nullfont!
-Missing character: There is no ´ in font nullfont!
+Missing character: There is no Ç in font nullfont!
+Missing character: There is no ã in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Å in font nullfont!
-Missing character: There is no è in font nullfont!
+Missing character: There is no ì in font nullfont!
+Missing character: There is no „ in font nullfont!
+Missing character: There is no Å in font nullfont!
+Missing character: There is no ® in font nullfont!
+Missing character: There is no „ in font nullfont!
+Missing character: There is no Å in font nullfont!
+Missing character: There is no ™ in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Å in font nullfont!
 Missing character: There is no è in font nullfont!
@@ -4248,12 +4287,18 @@ Missing character: There is no ô in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Ç in font nullfont!
 Missing character: There is no ã in font nullfont!
-Missing character: There is no Â in font nullfont!
-Missing character: There is no Ø in font nullfont!
-Missing character: There is no æ in font nullfont!
-Missing character: There is no Ë in font nullfont!
-Missing character: There is no ± in font nullfont!
-Missing character: There is no ° in font nullfont!
+Missing character: There is no „ in font nullfont!
+Missing character: There is no Ç in font nullfont!
+Missing character: There is no ∑ in font nullfont!
+Missing character: There is no „ in font nullfont!
+Missing character: There is no Ç in font nullfont!
+Missing character: There is no π in font nullfont!
+Missing character: There is no „ in font nullfont!
+Missing character: There is no É in font nullfont!
+Missing character: There is no Ü in font nullfont!
+Missing character: There is no „ in font nullfont!
+Missing character: There is no É in font nullfont!
+Missing character: There is no † in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Å in font nullfont!
 Missing character: There is no ´ in font nullfont!
@@ -4266,6 +4311,9 @@ Missing character: There is no ó in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Å in font nullfont!
 Missing character: There is no ¶ in font nullfont!
+Missing character: There is no „ in font nullfont!
+Missing character: There is no Ä in font nullfont!
+Missing character: There is no Å in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no É in font nullfont!
 Missing character: There is no ¶ in font nullfont!
@@ -4475,6 +4523,15 @@ Missing character: There is no Ç in font nullfont!
 Missing character: There is no Å in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Å in font nullfont!
+Missing character: There is no Æ in font nullfont!
+Missing character: There is no Ê in font nullfont!
+Missing character: There is no É in font nullfont!
+Missing character: There is no Ö in font nullfont!
+Missing character: There is no Â in font nullfont!
+Missing character: There is no † in font nullfont!
+Missing character: There is no ± in font nullfont!
+Missing character: There is no „ in font nullfont!
+Missing character: There is no Å in font nullfont!
 Missing character: There is no ´ in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Å in font nullfont!
@@ -4551,6 +4608,12 @@ Missing character: There is no Ö in font nullfont!
 Missing character: There is no Â in font nullfont!
 Missing character: There is no † in font nullfont!
 Missing character: There is no ± in font nullfont!
+Missing character: There is no „ in font nullfont!
+Missing character: There is no Å in font nullfont!
+Missing character: There is no † in font nullfont!
+Missing character: There is no „ in font nullfont!
+Missing character: There is no Å in font nullfont!
+Missing character: There is no ë in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Å in font nullfont!
 Missing character: There is no ® in font nullfont!
@@ -4866,12 +4929,24 @@ Missing character: There is no ™ in font nullfont!
 Missing character: There is no Ê in font nullfont!
 Missing character: There is no ô in font nullfont!
 Missing character: There is no Ç in font nullfont!
-Missing character: There is no È in font nullfont!
-Missing character: There is no ñ in font nullfont!
-Missing character: There is no ì in font nullfont!
+Missing character: There is no Â in font nullfont!
+Missing character: There is no à in font nullfont!
+Missing character: There is no ª in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Å in font nullfont!
 Missing character: There is no ´ in font nullfont!
+Missing character: There is no „ in font nullfont!
+Missing character: There is no Ä in font nullfont!
+Missing character: There is no Å in font nullfont!
+Missing character: There is no „ in font nullfont!
+Missing character: There is no Å in font nullfont!
+Missing character: There is no © in font nullfont!
+Missing character: There is no „ in font nullfont!
+Missing character: There is no Ç in font nullfont!
+Missing character: There is no ì in font nullfont!
+Missing character: There is no „ in font nullfont!
+Missing character: There is no Å in font nullfont!
+Missing character: There is no ™ in font nullfont!
 Missing character: There is no È in font nullfont!
 Missing character: There is no ü in font nullfont!
 Missing character: There is no ≥ in font nullfont!
@@ -5513,27 +5588,6 @@ Missing character: There is no Å in font nullfont!
 Missing character: There is no © in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Å in font nullfont!
-Missing character: There is no Æ in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Å in font nullfont!
-Missing character: There is no ´ in font nullfont!
-Missing character: There is no Â in font nullfont!
-Missing character: There is no § in font nullfont!
-Missing character: There is no ñ in font nullfont!
-Missing character: There is no Á in font nullfont!
-Missing character: There is no ö in font nullfont!
-Missing character: There is no Ñ in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Å in font nullfont!
-Missing character: There is no ™ in font nullfont!
-Missing character: There is no Ê in font nullfont!
-Missing character: There is no É in font nullfont!
-Missing character: There is no Ö in font nullfont!
-Missing character: There is no Â in font nullfont!
-Missing character: There is no † in font nullfont!
-Missing character: There is no ± in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Å in font nullfont!
 Missing character: There is no ´ in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Ç in font nullfont!
@@ -7253,8 +7307,8 @@ Missing character: There is no ã in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Ä in font nullfont!
 Missing character: There is no Ç in font nullfont!
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:98: Undefined control sequence.
-l.98 \subsection
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:99: Undefined control sequence.
+l.99 \subsection
                 {ÂÖàË°åÁ†îÁ©∂}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -7502,6 +7556,21 @@ Missing character: There is no ã in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Ä in font nullfont!
 Missing character: There is no Ç in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no „ in font nullfont!
+Missing character: There is no Å in font nullfont!
+Missing character: There is no Ø in font nullfont!
+Missing character: There is no „ in font nullfont!
+Missing character: There is no Ä in font nullfont!
+Missing character: There is no Å in font nullfont!
 Missing character: There is no Ê in font nullfont!
 Missing character: There is no ¨ in font nullfont!
 Missing character: There is no ° in font nullfont!
@@ -7804,7 +7873,7 @@ Missing character: There is no É in font nullfont!
 Missing character: There is no Ü in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Ç in font nullfont!
-Missing character: There is no § in font nullfont!
+Missing character: There is no £ in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Ç in font nullfont!
 Missing character: There is no π in font nullfont!
@@ -8386,9 +8455,6 @@ Missing character: There is no ≤ in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Ç in font nullfont!
 Missing character: There is no í in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Ä in font nullfont!
-Missing character: There is no Å in font nullfont!
 Missing character: There is no Ê in font nullfont!
 Missing character: There is no ∑ in font nullfont!
 Missing character: There is no ∑ in font nullfont!
@@ -8425,6 +8491,9 @@ Missing character: There is no à in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Ç in font nullfont!
 Missing character: There is no í in font nullfont!
+Missing character: There is no „ in font nullfont!
+Missing character: There is no Ä in font nullfont!
+Missing character: There is no Å in font nullfont!
 Missing character: There is no Ë in font nullfont!
 Missing character: There is no á in font nullfont!
 Missing character: There is no ™ in font nullfont!
@@ -8737,12 +8806,9 @@ Missing character: There is no π in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Å in font nullfont!
 Missing character: There is no ß in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Å in font nullfont!
-Missing character: There is no ô in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Å in font nullfont!
-Missing character: There is no ê in font nullfont!
+Missing character: There is no Â in font nullfont!
+Missing character: There is no Ñ in font nullfont!
+Missing character: There is no ™ in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Ç in font nullfont!
 Missing character: There is no å in font nullfont!
@@ -8794,9 +8860,9 @@ Missing character: There is no ¢ in font nullfont!
 Missing character: There is no È in font nullfont!
 Missing character: There is no Ä in font nullfont!
 Missing character: There is no £ in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Å in font nullfont!
-Missing character: There is no • in font nullfont!
+Missing character: There is no ‰ in font nullfont!
+Missing character: There is no ª in font nullfont!
+Missing character: There is no ò in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Å in font nullfont!
 Missing character: There is no ë in font nullfont!
@@ -10179,15 +10245,12 @@ Missing character: There is no † in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Ç in font nullfont!
 Missing character: There is no í in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Å in font nullfont!
-Missing character: There is no ó in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Ç in font nullfont!
-Missing character: There is no à in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Å in font nullfont!
-Missing character: There is no Ü in font nullfont!
+Missing character: There is no ‰ in font nullfont!
+Missing character: There is no Ω in font nullfont!
+Missing character: There is no ø in font nullfont!
+Missing character: There is no Á in font nullfont!
+Missing character: There is no î in font nullfont!
+Missing character: There is no ® in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Å in font nullfont!
 Missing character: There is no ô in font nullfont!
@@ -10252,8 +10315,8 @@ Missing character: There is no Ê in font nullfont!
 Missing character: There is no • in font nullfont!
 Missing character: There is no Ω in font nullfont!
 Missing character: There is no „ in font nullfont!
-Missing character: There is no Ç in font nullfont!
-Missing character: There is no í in font nullfont!
+Missing character: There is no Å in font nullfont!
+Missing character: There is no å in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Ä in font nullfont!
 Missing character: There is no Å in font nullfont!
@@ -10263,12 +10326,15 @@ Missing character: There is no © in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Å in font nullfont!
 Missing character: There is no Æ in font nullfont!
-Missing character: There is no Â in font nullfont!
+Missing character: There is no È in font nullfont!
+Missing character: There is no õ in font nullfont!
 Missing character: There is no ∞ in font nullfont!
-Missing character: There is no ∫ in font nullfont!
 Missing character: There is no Â in font nullfont!
-Missing character: There is no ∫ in font nullfont!
-Missing character: There is no ¶ in font nullfont!
+Missing character: There is no õ in font nullfont!
+Missing character: There is no ≤ in font nullfont!
+Missing character: There is no Ê in font nullfont!
+Missing character: There is no ∞ in font nullfont!
+Missing character: There is no ó in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Ç in font nullfont!
 Missing character: There is no í in font nullfont!
@@ -10786,14 +10852,14 @@ Missing character: There is no „ in font nullfont!
 Missing character: There is no Ä in font nullfont!
 Missing character: There is no Ç in font nullfont!
 
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:136: LaTeX Error: Environment fi
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:137: LaTeX Error: Environment fi
 gure undefined.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.136 \begin{figure}
+l.137 \begin{figure}
                     [h]
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -10805,14 +10871,14 @@ Missing character: There is no ] in font nullfont!
 File: musicovery.png Graphic file (type bmp)
 <musicovery.png>
 
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:139: LaTeX Error: \caption outsi
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:140: LaTeX Error: \caption outsi
 de float.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.139 \caption
+l.140 \caption
               {Musicovery„ÅÆ„Ç§„É≥„Çø„Éº„Éï„Çß„Éº„Çπ}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -10855,21 +10921,21 @@ Missing character: There is no „ in font nullfont!
 Missing character: There is no Ç in font nullfont!
 Missing character: There is no π in font nullfont!
 
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:142: LaTeX Error: \begin{documen
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:143: LaTeX Error: \begin{documen
 t} ended by \end{figure}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.142 \end{figure}
+l.143 \end{figure}
                   
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:144: Undefined control sequence.
-l.144 \subsection
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:145: Undefined control sequence.
+l.145 \subsection
                  {Á†îÁ©∂Ë™≤È°å„Å®„Åó„Å¶ÊôÇÂàª„Å´Ê≥®ÁõÆ„Åó„ÅüËÉåÊôØ}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -10919,30 +10985,6 @@ Missing character: There is no ó in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Å in font nullfont!
 Missing character: There is no ü in font nullfont!
-Missing character: There is no Ë in font nullfont!
-Missing character: There is no É in font nullfont!
-Missing character: There is no å in font nullfont!
-Missing character: There is no Ê in font nullfont!
-Missing character: There is no ô in font nullfont!
-Missing character: There is no Ø in font nullfont!
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:145: Undefined control sequence.
-l.145 \subsubsection
-                    {Á†îÁ©∂„ÅÆËÉåÊôØ}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-Missing character: There is no Á in font nullfont!
-Missing character: There is no † in font nullfont!
-Missing character: There is no î in font nullfont!
-Missing character: There is no Á in font nullfont!
-Missing character: There is no © in font nullfont!
-Missing character: There is no ∂ in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Å in font nullfont!
-Missing character: There is no Æ in font nullfont!
 Missing character: There is no Ë in font nullfont!
 Missing character: There is no É in font nullfont!
 Missing character: There is no å in font nullfont!
@@ -14830,126 +14872,6 @@ Missing character: There is no ü in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Ä in font nullfont!
 Missing character: There is no Ç in font nullfont!
-Missing character: There is no Â in font nullfont!
-Missing character: There is no † in font nullfont!
-Missing character: There is no ¥ in font nullfont!
-Missing character: There is no Ê in font nullfont!
-Missing character: There is no â in font nullfont!
-Missing character: There is no Ä in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Å in font nullfont!
-Missing character: There is no ´ in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Ç in font nullfont!
-Missing character: There is no à in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Ç in font nullfont!
-Missing character: There is no ã in font nullfont!
-Missing character: There is no Ê in font nullfont!
-Missing character: There is no É in font nullfont!
-Missing character: There is no Ö in font nullfont!
-Missing character: There is no Â in font nullfont!
-Missing character: There is no † in font nullfont!
-Missing character: There is no ± in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Å in font nullfont!
-Missing character: There is no ´ in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Ç in font nullfont!
-Missing character: There is no à in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Å in font nullfont!
-Missing character: There is no £ in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Å in font nullfont!
-Missing character: There is no ¶ in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Å in font nullfont!
-Missing character: There is no ß in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Å in font nullfont!
-Missing character: There is no Ø in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Å in font nullfont!
-Missing character: There is no ™ in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Å in font nullfont!
-Missing character: There is no è in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Ä in font nullfont!
-Missing character: There is no Å in font nullfont!
-Missing character: There is no Ê in font nullfont!
-Missing character: There is no ô in font nullfont!
-Missing character: There is no Ç in font nullfont!
-Missing character: There is no Â in font nullfont!
-Missing character: There is no à in font nullfont!
-Missing character: There is no ª in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Å in font nullfont!
-Missing character: There is no Æ in font nullfont!
-Missing character: There is no Ê in font nullfont!
-Missing character: There is no É in font nullfont!
-Missing character: There is no Ö in font nullfont!
-Missing character: There is no Â in font nullfont!
-Missing character: There is no † in font nullfont!
-Missing character: There is no ± in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Å in font nullfont!
-Missing character: There is no ´ in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Ç in font nullfont!
-Missing character: There is no à in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Å in font nullfont!
-Missing character: There is no £ in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Å in font nullfont!
-Missing character: There is no ¶ in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Å in font nullfont!
-Missing character: There is no ß in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Ç in font nullfont!
-Missing character: There is no Ç in font nullfont!
-Missing character: There is no Ê in font nullfont!
-Missing character: There is no é in font nullfont!
-Missing character: There is no ® in font nullfont!
-Missing character: There is no Ê in font nullfont!
-Missing character: There is no ∏ in font nullfont!
-Missing character: There is no ¨ in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Å in font nullfont!
-Missing character: There is no ß in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Å in font nullfont!
-Missing character: There is no ç in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Ç in font nullfont!
-Missing character: There is no ã in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Å in font nullfont!
-Missing character: There is no ì in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Å in font nullfont!
-Missing character: There is no ® in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Å in font nullfont!
-Missing character: There is no å in font nullfont!
-Missing character: There is no Â in font nullfont!
-Missing character: There is no § in font nullfont!
-Missing character: There is no ö in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Å in font nullfont!
-Missing character: There is no ã in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Å in font nullfont!
-Missing character: There is no £ in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Å in font nullfont!
-Missing character: There is no ü in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Ä in font nullfont!
-Missing character: There is no Ç in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Å in font nullfont!
 Missing character: There is no æ in font nullfont!
@@ -15436,8 +15358,8 @@ Missing character: There is no ü in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Ä in font nullfont!
 Missing character: There is no Ç in font nullfont!
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:214: Undefined control sequence.
-l.214 \subsubsection
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:213: Undefined control sequence.
+l.213 \subsubsection
                     {Place Melody}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -15456,6 +15378,20 @@ Missing character: There is no l in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no d in font nullfont!
 Missing character: There is no y in font nullfont!
+Missing character: There is no P in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no „ in font nullfont!
+Missing character: There is no Å in font nullfont!
+Missing character: There is no Ø in font nullfont!
 Missing character: There is no Â in font nullfont!
 Missing character: There is no ú in font nullfont!
 Missing character: There is no ∞ in font nullfont!
@@ -15591,6 +15527,15 @@ Missing character: There is no ß in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no É in font nullfont!
 Missing character: There is no ≥ in font nullfont!
+Missing character: There is no „ in font nullfont!
+Missing character: There is no Å in font nullfont!
+Missing character: There is no ß in font nullfont!
+Missing character: There is no „ in font nullfont!
+Missing character: There is no Å in font nullfont!
+Missing character: There is no Ç in font nullfont!
+Missing character: There is no „ in font nullfont!
+Missing character: There is no Ç in font nullfont!
+Missing character: There is no ã in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Ä in font nullfont!
 Missing character: There is no Ç in font nullfont!
@@ -16507,20 +16452,23 @@ Missing character: There is no È in font nullfont!
 Missing character: There is no õ in font nullfont!
 Missing character: There is no ¢ in font nullfont!
 Missing character: There is no „ in font nullfont!
-Missing character: There is no Å in font nullfont!
-Missing character: There is no å in font nullfont!
-Missing character: There is no Ê in font nullfont!
-Missing character: There is no õ in font nullfont!
-Missing character: There is no ∏ in font nullfont!
+Missing character: There is no Ç in font nullfont!
+Missing character: There is no í in font nullfont!
+Missing character: There is no Ë in font nullfont!
+Missing character: There is no ° in font nullfont!
+Missing character: There is no ® in font nullfont!
+Missing character: There is no Á in font nullfont!
+Missing character: There is no § in font nullfont!
+Missing character: There is no ∫ in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Å in font nullfont!
-Missing character: There is no Ñ in font nullfont!
+Missing character: There is no ó in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Å in font nullfont!
 Missing character: There is no ¶ in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Å in font nullfont!
-Missing character: There is no Ç in font nullfont!
+Missing character: There is no ä in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Ç in font nullfont!
 Missing character: There is no ä in font nullfont!
@@ -16632,27 +16580,6 @@ Missing character: There is no ï in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Ç in font nullfont!
 Missing character: There is no å in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Ç in font nullfont!
-Missing character: There is no ã in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Ç in font nullfont!
-Missing character: There is no à in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Å in font nullfont!
-Missing character: There is no Ü in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Å in font nullfont!
-Missing character: There is no ´ in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Å in font nullfont!
-Missing character: There is no ó in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Å in font nullfont!
-Missing character: There is no ¶ in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Å in font nullfont!
-Missing character: There is no Ç in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Ç in font nullfont!
 Missing character: There is no ã in font nullfont!
@@ -17086,14 +17013,14 @@ Missing character: There is no „ in font nullfont!
 Missing character: There is no Ä in font nullfont!
 Missing character: There is no Ç in font nullfont!
 
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:234: LaTeX Error: Environment fi
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:233: LaTeX Error: Environment fi
 gure undefined.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.234 \begin{figure}
+l.233 \begin{figure}
                     [h]
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -17105,14 +17032,14 @@ Missing character: There is no ] in font nullfont!
 File: placeMelody.png Graphic file (type bmp)
 <placeMelody.png>
 
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:237: LaTeX Error: \caption outsi
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:236: LaTeX Error: \caption outsi
 de float.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.237 \caption
+l.236 \caption
               {Place Melody„ÅÆ„Ç§„É≥„Çø„Éº„Éï„Çß„Éº„Çπ}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -17156,21 +17083,21 @@ Missing character: There is no „ in font nullfont!
 Missing character: There is no Ç in font nullfont!
 Missing character: There is no π in font nullfont!
 
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:240: LaTeX Error: \begin{documen
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:239: LaTeX Error: \begin{documen
 t} ended by \end{figure}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.240 \end{figure}
+l.239 \end{figure}
                   
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:244: Undefined control sequence.
-l.244 \subsection
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:243: Undefined control sequence.
+l.243 \subsection
                  {Èü≥Ê•ΩÂÜçÁîü„Å´„Åä„Åë„ÇãÊôÇÂàª„Å®Ê∞óÂàÜ„Å´Ê≥®ÁõÆ„Åó„Å¶„Å§„...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -17250,8 +17177,8 @@ Missing character: There is no Ç in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Å in font nullfont!
 Missing character: There is no Æ in font nullfont!
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:246: Undefined control sequence.
-l.246 \subsubsection
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:245: Undefined control sequence.
+l.245 \subsubsection
                     {OtO}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -17708,6 +17635,9 @@ Missing character: There is no Ω in font nullfont!
 Missing character: There is no Ê in font nullfont!
 Missing character: There is no õ in font nullfont!
 Missing character: There is no ≤ in font nullfont!
+Missing character: There is no „ in font nullfont!
+Missing character: There is no Ç in font nullfont!
+Missing character: There is no í in font nullfont!
 Missing character: There is no Ë in font nullfont!
 Missing character: There is no Å in font nullfont!
 Missing character: There is no ¥ in font nullfont!
@@ -18922,27 +18852,15 @@ Missing character: There is no ã in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Ä in font nullfont!
 Missing character: There is no Ç in font nullfont!
-Missing character: There is no ‰ in font nullfont!
-Missing character: There is no Ω in font nullfont!
-Missing character: There is no ø in font nullfont!
-Missing character: There is no Á in font nullfont!
-Missing character: There is no î in font nullfont!
-Missing character: There is no ® in font nullfont!
+Missing character: There is no O in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no O in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Å in font nullfont!
-Missing character: There is no ó in font nullfont!
+Missing character: There is no ß in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Å in font nullfont!
-Missing character: There is no ¶ in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Å in font nullfont!
-Missing character: There is no ø in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Ç in font nullfont!
-Missing character: There is no ã in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Å in font nullfont!
-Missing character: There is no ® in font nullfont!
+Missing character: There is no Ø in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Ä in font nullfont!
 Missing character: There is no Å in font nullfont!
@@ -19351,14 +19269,14 @@ Missing character: There is no „ in font nullfont!
 Missing character: There is no Ä in font nullfont!
 Missing character: There is no Ç in font nullfont!
 
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:269: LaTeX Error: Environment fi
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:267: LaTeX Error: Environment fi
 gure undefined.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.269 \begin{figure}
+l.267 \begin{figure}
                     [h]
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -19370,14 +19288,14 @@ Missing character: There is no ] in font nullfont!
 File: OtO_imageView.jpg Graphic file (type bmp)
 <OtO_imageView.jpg>
 
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:272: LaTeX Error: \caption outsi
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:270: LaTeX Error: \caption outsi
 de float.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.272 \caption
+l.270 \caption
               {OtO„ÅÆ„Ç§„É≥„Çø„Éº„Éï„Çß„Éº„Çπ}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -19413,28 +19331,28 @@ Missing character: There is no „ in font nullfont!
 Missing character: There is no Ç in font nullfont!
 Missing character: There is no π in font nullfont!
 
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:275: LaTeX Error: \begin{documen
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:273: LaTeX Error: \begin{documen
 t} ended by \end{figure}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.275 \end{figure}
+l.273 \end{figure}
                   
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:277: LaTeX Error: Environment fi
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:275: LaTeX Error: Environment fi
 gure undefined.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.277 \begin{figure}
+l.275 \begin{figure}
                     [h]
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -19446,14 +19364,14 @@ Missing character: There is no ] in font nullfont!
 File: OtO_playList.jpg Graphic file (type bmp)
 <OtO_playList.jpg>
 
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:280: LaTeX Error: \caption outsi
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:278: LaTeX Error: \caption outsi
 de float.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.280 \caption
+l.278 \caption
               {OtO„ÅÆ„Éó„É¨„Ç§„É™„Çπ„Éà}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -19487,7 +19405,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:282: LaTeX Error: The font size 
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:280: LaTeX Error: The font size 
 command \normalsize is not defined:
                there is probably something wrong with the class file.
 
@@ -19495,17 +19413,17 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.282 \end{center}
+l.280 \end{center}
                   
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 [1
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:282: Undefined control sequence.
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:280: Undefined control sequence.
 <write> ...abel{musicovery_interface}{{}{\thepage 
                                                   }}
-l.282 \end{center}
+l.280 \end{center}
                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -19513,10 +19431,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:282: Undefined control sequence.
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:280: Undefined control sequence.
 <write> ...abel{musicEarth_interface}{{}{\thepage 
                                                   }}
-l.282 \end{center}
+l.280 \end{center}
                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -19524,10 +19442,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:282: Undefined control sequence.
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:280: Undefined control sequence.
 <write> ...bel{placeMelody_interface}{{}{\thepage 
                                                   }}
-l.282 \end{center}
+l.280 \end{center}
                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -19535,10 +19453,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:282: Undefined control sequence.
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:280: Undefined control sequence.
 <write> \newlabel{OtO_interface}{{}{\thepage 
                                              }}
-l.282 \end{center}
+l.280 \end{center}
                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -19548,14 +19466,14 @@ and I'll forget about whatever was undefined.
 
 ]
 
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:283: LaTeX Error: \begin{documen
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:281: LaTeX Error: \begin{documen
 t} ended by \end{figure}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.283 \end{figure}
+l.281 \end{figure}
                   
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -19954,6 +19872,9 @@ Missing character: There is no ≤ in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Ç in font nullfont!
 Missing character: There is no í in font nullfont!
+Missing character: There is no „ in font nullfont!
+Missing character: There is no Ä in font nullfont!
+Missing character: There is no Å in font nullfont!
 Missing character: There is no Â in font nullfont!
 Missing character: There is no Ü in font nullfont!
 Missing character: There is no ç in font nullfont!
@@ -20059,6 +19980,9 @@ Missing character: There is no ì in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Å in font nullfont!
 Missing character: There is no ® in font nullfont!
+Missing character: There is no „ in font nullfont!
+Missing character: There is no Å in font nullfont!
+Missing character: There is no ´ in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Ç in font nullfont!
 Missing character: There is no à in font nullfont!
@@ -21379,15 +21303,6 @@ Missing character: There is no Ü in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Å in font nullfont!
 Missing character: There is no ß in font nullfont!
-Missing character: There is no È in font nullfont!
-Missing character: There is no ü in font nullfont!
-Missing character: There is no ≥ in font nullfont!
-Missing character: There is no Ê in font nullfont!
-Missing character: There is no • in font nullfont!
-Missing character: There is no Ω in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Ç in font nullfont!
-Missing character: There is no í in font nullfont!
 Missing character: There is no Â in font nullfont!
 Missing character: There is no Ü in font nullfont!
 Missing character: There is no ç in font nullfont!
@@ -21523,6 +21438,9 @@ Missing character: There is no Ç in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Ç in font nullfont!
 Missing character: There is no ã in font nullfont!
+Missing character: There is no „ in font nullfont!
+Missing character: There is no Ä in font nullfont!
+Missing character: There is no Å in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no É in font nullfont!
 Missing character: There is no ¶ in font nullfont!
@@ -21790,8 +21708,8 @@ Missing character: There is no ü in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Ä in font nullfont!
 Missing character: There is no Ç in font nullfont!
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:345: Undefined control sequence.
-l.345 \subsection
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:343: Undefined control sequence.
+l.343 \subsection
                  {ÊñπÈáù}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -22105,12 +22023,9 @@ Missing character: There is no Ö in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Å in font nullfont!
 Missing character: There is no ´ in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Ç in font nullfont!
-Missing character: There is no Ç in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Å in font nullfont!
-Missing character: There is no © in font nullfont!
+Missing character: There is no Ê in font nullfont!
+Missing character: There is no à in font nullfont!
+Missing character: There is no ª in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Ç in font nullfont!
 Missing character: There is no ã in font nullfont!
@@ -22756,8 +22671,8 @@ Missing character: There is no ü in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Ä in font nullfont!
 Missing character: There is no Ç in font nullfont!
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:380: Undefined control sequence.
-l.380 \section
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:378: Undefined control sequence.
+l.378 \section
               {ÂàÜÊûê„Åô„Çã„Éá„Éº„Çø„ÅÆÂèéÈõÜÊñπÊ≥ï}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -22801,8 +22716,8 @@ Missing character: There is no π in font nullfont!
 Missing character: There is no Ê in font nullfont!
 Missing character: There is no ≥ in font nullfont!
 Missing character: There is no ï in font nullfont!
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:381: Undefined control sequence.
-l.381 \subsection
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:379: Undefined control sequence.
+l.379 \subsection
                  {ÂàÜÊûê„ÅÆÊµÅ„Çå}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -22825,12 +22740,12 @@ Missing character: There is no Å in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Ç in font nullfont!
 Missing character: There is no å in font nullfont!
-Missing character: There is no Â in font nullfont!
-Missing character: There is no Æ in font nullfont!
+Missing character: There is no Ë in font nullfont!
+Missing character: There is no ™ in font nullfont!
+Missing character: There is no ø in font nullfont!
+Missing character: There is no Ê in font nullfont!
 Missing character: There is no ü in font nullfont!
-Missing character: There is no È in font nullfont!
-Missing character: There is no ® in font nullfont!
-Missing character: There is no ì in font nullfont!
+Missing character: There is no ª in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Å in font nullfont!
 Missing character: There is no Ø in font nullfont!
@@ -22864,12 +22779,12 @@ Missing character: There is no ü in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Ä in font nullfont!
 Missing character: There is no Ç in font nullfont!
+Missing character: There is no Â in font nullfont!
+Missing character: There is no Ø in font nullfont!
+Missing character: There is no æ in font nullfont!
 Missing character: There is no Ë in font nullfont!
-Missing character: There is no ¢ in font nullfont!
-Missing character: There is no ´ in font nullfont!
-Missing character: There is no È in font nullfont!
-Missing character: There is no ® in font nullfont!
-Missing character: There is no ì in font nullfont!
+Missing character: There is no ± in font nullfont!
+Missing character: There is no ° in font nullfont!
 Missing character: There is no Ë in font nullfont!
 Missing character: There is no Ä in font nullfont!
 Missing character: There is no Ö in font nullfont!
@@ -23028,12 +22943,12 @@ Missing character: There is no Ü in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Ä in font nullfont!
 Missing character: There is no Ç in font nullfont!
+Missing character: There is no Â in font nullfont!
+Missing character: There is no Ø in font nullfont!
+Missing character: There is no æ in font nullfont!
 Missing character: There is no Ë in font nullfont!
-Missing character: There is no ¢ in font nullfont!
-Missing character: There is no ´ in font nullfont!
-Missing character: There is no È in font nullfont!
-Missing character: There is no ® in font nullfont!
-Missing character: There is no ì in font nullfont!
+Missing character: There is no ± in font nullfont!
+Missing character: There is no ° in font nullfont!
 Missing character: There is no Ë in font nullfont!
 Missing character: There is no Ä in font nullfont!
 Missing character: There is no Ö in font nullfont!
@@ -23574,12 +23489,12 @@ Missing character: There is no Ç in font nullfont!
 Missing character: There is no Â in font nullfont!
 Missing character: There is no à in font nullfont!
 Missing character: There is no ª in font nullfont!
+Missing character: There is no Â in font nullfont!
+Missing character: There is no Ø in font nullfont!
+Missing character: There is no æ in font nullfont!
 Missing character: There is no Ë in font nullfont!
-Missing character: There is no ¢ in font nullfont!
-Missing character: There is no ´ in font nullfont!
-Missing character: There is no È in font nullfont!
-Missing character: There is no ® in font nullfont!
-Missing character: There is no ì in font nullfont!
+Missing character: There is no ± in font nullfont!
+Missing character: There is no ° in font nullfont!
 Missing character: There is no Ë in font nullfont!
 Missing character: There is no Ä in font nullfont!
 Missing character: There is no Ö in font nullfont!
@@ -23637,12 +23552,12 @@ Missing character: There is no ® in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Ä in font nullfont!
 Missing character: There is no Å in font nullfont!
+Missing character: There is no Â in font nullfont!
+Missing character: There is no Ø in font nullfont!
+Missing character: There is no æ in font nullfont!
 Missing character: There is no Ë in font nullfont!
-Missing character: There is no ¢ in font nullfont!
-Missing character: There is no ´ in font nullfont!
-Missing character: There is no È in font nullfont!
-Missing character: There is no ® in font nullfont!
-Missing character: There is no ì in font nullfont!
+Missing character: There is no ± in font nullfont!
+Missing character: There is no ° in font nullfont!
 Missing character: There is no Ë in font nullfont!
 Missing character: There is no Ä in font nullfont!
 Missing character: There is no Ö in font nullfont!
@@ -23742,12 +23657,12 @@ Missing character: There is no Ü in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Ä in font nullfont!
 Missing character: There is no Ç in font nullfont!
+Missing character: There is no Â in font nullfont!
+Missing character: There is no Ø in font nullfont!
+Missing character: There is no æ in font nullfont!
 Missing character: There is no Ë in font nullfont!
-Missing character: There is no ¢ in font nullfont!
-Missing character: There is no ´ in font nullfont!
-Missing character: There is no È in font nullfont!
-Missing character: There is no ® in font nullfont!
-Missing character: There is no ì in font nullfont!
+Missing character: There is no ± in font nullfont!
+Missing character: There is no ° in font nullfont!
 Missing character: There is no Ë in font nullfont!
 Missing character: There is no Ä in font nullfont!
 Missing character: There is no Ö in font nullfont!
@@ -24147,9 +24062,9 @@ Missing character: There is no ã in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Ä in font nullfont!
 Missing character: There is no Ç in font nullfont!
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:425: Undefined control sequence.
-l.425 \subsection
-                 {Ë¢´È®ìËÄÖ„Å´„Å§„ÅÑ„Å¶}
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:423: Undefined control sequence.
+l.423 \subsection
+                 {Ë™øÊüª„ÅÆÂØæË±°ËÄÖ}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -24157,44 +24072,41 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 Missing character: There is no Ë in font nullfont!
-Missing character: There is no ¢ in font nullfont!
-Missing character: There is no ´ in font nullfont!
-Missing character: There is no È in font nullfont!
-Missing character: There is no ® in font nullfont!
-Missing character: There is no ì in font nullfont!
+Missing character: There is no ™ in font nullfont!
+Missing character: There is no ø in font nullfont!
+Missing character: There is no Ê in font nullfont!
+Missing character: There is no ü in font nullfont!
+Missing character: There is no ª in font nullfont!
+Missing character: There is no „ in font nullfont!
+Missing character: There is no Å in font nullfont!
+Missing character: There is no Æ in font nullfont!
+Missing character: There is no Â in font nullfont!
+Missing character: There is no Ø in font nullfont!
+Missing character: There is no æ in font nullfont!
+Missing character: There is no Ë in font nullfont!
+Missing character: There is no ± in font nullfont!
+Missing character: There is no ° in font nullfont!
 Missing character: There is no Ë in font nullfont!
 Missing character: There is no Ä in font nullfont!
 Missing character: There is no Ö in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Å in font nullfont!
-Missing character: There is no ´ in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Å in font nullfont!
-Missing character: There is no § in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Å in font nullfont!
-Missing character: There is no Ñ in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Å in font nullfont!
-Missing character: There is no ¶ in font nullfont!
 Missing character: There is no Ê in font nullfont!
 Missing character: There is no ú in font nullfont!
 Missing character: There is no ¨ in font nullfont!
-Missing character: There is no Â in font nullfont!
-Missing character: There is no Æ in font nullfont!
+Missing character: There is no Ë in font nullfont!
+Missing character: There is no ™ in font nullfont!
+Missing character: There is no ø in font nullfont!
+Missing character: There is no Ê in font nullfont!
 Missing character: There is no ü in font nullfont!
-Missing character: There is no È in font nullfont!
-Missing character: There is no ® in font nullfont!
-Missing character: There is no ì in font nullfont!
+Missing character: There is no ª in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Å in font nullfont!
 Missing character: There is no Æ in font nullfont!
+Missing character: There is no Â in font nullfont!
+Missing character: There is no Ø in font nullfont!
+Missing character: There is no æ in font nullfont!
 Missing character: There is no Ë in font nullfont!
-Missing character: There is no ¢ in font nullfont!
-Missing character: There is no ´ in font nullfont!
-Missing character: There is no È in font nullfont!
-Missing character: There is no ® in font nullfont!
-Missing character: There is no ì in font nullfont!
+Missing character: There is no ± in font nullfont!
+Missing character: There is no ° in font nullfont!
 Missing character: There is no Ë in font nullfont!
 Missing character: There is no Ä in font nullfont!
 Missing character: There is no Ö in font nullfont!
@@ -24280,12 +24192,12 @@ Missing character: There is no ã in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Ä in font nullfont!
 Missing character: There is no Ç in font nullfont!
+Missing character: There is no Â in font nullfont!
+Missing character: There is no Ø in font nullfont!
+Missing character: There is no æ in font nullfont!
 Missing character: There is no Ë in font nullfont!
-Missing character: There is no ¢ in font nullfont!
-Missing character: There is no ´ in font nullfont!
-Missing character: There is no È in font nullfont!
-Missing character: There is no ® in font nullfont!
-Missing character: There is no ì in font nullfont!
+Missing character: There is no ± in font nullfont!
+Missing character: There is no ° in font nullfont!
 Missing character: There is no Ë in font nullfont!
 Missing character: There is no Ä in font nullfont!
 Missing character: There is no Ö in font nullfont!
@@ -24384,18 +24296,11 @@ Missing character: There is no © in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Å in font nullfont!
 Missing character: There is no Æ in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Ç in font nullfont!
-Missing character: There is no ¢ in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no É in font nullfont!
-Missing character: There is no É in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no É in font nullfont!
-Missing character: There is no ó in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no É in font nullfont!
-Missing character: There is no ´ in font nullfont!
+Missing character: There is no A in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
 Missing character: There is no Á in font nullfont!
 Missing character: There is no § in font nullfont!
 Missing character: There is no æ in font nullfont!
@@ -24438,12 +24343,12 @@ Missing character: There is no ã in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Ä in font nullfont!
 Missing character: There is no Ç in font nullfont!
+Missing character: There is no Â in font nullfont!
+Missing character: There is no Ø in font nullfont!
+Missing character: There is no æ in font nullfont!
 Missing character: There is no Ë in font nullfont!
-Missing character: There is no ¢ in font nullfont!
-Missing character: There is no ´ in font nullfont!
-Missing character: There is no È in font nullfont!
-Missing character: There is no ® in font nullfont!
-Missing character: There is no ì in font nullfont!
+Missing character: There is no ± in font nullfont!
+Missing character: There is no ° in font nullfont!
 Missing character: There is no Ë in font nullfont!
 Missing character: There is no Ä in font nullfont!
 Missing character: There is no Ö in font nullfont!
@@ -24771,12 +24676,12 @@ Missing character: There is no Å in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Ä in font nullfont!
 Missing character: There is no Å in font nullfont!
+Missing character: There is no Â in font nullfont!
+Missing character: There is no Ø in font nullfont!
+Missing character: There is no æ in font nullfont!
 Missing character: There is no Ë in font nullfont!
-Missing character: There is no ¢ in font nullfont!
-Missing character: There is no ´ in font nullfont!
-Missing character: There is no È in font nullfont!
-Missing character: There is no ® in font nullfont!
-Missing character: There is no ì in font nullfont!
+Missing character: There is no ± in font nullfont!
+Missing character: There is no ° in font nullfont!
 Missing character: There is no Ë in font nullfont!
 Missing character: There is no Ä in font nullfont!
 Missing character: There is no Ö in font nullfont!
@@ -25212,18 +25117,18 @@ Missing character: There is no ® in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Ä in font nullfont!
 Missing character: There is no Å in font nullfont!
-Missing character: There is no Ê in font nullfont!
+Missing character: There is no „ in font nullfont!
+Missing character: There is no É in font nullfont!
+Missing character: There is no ¢ in font nullfont!
+Missing character: There is no „ in font nullfont!
+Missing character: There is no É in font nullfont!
 Missing character: There is no ê in font nullfont!
-Missing character: There is no ∫ in font nullfont!
-Missing character: There is no Â in font nullfont!
-Missing character: There is no ∏ in font nullfont!
-Missing character: There is no Ø in font nullfont!
-Missing character: There is no È in font nullfont!
-Missing character: There is no ü in font nullfont!
-Missing character: There is no ≥ in font nullfont!
-Missing character: There is no Ê in font nullfont!
-Missing character: There is no • in font nullfont!
-Missing character: There is no Ω in font nullfont!
+Missing character: There is no „ in font nullfont!
+Missing character: There is no Ç in font nullfont!
+Missing character: There is no § in font nullfont!
+Missing character: There is no „ in font nullfont!
+Missing character: There is no É in font nullfont!
+Missing character: There is no ´ in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no É in font nullfont!
 Missing character: There is no ó in font nullfont!
@@ -25239,60 +25144,6 @@ Missing character: There is no § in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no É in font nullfont!
 Missing character: There is no º in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Å in font nullfont!
-Missing character: There is no æ in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Å in font nullfont!
-Missing character: There is no ü in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Å in font nullfont!
-Missing character: There is no Ø in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Ä in font nullfont!
-Missing character: There is no Å in font nullfont!
-Missing character: There is no È in font nullfont!
-Missing character: There is no ü in font nullfont!
-Missing character: There is no ≥ in font nullfont!
-Missing character: There is no Ê in font nullfont!
-Missing character: There is no • in font nullfont!
-Missing character: There is no Ω in font nullfont!
-Missing character: There is no Â in font nullfont!
-Missing character: There is no Ü in font nullfont!
-Missing character: There is no ç in font nullfont!
-Missing character: There is no Á in font nullfont!
-Missing character: There is no î in font nullfont!
-Missing character: There is no ü in font nullfont!
-Missing character: There is no Ê in font nullfont!
-Missing character: There is no © in font nullfont!
-Missing character: There is no ü in font nullfont!
-Missing character: There is no Ë in font nullfont!
-Missing character: There is no É in font nullfont!
-Missing character: There is no Ω in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Ç in font nullfont!
-Missing character: There is no í in font nullfont!
-Missing character: There is no Ê in font nullfont!
-Missing character: There is no ú in font nullfont!
-Missing character: There is no â in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Å in font nullfont!
-Missing character: There is no ó in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Å in font nullfont!
-Missing character: There is no ü in font nullfont!
-Missing character: There is no Ê in font nullfont!
-Missing character: There is no ê in font nullfont!
-Missing character: There is no ∫ in font nullfont!
-Missing character: There is no Â in font nullfont!
-Missing character: There is no ∏ in font nullfont!
-Missing character: There is no Ø in font nullfont!
-Missing character: There is no È in font nullfont!
-Missing character: There is no õ in font nullfont!
-Missing character: There is no ª in font nullfont!
-Missing character: There is no Ë in font nullfont!
-Missing character: There is no © in font nullfont!
-Missing character: There is no ± in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Ç in font nullfont!
 Missing character: There is no í in font nullfont!
@@ -25507,9 +25358,9 @@ Missing character: There is no å in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Ç in font nullfont!
 Missing character: There is no ã in font nullfont!
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:449: Undefined control sequence.
-l.449 \subsection
-                 {ÂàÜÊûêÊâãÊ≥ï„Å´„Å§„ÅÑ„Å¶}
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:447: Undefined control sequence.
+l.447 \subsection
+                 {ÂàÜÊûêÊâãÊ≥ï}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -25528,18 +25379,6 @@ Missing character: There is no ã in font nullfont!
 Missing character: There is no Ê in font nullfont!
 Missing character: There is no ≥ in font nullfont!
 Missing character: There is no ï in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Å in font nullfont!
-Missing character: There is no ´ in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Å in font nullfont!
-Missing character: There is no § in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Å in font nullfont!
-Missing character: There is no Ñ in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Å in font nullfont!
-Missing character: There is no ¶ in font nullfont!
 Missing character: There is no ‰ in font nullfont!
 Missing character: There is no ª in font nullfont!
 Missing character: There is no • in font nullfont!
@@ -25567,12 +25406,12 @@ Missing character: There is no ä in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Ä in font nullfont!
 Missing character: There is no Å in font nullfont!
+Missing character: There is no Â in font nullfont!
+Missing character: There is no Ø in font nullfont!
+Missing character: There is no æ in font nullfont!
 Missing character: There is no Ë in font nullfont!
-Missing character: There is no ¢ in font nullfont!
-Missing character: There is no ´ in font nullfont!
-Missing character: There is no È in font nullfont!
-Missing character: There is no ® in font nullfont!
-Missing character: There is no ì in font nullfont!
+Missing character: There is no ± in font nullfont!
+Missing character: There is no ° in font nullfont!
 Missing character: There is no Ë in font nullfont!
 Missing character: There is no Ä in font nullfont!
 Missing character: There is no Ö in font nullfont!
@@ -25600,6 +25439,18 @@ Missing character: There is no ª in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Å in font nullfont!
 Missing character: There is no ® in font nullfont!
+Missing character: There is no „ in font nullfont!
+Missing character: There is no Ä in font nullfont!
+Missing character: There is no Å in font nullfont!
+Missing character: There is no Ê in font nullfont!
+Missing character: There is no ô in font nullfont!
+Missing character: There is no Æ in font nullfont!
+Missing character: There is no Ê in font nullfont!
+Missing character: There is no Æ in font nullfont!
+Missing character: There is no µ in font nullfont!
+Missing character: There is no „ in font nullfont!
+Missing character: There is no Å in font nullfont!
+Missing character: There is no Æ in font nullfont!
 Missing character: There is no È in font nullfont!
 Missing character: There is no ü in font nullfont!
 Missing character: There is no ≥ in font nullfont!
@@ -25670,14 +25521,14 @@ Missing character: There is no „ in font nullfont!
 Missing character: There is no Ä in font nullfont!
 Missing character: There is no Ç in font nullfont!
 
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:453: LaTeX Error: Environment fi
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:451: LaTeX Error: Environment fi
 gure undefined.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.453 \begin{figure}
+l.451 \begin{figure}
                     [htbp]
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -25692,14 +25543,14 @@ Missing character: There is no ] in font nullfont!
 File: musicLifeSheet_sample.pdf Graphic file (type pdf)
 <musicLifeSheet_sample.pdf>
 
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:458: LaTeX Error: \caption outsi
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:456: LaTeX Error: \caption outsi
 de float.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.458 \caption
+l.456 \caption
               {„Ç¢„É≥„Ç±„Éº„Éà„Ç∑„Éº„Éà„ÅÆ„Çµ„É≥„Éó„É´}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -25744,14 +25595,14 @@ Missing character: There is no „ in font nullfont!
 Missing character: There is no É in font nullfont!
 Missing character: There is no ´ in font nullfont!
 
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:461: LaTeX Error: \begin{documen
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:459: LaTeX Error: \begin{documen
 t} ended by \end{figure}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.461 \end{figure}
+l.459 \end{figure}
                   
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -25790,12 +25641,12 @@ Missing character: There is no Ø in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Ä in font nullfont!
 Missing character: There is no Å in font nullfont!
+Missing character: There is no Â in font nullfont!
+Missing character: There is no Ø in font nullfont!
+Missing character: There is no æ in font nullfont!
 Missing character: There is no Ë in font nullfont!
-Missing character: There is no ¢ in font nullfont!
-Missing character: There is no ´ in font nullfont!
-Missing character: There is no È in font nullfont!
-Missing character: There is no ® in font nullfont!
-Missing character: There is no ì in font nullfont!
+Missing character: There is no ± in font nullfont!
+Missing character: There is no ° in font nullfont!
 Missing character: There is no Ë in font nullfont!
 Missing character: There is no Ä in font nullfont!
 Missing character: There is no Ö in font nullfont!
@@ -25832,24 +25683,21 @@ Missing character: There is no ã in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Ä in font nullfont!
 Missing character: There is no Ç in font nullfont!
-Missing character: There is no È in font nullfont!
+Missing character: There is no ‰ in font nullfont!
+Missing character: There is no ∏ in font nullfont!
 Missing character: There is no Ä in font nullfont!
+Missing character: There is no Ë in font nullfont!
+Missing character: There is no à in font nullfont!
+Missing character: There is no ¨ in font nullfont!
+Missing character: There is no Á in font nullfont!
 Missing character: There is no ö in font nullfont!
-Missing character: There is no Â in font nullfont!
-Missing character: There is no ∏ in font nullfont!
-Missing character: There is no ∏ in font nullfont!
+Missing character: There is no Ñ in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Å in font nullfont!
-Missing character: There is no ß in font nullfont!
+Missing character: There is no ´ in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Å in font nullfont!
-Missing character: There is no Ç in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Ç in font nullfont!
-Missing character: There is no å in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Å in font nullfont!
-Missing character: There is no ∞ in font nullfont!
+Missing character: There is no Ø in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Ä in font nullfont!
 Missing character: There is no Å in font nullfont!
@@ -26777,12 +26625,15 @@ Missing character: There is no à in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Ä in font nullfont!
 Missing character: There is no Å in font nullfont!
-Missing character: There is no Ê in font nullfont!
-Missing character: There is no ∑ in font nullfont!
+Missing character: There is no Â in font nullfont!
+Missing character: There is no ∞ in font nullfont!
 Missing character: There is no ± in font nullfont!
 Missing character: There is no Â in font nullfont!
-Missing character: There is no § in font nullfont!
-Missing character: There is no ú in font nullfont!
+Missing character: There is no Ø in font nullfont!
+Missing character: There is no ù in font nullfont!
+Missing character: There is no Â in font nullfont!
+Missing character: There is no â in font nullfont!
+Missing character: There is no ç in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Å in font nullfont!
 Missing character: There is no ´ in font nullfont!
@@ -26804,12 +26655,15 @@ Missing character: There is no ã in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Ä in font nullfont!
 Missing character: There is no Å in font nullfont!
-Missing character: There is no Ê in font nullfont!
-Missing character: There is no ó in font nullfont!
-Missing character: There is no © in font nullfont!
-Missing character: There is no Ê in font nullfont!
-Missing character: There is no ú in font nullfont!
-Missing character: There is no ù in font nullfont!
+Missing character: There is no Ë in font nullfont!
+Missing character: There is no µ in font nullfont!
+Missing character: There is no ∑ in font nullfont!
+Missing character: There is no Â in font nullfont!
+Missing character: There is no ∫ in font nullfont!
+Missing character: There is no ä in font nullfont!
+Missing character: There is no Â in font nullfont!
+Missing character: There is no æ in font nullfont!
+Missing character: There is no å in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Å in font nullfont!
 Missing character: There is no ´ in font nullfont!
@@ -27265,10 +27119,10 @@ Missing character: There is no Å in font nullfont!
 Missing character: There is no Ñ in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Å in font nullfont!
-Missing character: There is no ü in font nullfont!
+Missing character: There is no Æ in font nullfont!
 Missing character: There is no „ in font nullfont!
-Missing character: There is no Ç in font nullfont!
 Missing character: There is no Å in font nullfont!
+Missing character: There is no ß in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Ä in font nullfont!
 Missing character: There is no Å in font nullfont!
@@ -27668,12 +27522,12 @@ Missing character: There is no ü in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Ä in font nullfont!
 Missing character: There is no Ç in font nullfont!
+Missing character: There is no Â in font nullfont!
+Missing character: There is no Ø in font nullfont!
+Missing character: There is no æ in font nullfont!
 Missing character: There is no Ë in font nullfont!
-Missing character: There is no ¢ in font nullfont!
-Missing character: There is no ´ in font nullfont!
-Missing character: There is no È in font nullfont!
-Missing character: There is no ® in font nullfont!
-Missing character: There is no ì in font nullfont!
+Missing character: There is no ± in font nullfont!
+Missing character: There is no ° in font nullfont!
 Missing character: There is no Ë in font nullfont!
 Missing character: There is no Ä in font nullfont!
 Missing character: There is no Ö in font nullfont!
@@ -28787,12 +28641,12 @@ Missing character: There is no ã in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Ä in font nullfont!
 Missing character: There is no Å in font nullfont!
+Missing character: There is no Â in font nullfont!
+Missing character: There is no Ø in font nullfont!
+Missing character: There is no æ in font nullfont!
 Missing character: There is no Ë in font nullfont!
-Missing character: There is no ¢ in font nullfont!
-Missing character: There is no ´ in font nullfont!
-Missing character: There is no È in font nullfont!
-Missing character: There is no ® in font nullfont!
-Missing character: There is no ì in font nullfont!
+Missing character: There is no ± in font nullfont!
+Missing character: There is no ° in font nullfont!
 Missing character: There is no Ë in font nullfont!
 Missing character: There is no Ä in font nullfont!
 Missing character: There is no Ö in font nullfont!
@@ -28943,12 +28797,12 @@ Missing character: There is no ü in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Ä in font nullfont!
 Missing character: There is no Å in font nullfont!
+Missing character: There is no Â in font nullfont!
+Missing character: There is no Ø in font nullfont!
+Missing character: There is no æ in font nullfont!
 Missing character: There is no Ë in font nullfont!
-Missing character: There is no ¢ in font nullfont!
-Missing character: There is no ´ in font nullfont!
-Missing character: There is no È in font nullfont!
-Missing character: There is no ® in font nullfont!
-Missing character: There is no ì in font nullfont!
+Missing character: There is no ± in font nullfont!
+Missing character: There is no ° in font nullfont!
 Missing character: There is no Ë in font nullfont!
 Missing character: There is no Ä in font nullfont!
 Missing character: There is no Ö in font nullfont!
@@ -30002,12 +29856,12 @@ Missing character: There is no ä in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Ä in font nullfont!
 Missing character: There is no Å in font nullfont!
+Missing character: There is no Â in font nullfont!
+Missing character: There is no Ø in font nullfont!
+Missing character: There is no æ in font nullfont!
 Missing character: There is no Ë in font nullfont!
-Missing character: There is no ¢ in font nullfont!
-Missing character: There is no ´ in font nullfont!
-Missing character: There is no È in font nullfont!
-Missing character: There is no ® in font nullfont!
-Missing character: There is no ì in font nullfont!
+Missing character: There is no ± in font nullfont!
+Missing character: There is no ° in font nullfont!
 Missing character: There is no Ë in font nullfont!
 Missing character: There is no Ä in font nullfont!
 Missing character: There is no Ö in font nullfont!
@@ -31404,6 +31258,9 @@ Missing character: There is no ã in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Ä in font nullfont!
 Missing character: There is no Ç in font nullfont!
+Missing character: There is no Â in font nullfont!
+Missing character: There is no õ in font nullfont!
+Missing character: There is no ≥ in font nullfont!
 Missing character: There is no 7 in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Å in font nullfont!
@@ -31435,63 +31292,9 @@ Missing character: There is no Ü in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Å in font nullfont!
 Missing character: There is no ´ in font nullfont!
-Missing character: There is no Ê in font nullfont!
-Missing character: There is no ô in font nullfont!
-Missing character: There is no Ç in font nullfont!
-Missing character: There is no È in font nullfont!
-Missing character: There is no ñ in font nullfont!
-Missing character: There is no ì in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Å in font nullfont!
-Missing character: There is no ´ in font nullfont!
-Missing character: There is no Ê in font nullfont!
-Missing character: There is no ± in font nullfont!
-Missing character: There is no ∫ in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Å in font nullfont!
-Missing character: There is no æ in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Å in font nullfont!
-Missing character: There is no £ in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Å in font nullfont!
-Missing character: There is no ü in font nullfont!
-Missing character: There is no Ê in font nullfont!
-Missing character: There is no ô in font nullfont!
-Missing character: There is no Ç in font nullfont!
-Missing character: There is no È in font nullfont!
-Missing character: There is no ñ in font nullfont!
-Missing character: There is no ì in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Å in font nullfont!
-Missing character: There is no ´ in font nullfont!
-Missing character: There is no È in font nullfont!
-Missing character: There is no ü in font nullfont!
-Missing character: There is no ≥ in font nullfont!
-Missing character: There is no Ê in font nullfont!
-Missing character: There is no • in font nullfont!
-Missing character: There is no Ω in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Ç in font nullfont!
-Missing character: There is no í in font nullfont!
-Missing character: There is no Ë in font nullfont!
-Missing character: There is no Å in font nullfont!
-Missing character: There is no ¥ in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Å in font nullfont!
-Missing character: There is no Ñ in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Å in font nullfont!
-Missing character: There is no ¶ in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Å in font nullfont!
-Missing character: There is no Ñ in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Ç in font nullfont!
-Missing character: There is no ã in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Ä in font nullfont!
-Missing character: There is no Ç in font nullfont!
+Missing character: There is no Å in font nullfont!
 Missing character: There is no Ë in font nullfont!
 Missing character: There is no ¶ in font nullfont!
 Missing character: There is no è in font nullfont!
@@ -32048,7 +31851,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.553 \caption
-              {Èü≥Ê•Ω„ÇíË¶èÂâáÁöÑ„Å´ËÅ¥„ÅÑ„Å¶„ÅÑ„Çã‰∫∫(Ë¢´È®ìËÄÖE)„ÅÆ‰æã}
+              {Èü≥Ê•Ω„ÇíË¶èÂâáÁöÑ„Å´ËÅ¥„ÅÑ„Å¶„ÅÑ„Çã‰∫∫(ÂØæË±°ËÄÖE)„ÅÆ‰æã}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -32092,12 +31895,12 @@ Missing character: There is no ‰ in font nullfont!
 Missing character: There is no ∫ in font nullfont!
 Missing character: There is no ∫ in font nullfont!
 Missing character: There is no ( in font nullfont!
+Missing character: There is no Â in font nullfont!
+Missing character: There is no Ø in font nullfont!
+Missing character: There is no æ in font nullfont!
 Missing character: There is no Ë in font nullfont!
-Missing character: There is no ¢ in font nullfont!
-Missing character: There is no ´ in font nullfont!
-Missing character: There is no È in font nullfont!
-Missing character: There is no ® in font nullfont!
-Missing character: There is no ì in font nullfont!
+Missing character: There is no ± in font nullfont!
+Missing character: There is no ° in font nullfont!
 Missing character: There is no Ë in font nullfont!
 Missing character: There is no Ä in font nullfont!
 Missing character: There is no Ö in font nullfont!
@@ -33500,7 +33303,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.573 \caption
-              {Èü≥Ê•Ω„Çí‰∏çË¶èÂâá„Å´ËÅ¥„ÅÑ„Å¶„ÅÑ„Çã‰∫∫ÔºàË¢´È®ìËÄÖOÔºâ„ÅÆ‰æã}
+              {Èü≥Ê•Ω„Çí‰∏çË¶èÂâá„Å´ËÅ¥„ÅÑ„Å¶„ÅÑ„Çã‰∫∫ÔºàÂØæË±°ËÄÖOÔºâ„ÅÆ‰æã}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -33546,12 +33349,12 @@ Missing character: There is no ∫ in font nullfont!
 Missing character: There is no Ô in font nullfont!
 Missing character: There is no º in font nullfont!
 Missing character: There is no à in font nullfont!
+Missing character: There is no Â in font nullfont!
+Missing character: There is no Ø in font nullfont!
+Missing character: There is no æ in font nullfont!
 Missing character: There is no Ë in font nullfont!
-Missing character: There is no ¢ in font nullfont!
-Missing character: There is no ´ in font nullfont!
-Missing character: There is no È in font nullfont!
-Missing character: There is no ® in font nullfont!
-Missing character: There is no ì in font nullfont!
+Missing character: There is no ± in font nullfont!
+Missing character: There is no ° in font nullfont!
 Missing character: There is no Ë in font nullfont!
 Missing character: There is no Ä in font nullfont!
 Missing character: There is no Ö in font nullfont!
@@ -34430,7 +34233,7 @@ Missing character: There is no Ä in font nullfont!
 Missing character: There is no Å in font nullfont!
 Missing character: There is no ‰ in font nullfont!
 Missing character: There is no ∏ in font nullfont!
-Missing character: There is no ä in font nullfont!
+Missing character: There is no ã in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Å in font nullfont!
 Missing character: There is no ã in font nullfont!
@@ -34907,6 +34710,18 @@ Missing character: There is no ≥ in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Å in font nullfont!
 Missing character: There is no Ø in font nullfont!
+Missing character: There is no „ in font nullfont!
+Missing character: There is no Å in font nullfont!
+Missing character: There is no Ç in font nullfont!
+Missing character: There is no „ in font nullfont!
+Missing character: There is no Ç in font nullfont!
+Missing character: There is no ã in font nullfont!
+Missing character: There is no Á in font nullfont!
+Missing character: There is no ® in font nullfont!
+Missing character: There is no ã in font nullfont!
+Missing character: There is no Â in font nullfont!
+Missing character: There is no ∫ in font nullfont!
+Missing character: There is no ¶ in font nullfont!
 Missing character: There is no ‰ in font nullfont!
 Missing character: There is no ∏ in font nullfont!
 Missing character: There is no Ä in font nullfont!
@@ -35394,7 +35209,8 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.609 \caption
-              {Èü≥Ê•Ω„Ç∏„É£„É≥„É´„ÅÆÂàÜÂ∏É„Åå‰∏ÄÂÆö„Å™‰∫∫(Ë¢´È®ìËÄÖE)„ÅÆ‰æã}
+              {Èü≥Ê•Ω„Ç∏„É£„É≥„É´„ÅÆÂàÜÂ∏É„Åå„ÅÇ„ÇãÁ®ãÂ∫¶‰∏ÄÂÆö„Å™‰∫∫(ÂØæË±°...
+
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -35428,6 +35244,18 @@ Missing character: There is no É in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Å in font nullfont!
 Missing character: There is no å in font nullfont!
+Missing character: There is no „ in font nullfont!
+Missing character: There is no Å in font nullfont!
+Missing character: There is no Ç in font nullfont!
+Missing character: There is no „ in font nullfont!
+Missing character: There is no Ç in font nullfont!
+Missing character: There is no ã in font nullfont!
+Missing character: There is no Á in font nullfont!
+Missing character: There is no ® in font nullfont!
+Missing character: There is no ã in font nullfont!
+Missing character: There is no Â in font nullfont!
+Missing character: There is no ∫ in font nullfont!
+Missing character: There is no ¶ in font nullfont!
 Missing character: There is no ‰ in font nullfont!
 Missing character: There is no ∏ in font nullfont!
 Missing character: There is no Ä in font nullfont!
@@ -35441,12 +35269,12 @@ Missing character: There is no ‰ in font nullfont!
 Missing character: There is no ∫ in font nullfont!
 Missing character: There is no ∫ in font nullfont!
 Missing character: There is no ( in font nullfont!
+Missing character: There is no Â in font nullfont!
+Missing character: There is no Ø in font nullfont!
+Missing character: There is no æ in font nullfont!
 Missing character: There is no Ë in font nullfont!
-Missing character: There is no ¢ in font nullfont!
-Missing character: There is no ´ in font nullfont!
-Missing character: There is no È in font nullfont!
-Missing character: There is no ® in font nullfont!
-Missing character: There is no ì in font nullfont!
+Missing character: There is no ± in font nullfont!
+Missing character: There is no ° in font nullfont!
 Missing character: There is no Ë in font nullfont!
 Missing character: There is no Ä in font nullfont!
 Missing character: There is no Ö in font nullfont!
@@ -36493,7 +36321,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.636 \caption
-              {Èü≥Ê•Ω„Ç∏„É£„É≥„É´„ÅÆÂàÜÂ∏É„Å´„ÇÄ„Çâ„Åå„ÅÇ„Çã‰∫∫(Ë¢´È®ìËÄÖL)„...
+              {Èü≥Ê•Ω„Ç∏„É£„É≥„É´„ÅÆÂàÜÂ∏É„Å´„ÇÄ„Çâ„Åå„ÅÇ„Çã‰∫∫(ÂØæË±°ËÄÖL)„...
 
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -36547,12 +36375,12 @@ Missing character: There is no ‰ in font nullfont!
 Missing character: There is no ∫ in font nullfont!
 Missing character: There is no ∫ in font nullfont!
 Missing character: There is no ( in font nullfont!
+Missing character: There is no Â in font nullfont!
+Missing character: There is no Ø in font nullfont!
+Missing character: There is no æ in font nullfont!
 Missing character: There is no Ë in font nullfont!
-Missing character: There is no ¢ in font nullfont!
-Missing character: There is no ´ in font nullfont!
-Missing character: There is no È in font nullfont!
-Missing character: There is no ® in font nullfont!
-Missing character: There is no ì in font nullfont!
+Missing character: There is no ± in font nullfont!
+Missing character: There is no ° in font nullfont!
 Missing character: There is no Ë in font nullfont!
 Missing character: There is no Ä in font nullfont!
 Missing character: There is no Ö in font nullfont!
@@ -37042,7 +36870,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.659 \caption
-              {‰∏ä‰Ωç„ÅÆ„Ç∏„É£„É≥„É´„Å´„Çà„Å£„Å¶Âç†„ÇÅ„Å¶„Çâ„Çå„ÇãÂâ≤Âêà„ÅåÂ...
+              {‰∏ä‰Ωç„ÅÆ„Ç∏„É£„É≥„É´„Å´„Çà„Å£„Å¶Âç†„ÇÅ„Çâ„Çå„ÇãÂâ≤Âêà„ÅåÂ§ß„...
 
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -37087,9 +36915,6 @@ Missing character: There is no „ in font nullfont!
 Missing character: There is no Ç in font nullfont!
 Missing character: There is no Å in font nullfont!
 Missing character: There is no „ in font nullfont!
-Missing character: There is no Å in font nullfont!
-Missing character: There is no ¶ in font nullfont!
-Missing character: There is no „ in font nullfont!
 Missing character: There is no Ç in font nullfont!
 Missing character: There is no â in font nullfont!
 Missing character: There is no „ in font nullfont!
@@ -37120,12 +36945,12 @@ Missing character: There is no ‰ in font nullfont!
 Missing character: There is no ∫ in font nullfont!
 Missing character: There is no ∫ in font nullfont!
 Missing character: There is no ( in font nullfont!
+Missing character: There is no Â in font nullfont!
+Missing character: There is no Ø in font nullfont!
+Missing character: There is no æ in font nullfont!
 Missing character: There is no Ë in font nullfont!
-Missing character: There is no ¢ in font nullfont!
-Missing character: There is no ´ in font nullfont!
-Missing character: There is no È in font nullfont!
-Missing character: There is no ® in font nullfont!
-Missing character: There is no ì in font nullfont!
+Missing character: There is no ± in font nullfont!
+Missing character: There is no ° in font nullfont!
 Missing character: There is no Ë in font nullfont!
 Missing character: There is no Ä in font nullfont!
 Missing character: There is no Ö in font nullfont!
@@ -37266,12 +37091,12 @@ Missing character: There is no ‰ in font nullfont!
 Missing character: There is no ∫ in font nullfont!
 Missing character: There is no ∫ in font nullfont!
 Missing character: There is no ( in font nullfont!
+Missing character: There is no Â in font nullfont!
+Missing character: There is no Ø in font nullfont!
+Missing character: There is no æ in font nullfont!
 Missing character: There is no Ë in font nullfont!
-Missing character: There is no ¢ in font nullfont!
-Missing character: There is no ´ in font nullfont!
-Missing character: There is no È in font nullfont!
-Missing character: There is no ® in font nullfont!
-Missing character: There is no ì in font nullfont!
+Missing character: There is no ± in font nullfont!
+Missing character: There is no ° in font nullfont!
 Missing character: There is no Ë in font nullfont!
 Missing character: There is no Ä in font nullfont!
 Missing character: There is no Ö in font nullfont!
@@ -38230,6 +38055,12 @@ Missing character: There is no Ñ in font nullfont!
 Missing character: There is no ‰ in font nullfont!
 Missing character: There is no ∫ in font nullfont!
 Missing character: There is no ∫ in font nullfont!
+Missing character: There is no „ in font nullfont!
+Missing character: There is no Å in font nullfont!
+Missing character: There is no Ø in font nullfont!
+Missing character: There is no „ in font nullfont!
+Missing character: There is no Ä in font nullfont!
+Missing character: There is no Å in font nullfont!
 Missing character: There is no Â in font nullfont!
 Missing character: There is no Ü in font nullfont!
 Missing character: There is no ç in font nullfont!
@@ -38543,7 +38374,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.695 \caption
-              {Èü≥Ê•Ω„Çí„ÅÇ„Åæ„ÇäËÅ¥„Åã„Å™„ÅÑ‰∫∫(Ë¢´È®ìËÄÖJ)„ÅÆ„Ç∞„É©„Éï„ÅÆ‰æã}
+              {Èü≥Ê•Ω„Çí„ÅÇ„Åæ„ÇäËÅ¥„Åã„Å™„ÅÑ‰∫∫(ÂØæË±°ËÄÖJ)„ÅÆ„Ç∞„É©„Éï„ÅÆ‰æã}
 
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -38582,12 +38413,12 @@ Missing character: There is no ‰ in font nullfont!
 Missing character: There is no ∫ in font nullfont!
 Missing character: There is no ∫ in font nullfont!
 Missing character: There is no ( in font nullfont!
+Missing character: There is no Â in font nullfont!
+Missing character: There is no Ø in font nullfont!
+Missing character: There is no æ in font nullfont!
 Missing character: There is no Ë in font nullfont!
-Missing character: There is no ¢ in font nullfont!
-Missing character: There is no ´ in font nullfont!
-Missing character: There is no È in font nullfont!
-Missing character: There is no ® in font nullfont!
-Missing character: There is no ì in font nullfont!
+Missing character: There is no ± in font nullfont!
+Missing character: There is no ° in font nullfont!
 Missing character: There is no Ë in font nullfont!
 Missing character: There is no Ä in font nullfont!
 Missing character: There is no Ö in font nullfont!
@@ -40535,16 +40366,19 @@ Missing character: There is no Ç in font nullfont!
 Missing character: There is no ã in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Å in font nullfont!
-Missing character: There is no Æ in font nullfont!
+Missing character: There is no ® in font nullfont!
+Missing character: There is no Ê in font nullfont!
+Missing character: There is no é in font nullfont!
+Missing character: There is no ® in font nullfont!
+Missing character: There is no Â in font nullfont!
+Missing character: There is no Ø in font nullfont!
+Missing character: There is no ü in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Å in font nullfont!
-Missing character: There is no å in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Ç in font nullfont!
-Missing character: There is no è in font nullfont!
+Missing character: There is no ß in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Å in font nullfont!
-Missing character: There is no ã in font nullfont!
+Missing character: There is no ç in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Ç in font nullfont!
 Missing character: There is no ã in font nullfont!
@@ -40597,7 +40431,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.729 \caption
-              {„Ç∑„É£„ÉÉ„Éï„É´Ê©üËÉΩ„Çí‰Ωø„ÅÜ‰∫∫(Ë¢´È®ìËÄÖE)„ÅÆ„ÉÅ„Çß„ÉÉ„ÇØ„...
+              {„Ç∑„É£„ÉÉ„Éï„É´Ê©üËÉΩ„Çí‰Ωø„ÅÜ‰∫∫(ÂØæË±°ËÄÖE)„ÅÆ„ÉÅ„Çß„ÉÉ„ÇØ„...
 
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -40636,12 +40470,12 @@ Missing character: There is no ‰ in font nullfont!
 Missing character: There is no ∫ in font nullfont!
 Missing character: There is no ∫ in font nullfont!
 Missing character: There is no ( in font nullfont!
+Missing character: There is no Â in font nullfont!
+Missing character: There is no Ø in font nullfont!
+Missing character: There is no æ in font nullfont!
 Missing character: There is no Ë in font nullfont!
-Missing character: There is no ¢ in font nullfont!
-Missing character: There is no ´ in font nullfont!
-Missing character: There is no È in font nullfont!
-Missing character: There is no ® in font nullfont!
-Missing character: There is no ì in font nullfont!
+Missing character: There is no ± in font nullfont!
+Missing character: There is no ° in font nullfont!
 Missing character: There is no Ë in font nullfont!
 Missing character: There is no Ä in font nullfont!
 Missing character: There is no Ö in font nullfont!
@@ -40737,7 +40571,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.737 \caption
-              {„Ç∑„É£„ÉÉ„Éï„É´Ê©üËÉΩ„Çí‰Ωø„ÅÜ‰∫∫(Ë¢´È®ìËÄÖE)„ÅÆÊõúÊó•ÊØé„ÅÆ„...
+              {„Ç∑„É£„ÉÉ„Éï„É´Ê©üËÉΩ„Çí‰Ωø„ÅÜ‰∫∫(ÂØæË±°ËÄÖE)„ÅÆÊõúÊó•ÊØé„ÅÆ„...
 
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -40776,12 +40610,12 @@ Missing character: There is no ‰ in font nullfont!
 Missing character: There is no ∫ in font nullfont!
 Missing character: There is no ∫ in font nullfont!
 Missing character: There is no ( in font nullfont!
+Missing character: There is no Â in font nullfont!
+Missing character: There is no Ø in font nullfont!
+Missing character: There is no æ in font nullfont!
 Missing character: There is no Ë in font nullfont!
-Missing character: There is no ¢ in font nullfont!
-Missing character: There is no ´ in font nullfont!
-Missing character: There is no È in font nullfont!
-Missing character: There is no ® in font nullfont!
-Missing character: There is no ì in font nullfont!
+Missing character: There is no ± in font nullfont!
+Missing character: There is no ° in font nullfont!
 Missing character: There is no Ë in font nullfont!
 Missing character: There is no Ä in font nullfont!
 Missing character: There is no Ö in font nullfont!
@@ -42488,34 +42322,34 @@ Missing character: There is no Ø in font nullfont!
 Missing character: There is no Ô in font nullfont!
 Missing character: There is no º in font nullfont!
 Missing character: There is no à in font nullfont!
+Missing character: There is no Â in font nullfont!
+Missing character: There is no Ø in font nullfont!
+Missing character: There is no æ in font nullfont!
 Missing character: There is no Ë in font nullfont!
-Missing character: There is no ¢ in font nullfont!
-Missing character: There is no ´ in font nullfont!
-Missing character: There is no È in font nullfont!
-Missing character: There is no ® in font nullfont!
-Missing character: There is no ì in font nullfont!
+Missing character: There is no ± in font nullfont!
+Missing character: There is no ° in font nullfont!
 Missing character: There is no Ë in font nullfont!
 Missing character: There is no Ä in font nullfont!
 Missing character: There is no Ö in font nullfont!
 Missing character: There is no E in font nullfont!
 Missing character: There is no , in font nullfont!
+Missing character: There is no Â in font nullfont!
+Missing character: There is no Ø in font nullfont!
+Missing character: There is no æ in font nullfont!
 Missing character: There is no Ë in font nullfont!
-Missing character: There is no ¢ in font nullfont!
-Missing character: There is no ´ in font nullfont!
-Missing character: There is no È in font nullfont!
-Missing character: There is no ® in font nullfont!
-Missing character: There is no ì in font nullfont!
+Missing character: There is no ± in font nullfont!
+Missing character: There is no ° in font nullfont!
 Missing character: There is no Ë in font nullfont!
 Missing character: There is no Ä in font nullfont!
 Missing character: There is no Ö in font nullfont!
 Missing character: There is no O in font nullfont!
 Missing character: There is no , in font nullfont!
+Missing character: There is no Â in font nullfont!
+Missing character: There is no Ø in font nullfont!
+Missing character: There is no æ in font nullfont!
 Missing character: There is no Ë in font nullfont!
-Missing character: There is no ¢ in font nullfont!
-Missing character: There is no ´ in font nullfont!
-Missing character: There is no È in font nullfont!
-Missing character: There is no ® in font nullfont!
-Missing character: There is no ì in font nullfont!
+Missing character: There is no ± in font nullfont!
+Missing character: There is no ° in font nullfont!
 Missing character: There is no Ë in font nullfont!
 Missing character: There is no Ä in font nullfont!
 Missing character: There is no Ö in font nullfont!
@@ -42592,12 +42426,6 @@ Missing character: There is no • in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Å in font nullfont!
 Missing character: There is no ß in font nullfont!
-Missing character: There is no È in font nullfont!
-Missing character: There is no ´ in font nullfont!
-Missing character: There is no ò in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Å in font nullfont!
-Missing character: There is no Ñ in font nullfont!
 Missing character: There is no Á in font nullfont!
 Missing character: There is no õ in font nullfont!
 Missing character: There is no ∏ in font nullfont!
@@ -42680,23 +42508,23 @@ Missing character: There is no ‰ in font nullfont!
 Missing character: There is no ∫ in font nullfont!
 Missing character: There is no ∫ in font nullfont!
 Missing character: There is no ( in font nullfont!
+Missing character: There is no Â in font nullfont!
+Missing character: There is no Ø in font nullfont!
+Missing character: There is no æ in font nullfont!
 Missing character: There is no Ë in font nullfont!
-Missing character: There is no ¢ in font nullfont!
-Missing character: There is no ´ in font nullfont!
-Missing character: There is no È in font nullfont!
-Missing character: There is no ® in font nullfont!
-Missing character: There is no ì in font nullfont!
+Missing character: There is no ± in font nullfont!
+Missing character: There is no ° in font nullfont!
 Missing character: There is no Ë in font nullfont!
 Missing character: There is no Ä in font nullfont!
 Missing character: There is no Ö in font nullfont!
 Missing character: There is no L in font nullfont!
 Missing character: There is no , in font nullfont!
+Missing character: There is no Â in font nullfont!
+Missing character: There is no Ø in font nullfont!
+Missing character: There is no æ in font nullfont!
 Missing character: There is no Ë in font nullfont!
-Missing character: There is no ¢ in font nullfont!
-Missing character: There is no ´ in font nullfont!
-Missing character: There is no È in font nullfont!
-Missing character: There is no ® in font nullfont!
-Missing character: There is no ì in font nullfont!
+Missing character: There is no ± in font nullfont!
+Missing character: There is no ° in font nullfont!
 Missing character: There is no Ë in font nullfont!
 Missing character: There is no Ä in font nullfont!
 Missing character: There is no Ö in font nullfont!
@@ -43212,23 +43040,23 @@ Missing character: There is no ∫ in font nullfont!
 Missing character: There is no Ô in font nullfont!
 Missing character: There is no º in font nullfont!
 Missing character: There is no à in font nullfont!
+Missing character: There is no Â in font nullfont!
+Missing character: There is no Ø in font nullfont!
+Missing character: There is no æ in font nullfont!
 Missing character: There is no Ë in font nullfont!
-Missing character: There is no ¢ in font nullfont!
-Missing character: There is no ´ in font nullfont!
-Missing character: There is no È in font nullfont!
-Missing character: There is no ® in font nullfont!
-Missing character: There is no ì in font nullfont!
+Missing character: There is no ± in font nullfont!
+Missing character: There is no ° in font nullfont!
 Missing character: There is no Ë in font nullfont!
 Missing character: There is no Ä in font nullfont!
 Missing character: There is no Ö in font nullfont!
 Missing character: There is no B in font nullfont!
 Missing character: There is no , in font nullfont!
+Missing character: There is no Â in font nullfont!
+Missing character: There is no Ø in font nullfont!
+Missing character: There is no æ in font nullfont!
 Missing character: There is no Ë in font nullfont!
-Missing character: There is no ¢ in font nullfont!
-Missing character: There is no ´ in font nullfont!
-Missing character: There is no È in font nullfont!
-Missing character: There is no ® in font nullfont!
-Missing character: There is no ì in font nullfont!
+Missing character: There is no ± in font nullfont!
+Missing character: There is no ° in font nullfont!
 Missing character: There is no Ë in font nullfont!
 Missing character: There is no Ä in font nullfont!
 Missing character: There is no Ö in font nullfont!
@@ -44185,12 +44013,12 @@ Missing character: There is no „ in font nullfont!
 Missing character: There is no Å in font nullfont!
 Missing character: There is no Ø in font nullfont!
 Missing character: There is no ( in font nullfont!
+Missing character: There is no Â in font nullfont!
+Missing character: There is no Ø in font nullfont!
+Missing character: There is no æ in font nullfont!
 Missing character: There is no Ë in font nullfont!
-Missing character: There is no ¢ in font nullfont!
-Missing character: There is no ´ in font nullfont!
-Missing character: There is no È in font nullfont!
-Missing character: There is no ® in font nullfont!
-Missing character: There is no ì in font nullfont!
+Missing character: There is no ± in font nullfont!
+Missing character: There is no ° in font nullfont!
 Missing character: There is no Ë in font nullfont!
 Missing character: There is no Ä in font nullfont!
 Missing character: There is no Ö in font nullfont!
@@ -44459,12 +44287,12 @@ Missing character: There is no ‰ in font nullfont!
 Missing character: There is no ∫ in font nullfont!
 Missing character: There is no ∫ in font nullfont!
 Missing character: There is no ( in font nullfont!
+Missing character: There is no Â in font nullfont!
+Missing character: There is no Ø in font nullfont!
+Missing character: There is no æ in font nullfont!
 Missing character: There is no Ë in font nullfont!
-Missing character: There is no ¢ in font nullfont!
-Missing character: There is no ´ in font nullfont!
-Missing character: There is no È in font nullfont!
-Missing character: There is no ® in font nullfont!
-Missing character: There is no ì in font nullfont!
+Missing character: There is no ± in font nullfont!
+Missing character: There is no ° in font nullfont!
 Missing character: There is no Ë in font nullfont!
 Missing character: There is no Ä in font nullfont!
 Missing character: There is no Ö in font nullfont!
@@ -44872,15 +44700,18 @@ Missing character: There is no ª in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Å in font nullfont!
 Missing character: There is no ´ in font nullfont!
+Missing character: There is no È in font nullfont!
+Missing character: There is no ñ in font nullfont!
+Missing character: There is no ¢ in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Ç in font nullfont!
-Missing character: There is no à in font nullfont!
+Missing character: There is no è in font nullfont!
+Missing character: There is no „ in font nullfont!
+Missing character: There is no Ç in font nullfont!
+Missing character: There is no â in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Å in font nullfont!
-Missing character: There is no £ in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Å in font nullfont!
-Missing character: There is no ¶ in font nullfont!
+Missing character: There is no ö in font nullfont!
 Missing character: There is no Â in font nullfont!
 Missing character: There is no ∏ in font nullfont!
 Missing character: There is no ∏ in font nullfont!
@@ -45124,12 +44955,12 @@ Missing character: There is no ‰ in font nullfont!
 Missing character: There is no ∫ in font nullfont!
 Missing character: There is no ∫ in font nullfont!
 Missing character: There is no ( in font nullfont!
+Missing character: There is no Â in font nullfont!
+Missing character: There is no Ø in font nullfont!
+Missing character: There is no æ in font nullfont!
 Missing character: There is no Ë in font nullfont!
-Missing character: There is no ¢ in font nullfont!
-Missing character: There is no ´ in font nullfont!
-Missing character: There is no È in font nullfont!
-Missing character: There is no ® in font nullfont!
-Missing character: There is no ì in font nullfont!
+Missing character: There is no ± in font nullfont!
+Missing character: There is no ° in font nullfont!
 Missing character: There is no Ë in font nullfont!
 Missing character: There is no Ä in font nullfont!
 Missing character: There is no Ö in font nullfont!
@@ -45162,12 +44993,9 @@ Missing character: There is no ´ in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Å in font nullfont!
 Missing character: There is no Æ in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Å in font nullfont!
-Missing character: There is no ™ in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Å in font nullfont!
-Missing character: There is no ã in font nullfont!
+Missing character: There is no ‰ in font nullfont!
+Missing character: There is no ∏ in font nullfont!
+Missing character: There is no ≠ in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Å in font nullfont!
 Missing character: There is no ß in font nullfont!
@@ -46141,12 +45969,12 @@ Missing character: There is no ‰ in font nullfont!
 Missing character: There is no ∫ in font nullfont!
 Missing character: There is no ∫ in font nullfont!
 Missing character: There is no ( in font nullfont!
+Missing character: There is no Â in font nullfont!
+Missing character: There is no Ø in font nullfont!
+Missing character: There is no æ in font nullfont!
 Missing character: There is no Ë in font nullfont!
-Missing character: There is no ¢ in font nullfont!
-Missing character: There is no ´ in font nullfont!
-Missing character: There is no È in font nullfont!
-Missing character: There is no ® in font nullfont!
-Missing character: There is no ì in font nullfont!
+Missing character: There is no ± in font nullfont!
+Missing character: There is no ° in font nullfont!
 Missing character: There is no Ë in font nullfont!
 Missing character: There is no Ä in font nullfont!
 Missing character: There is no Ö in font nullfont!
@@ -47778,48 +47606,6 @@ Missing character: There is no Ø in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Ä in font nullfont!
 Missing character: There is no Å in font nullfont!
-Missing character: There is no Ë in font nullfont!
-Missing character: There is no á in font nullfont!
-Missing character: There is no ™ in font nullfont!
-Missing character: There is no Â in font nullfont!
-Missing character: There is no à in font nullfont!
-Missing character: There is no Ü in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Å in font nullfont!
-Missing character: There is no † in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Å in font nullfont!
-Missing character: There is no ë in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Å in font nullfont!
-Missing character: There is no Æ in font nullfont!
-Missing character: There is no Ê in font nullfont!
-Missing character: There is no ¥ in font nullfont!
-Missing character: There is no ª in font nullfont!
-Missing character: There is no Â in font nullfont!
-Missing character: There is no ã in font nullfont!
-Missing character: There is no ï in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Å in font nullfont!
-Missing character: There is no ß in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Å in font nullfont!
-Missing character: There is no Ç in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Ç in font nullfont!
-Missing character: There is no ä in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Å in font nullfont!
-Missing character: There is no ™ in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Å in font nullfont!
-Missing character: There is no å in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Ç in font nullfont!
-Missing character: There is no â in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Ä in font nullfont!
-Missing character: There is no Å in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Ç in font nullfont!
 Missing character: There is no ¢ in font nullfont!
@@ -49076,21 +48862,27 @@ Missing character: There is no ß in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Ä in font nullfont!
 Missing character: There is no Å in font nullfont!
-Missing character: There is no Ê in font nullfont!
-Missing character: There is no ∑ in font nullfont!
+Missing character: There is no Â in font nullfont!
+Missing character: There is no ∞ in font nullfont!
 Missing character: There is no ± in font nullfont!
 Missing character: There is no Â in font nullfont!
-Missing character: There is no § in font nullfont!
-Missing character: There is no ú in font nullfont!
+Missing character: There is no Ø in font nullfont!
+Missing character: There is no ù in font nullfont!
+Missing character: There is no Â in font nullfont!
+Missing character: There is no â in font nullfont!
+Missing character: There is no ç in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Ä in font nullfont!
 Missing character: There is no Å in font nullfont!
-Missing character: There is no Ê in font nullfont!
-Missing character: There is no ó in font nullfont!
-Missing character: There is no © in font nullfont!
-Missing character: There is no Ê in font nullfont!
-Missing character: There is no ú in font nullfont!
-Missing character: There is no ù in font nullfont!
+Missing character: There is no Ë in font nullfont!
+Missing character: There is no µ in font nullfont!
+Missing character: There is no ∑ in font nullfont!
+Missing character: There is no Â in font nullfont!
+Missing character: There is no ∫ in font nullfont!
+Missing character: There is no ä in font nullfont!
+Missing character: There is no Â in font nullfont!
+Missing character: There is no æ in font nullfont!
+Missing character: There is no å in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Å in font nullfont!
 Missing character: There is no © in font nullfont!
@@ -49283,12 +49075,12 @@ Missing character: There is no â in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Å in font nullfont!
 Missing character: There is no Ü in font nullfont!
+Missing character: There is no Â in font nullfont!
+Missing character: There is no Ø in font nullfont!
+Missing character: There is no æ in font nullfont!
 Missing character: There is no Ë in font nullfont!
-Missing character: There is no ¢ in font nullfont!
-Missing character: There is no ´ in font nullfont!
-Missing character: There is no È in font nullfont!
-Missing character: There is no ® in font nullfont!
-Missing character: There is no ì in font nullfont!
+Missing character: There is no ± in font nullfont!
+Missing character: There is no ° in font nullfont!
 Missing character: There is no Ë in font nullfont!
 Missing character: There is no Ä in font nullfont!
 Missing character: There is no Ö in font nullfont!
@@ -49337,12 +49129,12 @@ Missing character: There is no Ñ in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Å in font nullfont!
 Missing character: There is no ´ in font nullfont!
+Missing character: There is no Â in font nullfont!
+Missing character: There is no Ø in font nullfont!
+Missing character: There is no æ in font nullfont!
 Missing character: There is no Ë in font nullfont!
-Missing character: There is no ¢ in font nullfont!
-Missing character: There is no ´ in font nullfont!
-Missing character: There is no È in font nullfont!
-Missing character: There is no ® in font nullfont!
-Missing character: There is no ì in font nullfont!
+Missing character: There is no ± in font nullfont!
+Missing character: There is no ° in font nullfont!
 Missing character: There is no Ë in font nullfont!
 Missing character: There is no Ä in font nullfont!
 Missing character: There is no Ö in font nullfont!
@@ -49394,12 +49186,12 @@ Missing character: There is no Ç in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Ä in font nullfont!
 Missing character: There is no Å in font nullfont!
+Missing character: There is no Â in font nullfont!
+Missing character: There is no Ø in font nullfont!
+Missing character: There is no æ in font nullfont!
 Missing character: There is no Ë in font nullfont!
-Missing character: There is no ¢ in font nullfont!
-Missing character: There is no ´ in font nullfont!
-Missing character: There is no È in font nullfont!
-Missing character: There is no ® in font nullfont!
-Missing character: There is no ì in font nullfont!
+Missing character: There is no ± in font nullfont!
+Missing character: There is no ° in font nullfont!
 Missing character: There is no Ë in font nullfont!
 Missing character: There is no Ä in font nullfont!
 Missing character: There is no Ö in font nullfont!
@@ -49790,12 +49582,12 @@ Missing character: There is no ü in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Ä in font nullfont!
 Missing character: There is no Å in font nullfont!
+Missing character: There is no Â in font nullfont!
+Missing character: There is no Ø in font nullfont!
+Missing character: There is no æ in font nullfont!
 Missing character: There is no Ë in font nullfont!
-Missing character: There is no ¢ in font nullfont!
-Missing character: There is no ´ in font nullfont!
-Missing character: There is no È in font nullfont!
-Missing character: There is no ® in font nullfont!
-Missing character: There is no ì in font nullfont!
+Missing character: There is no ± in font nullfont!
+Missing character: There is no ° in font nullfont!
 Missing character: There is no Ë in font nullfont!
 Missing character: There is no Ä in font nullfont!
 Missing character: There is no Ö in font nullfont!
@@ -49902,6 +49694,9 @@ Missing character: There is no „ in font nullfont!
 Missing character: There is no Ä in font nullfont!
 Missing character: There is no Å in font nullfont!
 Missing character: There is no „ in font nullfont!
+Missing character: There is no Ä in font nullfont!
+Missing character: There is no å in font nullfont!
+Missing character: There is no „ in font nullfont!
 Missing character: There is no Ç in font nullfont!
 Missing character: There is no µ in font nullfont!
 Missing character: There is no „ in font nullfont!
@@ -49926,11 +49721,17 @@ Missing character: There is no „ in font nullfont!
 Missing character: There is no Ç in font nullfont!
 Missing character: There is no Ø in font nullfont!
 Missing character: There is no „ in font nullfont!
+Missing character: There is no Ä in font nullfont!
+Missing character: There is no ç in font nullfont!
+Missing character: There is no „ in font nullfont!
 Missing character: There is no Å in font nullfont!
 Missing character: There is no ® in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Ä in font nullfont!
 Missing character: There is no Å in font nullfont!
+Missing character: There is no „ in font nullfont!
+Missing character: There is no Ä in font nullfont!
+Missing character: There is no å in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no u in font nullfont!
@@ -49941,6 +49742,9 @@ Missing character: There is no r in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no c in font nullfont!
 Missing character: There is no k in font nullfont!
+Missing character: There is no „ in font nullfont!
+Missing character: There is no Ä in font nullfont!
+Missing character: There is no ç in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Å in font nullfont!
 Missing character: There is no ® in font nullfont!
@@ -50719,12 +50523,9 @@ Missing character: There is no ¥ in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Ç in font nullfont!
 Missing character: There is no í in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Å in font nullfont!
-Missing character: There is no ô in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Å in font nullfont!
-Missing character: There is no π in font nullfont!
+Missing character: There is no Â in font nullfont!
+Missing character: There is no Ö in font nullfont!
+Missing character: There is no ® in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Å in font nullfont!
 Missing character: There is no ¶ in font nullfont!
@@ -52353,30 +52154,6 @@ Missing character: There is no ã in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Ä in font nullfont!
 Missing character: There is no Ç in font nullfont!
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:903: Undefined control sequence.
-l.903 \subsection
-                 {‰ªäÂæå„ÅÆÂ±ïÊúõ}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-Missing character: There is no ‰ in font nullfont!
-Missing character: There is no ª in font nullfont!
-Missing character: There is no ä in font nullfont!
-Missing character: There is no Â in font nullfont!
-Missing character: There is no æ in font nullfont!
-Missing character: There is no å in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Å in font nullfont!
-Missing character: There is no Æ in font nullfont!
-Missing character: There is no Â in font nullfont!
-Missing character: There is no ± in font nullfont!
-Missing character: There is no ï in font nullfont!
-Missing character: There is no Ê in font nullfont!
-Missing character: There is no ú in font nullfont!
-Missing character: There is no õ in font nullfont!
 Missing character: There is no Ê in font nullfont!
 Missing character: There is no ô in font nullfont!
 Missing character: There is no Æ in font nullfont!
@@ -53414,137 +53191,8 @@ Missing character: There is no ã in font nullfont!
 Missing character: There is no „ in font nullfont!
 Missing character: There is no Ä in font nullfont!
 Missing character: There is no Ç in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no T in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Å in font nullfont!
-Missing character: There is no Æ in font nullfont!
-Missing character: There is no Â in font nullfont!
-Missing character: There is no ± in font nullfont!
-Missing character: There is no • in font nullfont!
-Missing character: There is no Ê in font nullfont!
-Missing character: There is no ≠ in font nullfont!
-Missing character: There is no ¥ in font nullfont!
-Missing character: There is no Ê in font nullfont!
-Missing character: There is no É in font nullfont!
-Missing character: There is no Ö in font nullfont!
-Missing character: There is no Â in font nullfont!
-Missing character: There is no † in font nullfont!
-Missing character: There is no ± in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Å in font nullfont!
-Missing character: There is no ã in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Ç in font nullfont!
-Missing character: There is no â in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Ä in font nullfont!
-Missing character: There is no Å in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Ç in font nullfont!
-Missing character: There is no ∏ in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no É in font nullfont!
-Missing character: There is no £ in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no É in font nullfont!
-Missing character: There is no ≥ in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no É in font nullfont!
-Missing character: There is no ´ in font nullfont!
-Missing character: There is no Â in font nullfont!
-Missing character: There is no ê in font nullfont!
-Missing character: There is no ç in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Ç in font nullfont!
-Missing character: There is no í in font nullfont!
-Missing character: There is no Â in font nullfont!
-Missing character: There is no è in font nullfont!
-Missing character: There is no ñ in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Ç in font nullfont!
-Missing character: There is no ä in font nullfont!
-Missing character: There is no Â in font nullfont!
-Missing character: There is no á in font nullfont!
-Missing character: There is no ∫ in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Å in font nullfont!
-Missing character: There is no ó in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Å in font nullfont!
-Missing character: There is no ¶ in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Ä in font nullfont!
-Missing character: There is no Å in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no É in font nullfont!
-Missing character: There is no Ü in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Ç in font nullfont!
-Missing character: There is no ≠ in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Ç in font nullfont!
-Missing character: There is no π in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no É in font nullfont!
-Missing character: There is no à in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no É in font nullfont!
-Missing character: There is no ï in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Ç in font nullfont!
-Missing character: There is no ° in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Ç in font nullfont!
-Missing character: There is no § in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no É in font nullfont!
-Missing character: There is no ´ in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Å in font nullfont!
-Missing character: There is no ´ in font nullfont!
-Missing character: There is no Ê in font nullfont!
-Missing character: There is no õ in font nullfont!
-Missing character: There is no ∏ in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Å in font nullfont!
-Missing character: There is no ç in font nullfont!
-Missing character: There is no Â in font nullfont!
-Missing character: There is no á in font nullfont!
-Missing character: There is no ∫ in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Å in font nullfont!
-Missing character: There is no ô in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no y in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Å in font nullfont!
-Missing character: There is no Æ in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no É in font nullfont!
-Missing character: There is no ó in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no É in font nullfont!
-Missing character: There is no ≠ in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no Ç in font nullfont!
-Missing character: There is no ∞ in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no É in font nullfont!
-Missing character: There is no © in font nullfont!
-Missing character: There is no „ in font nullfont!
-Missing character: There is no É in font nullfont!
-Missing character: There is no † in font nullfont!
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:923: Undefined control sequence.
-l.923 \section
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:918: Undefined control sequence.
+l.918 \section
               {ÂèÇËÄÉÊñáÁåÆ}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -53565,14 +53213,14 @@ Missing character: There is no Á in font nullfont!
 Missing character: There is no å in font nullfont!
 Missing character: There is no Æ in font nullfont!
 
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:924: LaTeX Error: Environment th
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:919: LaTeX Error: Environment th
 ebibliography undefined.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.924 \begin{thebibliography}
+l.919 \begin{thebibliography}
                              {99}
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -53581,22 +53229,22 @@ or  <return>  to continue without it.
 Missing character: There is no 9 in font nullfont!
 Missing character: There is no 9 in font nullfont!
 
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:925: LaTeX Error: Lonely \item--
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:920: LaTeX Error: Lonely \item--
 perhaps a missing list environment.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.925 \bibitem{musicovery}
+l.920 \bibitem{musicovery}
                           
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:925: Undefined control sequence.
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:920: Undefined control sequence.
 <argument> \@listctr 
                      
-l.925 \bibitem{musicovery}
+l.920 \bibitem{musicovery}
                           
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -53604,11 +53252,11 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:925: You can't use `\relax' afte
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:920: You can't use `\relax' afte
 r \the.
 <recently read> \c@ 
                     
-l.925 \bibitem{musicovery}
+l.920 \bibitem{musicovery}
                           
 I'm forgetting what you said and using zero instead.
 
@@ -53718,27 +53366,27 @@ Missing character: There is no Ê in font nullfont!
 Missing character: There is no ú in font nullfont!
 Missing character: There is no à in font nullfont!
 Missing character: There is no 1 in font nullfont!
-Missing character: There is no 2 in font nullfont!
+Missing character: There is no 4 in font nullfont!
 Missing character: There is no Ê in font nullfont!
 Missing character: There is no ó in font nullfont!
 Missing character: There is no • in font nullfont!
 
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:931: LaTeX Error: Lonely \item--
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:926: LaTeX Error: Lonely \item--
 perhaps a missing list environment.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.931 \bibitem{walkman}
+l.926 \bibitem{walkman}
                        
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:931: Undefined control sequence.
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:926: Undefined control sequence.
 <argument> \@listctr 
                      
-l.931 \bibitem{walkman}
+l.926 \bibitem{walkman}
                        
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -53746,11 +53394,11 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:931: You can't use `\relax' afte
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:926: You can't use `\relax' afte
 r \the.
 <recently read> \c@ 
                     
-l.931 \bibitem{walkman}
+l.926 \bibitem{walkman}
                        
 I'm forgetting what you said and using zero instead.
 
@@ -53827,27 +53475,27 @@ Missing character: There is no Ê in font nullfont!
 Missing character: There is no ú in font nullfont!
 Missing character: There is no à in font nullfont!
 Missing character: There is no 1 in font nullfont!
-Missing character: There is no 2 in font nullfont!
+Missing character: There is no 4 in font nullfont!
 Missing character: There is no Ê in font nullfont!
 Missing character: There is no ó in font nullfont!
 Missing character: There is no • in font nullfont!
 
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:937: LaTeX Error: Lonely \item--
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:932: LaTeX Error: Lonely \item--
 perhaps a missing list environment.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.937 \bibitem{ipod}
+l.932 \bibitem{ipod}
                     
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:937: Undefined control sequence.
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:932: Undefined control sequence.
 <argument> \@listctr 
                      
-l.937 \bibitem{ipod}
+l.932 \bibitem{ipod}
                     
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -53855,11 +53503,11 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:937: You can't use `\relax' afte
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:932: You can't use `\relax' afte
 r \the.
 <recently read> \c@ 
                     
-l.937 \bibitem{ipod}
+l.932 \bibitem{ipod}
                     
 I'm forgetting what you said and using zero instead.
 
@@ -53898,6 +53546,9 @@ Missing character: There is no . in font nullfont!
 Missing character: There is no c in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no m in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no j in font nullfont!
+Missing character: There is no p in font nullfont!
 Missing character: There is no / in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no p in font nullfont!
@@ -53938,27 +53589,27 @@ Missing character: There is no Ê in font nullfont!
 Missing character: There is no ú in font nullfont!
 Missing character: There is no à in font nullfont!
 Missing character: There is no 1 in font nullfont!
-Missing character: There is no 2 in font nullfont!
+Missing character: There is no 4 in font nullfont!
 Missing character: There is no Ê in font nullfont!
 Missing character: There is no ó in font nullfont!
 Missing character: There is no • in font nullfont!
 
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:943: LaTeX Error: Lonely \item--
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:938: LaTeX Error: Lonely \item--
 perhaps a missing list environment.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.943 \bibitem{iPhone}
+l.938 \bibitem{iPhone}
                       
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:943: Undefined control sequence.
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:938: Undefined control sequence.
 <argument> \@listctr 
                      
-l.943 \bibitem{iPhone}
+l.938 \bibitem{iPhone}
                       
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -53966,11 +53617,11 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:943: You can't use `\relax' afte
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:938: You can't use `\relax' afte
 r \the.
 <recently read> \c@ 
                     
-l.943 \bibitem{iPhone}
+l.938 \bibitem{iPhone}
                       
 I'm forgetting what you said and using zero instead.
 
@@ -54012,6 +53663,9 @@ Missing character: There is no c in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no m in font nullfont!
 Missing character: There is no / in font nullfont!
+Missing character: There is no j in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no / in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no p in font nullfont!
 Missing character: There is no h in font nullfont!
@@ -54053,27 +53707,27 @@ Missing character: There is no Ê in font nullfont!
 Missing character: There is no ú in font nullfont!
 Missing character: There is no à in font nullfont!
 Missing character: There is no 1 in font nullfont!
-Missing character: There is no 2 in font nullfont!
+Missing character: There is no 4 in font nullfont!
 Missing character: There is no Ê in font nullfont!
 Missing character: There is no ó in font nullfont!
 Missing character: There is no • in font nullfont!
 
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:949: LaTeX Error: Lonely \item--
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:944: LaTeX Error: Lonely \item--
 perhaps a missing list environment.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.949 \bibitem{iTunes}
+l.944 \bibitem{iTunes}
                       
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:949: Undefined control sequence.
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:944: Undefined control sequence.
 <argument> \@listctr 
                      
-l.949 \bibitem{iTunes}
+l.944 \bibitem{iTunes}
                       
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -54081,11 +53735,11 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:949: You can't use `\relax' afte
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:944: You can't use `\relax' afte
 r \the.
 <recently read> \c@ 
                     
-l.949 \bibitem{iTunes}
+l.944 \bibitem{iTunes}
                       
 I'm forgetting what you said and using zero instead.
 
@@ -54127,6 +53781,9 @@ Missing character: There is no c in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no m in font nullfont!
 Missing character: There is no / in font nullfont!
+Missing character: There is no j in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no / in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no u in font nullfont!
@@ -54168,27 +53825,27 @@ Missing character: There is no Ê in font nullfont!
 Missing character: There is no ú in font nullfont!
 Missing character: There is no à in font nullfont!
 Missing character: There is no 1 in font nullfont!
-Missing character: There is no 2 in font nullfont!
+Missing character: There is no 4 in font nullfont!
 Missing character: There is no Ê in font nullfont!
 Missing character: There is no ó in font nullfont!
 Missing character: There is no • in font nullfont!
 
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:955: LaTeX Error: Lonely \item--
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:950: LaTeX Error: Lonely \item--
 perhaps a missing list environment.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.955 \bibitem{Genius}
+l.950 \bibitem{Genius}
                       
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:955: Undefined control sequence.
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:950: Undefined control sequence.
 <argument> \@listctr 
                      
-l.955 \bibitem{Genius}
+l.950 \bibitem{Genius}
                       
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -54196,11 +53853,11 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:955: You can't use `\relax' afte
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:950: You can't use `\relax' afte
 r \the.
 <recently read> \c@ 
                     
-l.955 \bibitem{Genius}
+l.950 \bibitem{Genius}
                       
 I'm forgetting what you said and using zero instead.
 
@@ -54330,27 +53987,27 @@ Missing character: There is no Ê in font nullfont!
 Missing character: There is no ú in font nullfont!
 Missing character: There is no à in font nullfont!
 Missing character: There is no 1 in font nullfont!
-Missing character: There is no 2 in font nullfont!
+Missing character: There is no 4 in font nullfont!
 Missing character: There is no Ê in font nullfont!
 Missing character: There is no ó in font nullfont!
 Missing character: There is no • in font nullfont!
 
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:961: LaTeX Error: Lonely \item--
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:956: LaTeX Error: Lonely \item--
 perhaps a missing list environment.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.961 \bibitem{oto}
+l.956 \bibitem{oto}
                    
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:961: Undefined control sequence.
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:956: Undefined control sequence.
 <argument> \@listctr 
                      
-l.961 \bibitem{oto}
+l.956 \bibitem{oto}
                    
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -54358,11 +54015,11 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:961: You can't use `\relax' afte
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:956: You can't use `\relax' afte
 r \the.
 <recently read> \c@ 
                     
-l.961 \bibitem{oto}
+l.956 \bibitem{oto}
                    
 I'm forgetting what you said and using zero instead.
 
@@ -54407,6 +54064,9 @@ Missing character: There is no c in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no m in font nullfont!
 Missing character: There is no / in font nullfont!
+Missing character: There is no j in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no / in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no o in font nullfont!
@@ -54449,27 +54109,27 @@ Missing character: There is no Ê in font nullfont!
 Missing character: There is no ú in font nullfont!
 Missing character: There is no à in font nullfont!
 Missing character: There is no 1 in font nullfont!
-Missing character: There is no 2 in font nullfont!
+Missing character: There is no 4 in font nullfont!
 Missing character: There is no Ê in font nullfont!
 Missing character: There is no ó in font nullfont!
 Missing character: There is no • in font nullfont!
 
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:967: LaTeX Error: Lonely \item--
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:962: LaTeX Error: Lonely \item--
 perhaps a missing list environment.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.967 \bibitem{musicEarth}
+l.962 \bibitem{musicEarth}
                           
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:967: Undefined control sequence.
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:962: Undefined control sequence.
 <argument> \@listctr 
                      
-l.967 \bibitem{musicEarth}
+l.962 \bibitem{musicEarth}
                           
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -54477,11 +54137,11 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:967: You can't use `\relax' afte
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:962: You can't use `\relax' afte
 r \the.
 <recently read> \c@ 
                     
-l.967 \bibitem{musicEarth}
+l.962 \bibitem{musicEarth}
                           
 I'm forgetting what you said and using zero instead.
 
@@ -54533,6 +54193,9 @@ Missing character: There is no c in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no m in font nullfont!
 Missing character: There is no / in font nullfont!
+Missing character: There is no j in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no / in font nullfont!
 Missing character: There is no m in font nullfont!
 Missing character: There is no u in font nullfont!
 Missing character: There is no s in font nullfont!
@@ -54582,27 +54245,27 @@ Missing character: There is no Ê in font nullfont!
 Missing character: There is no ú in font nullfont!
 Missing character: There is no à in font nullfont!
 Missing character: There is no 1 in font nullfont!
-Missing character: There is no 2 in font nullfont!
+Missing character: There is no 4 in font nullfont!
 Missing character: There is no Ê in font nullfont!
 Missing character: There is no ó in font nullfont!
 Missing character: There is no • in font nullfont!
 
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:974: LaTeX Error: Lonely \item--
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:969: LaTeX Error: Lonely \item--
 perhaps a missing list environment.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.974 \bibitem{„Ç§„É≥„Çø„Éº„Éç„ÉÉ„ÉàÁôΩÊõ∏2011}
+l.969 \bibitem{„Ç§„É≥„Çø„Éº„Éç„ÉÉ„ÉàÁôΩÊõ∏2011}
                                                
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:974: Undefined control sequence.
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:969: Undefined control sequence.
 <argument> \@listctr 
                      
-l.974 \bibitem{„Ç§„É≥„Çø„Éº„Éç„ÉÉ„ÉàÁôΩÊõ∏2011}
+l.969 \bibitem{„Ç§„É≥„Çø„Éº„Éç„ÉÉ„ÉàÁôΩÊõ∏2011}
                                                
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -54610,11 +54273,11 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:974: You can't use `\relax' afte
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:969: You can't use `\relax' afte
 r \the.
 <recently read> \c@ 
                     
-l.974 \bibitem{„Ç§„É≥„Çø„Éº„Éç„ÉÉ„ÉàÁôΩÊõ∏2011}
+l.969 \bibitem{„Ç§„É≥„Çø„Éº„Éç„ÉÉ„ÉàÁôΩÊõ∏2011}
                                                
 I'm forgetting what you said and using zero instead.
 
@@ -54755,22 +54418,22 @@ Missing character: There is no „ in font nullfont!
 Missing character: There is no É in font nullfont!
 Missing character: There is no ≥ in font nullfont!
 
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:977: LaTeX Error: Lonely \item--
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:972: LaTeX Error: Lonely \item--
 perhaps a missing list environment.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.977 \bibitem{Musicream}
+l.972 \bibitem{Musicream}
                          
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:977: Undefined control sequence.
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:972: Undefined control sequence.
 <argument> \@listctr 
                      
-l.977 \bibitem{Musicream}
+l.972 \bibitem{Musicream}
                          
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -54778,11 +54441,11 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:977: You can't use `\relax' afte
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:972: You can't use `\relax' afte
 r \the.
 <recently read> \c@ 
                     
-l.977 \bibitem{Musicream}
+l.972 \bibitem{Musicream}
                          
 I'm forgetting what you said and using zero instead.
 
@@ -54956,22 +54619,22 @@ Missing character: There is no 5 in font nullfont!
 Missing character: There is no 8 in font nullfont!
 Missing character: There is no . in font nullfont!
 
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:981: LaTeX Error: Lonely \item--
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:976: LaTeX Error: Lonely \item--
 perhaps a missing list environment.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.981 \bibitem{UniversalPlaylist}
+l.976 \bibitem{UniversalPlaylist}
                                  
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:981: Undefined control sequence.
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:976: Undefined control sequence.
 <argument> \@listctr 
                      
-l.981 \bibitem{UniversalPlaylist}
+l.976 \bibitem{UniversalPlaylist}
                                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -54979,11 +54642,11 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:981: You can't use `\relax' afte
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:976: You can't use `\relax' afte
 r \the.
 <recently read> \c@ 
                     
-l.981 \bibitem{UniversalPlaylist}
+l.976 \bibitem{UniversalPlaylist}
                                  
 I'm forgetting what you said and using zero instead.
 
@@ -55099,22 +54762,22 @@ Missing character: There is no „ in font nullfont!
 Missing character: There is no Ä in font nullfont!
 Missing character: There is no ç in font nullfont!
 
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:985: LaTeX Error: Lonely \item--
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:980: LaTeX Error: Lonely \item--
 perhaps a missing list environment.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.985 \bibitem{„Çà„Åè„Çè„Åã„ÇãÂøÉÁêÜÁµ±Ë®à}
+l.980 \bibitem{„Çà„Åè„Çè„Åã„ÇãÂøÉÁêÜÁµ±Ë®à}
                                            
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:985: Undefined control sequence.
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:980: Undefined control sequence.
 <argument> \@listctr 
                      
-l.985 \bibitem{„Çà„Åè„Çè„Åã„ÇãÂøÉÁêÜÁµ±Ë®à}
+l.980 \bibitem{„Çà„Åè„Çè„Åã„ÇãÂøÉÁêÜÁµ±Ë®à}
                                            
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -55122,11 +54785,11 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:985: You can't use `\relax' afte
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:980: You can't use `\relax' afte
 r \the.
 <recently read> \c@ 
                     
-l.985 \bibitem{„Çà„Åè„Çè„Åã„ÇãÂøÉÁêÜÁµ±Ë®à}
+l.980 \bibitem{„Çà„Åè„Çè„Åã„ÇãÂøÉÁêÜÁµ±Ë®à}
                                            
 I'm forgetting what you said and using zero instead.
 
@@ -55219,22 +54882,22 @@ Missing character: There is no Ê in font nullfont!
 Missing character: There is no à in font nullfont!
 Missing character: There is no ø in font nullfont!
 
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:988: LaTeX Error: Lonely \item--
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:983: LaTeX Error: Lonely \item--
 perhaps a missing list environment.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.988 \bibitem{Beyond Interaction}
+l.983 \bibitem{Beyond Interaction}
                                   
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:988: Undefined control sequence.
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:983: Undefined control sequence.
 <argument> \@listctr 
                      
-l.988 \bibitem{Beyond Interaction}
+l.983 \bibitem{Beyond Interaction}
                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -55242,11 +54905,11 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:988: You can't use `\relax' afte
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:983: You can't use `\relax' afte
 r \the.
 <recently read> \c@ 
                     
-l.988 \bibitem{Beyond Interaction}
+l.983 \bibitem{Beyond Interaction}
                                   
 I'm forgetting what you said and using zero instead.
 
@@ -55422,21 +55085,21 @@ Missing character: There is no Á in font nullfont!
 Missing character: There is no § in font nullfont!
 Missing character: There is no æ in font nullfont!
 
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:993: LaTeX Error: \begin{documen
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:988: LaTeX Error: \begin{documen
 t} ended by \end{thebibliography}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.993 \end{thebibliography}
+l.988 \end{thebibliography}
                            
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:995: LaTeX Error: The font size 
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:990: LaTeX Error: The font size 
 command \normalsize is not defined:
                there is probably something wrong with the class file.
 
@@ -55444,7 +55107,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.995 \end{document}
+l.990 \end{document}
                     
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -55453,10 +55116,10 @@ or  <return>  to continue without it.
 [6
 
 
-/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:995: Undefined control sequence.
+/Users/gentleman/Dropbox/thesis/TeX/thesis.tex:990: Undefined control sequence.
 <write> \newlabel{corTable}{{}{\thepage 
                                         }}
-l.995 \end{document}
+l.990 \end{document}
                     
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -55472,14 +55135,14 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 Here is how much of TeX's memory you used:
  865 strings out of 493488
  14142 string characters out of 3141325
- 67675 words of memory out of 3000000
+ 66705 words of memory out of 3000000
  4186 multiletter control sequences out of 15000+200000
  3640 words of font info for 14 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
- 37i,5n,21p,661b,211s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 37i,5n,21p,667b,211s stack positions out of 5000i,500n,10000p,200000b,50000s
 
 Output written on /Users/gentleman/Dropbox/thesis/TeX/./thesis.pdf (6 pages, 22
-12 bytes).
+14 bytes).
 PDF statistics:
  23 PDF objects out of 1000 (max. 8388607)
  14 compressed objects within 1 object stream
