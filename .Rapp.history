@@ -1,288 +1,3 @@
-names(sort(table(playedIml[,2][, drop = TRUE])))
-names(sort(table(playedIml[,2])))
-names(sort(table(playedIml[,2][, drop = TRUE]), decreasing = T))
-names(sort(table(playedIml[,2]), decreasing = T))
-targetGenreName = names(sort(table(iml[,2]), decreasing = T))[i]
-targetGenreName = names(sort(table(iml[,2]), decreasing = T))
-targetGenreName
-graphData  = c()#
- for(weekNum in 1 : 7){#
-	 for(i in 1:length(table(playedIml[,2][, drop = TRUE]))){#
-		targetGenreName = names(sort(table(playedIml[,2]), decreasing = T))[i]#
-		imlWeekGenre = playedIml[  as.POSIXlt(playedIml[,1])$wday==weekNum-1 & playedIml$genre == targetGenreName,]#
-	    imlWeekGenreTime = imlWeekGenre[,1]#
-	    wdayName = switch(weekNum, "Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday" )#
-	    histData = hist(as.POSIXlt(imlWeekGenreTime)$hour+as.POSIXlt(imlWeekGenreTime)$min/60+as.POSIXlt(imlWeekGenreTime)$sec/60/60, main=paste(wdayName, "_", targetGenreName, sep = "")  , breaks=seq(0,24,1), col = hsv(1*i/length(table(playedIml[,2])), 1, 1, alpha = 0.5), xlab = "Time", ylab = "Frequency", xlim = c(0,23), ylim = c(0, histMax)) #
-    	graphData = rbind(graphData, histData$counts)#
-    	quartz.save(paste("~/dropbox/thesis/out_png/", wdayName, "_", i, targetGenreName, ".png", sep=""))	#
-	}#
-}
-ml$playCount==1 & playedIml$genre == "Jazz",]#
- graphData  = c()#
- for(weekNum in 1 : 7){#
-	 for(i in 1:length(table(playedIml[,2][, drop = TRUE]))){#
-		targetGenreName = names(sort(table(playedIml[,2]), decreasing = T))[i]#
-		imlWeekGenre = playedIml[  as.POSIXlt(playedIml[,1])$wday==weekNum-1 & playedIml$genre == targetGenreName,]#
-	    imlWeekGenreTime = imlWeekGenre[,1]#
-	    wdayName = switch(weekNum, "Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday" )#
-	    histData = hist(as.POSIXlt(imlWeekGenreTime)$hour+as.POSIXlt(imlWeekGenreTime)$min/60+as.POSIXlt(imlWeekGenreTime)$sec/60/60, main=paste(wdayName, "_", targetGenreName, sep = "")  , breaks=seq(0,24,1), col = hsv(1*i/length(table(playedIml[,2])), 1, 1, alpha = 0.5), xlab = "Time", ylab = "Frequency", xlim = c(0,23), ylim = c(0, histMax)) #
-    	graphData = rbind(graphData, histData$counts)#
-    	quartz.save(paste("~/dropbox/thesis/out_png/", wdayName, "_", i, "_", targetGenreName, ".png", sep=""))	#
-	}#
-}
-graphData  = c()#
- for(weekNum in 1 : 7){#
-	 for(i in 1:length(table(playedIml[,2][, drop = TRUE]))){#
-		targetGenreName = names(sort(table(playedIml[,2]), decreasing = T))[i]#
-		imlWeekGenre = playedIml[  as.POSIXlt(playedIml[,1])$wday==weekNum-1 & playedIml$genre == targetGenreName,]#
-	    imlWeekGenreTime = imlWeekGenre[,1]#
-	    wdayName = switch(weekNum, "Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday" )#
-	    histData = hist(as.POSIXlt(imlWeekGenreTime)$hour+as.POSIXlt(imlWeekGenreTime)$min/60+as.POSIXlt(imlWeekGenreTime)$sec/60/60, main=paste(wdayName, "_", targetGenreName, sep = "")  , breaks=seq(0,24,1), col = hsv(1*i/length(table(playedIml[,2])), 1, 1, alpha = 0.5), xlab = "Time", ylab = "Frequency", xlim = c(0,23), ylim = c(0, histMax)) #
-    	graphData = rbind(graphData, histData$counts)#
-    	quartz.save(paste("~/dropbox/thesis/out_png/", wdayName, "_", i,"_", targetGenreName, ".png", sep=""))	#
-	}#
-}
-graphData  = c()#
- for(weekNum in 1 : 7){#
-	 for(i in 1:length(table(playedIml[,2][, drop = TRUE]))){#
-		targetGenreName = names(sort(table(playedIml[,2]), decreasing = T))[i]#
-		imlWeekGenre = playedIml[  as.POSIXlt(playedIml[,1])$wday==weekNum-1 & playedIml$genre == targetGenreName,]#
-	    imlWeekGenreTime = imlWeekGenre[,1]#
-	    wdayName = switch(weekNum, "Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday" )#
-	    histData = hist(as.POSIXlt(imlWeekGenreTime)$hour+as.POSIXlt(imlWeekGenreTime)$min/60+as.POSIXlt(imlWeekGenreTime)$sec/60/60, main=paste(wdayName, "_", targetGenreName, sep = "")  , breaks=seq(0,24,1), col = hsv(1*i/length(table(playedIml[,2])), 1, 1, alpha = 0.5), xlab = "Time", ylab = "Frequency", xlim = c(0,23), ylim = c(0, histMax)) #
-    	graphData = rbind(graphData, histData$counts)#
-    	quartz.save(paste("~/dropbox/thesis/out_png/", weekNum, wdayName, "_", i,"_", targetGenreName, ".png", sep=""))	#
-	}#
-}
-graphData  = c()#
- for(weekNum in 1 : 7){#
-	 for(i in 1:length(table(playedIml[,2][, drop = TRUE]))){#
-		targetGenreName = names(sort(table(playedIml[,2]), decreasing = T))[i]#
-		imlWeekGenre = playedIml[  as.POSIXlt(playedIml[,1])$wday==weekNum-1 & playedIml$genre == targetGenreName,]#
-	    imlWeekGenreTime = imlWeekGenre[,1]#
-	    wdayName = switch(weekNum, "Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday" )#
-	    histData = hist(as.POSIXlt(imlWeekGenreTime)$hour+as.POSIXlt(imlWeekGenreTime)$min/60+as.POSIXlt(imlWeekGenreTime)$sec/60/60, main=paste(wdayName, "_", targetGenreName, sep = "")  , breaks=seq(0,24,1), col = hsv(1*i/length(table(playedIml[,2])), 1, 1, alpha = 0.5), xlab = "Time", ylab = "Frequency", xlim = c(0,23), ylim = c(0, histMax)) #
-    	graphData = rbind(graphData, histData$counts)#
-    	quartz.save(paste("~/dropbox/thesis/out_png/", weekNum, "_", wdayName, "_", i,"_", targetGenreName, ".png", sep=""))	#
-	}#
-}
-length(table(playedIml[,2]))
-length(table(playedIml[,2][, dropbox = true]))
-length(table(playedIml[,2][, dropbox = TRUE]))
-length(table(playedIml[,2][,drop = TRUE]))
-length(table(playedIml[,2][, drop = TRUE]))
-source("imlAnalyzer.R")
-source("imlanalyzer.r")
-playedIml
-playedIml[,]
-playedIml[]
-playedIml[c(true, true, false)]
-playedIml[c(true, true, false),]
-iml[,4]!=0
-playedIml[c(TRUE, TRUE, FALSE),]
-playedIml[c(TRUE, TRUE, FALSE)]
-playedIml[c(TRUE, TRUE, FALSE),]
-playedIml[c(TRUE, FALSE),]
-playedIml[]
-iml
-source("imlanalyzer.r")
-foo
-foobar
-foobar = c{2,3,5}
-foobar = c(2,3,5)
-foobar
-foobar=c()
-foobar
-source("imlanalyzer.r")
-iml[2036,][1]-round(iml[2036,][3]/1000)
-dim(iml)
-iml[2036,][1]
-iml[2036,]
-iml[sort.list(iml$Played Date),]
-iml[sort.list(iml$PlayedDate),]
-iml[sort.list(iml$playedDate),]
-names(iml)
-iml[sort.list(iml$playDate),]
-iml[2036,][1]-round(iml[2036,][3]/1000)
-iml[2036,][1]
-round(iml[2036,][3]/1000)
-iml[2036,]
-iml[1:2036,]
-iml[1:2036,][1]-round(iml[1:2036,][3]/1000)
-iml[1:2036,]
-iml
-iml[1:2036,][1]-round(iml[1:2036,][3]/1000)
-selectedItems
-source("imlanalyzer.r")
-foo = c{1,2,3}
-foo = c(1,2,3)
-foo[1]
-foo[3]
-foo[4]
-foo[2]
-source("imlanalyzer.r")
-iml
-iml[iml[,4]==false]
-iml[iml[,4]=="false"]
-iml[,4]
-iml[,3]
-iml[,1]
-iml[,5]
-iml[,5]==false
-iml[,5]=="false"
-iml[,5]==false
-iml[,5]=="false"
-iml[iml[,5]=="false"]
-iml[iml[,5]=="false",]
-iml
-iml[iml[,5]=="false",]
-iml[iml[,5]=="true",]
-checkedIml = iml[iml[,5]=="false",]
-checkedIMl
-checkediml
-checkedIml
-checkedIml[,3]
-checkedIml[,4]
-iml[1,]
-checkedIml[,2]
-checkedIml[,2][drop = true]
-checkedIml[,2][, drop = TRUE]
-checkedIml[,2]
-hist(checkedIml[,2])
-table(checkedIml[,2])
-table(checkedIml[,2][, drop = TRUE])
-checkedIml[,2][, drop = TRUE]
-checkedIml[,2]
-table(checkedIml[,2][, drop = TRUE])
-table(checkedIml[,2])
-names(sort(table(playedIml[,2][, drop = TRUE]), decreasing = T))
-names(sort(table(playedIml[,2], decreasing = T))
-)
-names(sort(table(playedIml[,2]), decreasing = T))
-names(sort(table(playedIml[,2], decreasing = T))
-)
-table(checkedIml[,2])
-table(sort(checkedIml[,2], decreasing = T)
-)
-table(sort(checkedIml[,2], decreasing = T))
-sort(table(checkedIml[,2], decreasing = T))
-sort(table(checkedIml[,2]), decreasing = T)
-write.csv(sort(table(checkedIml[,2]), decreasing = T), "checkedImlGenreTable.csv")
-source("imlanalyzer.r")
-source("checkedImlAnalyzer.r")
-DIctionaly#
-#ジャンルの数---length(table(iml[,2]))#
-#
-iml = read.table('iml.txt', header = F, sep = ",", quote = "")#
-#convert string to POSIXlt#
-time = strptime(iml[,1],"%Y-%m-%d %H:%M:%S")#
-#make data frame which consists of POXIlt and string about genre#
-iml = data.frame(time, iml[,2], iml[,3], iml[,4], iml[,5], iml[6])#
-#convert UTC to JST#
-iml[,1] = iml[,1]+9*60*60#
-#total time#
-names(iml)[1] = "playDate"#
-names(iml)[2] = "genre"#
-names(iml)[3] = "totalTime"#
-names(iml)[4] = "playCount"#
-names(iml)[5] = "disabled"#
-names(iml)[6] = "trackName"
-iml
-dim(iml)
-dim(iml)[1]
-c()
-c(1,2,)
-c(1,2,3)
-foo
-foo = c(1,2,3)
-bar = c(10, 20, 30)
-rbind(foo, bar)
-cbind(foo, bar)
-cbind(foo, bar)[1,]
-iml[1,]
-iml[2,]
-iml[2,1]
-strptime(iml[2,1],"%Y-%m-%d %H:%M:%S")
-strptime("2012-11-02","%Y-%m-%d %H:%M:%S")
-strptime("2012-11-02 00:33:00","%Y-%m-%d %H:%M:%S")
-DIctionaly#
-#ジャンルの数---length(table(iml[,2]))#
-#
-iml = read.table('iml.txt', header = F, sep = ",", quote = "")#
-#convert string to POSIXlt#
-time = strptime(iml[,1],"%Y-%m-%d %H:%M:%S")#
-#make data frame which consists of POXIlt and string about genre#
-iml = data.frame(time, iml[,2], iml[,3], iml[,4], iml[,5], iml[6])#
-#convert UTC to JST(UTCを日本時間に変換)#
-iml[,1] = iml[,1]+9*60*60#
-#total time#
-names(iml)[1] = "playDate"#
-names(iml)[2] = "genre"#
-names(iml)[3] = "totalTime"#
-names(iml)[4] = "playCount"#
-names(iml)[5] = "disabled"#
-names(iml)[6] = "trackName"
-iml[2,]
-strptime("2012-11-02 00:33:00","%Y-%m-%d %H:%M:%S")
-strptime("2012-4-00 00:00:00","%Y-%m-%d %H:%M:%S")
-strptime("2012-4-00 0:00:00","%Y-%m-%d %H:%M:%S")
-strptime("2012-4-00 0:0:00","%Y-%m-%d %H:%M:%S")
-strptime("2012-4-00 0:0:0","%Y-%m-%d %H:%M:%S")
-strptime("2012-4-0 0:0:0","%Y-%m-%d %H:%M:%S")
-strptime("2012-11-02 00:33:00","%Y-%m-%d %H:%M:%S")
-strptime("2012-11-02 00:00:00","%Y-%m-%d %H:%M:%S")
-strptime("2012-11-01 00:00:00","%Y-%m-%d %H:%M:%S")
-strptime("2012-4-01 00:00:00","%Y-%m-%d %H:%M:%S")
-strptime("2012-4-01 00:00:01","%Y-%m-%d %H:%M:%S")
-strptime("2012-4-01 00:10:00","%Y-%m-%d %H:%M:%S")
-strptime("2012-4-01 00:00:00","%Y-%m-%d %H:%M:%S")
-strptime("2012-4-01 00:00:00","%Y-%m-%d %H:%M:%S") < strptime("2012-4-01 00:00:01","%Y-%m-%d %H:%M:%S")
-strptime("2012-4-01 00:00:00","%Y-%m-%d %H:%M:%S") < strptime("2012-3-01 00:00:01","%Y-%m-%d %H:%M:%S")
-iml[1, ]
-iml[2, ]
-iml[2, 1]
-iml[3, 1]
-iml
-startTime = strptime("2012-4-01 00:00:00","%Y-%m-%d %H:%M:%S")#
-for(i in 1 : dim(iml)[1]){#
-	if(startTime < iml[i, 1]){#
-		timeFilteredIml = rbind(timeFilteredIml, iml[i, ])#
-	}#
-}
-iml[1,1] < strptime("2012-3-01 00:00:01","%Y-%m-%d %H:%M:%S")
-iml[1,1]
-iml[1,1] == NULL
-iml[1,1] == NA
-iml[1,1] == "NA"
-iml[1,1] == NA
-NA
-foo
-foobar
-NA
-NA == NA
-isNA(NA)
-is.na(NA)
-is.na(foo)
-isnot.na(foo)
-timeFilteredIml = c()#
-#ここでimlを2012年4月以降のものだけにする。#
-startTime = strptime("2012-4-01 00:00:00","%Y-%m-%d %H:%M:%S")#
-for(i in 1 : dim(iml)[1]){#
-	if(is.na(iml[i, 1]) == false && startTime < iml[i, 1]){#
-		timeFilteredIml = rbind(timeFilteredIml, iml[i, ])#
-	}#
-}
-timeFilteredIml = c()#
-#ここでimlを2012年4月以降のものだけにする。#
-startTime = strptime("2012-4-01 00:00:00","%Y-%m-%d %H:%M:%S")#
-for(i in 1 : dim(iml)[1]){#
-	if(is.na(iml[i, 1]) == FALSE && startTime < iml[i, 1]){#
-		timeFilteredIml = rbind(timeFilteredIml, iml[i, ])#
-	}#
-}
-timeFilteredIml
-timeFilteredIml[sort.list(timeFilteredIml$playDate),]
-dim(iml)
 dim(timeFilteredIml)
 iml[sort.list(iml$playDate),]
 iml
@@ -331,14 +46,960 @@ source("imlAnalyzer_timeFiltered.R")
 source(")
 )
 source("imlanalyzer.R")
-source("imlanalyzer.R")
-source("imlanalyzer.R")
-source("imlanalyzer.R")
 source("imlAnalyzer_timeFiltered.R")
-source("imlAnalyzer_timeFiltered.R")
-source("imlAnalyzer_timeFiltered.R")
-source("imlAnalyzer_timeFiltered.R")
-source("imlAnalyzer_timeFiltered.R")
-source("imlAnalyzer_timeFiltered.R")
-source("imlAnalyzer_timeFiltered.R")
-source("imlAnalyzer_timeFiltered.R")
+source("/Users/gentleman/Developer/oF/of_v0073_osx_release/apps/myApps/testPython/bin/data/imlReader.py")
+DIctionaly#
+#ジャンルの数---length(table(iml[,2]))#
+#
+iml = read.table('iml.txt', header = F, sep = ",", quote = "")#
+#convert string to POSIXlt#
+time = strptime(iml[,1],"%Y-%m-%d %H:%M:%S")#
+#make data frame which consists of POXIlt and string about genre#
+iml = data.frame(time, iml[,2], iml[,3], iml[,4], iml[,5], iml[6])#
+#convert UTC to JST#
+iml[,1] = iml[,1]+9*60*60#
+#total time#
+names(iml)[1] = "playDate"#
+names(iml)[2] = "genre"#
+names(iml)[3] = "totalTime"#
+names(iml)[4] = "playCount"#
+names(iml)[5] = "disabled"#
+names(iml)[6] = "trackName"#
+#
+timeFilteredIml = c()#
+#ここでimlを2012年4月以降のものだけにする。#
+startTime = strptime("2012-4-01 00:00:00","%Y-%m-%d %H:%M:%S")#
+for(i in 1 : dim(iml)[1]){#
+	if(is.na(iml[i, 1]) == FALSE && startTime < iml[i, 1]){#
+		timeFilteredIml = rbind(timeFilteredIml, iml[i, ])#
+	}#
+}#
+#imlに上書きする。前回の再生時間が記録されているので、一度以上聞かれたもので、かつ2012年4月1日以降のもの。#
+iml = timeFilteredIml
+iml
+iml[1,]
+iml[2,]
+目的#
+#本プログラムは、openFrameworksにて、iTunesの履歴データを、時間軸を含んで読み込むことにより、履歴データから音楽再生の軌跡をアニメーションによって表現するためのcsvファイルをつくるためのものである。#
+#仕様#
+#2012/01/26更新#
+#imlの中から再生された楽曲についての情報を、#
+#以下に示す通りに、列を決めてcsvファイルをつくる。#
+#再生時間のタイムスタンプ文字列(string)・トラック名(string)・アーティスト名(string)・ジャンル名(string)・ジャンルランキング番号(string)・年(int)・月(int)・日(int)・時(int)・分(int)・秒(int)・曜日(int)(日曜を0とする)・曜日番号(int)・時刻番号(int)（日曜の０時台を０とする）#
+#
+#DIctionaly#
+#ジャンルの数---length(table(iml[,2]))#
+#
+iml = read.table('iml.txt', header = F, sep = ",", quote = "")#
+#convert string to POSIXlt#
+time = strptime(iml[,1],"%Y-%m-%d %H:%M:%S")#
+#make data frame which consists of POXIlt and string about genre#
+iml = data.frame(time, iml[,2], iml[,3], iml[,4], iml[,5], iml[6])#
+#convert UTC to JST#
+iml[,1] = iml[,1]+9*60*60#
+#total time#
+names(iml)[1] = "playDate"#
+names(iml)[2] = "genre"#
+names(iml)[3] = "totalTime"#
+names(iml)[4] = "playCount"#
+names(iml)[5] = "disabled"#
+names(iml)[6] = "trackName"#
+#
+timeFilteredIml = c()#
+#ここでimlを2012年4月以降のものだけにする。#
+startTime = strptime("2012-4-01 00:00:00","%Y-%m-%d %H:%M:%S")#
+for(i in 1 : dim(iml)[1]){#
+	if(is.na(iml[i, 1]) == FALSE && startTime < iml[i, 1]){#
+		timeFilteredIml = rbind(timeFilteredIml, iml[i, ])#
+	}#
+}#
+#imlに上書きする。前回の再生時間が記録されているので、一度以上聞かれたもので、かつ2012年4月1日以降のもの。#
+iml = timeFilteredIml#
+#
+#ヒストグラム-経時#
+png(file = "~/dropbox/thesis/out_png/all.png")#
+hist(iml[,1], breaks=48, main="History", col = rgb(217, 217 , 233,  maxColorValue = 255), xlab = "Time", ylab = "Frequency")#
+dev.off()#
+#axis(1, at= seq(0, nb, by = 1))#
+#
+#ヒストグラム-時間#
+png(file = "~/dropbox/thesis/out_png/hour.png")#
+hist(as.POSIXlt(iml[,1])$hour+as.POSIXlt(iml[,1])$min/60+as.POSIXlt(iml[,1])$sec/60/60, breaks=seq(0,24,1), main="24 hours", col = rgb(217, 217 , 233,  maxColorValue = 255), xlab = "Hour", ylab = "Frequency")#
+dev.off()#
+#
+#曜日ごとに色を変え重畳表示#
+weekMax = 0#まずは曜日に分けたときの、ヒストグラムの最大値を求める#
+for(i in 1:7){#
+	if (weekMax < max(table(as.POSIXlt(iml[,1][as.POSIXlt(iml[,1])$wday==i-1])$hour))){#
+		weekMax = max(table(as.POSIXlt(iml[,1][as.POSIXlt(iml[,1])$wday==i-1])$hour))#
+	}#
+}#
+#
+png(file = "~/dropbox/thesis/out_png/week_all.png")#
+for(i in 1:7){#
+	if(i>1){#
+		hist(as.POSIXlt(iml[,1][as.POSIXlt(iml[,1])$wday==i-1])$hour+as.POSIXlt(iml[,1][as.POSIXlt(iml[,1])$wday==i-1])$min/60+as.POSIXlt(iml[,1][as.POSIXlt(iml[,1])$wday==i-1])$sec/60/60, breaks=seq(0,24,1),main="Week", col = hsv(1*i/7, 1 , 1, alpha = 0.5), xlab = "Time", ylab = "Frequency", add = T, ylim =c(0,weekMax))#
+#
+	}else{#
+		hist(as.POSIXlt(iml[,1][as.POSIXlt(iml[,1])$wday==i-1])$hour+as.POSIXlt(iml[,1][as.POSIXlt(iml[,1])$wday==i-1])$min/60+as.POSIXlt(iml[,1][as.POSIXlt(iml[,1])$wday==i-1])$sec/60/60, breaks=seq(0,24,1),main="Week", col = hsv(1*i/7, 1 , 1, alpha = 0.5), xlab = "Time", ylab = "Frequency", add = F, ylim =c(0,weekMax))#
+		#axis(1, at= seq(0, 24, by = 1))#
+	}#
+}#
+dev.off()#
+#
+#曜日ごとに分けて表示#
+for(i in 1:7){#
+	#wdayName = switch(i, "Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday" )#
+	#png(paste(file = "~/dropbox/thesis/out_png/week_",as.character(i), "_",wdayName, ".png", sep = ""))#
+	#hist(as.POSIXlt(iml[,1][as.POSIXlt(iml[,1])$wday==i-1])$hour+as.POSIXlt(iml[,1][as.POSIXlt(iml[,1])$wday==i-1])$min/60+as.POSIXlt(iml[,1][as.POSIXlt(iml[,1])$wday==i-1])$sec/60/60, breaks=seq(0,24,1), main=wdayName, col = hsv(1*i/7, 1 , 1, alpha = 0.5), xlab = "Time", ylab = "Frequency", add = F,  ylim =c(0,weekMax))#
+	#dev.off()#
+#
+	#axis(1, at= seq(0, 24, by = 1), cex.axis = 0.5)#
+    #日本語OKにして、qurartzで書き出す#
+	#wdayName = switch(i, "日曜日", "月曜日", "火曜日", "水曜日", "木曜日", "金曜日", "土曜日" )#
+	wdayName = switch(i, "Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday" )#
+	hist(as.POSIXlt(iml[,1][as.POSIXlt(iml[,1])$wday==i-1])$hour+as.POSIXlt(iml[,1][as.POSIXlt(iml[,1])$wday==i-1])$min/60+as.POSIXlt(iml[,1][as.POSIXlt(iml[,1])$wday==i-1])$sec/60/60, breaks=seq(0,24,1), main=wdayName, col = hsv(1*i/7, 1 , 1, alpha = 0.5), xlab = "Time", ylab = "Frequency", add = F,  ylim =c(0,weekMax))#
+	quartz.save(paste("~/dropbox/thesis/out_png/",as.character(i), "_",wdayName, ".png", sep = ""))#
+}#
+#
+#ジャンルを分けて分析#
+#とりあえず、最大の度数と次点のジャンルを比較分析する。#
+#first#
+largestGenreName = names(table(iml[,2])[table(iml[,2]) == max(table(iml[,2]))])#最大度数のジャンルを取り出す（imamuraのサンプルではJazz)#
+largestGenre = iml[,1][iml[,2] == largestGenreName]#
+#second#
+secondLargestGenreName = names(sort(table(iml[,2]), decreasing = T))[2]#2番目に度数が大きいジャンル名を取得(imamuraのサンプルではRock)#
+secondLargestGenre = iml[,1][iml[,2] == secondLargestGenreName]#
+#縦軸をそろえたいので最大値を求める#
+#quartz()#
+#
+#for文で、一回全文のヒストグラムのてっぺんを出して、最大値を出す。#
+histMax=-1#
+for(i in 1:length(table(iml[,2]))){#
+	targetGenreName = names(sort(table(iml[,2]), decreasing = T))[i]#
+	targetGenre = iml[,1][iml[,2] == targetGenreName]#
+#
+	histMax0 = max(hist(as.POSIXlt(targetGenre)$hour+as.POSIXlt(targetGenre)$min/60+as.POSIXlt(targetGenre)$sec/60/60, main=targetGenreName, breaks=seq(0,24,1), col = hsv(1*i/length(table(iml[,2])), 1, 1, alpha = 0.5), xlab = "Time", ylab = "Frequency", ylim = c(0, histMax))$counts)#
+	if(histMax0 > histMax ){#
+		histMax = histMax0#
+	}#
+}#
+if(histMax == -1){#
+	cat("something wrong!")#
+}#
+#laegest genre hist#
+#グラフ上書き#
+#hist(as.POSIXlt(largestGenre)$hour+as.POSIXlt(largestGenre)$min/60+as.POSIXlt(largestGenre)$sec/60/60, main=largestGenreName, breaks=seq(0,24,1), col = hsv(1/2, 1, 1, alpha = 0.5), xlab = "Time", ylab = "Frequency", ylim = c(0, histMax))#
+#second largest hist#
+#quartz()#
+#hist(as.POSIXlt(secondLargestGenre)$hour+as.POSIXlt(secondLargestGenre)$min/60+as.POSIXlt(secondLargestGenre)$sec/60/60, main=secondLargestGenreName, breaks=seq(0,24,1), col = hsv(1, 1, 1, alpha = 0.5), xlab = "Time", ylab = "Frequency", ylim = c(0, histMax))#
+#ggplot2を使う。#
+#library(ggplot2)#
+#for(i in 1:length(table(iml[,2]))){#
+#	targetGenreName = names(sort(table(iml[,2]), decreasing = T))[i]#
+#	targetGenre = iml[,1][iml[,2] == targetGenreName]#
+#        print(targetGenreName)#
+#        plot = qplot(as.POSIXlt(targetGenre)$hour+as.POSIXlt(targetGenre)$min/60+as.POSIXlt(targetGenre)$sec/60/60, geom = "histogram", binwidth = 1, main = targetGenreName, xlim = c(0,24), ylim = c(0, histMax),  xlab = "Time", ylab = "Frequency")#
+#        ggsave(paste("~/dropbox/thesis/out_pdf/","genre_",i,"_",targetGenreName ,".pdf", sep=""), plot, family="Japan1GothicBBB")#
+#}#
+#再生時間でソート#
+sortedIml = iml[sort.list(iml$playDate),]#
+#ここまでrunning code#
+#今回は1~1863(sortedImlで中身みて、2655までデータが存在して、2656からNANだったので、rownames(sortedIml)==2655でTRUE参照するというアナログで調べた)までデータ存在。#
+playDateExistIml = sortedIml[1:1863,]#
+#以下で、一回でも再生したことのあるものは、last played dateも記録されているはずという前提で、一回以上再生されたものだけのリストを取得する方法もある。#
+#play countだけを変更された場合はエラーが起こる。iTunesの通常の使用ではlast playedの存在と一回以上の再生は一致するが、apple scriptなどを使って、変更した場合はそうはならないかも。#
+#
+#play countを調べて、0でなかったら、リスト（playedIml）に追加。#
+playedIml = iml[iml[,4]!=0,]#
+playedImlSortedByPlayCount =  playedIml[sort.list(playedIml$playCount),] #これと同じ意味の式は右のようにも書ける。 playedImlSortedByPlayCount =  playedIml[sort.list(playedIml[,4]),]#
+#実験で使用する2012年の4月からの情報だけにする、filteredPlayedImlという名前で。#
+#filteredPlayedIml = playedIml[ , ]#
+#for文で全ジャンル書き出してみる#
+#FIXME:quartz()を使う#
+ for(i in 1:length(table(playedIml[,2][, drop = TRUE]))){#
+ 	targetGenreName = names(sort(table(playedIml[,2]), decreasing = T))[i]#
+ 	targetGenre = playedIml[,1][playedIml[,2] == targetGenreName]#
+#         #FIXME:なぜか日本語で書き出されない#
+    	#png(file=paste("~/dropbox/thesis/out_png/","genre_",i,".png", sep=""), bg="white", type="quartz")#
+ 		#hist(as.POSIXlt(targetGenre)$hour+as.POSIXlt(targetGenre)$min/60+as.POSIXlt(targetGenre)$sec/60/60, main=targetGenreName, breaks=seq(0,24,1), col = hsv(1*i/length(table(iml[,2])), 1, 1, alpha = 0.5), xlab = "Time", ylab = "Frequency", xlim = c(0,23), ylim = c(0, histMax))#
+		#dev.off()#
+         #日本語OKにして、qurartzで書き出す#
+    	 hist(as.POSIXlt(targetGenre)$hour+as.POSIXlt(targetGenre)$min/60+as.POSIXlt(targetGenre)$sec/60/60, main=targetGenreName, breaks=seq(0,24,1), col = hsv(1*i/length(table(playedIml[,2][, drop=TRUE])), 1, 1, alpha = 0.5), xlab = "Time", ylab = "Frequency", xlim = c(0,23), ylim = c(0, histMax))#
+    	 quartz.save(paste("~/dropbox/thesis/out_png/","genre_",i, "_", targetGenreName, ".png", sep=""))#
+ }#
+#一度以上再生されたジャンルをplayedImlから曜日毎に書き出す。#
+#ジャズだけを取り出す　playedIml[playedIml$genre=="Jazz",]#
+#日曜日だけ取り出す。  playedIml[as.POSIXlt(playedIml[,1])$wday==0,]#
+#再生回数が1回で、ジャンルがJazzなものだけを取り出す。　playedIml[playedIml$playCount==1 & playedIml$genre == "Jazz",]#
+ #24列で、曜日が変わったら、下の行に行く。（ジャンルが多いと、行（行はジャンルの数x7）が伸びて、列は24列固定。）#
+ graphData  = c()#
+ #24x7列で、曜日か変わったら、右の列に行く。（ジャンルが多いと、行（行はジャンルの数とイコール）が増えて、列は24*7列固定。）#
+ graphDataMatrix = c();#
+ instantGraphDataMatrix = c()#
+ for(weekNum in 1 : 7){#
+	 for(i in 1:length(table(playedIml[,2][, drop = TRUE]))){#
+		targetGenreName = names(sort(table(playedIml[,2][, drop = TRUE]), decreasing = T))[i]#
+		imlWeekGenre = playedIml[  as.POSIXlt(playedIml[,1])$wday==weekNum-1 & playedIml$genre == targetGenreName,]#
+	    imlWeekGenreTime = imlWeekGenre[,1]#
+	    wdayName = switch(weekNum, "Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday" )#
+	    histData = hist(as.POSIXlt(imlWeekGenreTime)$hour+as.POSIXlt(imlWeekGenreTime)$min/60+as.POSIXlt(imlWeekGenreTime)$sec/60/60, main=paste(wdayName, "_", targetGenreName, sep = "")  , breaks=seq(0,24,1), col = hsv(1*i/length(table(playedIml[,2][, drop = TRUE])), 1, 1, alpha = 0.5), xlab = "Time", ylab = "Frequency", xlim = c(0,23), ylim = c(0, histMax)) #
+    	graphData = rbind(graphData, histData$counts)#
+    	instantGraphDataMatrix = rbind(instantGraphDataMatrix, histData$counts)#
+    	quartz.save(paste("~/dropbox/thesis/out_png/", weekNum, "_", wdayName, "_", i,"_", targetGenreName, ".png", sep=""))	#
+	}#
+	graphDataMatrix = cbind(graphDataMatrix, instantGraphDataMatrix)#
+	instantGraphDataMatrix = c()#
+}#
+#
+#音楽の長さと最後に聞いた時間をもとに、操作して選択された曲だけのリストを求める#
+#iml[sort.list(iml$playDate),]#
+#iml[2036,][1]-round(iml[2036,][3]/1000)#ほとんど、同じか、1秒小さいか、1秒大きい。#
+#nrow(iml)#
+#append#
+diff = c()#
+for (i in 2:nrow(playDateExistIml)){#
+	diff = append(diff, playDateExistIml[i-1,][1] - (playDateExistIml[i,][1]-round(playDateExistIml[i,][3]/1000)))#ここはplay dateでソートしてから行うように書き換える！#
+}#
+diffAbs = abs(as.numeric(diff))#
+selectedItems = diffAbs == 1#
+#
+#行番号取得　rownames(sortedIml)[nrow(sortedIml)]#
+#
+#再生回数に応じて、カウントの数を動的に変化させる。例えば、一回しか再生されていないものは、プラス１、2回再生されたものはプラス2というかんじ。回数が多いほど、お気に入りの可能性が高く、ランダム再生でたまたま再生される可能性が低いという推測から。#
+#play count回数分をfor文で loopでコピーして追加する。#
+##
+#低速なのでコメントアウトする。#
+#instantCountOfPlayedImlSortedByPlayCount = dim(playedImlSortedByPlayCount)[1]#
+#imlPlusCount = playedImlSortedByPlayCount#
+##
+#for(i in 1:instantCountOfPlayedImlSortedByPlayCount){#
+#    if(playedImlSortedByPlayCount[i,4]>1){#
+#        for (j in 1:(playedImlSortedByPlayCount[i,4]-1)){#
+#            imlPlusCount  = rbind(imlPlusCount, playedImlSortedByPlayCount[i,])#
+#            #imlPlusCount = rbind(imlPlusCount, rbind(rep(playedImlSortedByPlayCount[i,], playedImlSortedByPlayCount[i,4]-1)))#
+#        }#
+#    }#
+#}#
+#
+sum(iml[,4])#
+dim(imlPlusCount)#
+#
+#csvを書き出す。#
+#曜日毎のジャンルの累積グラフのテーブル#
+write.csv(graphData, "graphData.csv")#
+#横軸#
+write.csv(graphDataMatrix, "graphDataMatrix.csv");#
+#
+#ジャンル#
+genreNameList = names(sort(table(playedIml[,2][, drop = TRUE]), decreasing = T))#
+write.csv(genreNameList, "genreNameList.csv")#
+#
+#disableが入っていない（チェックが入っている）楽曲をジャンルごとにカウントして、csvに書き出す。#
+checkedIml = iml[iml[,5]=="false",]#
+write.csv(sort(table(checkedIml[,2]), decreasing = T), "checkedImlGenreTable.csv")#
+#
+#最終の時刻と最新の時刻を書き出す。#
+write.csv(c(as.character(sortedIml[1,1]), as.character(sortedIml[dim(sortedIml)[1],1])), "timeStamp_oldest_newest.csv")#
+#
+#再生時間のタイムスタンプ文字列(string)・トラック名(string)・アーティスト名(string)・ジャンル名(string)・ジャンルランキング番号(string)・再生カウント（int）・年(int)・月(int)・日(int)・時(int)・分(int)・秒(int)・曜日(int)(日曜を0とする)・曜日番号(int)・時刻番号(int)（日曜の０時台を０とする）#
+#まず、ジャンルランキング番号(string)以外はimlから計算して出せる。ジャンルランキングは、ジャンル名と、ランキングデータを調べて、合致するのが何行目かを調べる。for文まわしすぎかな。。。
+iml
+iml[1,]
+foo = iml[1,]
+foo = iml[,1]
+foo
+foo = cbind(iml[,1], iml[,6])
+foo
+foo = cbind(iml[,0], iml[,5])
+foo
+iml[,1]
+foo = cbind(iml[,1], iml[,5])
+foo
+iml[,4]
+iml[,5]
+iml[,6]
+iml[,1]
+iml[1,]
+foo = cbind(iml[,1], iml[,6])
+foo
+iml[,6]
+foo = cbind(iml[,1], iml[,6])
+foo
+foo = cbind(iml[,1], iml[,6])
+clear
+clc
+sortedIml
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+sortedIml
+imlOf = data.frame(sortedIml[,1])
+imlOf
+sortedIml[,1]
+sortedIml[1,]
+sortedIml
+目的#
+#本プログラムは、openFrameworksにて、iTunesの履歴データを、時間軸を含んで読み込むことにより、履歴データから音楽再生の軌跡をアニメーションによって表現するためのcsvファイルをつくるためのものである。#
+#仕様#
+#2012/01/26更新#
+#imlの中から再生された楽曲についての情報を、#
+#以下に示す通りに、列を決めてcsvファイルをつくる。#
+#再生時間のタイムスタンプ文字列(string)・トラック名(string)・アーティスト名(string)・ジャンル名(string)・ジャンルランキング番号(string)・年(int)・月(int)・日(int)・時(int)・分(int)・秒(int)・曜日(int)(日曜を0とする)・曜日番号(int)・時刻番号(int)（日曜の０時台を０とする）#
+#
+#DIctionaly#
+#ジャンルの数---length(table(iml[,2]))#
+#
+iml = read.table('iml.txt', header = F, sep = ",", quote = "")#
+#convert string to POSIXlt#
+time = strptime(iml[,1],"%Y-%m-%d %H:%M:%S")#
+#make data frame which consists of POXIlt and string about genre#
+iml = data.frame(time, iml[,2], iml[,3], iml[,4], iml[,5], iml[6])#
+#convert UTC to JST#
+iml[,1] = iml[,1]+9*60*60#
+#total time#
+names(iml)[1] = "playDate"#
+names(iml)[2] = "genre"#
+names(iml)[3] = "totalTime"#
+names(iml)[4] = "playCount"#
+names(iml)[5] = "disabled"#
+names(iml)[6] = "trackName"#
+#
+timeFilteredIml = c()#
+#ここでimlを2012年4月以降のものだけにする。#
+startTime = strptime("2012-4-01 00:00:00","%Y-%m-%d %H:%M:%S")#
+for(i in 1 : dim(iml)[1]){#
+	if(is.na(iml[i, 1]) == FALSE && startTime < iml[i, 1]){#
+		timeFilteredIml = rbind(timeFilteredIml, iml[i, ])#
+	}#
+}#
+#imlに上書きする。前回の再生時間が記録されているので、一度以上聞かれたもので、かつ2012年4月1日以降のもの。#
+iml = timeFilteredIml#
+#
+#ヒストグラム-経時#
+png(file = "~/dropbox/thesis/out_png/all.png")#
+hist(iml[,1], breaks=48, main="History", col = rgb(217, 217 , 233,  maxColorValue = 255), xlab = "Time", ylab = "Frequency")#
+dev.off()#
+#axis(1, at= seq(0, nb, by = 1))#
+#
+#ヒストグラム-時間#
+png(file = "~/dropbox/thesis/out_png/hour.png")#
+hist(as.POSIXlt(iml[,1])$hour+as.POSIXlt(iml[,1])$min/60+as.POSIXlt(iml[,1])$sec/60/60, breaks=seq(0,24,1), main="24 hours", col = rgb(217, 217 , 233,  maxColorValue = 255), xlab = "Hour", ylab = "Frequency")#
+dev.off()#
+#
+#曜日ごとに色を変え重畳表示#
+weekMax = 0#まずは曜日に分けたときの、ヒストグラムの最大値を求める#
+for(i in 1:7){#
+	if (weekMax < max(table(as.POSIXlt(iml[,1][as.POSIXlt(iml[,1])$wday==i-1])$hour))){#
+		weekMax = max(table(as.POSIXlt(iml[,1][as.POSIXlt(iml[,1])$wday==i-1])$hour))#
+	}#
+}#
+#
+png(file = "~/dropbox/thesis/out_png/week_all.png")#
+for(i in 1:7){#
+	if(i>1){#
+		hist(as.POSIXlt(iml[,1][as.POSIXlt(iml[,1])$wday==i-1])$hour+as.POSIXlt(iml[,1][as.POSIXlt(iml[,1])$wday==i-1])$min/60+as.POSIXlt(iml[,1][as.POSIXlt(iml[,1])$wday==i-1])$sec/60/60, breaks=seq(0,24,1),main="Week", col = hsv(1*i/7, 1 , 1, alpha = 0.5), xlab = "Time", ylab = "Frequency", add = T, ylim =c(0,weekMax))#
+#
+	}else{#
+		hist(as.POSIXlt(iml[,1][as.POSIXlt(iml[,1])$wday==i-1])$hour+as.POSIXlt(iml[,1][as.POSIXlt(iml[,1])$wday==i-1])$min/60+as.POSIXlt(iml[,1][as.POSIXlt(iml[,1])$wday==i-1])$sec/60/60, breaks=seq(0,24,1),main="Week", col = hsv(1*i/7, 1 , 1, alpha = 0.5), xlab = "Time", ylab = "Frequency", add = F, ylim =c(0,weekMax))#
+		#axis(1, at= seq(0, 24, by = 1))#
+	}#
+}#
+dev.off()#
+#
+#曜日ごとに分けて表示#
+for(i in 1:7){#
+	#wdayName = switch(i, "Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday" )#
+	#png(paste(file = "~/dropbox/thesis/out_png/week_",as.character(i), "_",wdayName, ".png", sep = ""))#
+	#hist(as.POSIXlt(iml[,1][as.POSIXlt(iml[,1])$wday==i-1])$hour+as.POSIXlt(iml[,1][as.POSIXlt(iml[,1])$wday==i-1])$min/60+as.POSIXlt(iml[,1][as.POSIXlt(iml[,1])$wday==i-1])$sec/60/60, breaks=seq(0,24,1), main=wdayName, col = hsv(1*i/7, 1 , 1, alpha = 0.5), xlab = "Time", ylab = "Frequency", add = F,  ylim =c(0,weekMax))#
+	#dev.off()#
+#
+	#axis(1, at= seq(0, 24, by = 1), cex.axis = 0.5)#
+    #日本語OKにして、qurartzで書き出す#
+	#wdayName = switch(i, "日曜日", "月曜日", "火曜日", "水曜日", "木曜日", "金曜日", "土曜日" )#
+	wdayName = switch(i, "Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday" )#
+	hist(as.POSIXlt(iml[,1][as.POSIXlt(iml[,1])$wday==i-1])$hour+as.POSIXlt(iml[,1][as.POSIXlt(iml[,1])$wday==i-1])$min/60+as.POSIXlt(iml[,1][as.POSIXlt(iml[,1])$wday==i-1])$sec/60/60, breaks=seq(0,24,1), main=wdayName, col = hsv(1*i/7, 1 , 1, alpha = 0.5), xlab = "Time", ylab = "Frequency", add = F,  ylim =c(0,weekMax))#
+	quartz.save(paste("~/dropbox/thesis/out_png/",as.character(i), "_",wdayName, ".png", sep = ""))#
+}#
+#
+#ジャンルを分けて分析#
+#とりあえず、最大の度数と次点のジャンルを比較分析する。#
+#first#
+largestGenreName = names(table(iml[,2])[table(iml[,2]) == max(table(iml[,2]))])#最大度数のジャンルを取り出す（imamuraのサンプルではJazz)#
+largestGenre = iml[,1][iml[,2] == largestGenreName]#
+#second#
+secondLargestGenreName = names(sort(table(iml[,2]), decreasing = T))[2]#2番目に度数が大きいジャンル名を取得(imamuraのサンプルではRock)#
+secondLargestGenre = iml[,1][iml[,2] == secondLargestGenreName]#
+#縦軸をそろえたいので最大値を求める#
+#quartz()#
+#
+#for文で、一回全文のヒストグラムのてっぺんを出して、最大値を出す。#
+histMax=-1#
+for(i in 1:length(table(iml[,2]))){#
+	targetGenreName = names(sort(table(iml[,2]), decreasing = T))[i]#
+	targetGenre = iml[,1][iml[,2] == targetGenreName]#
+#
+	histMax0 = max(hist(as.POSIXlt(targetGenre)$hour+as.POSIXlt(targetGenre)$min/60+as.POSIXlt(targetGenre)$sec/60/60, main=targetGenreName, breaks=seq(0,24,1), col = hsv(1*i/length(table(iml[,2])), 1, 1, alpha = 0.5), xlab = "Time", ylab = "Frequency", ylim = c(0, histMax))$counts)#
+	if(histMax0 > histMax ){#
+		histMax = histMax0#
+	}#
+}#
+if(histMax == -1){#
+	cat("something wrong!")#
+}#
+#laegest genre hist#
+#グラフ上書き#
+#hist(as.POSIXlt(largestGenre)$hour+as.POSIXlt(largestGenre)$min/60+as.POSIXlt(largestGenre)$sec/60/60, main=largestGenreName, breaks=seq(0,24,1), col = hsv(1/2, 1, 1, alpha = 0.5), xlab = "Time", ylab = "Frequency", ylim = c(0, histMax))#
+#second largest hist#
+#quartz()#
+#hist(as.POSIXlt(secondLargestGenre)$hour+as.POSIXlt(secondLargestGenre)$min/60+as.POSIXlt(secondLargestGenre)$sec/60/60, main=secondLargestGenreName, breaks=seq(0,24,1), col = hsv(1, 1, 1, alpha = 0.5), xlab = "Time", ylab = "Frequency", ylim = c(0, histMax))#
+#ggplot2を使う。#
+#library(ggplot2)#
+#for(i in 1:length(table(iml[,2]))){#
+#	targetGenreName = names(sort(table(iml[,2]), decreasing = T))[i]#
+#	targetGenre = iml[,1][iml[,2] == targetGenreName]#
+#        print(targetGenreName)#
+#        plot = qplot(as.POSIXlt(targetGenre)$hour+as.POSIXlt(targetGenre)$min/60+as.POSIXlt(targetGenre)$sec/60/60, geom = "histogram", binwidth = 1, main = targetGenreName, xlim = c(0,24), ylim = c(0, histMax),  xlab = "Time", ylab = "Frequency")#
+#        ggsave(paste("~/dropbox/thesis/out_pdf/","genre_",i,"_",targetGenreName ,".pdf", sep=""), plot, family="Japan1GothicBBB")#
+#}#
+#再生時間でソート#
+sortedIml = iml[sort.list(iml$playDate),]#
+#ここまでrunning code#
+#今回は1~1863(sortedImlで中身みて、2655までデータが存在して、2656からNANだったので、rownames(sortedIml)==2655でTRUE参照するというアナログで調べた)までデータ存在。#
+playDateExistIml = sortedIml[1:1863,]#
+#以下で、一回でも再生したことのあるものは、last played dateも記録されているはずという前提で、一回以上再生されたものだけのリストを取得する方法もある。#
+#play countだけを変更された場合はエラーが起こる。iTunesの通常の使用ではlast playedの存在と一回以上の再生は一致するが、apple scriptなどを使って、変更した場合はそうはならないかも。#
+#
+#play countを調べて、0でなかったら、リスト（playedIml）に追加。#
+playedIml = iml[iml[,4]!=0,]#
+playedImlSortedByPlayCount =  playedIml[sort.list(playedIml$playCount),] #これと同じ意味の式は右のようにも書ける。 playedImlSortedByPlayCount =  playedIml[sort.list(playedIml[,4]),]#
+#実験で使用する2012年の4月からの情報だけにする、filteredPlayedImlという名前で。#
+#filteredPlayedIml = playedIml[ , ]#
+#for文で全ジャンル書き出してみる#
+#FIXME:quartz()を使う#
+ for(i in 1:length(table(playedIml[,2][, drop = TRUE]))){#
+ 	targetGenreName = names(sort(table(playedIml[,2]), decreasing = T))[i]#
+ 	targetGenre = playedIml[,1][playedIml[,2] == targetGenreName]#
+#         #FIXME:なぜか日本語で書き出されない#
+    	#png(file=paste("~/dropbox/thesis/out_png/","genre_",i,".png", sep=""), bg="white", type="quartz")#
+ 		#hist(as.POSIXlt(targetGenre)$hour+as.POSIXlt(targetGenre)$min/60+as.POSIXlt(targetGenre)$sec/60/60, main=targetGenreName, breaks=seq(0,24,1), col = hsv(1*i/length(table(iml[,2])), 1, 1, alpha = 0.5), xlab = "Time", ylab = "Frequency", xlim = c(0,23), ylim = c(0, histMax))#
+		#dev.off()#
+         #日本語OKにして、qurartzで書き出す#
+    	 hist(as.POSIXlt(targetGenre)$hour+as.POSIXlt(targetGenre)$min/60+as.POSIXlt(targetGenre)$sec/60/60, main=targetGenreName, breaks=seq(0,24,1), col = hsv(1*i/length(table(playedIml[,2][, drop=TRUE])), 1, 1, alpha = 0.5), xlab = "Time", ylab = "Frequency", xlim = c(0,23), ylim = c(0, histMax))#
+    	 quartz.save(paste("~/dropbox/thesis/out_png/","genre_",i, "_", targetGenreName, ".png", sep=""))#
+ }#
+#一度以上再生されたジャンルをplayedImlから曜日毎に書き出す。#
+#ジャズだけを取り出す　playedIml[playedIml$genre=="Jazz",]#
+#日曜日だけ取り出す。  playedIml[as.POSIXlt(playedIml[,1])$wday==0,]#
+#再生回数が1回で、ジャンルがJazzなものだけを取り出す。　playedIml[playedIml$playCount==1 & playedIml$genre == "Jazz",]#
+ #24列で、曜日が変わったら、下の行に行く。（ジャンルが多いと、行（行はジャンルの数x7）が伸びて、列は24列固定。）#
+ graphData  = c()#
+ #24x7列で、曜日か変わったら、右の列に行く。（ジャンルが多いと、行（行はジャンルの数とイコール）が増えて、列は24*7列固定。）#
+ graphDataMatrix = c();#
+ instantGraphDataMatrix = c()#
+ for(weekNum in 1 : 7){#
+	 for(i in 1:length(table(playedIml[,2][, drop = TRUE]))){#
+		targetGenreName = names(sort(table(playedIml[,2][, drop = TRUE]), decreasing = T))[i]#
+		imlWeekGenre = playedIml[  as.POSIXlt(playedIml[,1])$wday==weekNum-1 & playedIml$genre == targetGenreName,]#
+	    imlWeekGenreTime = imlWeekGenre[,1]#
+	    wdayName = switch(weekNum, "Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday" )#
+	    histData = hist(as.POSIXlt(imlWeekGenreTime)$hour+as.POSIXlt(imlWeekGenreTime)$min/60+as.POSIXlt(imlWeekGenreTime)$sec/60/60, main=paste(wdayName, "_", targetGenreName, sep = "")  , breaks=seq(0,24,1), col = hsv(1*i/length(table(playedIml[,2][, drop = TRUE])), 1, 1, alpha = 0.5), xlab = "Time", ylab = "Frequency", xlim = c(0,23), ylim = c(0, histMax)) #
+    	graphData = rbind(graphData, histData$counts)#
+    	instantGraphDataMatrix = rbind(instantGraphDataMatrix, histData$counts)#
+    	quartz.save(paste("~/dropbox/thesis/out_png/", weekNum, "_", wdayName, "_", i,"_", targetGenreName, ".png", sep=""))	#
+	}#
+	graphDataMatrix = cbind(graphDataMatrix, instantGraphDataMatrix)#
+	instantGraphDataMatrix = c()#
+}#
+#
+#音楽の長さと最後に聞いた時間をもとに、操作して選択された曲だけのリストを求める#
+#iml[sort.list(iml$playDate),]#
+#iml[2036,][1]-round(iml[2036,][3]/1000)#ほとんど、同じか、1秒小さいか、1秒大きい。#
+#nrow(iml)#
+#append#
+diff = c()#
+for (i in 2:nrow(playDateExistIml)){#
+	diff = append(diff, playDateExistIml[i-1,][1] - (playDateExistIml[i,][1]-round(playDateExistIml[i,][3]/1000)))#ここはplay dateでソートしてから行うように書き換える！#
+}#
+diffAbs = abs(as.numeric(diff))#
+selectedItems = diffAbs == 1#
+#
+#行番号取得　rownames(sortedIml)[nrow(sortedIml)]#
+#
+#再生回数に応じて、カウントの数を動的に変化させる。例えば、一回しか再生されていないものは、プラス１、2回再生されたものはプラス2というかんじ。回数が多いほど、お気に入りの可能性が高く、ランダム再生でたまたま再生される可能性が低いという推測から。#
+#play count回数分をfor文で loopでコピーして追加する。#
+##
+#低速なのでコメントアウトする。#
+#instantCountOfPlayedImlSortedByPlayCount = dim(playedImlSortedByPlayCount)[1]#
+#imlPlusCount = playedImlSortedByPlayCount#
+##
+#for(i in 1:instantCountOfPlayedImlSortedByPlayCount){#
+#    if(playedImlSortedByPlayCount[i,4]>1){#
+#        for (j in 1:(playedImlSortedByPlayCount[i,4]-1)){#
+#            imlPlusCount  = rbind(imlPlusCount, playedImlSortedByPlayCount[i,])#
+#            #imlPlusCount = rbind(imlPlusCount, rbind(rep(playedImlSortedByPlayCount[i,], playedImlSortedByPlayCount[i,4]-1)))#
+#        }#
+#    }#
+#}#
+#
+sum(iml[,4])#
+dim(imlPlusCount)#
+#
+#csvを書き出す。#
+#曜日毎のジャンルの累積グラフのテーブル#
+write.csv(graphData, "graphData.csv")#
+#横軸#
+write.csv(graphDataMatrix, "graphDataMatrix.csv");#
+#
+#ジャンル#
+genreNameList = names(sort(table(playedIml[,2][, drop = TRUE]), decreasing = T))#
+write.csv(genreNameList, "genreNameList.csv")#
+#
+#disableが入っていない（チェックが入っている）楽曲をジャンルごとにカウントして、csvに書き出す。#
+checkedIml = iml[iml[,5]=="false",]#
+write.csv(sort(table(checkedIml[,2]), decreasing = T), "checkedImlGenreTable.csv")#
+#
+#最終の時刻と最新の時刻を書き出す。#
+write.csv(c(as.character(sortedIml[1,1]), as.character(sortedIml[dim(sortedIml)[1],1])), "timeStamp_oldest_newest.csv")#
+#
+#再生時間のタイムスタンプ文字列(string)・トラック名(string)・アーティスト名(string)・ジャンル名(string)・ジャンルランキング番号(string)・再生カウント（int）・年(int)・月(int)・日(int)・時(int)・分(int)・秒(int)・曜日(int)(日曜を0とする)・曜日番号(int)・時刻番号(int)（日曜の０時台を０とする）#
+#まず、ジャンルランキング番号(string)以外はimlから計算して出せる。ジャンルランキングは、ジャンル名と、ランキングデータを調べて、合致するのが何行目かを調べる。for文まわしすぎかな。。。#
+#sortedIml playDate genre totalTime playCount disabled         trackName#
+#最後まで完了#
+#
+imlOf = data.frame(sortedIml[,1], )#
+#
+cat("done!\n")
+sortedIml
+sortedIml[,1]
+names(sortedIml)
+sortedIml[1,]
+sortedIml[2,]
+sortedIml[3,]
+sortedIml[5,]
+sortedIml[10,]
+sortedIml[11,]
+sortedIml[2,]
+sortedIml[,2]
+sortedGenre = sortedIml[3,]
+sortedGenre
+sortedGenre = sortedIml[,3]
+sortedGenre
+sortedIml[,3]
+sortedIml
+names(sotedIml)
+sortedIml[,2]
+genreNameList
+names(genreNameList)
+genreNameList[1]
+genreNameList[3]
+genreNameList[2]
+nrow(genreNameList)
+ncolumn(genreNameList)
+colmn
+help(nrow)
+ncol(genreNameList)
+length(genreNameLIst)
+length(genreNameList)
+length(sortedIml)
+nrow(sortedIl)
+nrow(sortedIml)
+sortedIml
+nrow(sortedIml)
+sortedIml[2672]
+sortedIml[2671]
+sortedIml[2671,]
+sortedIml[26712,]
+sortedIml[2672,]
+sortedIml[2670,]
+sortedIml[, 2]
+genreNameList
+sortedIml[,2]
+genreNameList[1]
+genreNameList[2]
+genreRank = c()#
+for (j in 1:nrow(sortedIml)){#
+	for (i in 1:length(genreNameList)){#
+		if(sortedIml[j,2] == genreNameList[i]){#
+			gerneRank = append(genreRank, i)#
+		}#
+	}#
+}
+genreRank
+sortedIml[1,2]
+sortedIml[1,2] == none
+sortedIml[1,2] == "none"
+genreRank = c()#
+for (j in 1:nrow(sortedIml)){#
+	for (i in 1:length(genreNameList)){#
+		if(sortedIml[j,2] == genreNameList[i]){#
+			genreRank = append(genreRank, i)#
+		}#
+	}#
+}
+genreRank
+dim(sortedIMl)
+dim(sortedIl)
+dim(sortedIml)
+sortedIml[2672]
+sortedIml[2672,]
+imlOf = data.frame(sortedIml[,1], sortedIml[,6], genreRank)
+imlOf
+imlOf = data.frame(sortedIml[,1], sortedIml[,6], sortedIml[,2], genreRank)
+imlOf
+iml)[1]
+iml[1]
+iml[1].hour
+iml[1].dae
+iml[1].date
+iml[1].day
+iml[1]$day
+iml[1]$wday
+iml[1,]$wday
+iml[,1]$wday
+iml[,1]
+as.POSIXlt.iml[,1]
+as.POSIXlt(iml[,1])
+iml[,1]
+as.POSIXlt(iml[,1])
+as.POSIXlt(iml[,1]).wday
+as.POSIXlt(iml[,1])$wday
+as.POSIXlt(sortedIml[,1])$wday
+sortedIml[,1]
+as.POSIXlt(sortedIml[,1])$wday
+sortedIml[,1]
+as.POSIXlt(sortedIml[,1])$wday
+as.POSIXlt(sortedIml[,1])$wday*24
+as.POSIXlt(sortedIml[,1])$hour
+as.POSIXlt(sortedIml[,1])$wday*24+as.POSIXlt(sortedIml[,1])$hour
+max(as.POSIXlt(sortedIml[,1])$wday*24+as.POSIXlt(sortedIml[,1])$hour)
+as.POSIXlt(sortedIml[,1])$wday*24+as.POSIXlt(sortedIml[,1])$hour
+timeID =  as.POSIXlt(sortedIml[,1])$wday*24+as.POSIXlt(sortedIml[,1])$hour
+timeID
+imlOf = data.frame(sortedIml[,1], sortedIml[,6], sortedIml[,2], genreRank, timeID)
+imlOf
+write.csv(imlOf, "of.csv")
+foo = "foo"
+bar = str(foo)
+bar
+bar = foo
+bar
+目的#
+#本プログラムは、openFrameworksにて、iTunesの履歴データを、時間軸を含んで読み込むことにより、履歴データから音楽再生の軌跡をアニメーションによって表現するためのcsvファイルをつくるためのものである。#
+#仕様#
+#2012/01/26更新#
+#imlの中から再生された楽曲についての情報を、#
+#以下に示す通りに、列を決めてcsvファイルをつくる。#
+#再生時間のタイムスタンプ文字列(string)・トラック名(string)・アーティスト名(string)・ジャンル名(string)・ジャンルランキング番号(string)・年(int)・月(int)・日(int)・時(int)・分(int)・秒(int)・曜日(int)(日曜を0とする)・曜日番号(int)・時刻番号(int)（日曜の０時台を０とする）#
+#
+#DIctionaly#
+#ジャンルの数---length(table(iml[,2]))#
+#
+iml = read.table('iml.txt', header = F, sep = ",", quote = "")#
+#convert string to POSIXlt#
+time = strptime(iml[,1],"%Y-%m-%d %H:%M:%S")#
+#make data frame which consists of POXIlt and string about genre#
+iml = data.frame(time, iml[,2], iml[,3], iml[,4], iml[,5], iml[6])#
+#convert UTC to JST#
+iml[,1] = iml[,1]+9*60*60#
+#total time#
+names(iml)[1] = "playDate"#
+names(iml)[2] = "genre"#
+names(iml)[3] = "totalTime"#
+names(iml)[4] = "playCount"#
+names(iml)[5] = "disabled"#
+names(iml)[6] = "trackName"#
+#
+timeFilteredIml = c()#
+#ここでimlを2012年4月以降のものだけにする。#
+startTime = strptime("2012-4-01 00:00:00","%Y-%m-%d %H:%M:%S")#
+for(i in 1 : dim(iml)[1]){#
+	if(is.na(iml[i, 1]) == FALSE && startTime < iml[i, 1]){#
+		timeFilteredIml = rbind(timeFilteredIml, iml[i, ])#
+	}#
+}#
+#imlに上書きする。前回の再生時間が記録されているので、一度以上聞かれたもので、かつ2012年4月1日以降のもの。#
+iml = timeFilteredIml#
+#
+#ヒストグラム-経時#
+png(file = "~/dropbox/thesis/out_png/all.png")#
+hist(iml[,1], breaks=48, main="History", col = rgb(217, 217 , 233,  maxColorValue = 255), xlab = "Time", ylab = "Frequency")#
+dev.off()#
+#axis(1, at= seq(0, nb, by = 1))#
+#
+#ヒストグラム-時間#
+png(file = "~/dropbox/thesis/out_png/hour.png")#
+hist(as.POSIXlt(iml[,1])$hour+as.POSIXlt(iml[,1])$min/60+as.POSIXlt(iml[,1])$sec/60/60, breaks=seq(0,24,1), main="24 hours", col = rgb(217, 217 , 233,  maxColorValue = 255), xlab = "Hour", ylab = "Frequency")#
+dev.off()#
+#
+#曜日ごとに色を変え重畳表示#
+weekMax = 0#まずは曜日に分けたときの、ヒストグラムの最大値を求める#
+for(i in 1:7){#
+	if (weekMax < max(table(as.POSIXlt(iml[,1][as.POSIXlt(iml[,1])$wday==i-1])$hour))){#
+		weekMax = max(table(as.POSIXlt(iml[,1][as.POSIXlt(iml[,1])$wday==i-1])$hour))#
+	}#
+}#
+#
+png(file = "~/dropbox/thesis/out_png/week_all.png")#
+for(i in 1:7){#
+	if(i>1){#
+		hist(as.POSIXlt(iml[,1][as.POSIXlt(iml[,1])$wday==i-1])$hour+as.POSIXlt(iml[,1][as.POSIXlt(iml[,1])$wday==i-1])$min/60+as.POSIXlt(iml[,1][as.POSIXlt(iml[,1])$wday==i-1])$sec/60/60, breaks=seq(0,24,1),main="Week", col = hsv(1*i/7, 1 , 1, alpha = 0.5), xlab = "Time", ylab = "Frequency", add = T, ylim =c(0,weekMax))#
+#
+	}else{#
+		hist(as.POSIXlt(iml[,1][as.POSIXlt(iml[,1])$wday==i-1])$hour+as.POSIXlt(iml[,1][as.POSIXlt(iml[,1])$wday==i-1])$min/60+as.POSIXlt(iml[,1][as.POSIXlt(iml[,1])$wday==i-1])$sec/60/60, breaks=seq(0,24,1),main="Week", col = hsv(1*i/7, 1 , 1, alpha = 0.5), xlab = "Time", ylab = "Frequency", add = F, ylim =c(0,weekMax))#
+		#axis(1, at= seq(0, 24, by = 1))#
+	}#
+}#
+dev.off()#
+#
+#曜日ごとに分けて表示#
+for(i in 1:7){#
+	#wdayName = switch(i, "Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday" )#
+	#png(paste(file = "~/dropbox/thesis/out_png/week_",as.character(i), "_",wdayName, ".png", sep = ""))#
+	#hist(as.POSIXlt(iml[,1][as.POSIXlt(iml[,1])$wday==i-1])$hour+as.POSIXlt(iml[,1][as.POSIXlt(iml[,1])$wday==i-1])$min/60+as.POSIXlt(iml[,1][as.POSIXlt(iml[,1])$wday==i-1])$sec/60/60, breaks=seq(0,24,1), main=wdayName, col = hsv(1*i/7, 1 , 1, alpha = 0.5), xlab = "Time", ylab = "Frequency", add = F,  ylim =c(0,weekMax))#
+	#dev.off()#
+#
+	#axis(1, at= seq(0, 24, by = 1), cex.axis = 0.5)#
+    #日本語OKにして、qurartzで書き出す#
+	#wdayName = switch(i, "日曜日", "月曜日", "火曜日", "水曜日", "木曜日", "金曜日", "土曜日" )#
+	wdayName = switch(i, "Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday" )#
+	hist(as.POSIXlt(iml[,1][as.POSIXlt(iml[,1])$wday==i-1])$hour+as.POSIXlt(iml[,1][as.POSIXlt(iml[,1])$wday==i-1])$min/60+as.POSIXlt(iml[,1][as.POSIXlt(iml[,1])$wday==i-1])$sec/60/60, breaks=seq(0,24,1), main=wdayName, col = hsv(1*i/7, 1 , 1, alpha = 0.5), xlab = "Time", ylab = "Frequency", add = F,  ylim =c(0,weekMax))#
+	quartz.save(paste("~/dropbox/thesis/out_png/",as.character(i), "_",wdayName, ".png", sep = ""))#
+}#
+#
+#ジャンルを分けて分析#
+#とりあえず、最大の度数と次点のジャンルを比較分析する。#
+#first#
+largestGenreName = names(table(iml[,2])[table(iml[,2]) == max(table(iml[,2]))])#最大度数のジャンルを取り出す（imamuraのサンプルではJazz)#
+largestGenre = iml[,1][iml[,2] == largestGenreName]#
+#second#
+secondLargestGenreName = names(sort(table(iml[,2]), decreasing = T))[2]#2番目に度数が大きいジャンル名を取得(imamuraのサンプルではRock)#
+secondLargestGenre = iml[,1][iml[,2] == secondLargestGenreName]#
+#縦軸をそろえたいので最大値を求める#
+#quartz()#
+#
+#for文で、一回全文のヒストグラムのてっぺんを出して、最大値を出す。#
+histMax=-1#
+for(i in 1:length(table(iml[,2]))){#
+	targetGenreName = names(sort(table(iml[,2]), decreasing = T))[i]#
+	targetGenre = iml[,1][iml[,2] == targetGenreName]#
+#
+	histMax0 = max(hist(as.POSIXlt(targetGenre)$hour+as.POSIXlt(targetGenre)$min/60+as.POSIXlt(targetGenre)$sec/60/60, main=targetGenreName, breaks=seq(0,24,1), col = hsv(1*i/length(table(iml[,2])), 1, 1, alpha = 0.5), xlab = "Time", ylab = "Frequency", ylim = c(0, histMax))$counts)#
+	if(histMax0 > histMax ){#
+		histMax = histMax0#
+	}#
+}#
+if(histMax == -1){#
+	cat("something wrong!")#
+}#
+#laegest genre hist#
+#グラフ上書き#
+#hist(as.POSIXlt(largestGenre)$hour+as.POSIXlt(largestGenre)$min/60+as.POSIXlt(largestGenre)$sec/60/60, main=largestGenreName, breaks=seq(0,24,1), col = hsv(1/2, 1, 1, alpha = 0.5), xlab = "Time", ylab = "Frequency", ylim = c(0, histMax))#
+#second largest hist#
+#quartz()#
+#hist(as.POSIXlt(secondLargestGenre)$hour+as.POSIXlt(secondLargestGenre)$min/60+as.POSIXlt(secondLargestGenre)$sec/60/60, main=secondLargestGenreName, breaks=seq(0,24,1), col = hsv(1, 1, 1, alpha = 0.5), xlab = "Time", ylab = "Frequency", ylim = c(0, histMax))#
+#ggplot2を使う。#
+#library(ggplot2)#
+#for(i in 1:length(table(iml[,2]))){#
+#	targetGenreName = names(sort(table(iml[,2]), decreasing = T))[i]#
+#	targetGenre = iml[,1][iml[,2] == targetGenreName]#
+#        print(targetGenreName)#
+#        plot = qplot(as.POSIXlt(targetGenre)$hour+as.POSIXlt(targetGenre)$min/60+as.POSIXlt(targetGenre)$sec/60/60, geom = "histogram", binwidth = 1, main = targetGenreName, xlim = c(0,24), ylim = c(0, histMax),  xlab = "Time", ylab = "Frequency")#
+#        ggsave(paste("~/dropbox/thesis/out_pdf/","genre_",i,"_",targetGenreName ,".pdf", sep=""), plot, family="Japan1GothicBBB")#
+#}#
+#再生時間でソート#
+sortedIml = iml[sort.list(iml$playDate),]#
+#ここまでrunning code#
+#今回は1~1863(sortedImlで中身みて、2655までデータが存在して、2656からNANだったので、rownames(sortedIml)==2655でTRUE参照するというアナログで調べた)までデータ存在。#
+playDateExistIml = sortedIml[1:1863,]#
+#以下で、一回でも再生したことのあるものは、last played dateも記録されているはずという前提で、一回以上再生されたものだけのリストを取得する方法もある。#
+#play countだけを変更された場合はエラーが起こる。iTunesの通常の使用ではlast playedの存在と一回以上の再生は一致するが、apple scriptなどを使って、変更した場合はそうはならないかも。#
+#
+#play countを調べて、0でなかったら、リスト（playedIml）に追加。#
+playedIml = iml[iml[,4]!=0,]#
+playedImlSortedByPlayCount =  playedIml[sort.list(playedIml$playCount),] #これと同じ意味の式は右のようにも書ける。 playedImlSortedByPlayCount =  playedIml[sort.list(playedIml[,4]),]#
+#実験で使用する2012年の4月からの情報だけにする、filteredPlayedImlという名前で。#
+#filteredPlayedIml = playedIml[ , ]#
+#for文で全ジャンル書き出してみる#
+#FIXME:quartz()を使う#
+ for(i in 1:length(table(playedIml[,2][, drop = TRUE]))){#
+ 	targetGenreName = names(sort(table(playedIml[,2]), decreasing = T))[i]#
+ 	targetGenre = playedIml[,1][playedIml[,2] == targetGenreName]#
+#         #FIXME:なぜか日本語で書き出されない#
+    	#png(file=paste("~/dropbox/thesis/out_png/","genre_",i,".png", sep=""), bg="white", type="quartz")#
+ 		#hist(as.POSIXlt(targetGenre)$hour+as.POSIXlt(targetGenre)$min/60+as.POSIXlt(targetGenre)$sec/60/60, main=targetGenreName, breaks=seq(0,24,1), col = hsv(1*i/length(table(iml[,2])), 1, 1, alpha = 0.5), xlab = "Time", ylab = "Frequency", xlim = c(0,23), ylim = c(0, histMax))#
+		#dev.off()#
+         #日本語OKにして、qurartzで書き出す#
+    	 hist(as.POSIXlt(targetGenre)$hour+as.POSIXlt(targetGenre)$min/60+as.POSIXlt(targetGenre)$sec/60/60, main=targetGenreName, breaks=seq(0,24,1), col = hsv(1*i/length(table(playedIml[,2][, drop=TRUE])), 1, 1, alpha = 0.5), xlab = "Time", ylab = "Frequency", xlim = c(0,23), ylim = c(0, histMax))#
+    	 quartz.save(paste("~/dropbox/thesis/out_png/","genre_",i, "_", targetGenreName, ".png", sep=""))#
+ }#
+#一度以上再生されたジャンルをplayedImlから曜日毎に書き出す。#
+#ジャズだけを取り出す　playedIml[playedIml$genre=="Jazz",]#
+#日曜日だけ取り出す。  playedIml[as.POSIXlt(playedIml[,1])$wday==0,]#
+#再生回数が1回で、ジャンルがJazzなものだけを取り出す。　playedIml[playedIml$playCount==1 & playedIml$genre == "Jazz",]#
+ #24列で、曜日が変わったら、下の行に行く。（ジャンルが多いと、行（行はジャンルの数x7）が伸びて、列は24列固定。）#
+ graphData  = c()#
+ #24x7列で、曜日か変わったら、右の列に行く。（ジャンルが多いと、行（行はジャンルの数とイコール）が増えて、列は24*7列固定。）#
+ graphDataMatrix = c();#
+ instantGraphDataMatrix = c()#
+ for(weekNum in 1 : 7){#
+	 for(i in 1:length(table(playedIml[,2][, drop = TRUE]))){#
+		targetGenreName = names(sort(table(playedIml[,2][, drop = TRUE]), decreasing = T))[i]#
+		imlWeekGenre = playedIml[  as.POSIXlt(playedIml[,1])$wday==weekNum-1 & playedIml$genre == targetGenreName,]#
+	    imlWeekGenreTime = imlWeekGenre[,1]#
+	    wdayName = switch(weekNum, "Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday" )#
+	    histData = hist(as.POSIXlt(imlWeekGenreTime)$hour+as.POSIXlt(imlWeekGenreTime)$min/60+as.POSIXlt(imlWeekGenreTime)$sec/60/60, main=paste(wdayName, "_", targetGenreName, sep = "")  , breaks=seq(0,24,1), col = hsv(1*i/length(table(playedIml[,2][, drop = TRUE])), 1, 1, alpha = 0.5), xlab = "Time", ylab = "Frequency", xlim = c(0,23), ylim = c(0, histMax)) #
+    	graphData = rbind(graphData, histData$counts)#
+    	instantGraphDataMatrix = rbind(instantGraphDataMatrix, histData$counts)#
+    	quartz.save(paste("~/dropbox/thesis/out_png/", weekNum, "_", wdayName, "_", i,"_", targetGenreName, ".png", sep=""))	#
+	}#
+	graphDataMatrix = cbind(graphDataMatrix, instantGraphDataMatrix)#
+	instantGraphDataMatrix = c()#
+}#
+#
+#音楽の長さと最後に聞いた時間をもとに、操作して選択された曲だけのリストを求める#
+#iml[sort.list(iml$playDate),]#
+#iml[2036,][1]-round(iml[2036,][3]/1000)#ほとんど、同じか、1秒小さいか、1秒大きい。#
+#nrow(iml)#
+#append#
+diff = c()#
+for (i in 2:nrow(playDateExistIml)){#
+	diff = append(diff, playDateExistIml[i-1,][1] - (playDateExistIml[i,][1]-round(playDateExistIml[i,][3]/1000)))#ここはplay dateでソートしてから行うように書き換える！#
+}#
+diffAbs = abs(as.numeric(diff))#
+selectedItems = diffAbs == 1#
+#
+#行番号取得　rownames(sortedIml)[nrow(sortedIml)]#
+#
+#再生回数に応じて、カウントの数を動的に変化させる。例えば、一回しか再生されていないものは、プラス１、2回再生されたものはプラス2というかんじ。回数が多いほど、お気に入りの可能性が高く、ランダム再生でたまたま再生される可能性が低いという推測から。#
+#play count回数分をfor文で loopでコピーして追加する。#
+##
+#低速なのでコメントアウトする。#
+#instantCountOfPlayedImlSortedByPlayCount = dim(playedImlSortedByPlayCount)[1]#
+#imlPlusCount = playedImlSortedByPlayCount#
+##
+#for(i in 1:instantCountOfPlayedImlSortedByPlayCount){#
+#    if(playedImlSortedByPlayCount[i,4]>1){#
+#        for (j in 1:(playedImlSortedByPlayCount[i,4]-1)){#
+#            imlPlusCount  = rbind(imlPlusCount, playedImlSortedByPlayCount[i,])#
+#            #imlPlusCount = rbind(imlPlusCount, rbind(rep(playedImlSortedByPlayCount[i,], playedImlSortedByPlayCount[i,4]-1)))#
+#        }#
+#    }#
+#}#
+#
+sum(iml[,4])#
+dim(imlPlusCount)#
+#
+#csvを書き出す。#
+#曜日毎のジャンルの累積グラフのテーブル#
+write.csv(graphData, "graphData.csv")#
+#横軸#
+write.csv(graphDataMatrix, "graphDataMatrix.csv");#
+#
+#ジャンル#
+genreNameList = names(sort(table(playedIml[,2][, drop = TRUE]), decreasing = T))#
+write.csv(genreNameList, "genreNameList.csv")#
+#
+#disableが入っていない（チェックが入っている）楽曲をジャンルごとにカウントして、csvに書き出す。#
+checkedIml = iml[iml[,5]=="false",]#
+write.csv(sort(table(checkedIml[,2]), decreasing = T), "checkedImlGenreTable.csv")#
+#
+#最終の時刻と最新の時刻を書き出す。#
+write.csv(c(as.character(sortedIml[1,1]), as.character(sortedIml[dim(sortedIml)[1],1])), "timeStamp_oldest_newest.csv")#
+#
+#再生時間のタイムスタンプ文字列(string)・トラック名(string)・アーティスト名(string)・ジャンル名(string)・ジャンルランキング番号(string)・再生カウント（int）・年(int)・月(int)・日(int)・時(int)・分(int)・秒(int)・曜日(int)(日曜を0とする)・曜日番号(int)・時刻番号(int)（日曜の０時台を０とする）#
+#まず、ジャンルランキング番号(string)以外はimlから計算して出せる。ジャンルランキングは、ジャンル名と、ランキングデータを調べて、合致するのが何行目かを調べる。for文まわしすぎかな。。。#
+#sortedIml: playDate genre totalTime playCount disabled         trackName#
+#ジャンルの順位を調べる#
+genreRank = c()#
+for (j in 1:nrow(sortedIml)){#
+	for (i in 1:length(genreNameList)){#
+		if(sortedIml[j,2] == genreNameList[i]){#
+			genreRank = append(genreRank, i)#
+		}#
+	}#
+}#
+#時間ID（日曜日の0時台が0, 土曜日の23時台が168）#
+timeID =  as.POSIXlt(sortedIml[,1])$wday*24+as.POSIXlt(sortedIml[,1])$hour#
+#
+#ミニマムテスト#
+#日付、トラック名、ジャンル名、ジャンルランク、時間ID（日曜日の0時台が0, 土曜日の23時台が168）#
+imlOf = data.frame(sortedIml[,1], sortedIml[,6], sortedIml[,2], genreRank, timeID)#
+write.csv(imlOf, "of.csv")
+imlOf
+imlOf[1,]
+imlOf[1,3]
+help(write.csv)
+write.csv(imlOf, "of.csv", qmethod = "escape")
+write.csv(imlOf, "of.csv", qmethod = "double")
+write.csv(imlOf, "of.csv",qmethod = "double")
+write.csv(imlOf, "of.csv", qmethod= "double")
+write.csv(imlOf, file = "of.csv", qmethod = "escape")
+write.table(imlOf, file = "of.csv", qmethod = "escape")
+write.table(imlOf, dec = ",", file = "of.csv", qmethod = "escape")#色々指定する関数
+write.table(imlOf, dec = ",", file = "of.csv", qmethod = "double")#色々指定する関数
+write.table(ximlOf, file = "of.csv", sep = ",", col.names = NA, qmethod = "double")
+write.table(imlOf, file = "of.csv", sep = ",", col.names = NA, qmethod = "double")
+write.table(imlOf, file = "of.csv", sep = ",", col.names = NA, qmethod = "escape")
+write.table(imlOf, file = "of.csv", sep = ",", col.names = NA, qmethod = "double")
+help(write.csv)
+write.table(imlOf, file = "of.csv", sep = ",", quote = false)
+write.table(imlOf, file = "of.csv", sep = ",", quote = FALSE)
+write.table(imlOf, file = "of.csv", sep = ",", col.names = NA, quote = FALSE)
+source("imlAnalyzer_of.R")
+sortedIml[1,]
+sortedIml[2,]
+sortedIml[10,]
+sortedIml[10,2]
+sortedIml[2,]
+iml
+iml
+write.table(imlOf, file = "of.csv", sep = ",", col.names = NA, quote = FALSE)
+source("imlAnalyzer_of.R")
+source("imlAnalyzer_of.R")
+source("imlAnalyzer_of.R")
+source("imlAnalyzer_of.R")
+source("imlAnalyzer_of.R")
+source("imlAnalyzer_of.R")
+source("imlAnalyzer_of.R")
+source("imlAnalyzer_of.R")
+source("imlAnalyzer_of.R")
+source("imlAnalyzer_of.R")
+source("imlAnalyzer_of.R")
+source("imlAnalyzer_of.R")
+source("imlAnalyzer_of.R")
+source("imlAnalyzer_of.R")
+source("imlAnalyzer_of.R")
+source("imlAnalyzer_of.R")
+source("imlAnalyzer_of.R")
+source("imlAnalyzer_of.R")
+iml = read.table('iml.txt', header = F, sep = ",", quote = "")
+iml
+iml
+foo = read.table('iml.txt', header = F, sep = ",", quote = "")
+foo
+foo = read.table('iml.txt', header = F, sep = ",", quote = "")
+source("imlAnalyzer_of.R")
+iml = read.table('iml.txt', header = F, sep = ",", quote = "")
+iml
+iml = read.table('iml.txt', header = F, sep = ",", quote = "")
+iml
+iml = read.table('iml.txt', header = F, sep = ",", quote = "")
+iml = data.frame(time, iml[,2], iml[,3], iml[,4], iml[,5], iml[6], iml[7])#
+#convert UTC to JST#
+iml[,1] = iml[,1]+9*60*60#
+#total time#
+names(iml)[1] = "playDate"#
+names(iml)[2] = "genre"#
+names(iml)[3] = "totalTime"#
+names(iml)[4] = "playCount"#
+names(iml)[5] = "disabled"#
+names(iml)[6] = "trackName"#
+names(iml)[7] = "albumName"
+iml
+iml
+sortedIml = iml[sort.list(iml$playDate),]
+sortedIml
+source("imlAnalyzer_of.R")
+source("imlAnalyzer_of.R")
+sortedIml[,7]
+imlOf
+source("imlAnalyzer_of.R")

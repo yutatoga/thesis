@@ -1,0 +1,3276 @@
+never,Rap,392826,0,false,Beautiful
+2012-10-19 06:02:52,Traditional,531066,1,false,『佃祭』 水難を免れた次郎兵衛
+2012-11-06 19:23:20,Pop,267040,2,false,放浪船
+never,iTunes U,3835636,0,false,8. Controller Lifecycle & Image_Scroll_WebViews (October 20_ 2011) - HD
+never,iTunes U,2468936,0,false,Introduction to AVFoundation (October 21_ 2011) - HD
+2012-10-31 13:41:35,Traditional,1950506,4,false,ちしゃ医者
+never,iTunes U,4431465,0,false,7. UIToolbar and iPad Apps (October 18_ 2011) - HD
+2012-11-02 00:33:00,Indie Rock,411013,41,false,Lovers In Japan_Reign Of Love
+2012-11-02 00:18:17,Indie Rock,201106,41,false,Cemeteries Of London
+2012-11-02 00:14:56,Indie Rock,149986,40,false,Life In Technicolor
+2012-11-02 00:26:09,Indie Rock,237400,49,false,42
+2012-11-02 00:22:12,Indie Rock,235066,49,false,Lost!
+never,ボイスメモ,223955,0,false,4_11_12 18:21 
+never,ボイスメモ,3295,0,false,4_11_12 18:21 
+never,Traditional,317360,0,false,『御慶』 家主と八五郎
+never,ボイスメモ,30068,0,false,3_30_12 9:24 
+never,iTunes U,4675876,0,false,14. Core Data Demo (November 10_ 2011) - HD
+never,iTunes U,1135135,0,false,Time Profiler (November 4_ 2011) - HD
+never,iTunes U,4461562,0,false,15. Modal View Controller_Test_Animation_Timer (November 15_ 2011)
+never,ボイスメモ,32158,0,false,4_11_12 18:29 
+2012-07-02 16:31:11,Jazz,202893,8,false,My Ship
+never,Rock,273800,0,false,Swlabr [Demo]
+2012-11-17 04:30:15,Pop,247360,28,false,In The Morning
+never,Rock,243400,0,false,The Clearout [Demo]
+never,Rock,62200,0,false,Falstaff Beer Commercial
+never,Traditional,2207026,0,false,舟弁慶
+never,Rock,381000,0,false,White Room [Live At Oakland]
+2012-11-17 04:33:43,Pop,208866,27,false,Be Here To Love Me
+2012-06-29 12:02:03,Jazz,646266,1,false,The Long Passage
+never,Jazz,74533,0,false,Port View 5
+2012-06-29 12:08:40,Jazz,301893,1,false,Jocelyn - The Commander
+2012-10-20 10:12:52,Traditional,327866,1,false,『柳田格之進』-5 娘の自己犠牲
+2012-04-21 10:58:50,Country & Folk,181040,16,false,I'm Gonna Sit Right Down And Write Myself A Letter
+2012-04-21 10:55:49,Country & Folk,214093,18,false,I'm Confessin' (That I Love You)
+2012-04-21 10:52:15,Country & Folk,253826,16,false,Basin Street Blues
+2012-04-21 10:48:01,Country & Folk,136813,19,false,What A Wonderful World
+2012-04-03 00:57:42,Pop,243413,19,false,Someone To Watch Over Me
+2012-05-13 11:30:34,Jazz,57093,19,false,ラウンジ・タイム#1
+2012-08-07 02:08:08,Rap,259573,1,false,Evil Deeds
+2012-08-05 19:58:51,Rap,266906,3,false,My Dad's Gone Crazy
+2012-08-05 19:59:51,Rap,60666,3,false,Curtains Close
+2012-10-07 11:34:29,Pop,186266,1,false,One Time
+2012-10-20 09:53:49,Traditional,244733,1,false,『柳田格之進』-3 十五夜の変事
+2012-06-10 16:39:43,Jazz,337466,4,false,XYZ
+never,Voice Memo,104650,0,false,11_8_12 23:32 
+never,iTunes U,1049180,0,false,第5回(4)：須藤　修「情報爆発と新たなネットワーク社会の創造」
+never,iTunes U,920085,0,false,第5回(5)：須藤　修「情報爆発と新たなネットワーク社会の創造」
+never,iTunes U,1455078,0,false,英語の発音と発音記号
+2012-10-20 09:49:44,Traditional,373626,1,false,『柳田格之進』-2 柳田と万屋の縁
+never,iTunes U,791657,0,false,第5回(7)：須藤　修「情報爆発と新たなネットワーク社会の創造」
+never,Voice Memo,117143,0,false,2_18_12 18:30 
+2012-06-29 05:18:16,Jazz,429000,12,false,Now He Sings_Now He Sobs
+2012-06-29 05:28:54,Jazz,638000,12,false,Now He Beats the Drum - Now He Stops
+2012-06-29 05:04:38,Jazz,834426,12,false,Steps - What Was
+2012-07-05 15:38:58,Jazz,387173,6,false,Autumn Leaves
+2012-06-29 05:11:07,Jazz,389640,12,false,Matrix
+2012-06-29 05:31:23,Jazz,148426,12,false,The Law of Falling and Catching up
+2012-10-20 10:07:24,Traditional,427200,1,false,『柳田格之進』-4 柳田の冤罪
+2012-11-13 23:42:30,Metal,319400,2,false,In These Arms
+2012-10-15 03:38:29,Electronica,244800,1,false,Here Come The Warm Jets
+2012-04-23 15:09:17,R&B,227666,3,false,Sweet Potato Pie
+2012-10-07 11:03:14,Pop,202626,1,false,Eenie Meenie
+2012-11-07 15:57:13,Traditional,95040,1,false,火事場へ急行
+2012-10-19 06:50:00,Electronica,276240,2,false,On Some Faraway Beach
+2012-11-09 01:15:04,Rock,215506,3,false,Obviously 5 Believers
+2012-10-19 06:53:37,Electronica,217226,2,false,Blank Frank
+2012-11-09 01:11:29,Rock,275000,2,false,4th Time Around
+2012-10-19 06:57:56,Electronica,259573,2,false,Dead Finks Don't Talk
+2012-05-16 17:30:09,R&B,238960,7,false,Here We Go Again
+2012-10-19 07:03:07,Electronica,311066,2,false,Some Of Them Are Old
+2012-11-09 01:26:25,Rock,680600,3,false,Sad Eyed Lady Of The Lowlands
+2012-03-28 22:14:39,Rock,181000,5,true,Killer Queen
+2012-04-03 18:22:48,Rock,217040,12,false,Another One Bites The Dust
+2012-09-06 13:04:45,Pop,155800,1,false,砂漠の恋の物語
+2012-02-05 18:00:35,Rock,256466,2,false,Fat Bottomed Girls
+2012-02-05 17:56:19,Rock,296866,2,false,Somebody To Love
+never,Metal,254573,0,false,The Price Of Love
+2012-03-28 05:30:09,Rock,182693,4,false,Bicycle Race
+2012-11-17 01:22:00,Metal,229413,21,false,I Want To Be Loved
+never,Traditional,93933,0,false,大神宮様への祈願
+2012-10-14 15:28:20,Electronica,236453,1,false,Through Hollow Lands (For Harold Budd)
+2012-10-20 17:46:44,Rock,552200,2,false,I'm So Glad [Live]
+2012-10-14 15:24:23,Electronica,183493,1,false,By This River
+2012-10-14 15:21:20,Electronica,379786,1,false,Julie With ...
+2012-10-14 15:15:00,Electronica,338893,1,false,Here He Comes
+2012-11-17 01:18:11,Metal,228880,32,false,Have A Nice Day
+never,Traditional,287533,0,false,芝で火災が
+2012-10-20 17:53:02,Rock,377173,2,false,Politician [Live]
+2012-10-14 15:32:31,Electronica,250733,1,false,Spider And I
+2012-05-13 14:05:20,Country & Folk,145200,2,false,One More Night
+2012-03-27 15:17:36,Country & Folk,201240,1,false,Lay Lady Lay
+2012-07-27 01:50:09,Voice Memo,113242,1,false,2_4_12 4:00 
+2012-05-13 14:07:25,Country & Folk,124960,2,false,Peggy Day
+2012-05-13 14:09:51,Country & Folk,146173,2,false,I Threw It All Away
+2012-07-29 18:25:53,Rock,187400,12,false,Take It Back
+never,Voice Memo,206540,0,false,2_6_12 6:05 
+2012-04-19 14:33:59,Jazz,668133,15,false,パリのエリザベス・テイラー (存在しない)
+2012-05-13 14:02:54,Country & Folk,163600,2,false,Tell Me That It Isn't True
+2012-10-07 11:07:09,Pop,234933,1,false,Up
+2012-08-07 00:41:36,Rap,272666,5,false,Say Goodbye Hollywood
+2012-07-29 18:27:41,Rock,108360,12,false,Mother's Lament
+never,Indie Rock,228200,0,false,Go Slowly
+never,Indie Rock,53026,0,false,MK 2
+never,Indie Rock,266480,0,false,Last Flowers To The Hospital
+2012-09-26 04:43:13,Rock,330266,1,false,New York
+never,Indie Rock,257146,0,false,Up On The Ladder
+2012-03-27 11:18:00,Rock,231333,10,false,From Silver Lake
+never,Electronica,204866,0,false,Calcium Needles
+2012-09-06 13:16:23,Pop,141040,1,false,九ちゃん音頭(それが浮世と云うものさ)
+2012-11-17 01:30:28,Metal,280666,16,false,Who Says You Can't Go Home
+2012-03-03 14:11:21,Rock,323333,8,false,Song For Adam
+never,Indie Rock,207026,0,false,Futurism
+2012-04-14 09:18:11,Jazz,266000,15,false,Blue In Green [Take 2]
+2012-09-10 05:00:29,Traditional,51933,2,false,『宿屋の富』 主人公宿へ帰る
+never,Indie Rock,157093,0,false,In Your World
+2012-04-23 05:40:28,Jazz,309573,15,false,Spring Is Here
+2012-10-07 11:38:35,Pop,215453,1,false,Baby
+2012-04-19 14:21:45,Jazz,276666,3,false,What Is This Thing Called Love?
+2012-11-18 09:49:30,Pop,304573,1,false,最新伝説
+2012-04-14 09:13:45,Jazz,326693,14,false,Blue In Green [Take 3]
+2012-04-18 10:20:37,Jazz,297066,2,false,Someday My Prince Will Come
+2012-09-02 11:26:35,Rock,272840,6,false,Passing The Time
+2012-09-02 11:30:56,Rock,261333,6,false,As You Said
+2012-03-04 07:16:05,Rock,197933,2,false,Sing
+2012-09-02 11:22:02,Rock,298493,6,false,Sitting On Top Of The World
+2012-03-04 07:09:39,Rock,167960,2,false,Please Mr. Postman
+2012-03-04 07:12:47,Rock,187933,2,false,Merry Christmas Darling
+2012-03-04 08:21:11,Rock,226466,3,false,Only Yesterday
+2012-03-04 07:06:51,Rock,168333,2,false,Hurting Each Other
+never,ボイスメモ,27676,0,false,3_22_12 19:51 
+2012-12-01 14:59:10,Indie Rock,263026,2,false,I Hope_ I Think_ I Know
+2012-09-18 06:24:01,Pop,189026,2,false,上を向いて歩こう
+2012-12-01 14:54:47,Indie Rock,356066,2,false,Stand By Me
+2012-12-01 14:48:51,Indie Rock,439400,2,false,Magic Pie
+2012-12-01 14:41:32,Indie Rock,302600,5,false,My Big Mouth
+2012-11-18 09:34:53,Pop,248466,2,false,炎熱の月明かり
+2012-07-22 14:44:09,Rock,227266,13,false,Sing This All Together
+never,Country & Folk,164173,0,false,See That My Grave Is Kept Clean
+2012-05-16 17:20:16,Country & Folk,169000,10,false,Blowin' In The Wind
+2012-06-10 16:51:40,Jazz,717440,4,false,Double Personality
+2012-03-27 12:10:37,Country & Folk,203093,6,false,Girl From The North Country
+2012-07-01 00:43:29,Electronica,259706,3,false,F-Train
+2012-02-13 11:00:19,Country & Folk,278200,5,false,Masters Of War
+2012-07-01 00:51:57,Electronica,83346,3,false,Conk 2 Symmetriac
+2012-03-27 09:00:25,Country & Folk,212106,5,false,Down The Highway
+2012-07-01 00:50:34,Electronica,209893,3,false,Anstromm-Feck 4
+2012-05-13 12:39:33,Country & Folk,148866,7,false,Bob Dylan's Blues
+never,iTunes U,1085674,0,false,Seducing Summer Readers
+2012-07-01 01:02:45,Electronica,648173,3,false,Mutilation Colony
+2012-06-18 04:36:49,Rock,131546,6,false,Eclipse
+2012-09-14 02:36:58,Pop,249000,2,false,仁義
+2012-11-16 02:09:02,Indie Rock,366800,1,false,Knights Of Cydonia
+2012-09-26 04:33:25,Rock,288400,1,false,Peace On Earth
+2012-09-14 03:31:23,Pop,319866,4,false,根っこ
+2012-11-16 01:59:12,Indie Rock,288866,1,false,City Of Delusion
+2012-11-16 02:02:55,Indie Rock,223373,1,false,Hoodoo
+2012-11-16 01:50:30,Indie Rock,211133,1,false,Assassin
+2012-11-16 01:54:23,Indie Rock,233226,1,false,Exo-Politics
+2012-09-11 13:27:12,Pop,307973,2,false,のぼり坂
+2012-09-11 13:10:00,Pop,328760,3,false,男一代
+2012-11-02 01:00:08,Pop,183880,3,false,Imagine
+2012-10-26 17:09:34,Pop,213120,2,false,Stand By Me
+2012-09-11 13:16:44,Pop,303333,3,false,竹
+2012-10-26 17:02:29,Pop,253146,2,false,Mind Games
+2012-10-26 16:58:16,Pop,240146,2,false,(Just Like) Starting Over
+2012-07-21 15:44:09,Rock,245866,1,false,Tell Me
+2012-11-18 11:56:57,Pop,259760,1,false,迷走する町
+2012-11-06 19:41:19,Pop,511800,1,false,うさぎ
+never,Metal,262733,0,false,The Hardest Part Is The Night
+2012-11-18 11:44:57,Pop,326400,1,false,ミスコンテスト
+2012-11-18 11:39:30,Pop,332133,2,false,青い闇の警告
+2012-11-18 11:52:38,Pop,285506,1,false,愛の装備
+2012-09-14 02:47:41,Pop,225800,2,false,加賀の女
+2012-11-18 11:47:52,Pop,175493,1,false,white
+never,Electronica,114400,0,false,Dust Shuffle
+2012-05-28 18:19:36,Jazz,424040,15,false,All Of You
+2012-09-23 12:21:16,Pop,255760,4,false,汽笛（木下龍太郎）
+2012-10-20 01:10:29,Metal,243893,1,false,Any Other Day
+2012-09-23 12:17:01,Pop,229866,4,false,居酒屋（阿久悠）
+never,Metal,284733,0,false,Till We Ain't Strangers Anymore
+2012-09-23 12:13:11,Pop,212573,4,false,ふるさと（山口洋子）
+2012-10-20 01:19:05,Metal,253213,1,false,Everybody's Broken
+2012-09-11 02:02:45,Pop,289360,3,false,おしどり（石坂まさお）
+2012-07-02 11:41:39,Jazz,498666,3,false,STRAIGHT TO THE TOP
+2012-07-02 11:47:44,Jazz,365160,3,false,MBALI AFRICA
+2012-05-28 18:45:52,Jazz,358000,16,false,'Round Midnight
+2012-05-28 18:12:32,Jazz,353986,15,false,Ah-Leu-Cha
+2012-09-23 12:26:14,Pop,297106,4,false,おふくろの子守唄（つんく）
+2012-07-22 06:10:40,Rock,184026,4,false,Around And Around
+2012-10-24 10:43:58,Traditional,601306,1,false,『三年目』 出囃子「三下り中の舞」～マクラ
+2012-07-22 06:13:29,Rock,168666,4,false,Confessin' The Blues
+2012-07-05 15:41:26,Jazz,148400,6,false,Cherokee II
+2012-09-11 05:23:50,Pop,251800,1,false,関東流れ唄
+never,Traditional,244106,0,false,無事だった富札・サゲ・中入り
+2012-09-07 13:48:49,Traditional,431373,1,false,明烏 _ 日向屋内
+2012-11-13 01:24:26,Traditional,163600,1,false,『二番煎じ』 出囃子「老松」～マクラ
+never,Rock,194466,0,false,Weird Of Hermiston [Demo]
+2012-11-07 16:16:27,Traditional,341040,1,false,浅草方面の火災・久蔵宅焼失
+never,Metal,304800,0,false,Silent Night
+2012-09-11 05:42:47,Pop,267733,1,false,終着駅は始発駅
+2012-09-14 02:27:37,Pop,244093,2,false,与作
+2012-11-13 01:29:51,Traditional,324933,1,false,『二番煎じ』 一の組の出発
+2012-09-11 05:51:23,Pop,271933,1,false,風雪ながれ旅
+2012-09-07 13:36:36,Traditional,181453,1,false,明烏 _ 出囃子「三下り中の舞」～マクラ
+never,Jazz,298053,0,false,The Way We Were
+2012-10-20 08:50:49,Traditional,151133,1,false,『大工調べ』 与太郎も毒ずく
+2012-10-20 08:48:18,Traditional,228733,1,false,『大工調べ』 政五郎の啖呵
+2012-10-20 08:44:30,Traditional,265626,1,false,『大工調べ』 因業家主
+2012-10-20 07:12:32,Traditional,289440,1,false,『大工調べ』 政五郎と家主、まずは順当なかけあい
+never,Jazz,278733,0,false,Islands Of Japan
+2012-10-20 07:06:56,Traditional,251293,1,false,『大工調べ』 八百文足りないばかりに
+2012-10-24 10:58:44,Traditional,534760,1,false,『三年目』 愛妻の遺言
+2012-11-04 13:34:59,Jazz,305933,1,false,The Juggler
+never,Jazz,131600,0,false,Rumba Mama
+never,Jazz,376320,0,false,Neon Blue
+never,Jazz,288866,0,false,Palladium
+never,Jazz,171600,0,false,Teen Town
+never,Jazz,241093,0,false,Harlequin
+2012-05-13 14:15:17,Country & Folk,194800,2,false,Nashville Skyline Rag
+2012-07-06 02:48:49,Classical,37973,1,false,Bach: Goldberg Variations_ BWV 988 - Variatio 9 Canone Alla Terza. A 1. Clav. (1955)
+never,Indie Rock,261306,0,false,(It's Good) To Be Free
+never,Indie Rock,263160,0,false,Half The World Away
+2012-10-27 15:53:28,Alternative,196746,11,false,In Between
+never,Indie Rock,400240,0,false,Listen Up
+2012-07-06 02:46:17,Classical,34133,1,false,Bach: Goldberg Variations_ BWV 988 - Variatio 6 A 1 Clav. Canone Alla Seconda (1955)
+2012-07-06 02:45:43,Classical,37040,1,false,Bach: Goldberg Variations_ BWV 988 - Variatio 5 A 1 Ovvero 2 Clav. (1955)
+never,Indie Rock,496440,0,false,I Am The Walrus [Live]
+2012-07-06 02:48:11,Classical,45466,1,false,Bach: Goldberg Variations_ BWV 988 - Variatio 8 A 2 Clav. (1955)
+2012-03-27 12:14:21,Country & Folk,224093,1,false,Girl From The North Country
+2012-07-06 02:47:25,Classical,68053,1,false,Bach: Goldberg Variations_ BWV 988 - Variatio 7 A 1 Ovvero 2 Clav. (1955)
+2012-09-27 00:19:02,Traditional,312933,1,false,『三軒長屋』 政五郎と楠先生
+2012-10-21 18:30:14,Jazz,161720,1,false,Bass Folk Song No. 6 (Mo Anam Cara)
+2012-11-01 21:55:09,Pop,215173,7,false,Sunshine On My Shoulders
+2012-10-21 18:27:32,Jazz,529360,1,false,Sonny Rollins
+2012-11-01 21:58:31,Pop,201746,7,false,Worldly Matters
+never,Jazz,262653,0,false,Jazzy Bullets
+2012-11-01 21:47:52,Pop,140480,9,false,Tell Me
+never,none,257123,0,false,1120Studio_Sample(3)
+2012-11-01 21:51:34,Pop,221973,9,false,Heavy Lifting
+2012-04-23 02:35:54,Rock,682000,28,false,Desolation Row
+never,Jazz,369000,0,false,Nite Crawler 2010
+2012-10-20 14:31:04,Pop,176880,5,false,Sweet Talker
+2012-07-10 12:18:21,Jazz,439813,12,false,Desire
+2012-04-23 02:24:32,Rock,331760,33,false,Just Like Tom Thumb's Blues
+never,Indie Rock,267786,0,false,Better Man
+2012-10-24 03:47:07,Traditional,141426,1,false,『付き馬』 特殊な早桶の註文
+never,iTunes U,4283617,0,false,6. Multiple MVCs and Segues (October 13_ 2011) - HD
+2012-06-18 04:34:37,Rock,226933,7,false,Brain Damage
+2012-11-16 03:13:13,Indie Rock,249666,39,false,Strawberry Swing
+never,Indie Rock,368933,0,false,Born On A Different Cloud
+never,iTunes U,4477411,0,false,5. Protocols and Gestures (October 11_ 2011) - HD
+2012-11-16 03:05:21,Indie Rock,241426,46,false,Viva La Vida
+never,iTunes U,3255289,0,false,Xcode and Source Code Management (October 7_ 2011) - HD
+2012-11-16 03:19:37,Indie Rock,383773,34,false,Death And All His Friends
+never,Indie Rock,189360,0,false,She Is Love
+2012-11-17 04:05:56,Metal,276666,3,false,I Got The Girl
+2012-07-10 12:24:15,Jazz,354093,12,false,Haze
+2012-06-29 12:03:38,Jazz,95106,1,false,Port View 6
+2012-11-17 04:10:14,Metal,258200,3,false,One Wild Night
+never,ボイスメモ,20083,0,false,4_11_12 20:14 
+never,ボイスメモ,119511,0,false,4_11_12 18:31 
+never,ボイスメモ,59464,0,false,4_19_12 16:32 
+never,ボイスメモ,14952,0,false,4_13_12 14:44 
+2012-10-08 19:37:59,ボイスメモ,2552,1,false,3_1_12 21:54 
+never,ボイスメモ,33110,0,false,4_23_12 13:17 
+2012-06-29 12:11:12,Jazz,152173,1,false,Port View 7
+2012-07-24 21:21:53,Rock,187773,11,false,Respectable
+2012-09-11 05:26:27,Pop,156866,1,false,薩摩の女
+2012-06-18 04:30:50,Rock,206213,10,false,Any Colour You Like
+never,Rock,169266,0,false,Lawdy Mama [Version 2]
+2012-10-20 09:30:35,Traditional,106333,1,false,『柳田格之進』-1 出囃子「三下り中の舞」～マクラ
+never,Rock,165866,0,false,The Coffee Song
+never,Rock,229666,0,false,We're Going Wrong [Demo]
+never,Rock,162466,0,false,You Make Me Feel [Demo]
+never,Rock,213400,0,false,Hey Now Princess [Demo]
+never,Indie Rock,2060680,0,false,You've Got The Heart Of A Star
+2012-07-24 21:29:43,Rock,265066,11,false,Beast Of Burden
+2012-04-14 05:00:30,Pop,157160,21,false,Don't Get Around Much Anymore
+never,Indie Rock,303133,0,false,Stop Crying Your Heart Out
+never,Jazz,376226,0,false,Hound Of Heaven
+never,Indie Rock,292866,0,false,Little By Little
+2012-08-07 02:03:48,Rap,46866,1,false,Curtains Up
+2012-04-03 00:40:17,Pop,232120,19,false,Unchained Melody
+2012-04-14 04:27:46,Pop,278720,20,false,September Song
+2012-06-28 10:53:35,Jazz,638600,1,false,Johnny's Landing
+2012-06-28 10:56:05,Jazz,150200,1,false,Port View 3
+2012-08-05 21:06:56,Rap,309906,4,false,Say What You Say
+2012-08-05 21:01:46,Rap,268960,4,false,When The Music Stops
+2012-08-07 01:04:08,Rap,33106,5,false,Steve Berman (Skit)
+2012-08-07 01:03:35,Rap,320733,5,false,Hailie's Song
+2012-08-05 21:11:54,Rap,297893,4,false,'Till I Collapse
+never,iTunes U,910108,0,false,第13回(5)：竹内　郁雄「情報とアートのインターフェース」
+never,iTunes U,907673,0,false,第13回(7)：竹内　郁雄「情報とアートのインターフェース」
+never,iTunes U,1089788,0,false,特別講義(2)：坂本龍一　×　小林康夫「音楽はどこにある？」
+never,iTunes U,997095,0,false,特別講義(1)：坂本龍一　×　小林康夫「音楽はどこにある？」
+never,iTunes U,946445,0,false,特別講義(3)：坂本龍一　×　小林康夫「音楽はどこにある？」
+2012-07-02 14:35:13,Jazz,314626,5,false,You're Everything
+2012-07-02 14:46:12,Jazz,659000,5,false,Light As a Feather
+2012-10-20 01:38:51,Metal,239000,1,false,Put The Boy Back In Cowboy
+2012-11-18 03:17:22,Jazz,296733,6,false,Captain Marvel
+2012-11-18 03:26:31,Jazz,549240,6,false,500 Miles High
+2012-11-18 03:29:24,Jazz,172626,6,false,Children's Song
+2012-09-11 05:38:19,Pop,237000,1,false,歩
+2012-05-13 12:32:49,R&B,210826,5,false,Fever
+2012-03-27 08:27:32,R&B,274906,2,false,Do I Ever Cross Your Mind
+2012-04-23 15:13:12,R&B,235373,2,false,You Don't Know Me
+2012-02-13 10:24:14,R&B,239333,2,false,Sorry Seems To Be The Hardest Word
+2012-02-13 10:38:29,R&B,299733,2,false,It Was A Very Good Year
+2012-08-07 02:10:47,Rap,159786,1,false,Never Enough
+never,ボイスメモ,18504,0,false,2_7_12 5:52 
+2012-10-20 10:35:22,Traditional,457493,1,false,『柳田格之進』-9 柳田との遭遇
+2012-09-26 17:00:13,Traditional,413400,1,false,真田小僧 ウチの真田の知恵・サゲ
+never,ボイスメモ,21709,0,false,2_10_12 5:45 
+2012-03-28 10:35:31,Rock,168400,6,false,Seven Seas Of Rhye
+2012-03-11 20:34:11,Rock,254666,5,false,Now I'm Here
+2012-02-05 18:17:00,Rock,211600,2,false,Play The Game
+2012-02-05 18:06:30,Rock,171706,2,false,You're My Best Friend
+2012-03-28 13:35:49,Rock,163693,3,false,Crazy Little Thing Called Love
+2012-11-02 05:34:48,Electronica,223680,2,false,Backwater
+2012-11-02 05:31:05,Electronica,232786,2,false,No One Receiving
+2012-11-02 05:39:48,Electronica,124893,2,false,Energy Fools The Magician
+2012-11-02 05:37:44,Electronica,175200,2,false,Kurt's Rejoinder
+2012-07-22 06:21:34,Rock,151733,4,false,Good Times_ Bad Times
+2012-03-29 17:25:33,Country & Folk,99333,2,false,Country Pie
+2012-04-19 14:49:00,Jazz,358706,14,false,コルコヴァード
+2012-05-13 14:00:11,Country & Folk,203266,2,false,Tonight I'll Be Staying Here With You
+2012-03-14 16:45:55,Pop,27466,8,false,ごあいさつ
+2012-06-10 16:28:00,Jazz,524240,3,false,Another Mind
+2012-03-10 21:20:34,Pop,217960,4,false,失業手当
+never,Voice Memo,21709,0,false,2_10_12 5:45 
+2012-02-10 07:09:25,Pop,197906,3,false,年輪・歯車
+never,Voice Memo,16763,0,false,2_8_12 3:46 
+2012-04-19 14:40:23,Jazz,383893,14,false,南米のエリザベス・テイラー
+2012-06-10 17:06:17,Jazz,509826,4,false,Joy
+2012-06-10 17:14:41,Jazz,503840,4,false,010101 (Binary System)
+2012-11-06 17:06:45,Pop,192213,5,false,Little Broken Hearts
+never,Indie Rock,299120,0,false,Down Is The New Up
+2012-11-06 16:41:58,Pop,190800,5,false,She's 22
+2012-11-06 16:56:01,Pop,246333,5,false,Take It Back
+2012-11-06 17:10:28,Pop,222280,5,false,After The Fall
+never,Indie Rock,290066,0,false,Give Up The Ghost
+2012-11-06 17:13:27,Pop,179906,5,false,4 Broken Hearts
+never,Indie Rock,286893,0,false,Codex
+never,Indie Rock,63960,0,false,MK 1
+never,Indie Rock,321426,0,false,Separator
+2012-11-22 13:23:58,Jazz,432680,20,false,Comin' Home Baby
+2012-11-14 00:15:54,Metal,336440,2,false,I Want You
+2012-09-26 20:57:55,Traditional,642306,3,false,今戸の狐 出囃子「老松」～マクラ
+2012-09-06 13:24:53,Pop,159893,1,false,戦場に陽は落ちて
+2012-11-22 13:29:45,Jazz,347373,19,false,Cristo Redentor
+2012-09-08 16:43:10,Traditional,386600,1,false,居残り佐平次 _ 三日目の朝
+2012-11-01 20:10:10,Jazz,369960,1,false,LIFE LONG SERENADE
+2012-09-26 20:00:01,Traditional,434000,1,false,井戸の茶碗 一段とめでたい大団円～サゲ～中入り
+2012-09-08 16:20:28,Traditional,127800,1,false,居残り佐平次 _ 出囃子「老松」～マクラ
+2012-09-08 16:27:53,Traditional,445560,1,false,居残り佐平次 _ 事の発端
+2012-09-08 16:33:00,Traditional,306973,1,false,居残り佐平次 _ 翌朝の掛け合い
+2012-09-08 16:36:43,Traditional,223093,1,false,居残り佐平次 _ 二日目の夜
+2012-09-02 11:48:11,Rock,218200,5,false,Deserted Cities Of The Heart
+2012-11-02 03:42:20,Country & Folk,288733,6,false,I Shall Be Free No. 10
+2012-09-02 11:44:33,Rock,190506,5,false,Born Under A Bad Sign
+2012-09-02 11:41:22,Rock,177493,5,false,Those Were The Days
+2012-03-04 07:32:52,Rock,222066,2,false,(They Long To Be) Close To You
+2012-03-27 10:31:28,Rock,153493,4,false,For All We Know
+2012-03-04 07:26:37,Rock,200866,2,false,Touch Me When We're Dancing
+2012-03-04 07:23:16,Rock,235840,2,false,I Won't Last A Day Without You
+2012-03-27 16:38:10,Rock,186066,4,false,Money_ Money_ Money
+2012-03-28 05:52:27,Rock,195200,3,false,Bless The Beasts And Children
+2012-12-01 15:31:14,Indie Rock,560000,2,false,All Around The World
+2012-12-01 15:05:00,Indie Rock,349733,2,false,The Girl In The Dirty Shirt
+2012-11-02 03:30:21,Country & Folk,145440,8,false,Spanish Harlem Incident
+2012-12-01 15:11:52,Indie Rock,412600,2,false,Fade In-Out
+2012-12-01 15:16:41,Indie Rock,288666,2,false,Don't Go Away
+2012-12-01 15:21:54,Indie Rock,313240,2,false,Be Here Now
+2012-11-09 00:07:11,Country & Folk,194826,12,false,Black Crow Blues
+2012-05-29 07:50:58,Jazz,482403,6,false,Sweet Pea
+2012-03-27 10:07:35,Rock,254466,3,false,Fernando
+2012-03-28 07:07:26,Rock,324640,5,false,Chiquitita
+2012-07-01 02:37:09,Electronica,301880,2,false,Do You Know Squarepusher
+2012-03-27 12:07:14,Rock,292773,3,false,Gimme! Gimme! Gimme! (A Man After Midnight)
+2012-10-20 10:27:45,Traditional,116533,3,false,『柳田格之進』-8 柳田捜索活動
+never,iTunes U,2830548,0,false,A Conversation on "Waiting for Superman"
+2012-07-01 02:27:05,Electronica,459213,2,false,The Exploding Psychology
+2012-03-27 15:39:09,Country & Folk,349000,5,false,The Lonesome Death Of Hattie Carroll
+2012-07-01 02:32:07,Electronica,302146,2,false,My Red Hot Car
+2012-03-29 17:32:10,Rock,193493,4,false,Does Your Mother Know
+2012-07-01 01:06:18,Electronica,212360,3,false,Love Will Tear Us Apart
+2011-12-31 09:02:20,Country & Folk,280920,5,false,Boots Of Spanish Leather
+2012-07-01 02:19:26,Electronica,163120,2,false,Mutilation Colony-Excerpt
+never,iTunes U,3865210,0,false,Preparing Minds for Chance Favors: The Challenge of Routine and Surprise in Professional Education
+2012-11-15 07:26:14,Indie Rock,294866,2,false,Sing For Absolution
+2012-11-16 02:13:42,Indie Rock,280000,1,false,Glorious
+2012-04-20 09:19:54,Jazz,1082723,2,false,Two Faced
+2012-11-15 07:17:23,Indie Rock,252866,2,false,Apocalypse Please
+2012-11-15 07:21:19,Indie Rock,236226,2,false,Time Is Running Out
+never,Indie Rock,211640,0,false,Escape
+2012-11-18 12:14:51,Pop,276533,1,false,暑い夜
+2012-11-18 12:20:07,Pop,315333,1,false,灰色の指先
+never,Podcast,597024,0,false,8月21日 午後3時のニュース
+2012-11-18 12:00:52,Pop,234333,3,false,ダンスの流行
+2012-11-18 12:10:15,Pop,279773,2,false,甘い言葉ダーリン
+2012-10-26 16:36:41,Pop,201320,2,false,Instant Karma! (We All Shine On)
+2012-10-26 16:40:08,Pop,206586,2,false,Whatever Get You Through The Night
+2012-11-18 12:25:04,Pop,297760,3,false,Bye Bye Little Love
+2012-10-26 16:49:27,Pop,255173,2,false,Jealous Guy
+2012-07-21 15:37:28,Rock,157293,1,false,I'm A King Bee
+2012-09-06 16:31:27,Pop,266626,1,false,昭和流れうた
+2012-10-29 12:17:00,Jazz,305733,1,false,Elegant People
+2012-09-06 16:27:01,Pop,272533,1,false,北の蛍
+2012-07-21 15:30:10,Rock,152333,1,false,Now I've Got A Witness
+2012-09-06 16:18:40,Pop,273173,1,false,冬のリビエラ
+2012-07-21 15:58:14,Rock,160573,2,false,Little By Little
+2012-09-26 17:43:39,Traditional,276266,1,false,駒長 ようやく本番
+2012-10-29 12:20:25,Jazz,205506,1,false,Three Clowns
+2012-10-29 12:04:06,Jazz,279640,1,false,Cannon Ball
+2012-09-11 01:38:51,Pop,235626,3,false,虞美人草（なかにし礼）
+2012-09-11 01:43:40,Pop,288573,3,false,終着駅（松本隆）
+2012-09-11 01:48:52,Pop,312000,3,false,千日草（水木れいじ）
+2012-10-30 11:23:15,Jazz,108266,3,false,Dreamwalk
+2012-09-11 01:53:25,Pop,272693,3,false,心（星野哲郎）
+never,Metal,253480,0,false,We Got It Going On
+2012-09-11 01:57:55,Pop,264506,3,false,夢しずく（松井由利夫）
+2012-10-20 01:06:25,Metal,257573,1,false,Whole Lot Of Leavin'
+2012-10-20 01:02:07,Metal,277853,1,false,(You Want To) Make A Memory
+2012-10-20 00:50:22,Metal,198866,1,false,Summertime
+2012-10-20 00:47:03,Metal,254026,1,false,Lost Highway
+2012-11-29 16:20:32,Alternative,268986,12,false,Robot Boy
+2012-11-29 16:16:03,Alternative,295600,13,false,When They Come For Me
+2012-11-29 16:11:07,Alternative,18333,15,false,Empty Spaces
+2012-11-29 16:10:49,Alternative,253160,14,false,Burning In The Skies
+2012-11-29 16:06:36,Alternative,57800,17,false,The Radiance
+never,Traditional,264693,0,false,『堀の内』 帰宅～湯屋での騒ぎ～サゲ
+2012-09-07 14:48:01,Traditional,163960,1,false,船徳 _ 出囃子「老松」～マクラ
+never,Traditional,57840,0,false,『化物使い』 マクラ
+never,Traditional,242400,0,false,『化物使い』 荒い人使いの評判
+never,Traditional,365626,0,false,『化物使い』 なるほど荒い人使い
+2012-09-07 13:58:52,Traditional,235573,1,false,明烏 _ 茶屋の店先
+never,Traditional,489973,0,false,『化物使い』 そして三年、引っ越しと主従の別れ
+2012-09-07 13:54:07,Traditional,317600,1,false,明烏 _ 吉原行き
+2012-09-07 14:41:34,Traditional,306706,1,false,明烏 _ そして翌朝～サゲ～追い出し
+2012-09-07 14:36:27,Traditional,667293,1,false,明烏 _ 登楼後の悲喜劇
+2012-11-14 00:35:45,Metal,227466,2,false,Starting All Over Again
+2012-10-07 10:18:12,Pop,197800,1,false,Bigger
+never,Jazz,411466,0,false,A Remark You Made
+2012-10-08 19:36:59,ボイスメモ,3736,3,false,7_4_12 1:32 
+never,Jazz,308706,0,false,Punk Jazz
+never,Jazz,146293,0,false,Pinocchio
+2012-10-15 11:44:24,Metal,230173,1,false,Runaway
+2012-11-04 13:29:53,Jazz,358733,2,false,Birdland
+2012-09-10 06:50:33,Traditional,790306,1,false,文七元結 _ 再び長兵衛内～結末～追い出し
+2012-11-06 19:45:41,Pop,261306,2,false,襟裳岬
+2012-09-26 23:30:08,Traditional,92800,1,false,『三軒長屋』 出囃子「老松」～マクラ
+2012-11-16 05:31:55,Alternative,289906,12,false,Shadow Of The Day
+never,Indie Rock,380760,0,false,Whatever
+2012-09-26 23:59:50,Traditional,343600,1,false,『三軒長屋』 垣間見た美女～替わって醜女出現
+2012-09-27 00:01:40,Traditional,109533,1,false,『三軒長屋』 伊勢勘妾宅の会話
+2012-10-25 15:43:04,Alternative,189293,8,false,Given Up
+2012-10-27 16:07:56,Alternative,100920,9,false,Wake
+2012-11-16 05:27:05,Alternative,164426,13,false,Bleed It Out
+2012-10-25 15:46:33,Alternative,209306,8,false,Leave Out All The Rest
+2012-11-01 21:42:21,Pop,224786,9,false,Tug Of War
+2012-10-20 11:50:30,Metal,312866,1,false,Superman Tonight
+2012-11-01 21:38:37,Pop,171760,11,false,Bucket
+never,Pop,292973,0,false,Give Peace A Chance
+2012-10-26 17:17:15,Pop,213880,2,false,Happy Xmas (War Is Over)
+2012-10-20 11:54:20,Metal,230080,1,false,Bullet
+2012-11-01 21:45:32,Pop,190213,9,false,Money And The Ego
+never,Traditional,1941266,0,false,茶漬えんま
+2012-10-07 10:14:54,Pop,245760,1,false,Down To Earth
+2012-11-06 19:55:05,Pop,288733,2,false,さらば友よ
+2012-10-20 11:41:13,Metal,318093,1,false,When We Were Beautiful
+2012-11-06 16:31:10,Pop,158573,9,false,Take Off Your Cool
+2012-09-26 04:21:11,Rock,266800,1,false,Kite
+2012-10-20 11:45:17,Metal,244053,1,false,Work For The Working Man
+2012-09-26 04:16:44,Rock,296200,1,false,Walk On
+2012-11-01 21:07:37,Rock,140426,6,false,The Greeks Don't Want No Freaks
+2012-11-01 21:05:16,Rock,224040,6,false,Teenage Jail
+2012-07-06 04:05:29,Classical,168520,3,false,Bach: Brandenburg Concerto #2 In F_ BWV 1047 - 3. Allegro Assai
+2012-11-01 21:13:12,Rock,335000,6,false,The Sad Cafe
+2012-10-10 07:39:54,Rock,227466,2,false,Elevation
+2012-07-06 04:09:02,Classical,213426,3,false,Bach: Jesu_ Joy Of Man's Desiring
+never,Electronica,182373,0,false,Emerald And Lime
+never,ボイスメモ,98729,0,false,4_24_12 21:27 
+2012-11-17 01:13:46,Rock,272306,4,false,Stuck In A Moment You Can't Get Out Of
+never,ボイスメモ,6709,0,false,4_24_12 21:22 
+never,ボイスメモ,8845,0,false,4_24_12 21:22 
+never,ボイスメモ,230595,0,false,4_23_12 16:34 
+2012-11-06 13:38:17,Pop,237986,6,false,Here We Go Again
+never,ボイスメモ,58187,0,false,4_23_12 16:38 
+2012-10-07 10:10:48,Pop,256800,1,false,Favorite Girl
+2012-09-06 16:08:55,Pop,265706,1,false,命あたえて
+never,Rock,408666,0,false,Sleepy Time Time [Live At Winterland]
+never,Rock,758293,0,false,N.S.U. [Live At Winterland _ Unedited Version]
+never,Rock,280800,0,false,Sunshine Of Your Love [Live At The Glen Campbell Show]
+never,Rock,256733,0,false,Deserted Cities Of The Heart [Live At Oakland]
+never,Rock,1058373,0,false,Toad [Live At Fillmore _ Special Version]
+never,Indie Rock,291706,0,false,Force Of Nature
+never,Rock,341840,0,false,The Wanderer
+never,Indie Rock,226400,0,false,The Hindu Times
+never,Rock,225733,0,false,The First Time
+never,Rock,324400,0,false,Dirty Day
+never,Rap,313946,0,false,Rain Man
+never,Rap,32026,0,false,Paul (Skit)
+never,Rap,71746,0,false,Em Calls Paul (Skit)
+never,Rap,266933,0,false,Big Weenie
+never,Rap,248680,0,false,Just Lose It
+never,iTunes U,803702,0,false,第13回(2)：竹内　郁雄「情報とアートのインターフェース」
+never,iTunes U,893592,0,false,第13回(6)：竹内　郁雄「情報とアートのインターフェース」
+never,iTunes U,895293,0,false,第13回(4)：竹内　郁雄「情報とアートのインターフェース」
+never,iTunes U,968967,0,false,第13回(3)：竹内　郁雄「情報とアートのインターフェース」
+2012-09-06 16:04:30,Pop,248866,1,false,恋月夜
+2012-06-30 03:00:04,Jazz,265866,2,false,The Woods
+2012-03-27 09:31:31,Rock,180400,12,false,Earlybird
+2012-11-18 03:39:08,Jazz,588200,7,false,Spain
+2012-03-14 00:01:52,Rock,257760,11,false,Peaceful Easy Feeling
+2012-06-30 03:02:52,Jazz,99626,2,false,The Trial
+2012-03-14 00:04:45,Rock,173106,11,false,Tryin'
+2012-06-30 03:01:12,Jazz,68306,2,false,Tweedle Dee
+2012-07-26 14:02:24,R&B,172320,12,false,You Are The Sunshine Of My Life
+2012-07-26 14:06:27,R&B,245506,15,false,Superstition
+2012-06-30 03:09:22,Jazz,390066,1,false,Humpty Dumpty
+2012-07-26 14:10:21,R&B,233173,14,false,Sir Duke
+2012-07-26 14:14:31,R&B,250666,14,false,I Wish
+2012-11-17 01:40:01,Metal,295920,15,false,Bells Of Freedom
+2012-07-26 14:18:15,R&B,224160,13,false,Overjoyed
+2012-07-26 14:21:08,R&B,172026,11,false,My Cherie Amour
+2012-07-26 14:23:56,R&B,168546,11,false,For Once In My Life
+2012-10-29 10:32:10,Rock,253933,4,false,I'll Go Crazy If I Don't Go Crazy Tonight
+2012-11-14 14:06:55,Rock,253266,17,false,No Line On The Horizon
+2012-11-14 14:12:19,Rock,323906,10,false,Magnificent
+2012-11-14 14:19:43,Rock,444293,8,false,Moment Of Surrender
+2012-10-29 10:27:56,Rock,362840,5,false,Unknown Caller
+2012-05-29 09:49:22,Rock,308213,17,false,A Day In The Life
+2012-05-29 09:36:19,Rock,285306,22,false,Come Together_Dear Prudence_Cry Baby Cry [Transition]
+2012-05-29 09:38:34,Rock,134826,19,false,Revolution
+2012-05-29 09:40:28,Rock,113813,44,false,Back In The U.S.S.R.
+2012-05-29 09:44:14,Rock,226746,17,false,While My Guitar Gently Weeps
+2012-10-14 16:28:50,Electronica,493746,1,false,Brutal Ardour
+2012-10-14 16:15:17,Electronica,595933,1,false,Fullness of Wind
+2012-10-14 16:20:37,Electronica,319746,1,false,French Catalogues
+2012-11-17 00:51:59,Electronica,279840,2,false,The Demon Of The Mines
+2012-10-14 16:05:21,Electronica,1894893,1,false,Discreet Music
+2012-07-02 12:12:49,Voice Memo,4340,1,false,3_1_12 21:54 
+never,Indie Rock,192746,0,false,Feral
+2012-04-19 14:22:51,Jazz,330773,15,false,ホルヘ・ルイス・ボルヘス
+never,Indie Rock,267133,0,false,Little By Little
+never,Indie Rock,280720,0,false,Morning Mr Magpie
+2012-06-10 16:57:47,Jazz,367066,4,false,Summer Rain
+never,Indie Rock,314506,0,false,Bloom
+never,Voice Memo,56097,0,false,2_10_12 5:47 
+2012-05-16 15:29:00,none,476182,17,false,01-Poker Face -bonus track--菊地成孔 ダブ・セクステット-LIVE at BLUE NOTE TOKYO 2011.05.05 (HQD ver.) -Bonus Track-
+2012-05-12 17:43:34,Jazz,323733,16,false,恋の面影
+never,Voice Memo,2552,0,false,3_1_12 21:54 
+never,Indie Rock,300400,0,false,Lotus Flower
+2012-11-06 16:38:47,Pop,208853,5,false,Out On The Road
+never,Rock,1006466,0,false,Spoonful
+2012-11-06 16:59:08,Pop,186773,5,false,Travelin' On
+never,Rock,421133,0,false,Traintime
+2012-11-06 17:03:33,Pop,265106,5,false,Miriam
+2012-11-16 05:23:51,Alternative,225493,12,false,High Voltage
+2012-11-06 17:17:02,Pop,214680,5,false,Happy Pills
+never,Rock,255160,0,false,Crossroads
+2012-11-16 05:15:43,Alternative,193266,11,false,Pushing Me Away
+2012-11-06 16:48:27,Pop,389546,5,false,All A Dream
+2012-11-16 05:20:05,Alternative,262266,10,false,My December
+2012-11-16 05:09:53,Alternative,194466,14,false,Forgotten
+2012-11-16 05:12:30,Alternative,157173,12,false,Cure For The Itch
+2012-03-19 23:16:49,Rock,169173,18,false,In The Ghetto
+2012-03-19 23:20:02,Rock,192666,18,false,If I Can Dream
+2012-04-08 22:03:38,Rock,269333,30,false,An American Trilogy
+2012-03-27 03:09:13,Rock,176493,19,false,Buring Love
+2012-11-18 09:44:25,Pop,291333,1,false,英雄
+2012-11-18 09:39:34,Pop,280826,2,false,SINGING ROCKET
+2012-03-28 22:01:26,Rock,197160,19,false,It's Now Or Never
+2012-05-12 17:29:54,Jazz,458173,29,false,Detour Ahead (Take 2)
+2012-11-22 13:34:37,Jazz,292093,20,false,Harlem Nocturne
+2012-11-22 13:39:40,Jazz,302106,19,false,Man From Mars
+2012-11-22 13:42:57,Jazz,197453,19,false,Isn't She Lovely
+2012-12-01 14:06:37,Pop,191466,17,false,It's Gonna Be
+2012-11-22 13:48:33,Jazz,335560,20,false,Sugar
+2012-11-22 13:54:11,Jazz,338733,17,false,Tequila
+2012-12-01 13:59:54,Pop,210053,17,false,I Wouldn't Need You
+2012-12-01 14:03:25,Pop,211053,17,false,Waiting
+2012-12-01 13:52:46,Pop,232493,20,false,Light As A Feather
+2012-12-01 13:56:24,Pop,218120,17,false,Young Blood
+2012-09-08 16:14:38,Traditional,140800,1,false,船徳 _ 操船不能～サゲ～砂切り
+2012-11-03 19:36:56,Rock,383373,1,false,Elvis Presley and America
+never,Indie Rock,199693,0,false,Bangers & Mash
+2012-09-07 15:07:24,Traditional,307160,1,false,船徳 _ 四万六千日の客
+2012-09-07 14:59:44,Traditional,703173,1,false,船徳 _ 船頭志願
+2012-11-14 00:32:01,Metal,357533,2,false,Save A Prayer
+2012-09-08 16:12:17,Traditional,250840,1,false,船徳 _ 石垣接岸～たばこの火
+2012-09-07 15:13:46,Traditional,381266,1,false,船徳 _ 舟乗り込み～竹屋のおじさん
+never,none,17487,0,false,guitar_mono-by-clapL-snapR_stereo+left-right_stereo+nhk_mono+yukino_mono
+never,none,17487,0,false,guitar_mono-by-clapL-snapR_stereo+left-right_stereo+nhk_mono
+never,none,17487,0,false,guitar_mono-by-clapL-snapR_stereo+nhk_mono
+never,none,17487,0,false,guitar_mono-by-clapL-snapR_stereo+left-right_stereo+yukino_mono
+never,Rock,262600,0,false,Sleepy Time Time
+never,none,17487,0,false,guitar_mono-by-clapL-snapR_stereo+nhk_mono+yukino_mono
+2012-11-16 01:12:13,Indie Rock,228933,3,false,Endlessly
+2012-10-30 11:35:34,Jazz,249000,3,false,(You Caught Me) Smilin'
+never,Indie Rock,419466,0,false,Motion Picture Soundtrack
+2012-11-17 00:45:10,Jazz,223400,4,false,Good Question
+never,Indie Rock,77333,0,false,A Quick Peep
+2012-10-30 11:27:41,Jazz,266400,3,false,Countdown (Captain Fingers)
+2012-09-26 23:10:48,Traditional,182800,1,false,今戸の狐 良助の長屋
+2012-09-26 23:07:45,Traditional,491893,1,false,今戸の狐 発端
+2012-03-28 10:25:21,Rock,200960,3,false,S.O.S.
+2012-11-02 03:46:13,Country & Folk,232666,6,false,To Ramona
+2012-03-14 02:13:49,Rock,294666,3,false,The Winner Takes It All
+2012-11-02 03:37:32,Country & Folk,430560,9,false,Chimes Of Freedom
+2012-11-14 03:28:15,Rock,253706,4,false,Super Trouper
+2012-03-14 02:08:54,Rock,282866,3,false,I Have A Dream
+2012-11-16 00:54:52,Indie Rock,262200,3,false,Blackout
+never,Rock,393533,0,false,Spoonful
+2012-11-16 00:46:04,Indie Rock,280626,3,false,Falling Away From You
+2012-11-16 00:41:24,Indie Rock,298506,3,false,Stockholm Syndrome
+2012-11-16 00:50:30,Indie Rock,227440,3,false,Hysteria
+2012-11-16 00:46:42,Indie Rock,37666,3,false,Interlude
+never,Traditional,261440,0,false,『御慶』 元旦～サゲ～追い出し
+2012-03-03 14:39:47,Rock,285093,8,false,My Opening Farewell
+2012-03-28 09:51:55,Rock,254666,9,false,Rock Me On The Water
+2012-03-27 15:59:13,Rock,259306,9,false,Looking Into You
+2012-03-03 14:26:28,Rock,249466,8,false,Under The Falling Sky
+2012-03-03 14:22:19,Rock,228533,8,false,Something Fine
+2012-03-30 08:40:22,Rock,309466,1,false,Life In The Fast Lane
+2012-10-29 12:11:54,Jazz,468293,1,false,Gibraltar
+never,Rock,316640,0,false,Take It Easy
+2012-05-16 18:49:25,Rock,420760,1,false,Hotel California
+2012-03-27 13:44:10,Rock,273933,2,false,Heartache Tonight
+2012-05-13 17:17:36,Rock,317933,2,false,I Can't Tell You Why
+never,Traditional,2928026,0,false,猫の忠信
+2012-07-11 14:50:55,Country & Folk,142880,1,false,Fixin' To Die
+never,Country & Folk,203946,0,false,Pretty Peggy-O
+2012-07-11 14:45:22,Country & Folk,160746,1,false,In My Time Of Dyin'
+2012-07-11 14:48:33,Country & Folk,190506,1,false,Man Of Constant Sorrow
+2012-09-06 15:56:47,Pop,193093,1,false,東京物語
+2012-09-06 13:35:58,Pop,215000,1,false,一人ぼっちの二人
+never,Country & Folk,172946,0,false,Highway 51
+2012-09-06 16:00:21,Pop,213733,1,false,新宿・みなと町
+never,Metal,277706,0,false,Postcards From The Wasteland [Demo]
+2012-09-06 13:50:54,Pop,153333,1,false,九ちゃんの炭坑節
+2012-10-30 11:41:42,Jazz,116400,3,false,No Sympathy (Reprise)
+2012-10-18 07:08:14,Metal,229160,1,false,You Had Me From Hello
+2012-09-06 13:43:51,Pop,219533,1,false,九ちゃんのツンツン節
+2012-10-18 07:11:25,Metal,191706,1,false,Bounce
+2012-09-06 13:47:41,Pop,229800,1,false,見上げてごらん夜の星を
+2012-10-18 07:15:46,Metal,260333,1,false,Open All Night
+2012-09-15 09:32:51,Traditional,934693,1,false,天狗さし
+never,Metal,1209160,0,false,No Regrets [Demo]
+2012-09-06 13:40:12,Pop,174493,1,false,東京五輪音頭
+2012-11-29 16:36:32,Alternative,98773,10,false,Wisdom_ Justice_ And Love
+2012-11-29 16:22:06,Alternative,94906,11,false,Jornada Del Muerto
+2012-11-29 16:25:58,Alternative,231680,12,false,Waiting For The End
+2012-11-29 16:30:38,Alternative,279453,11,false,Blackout
+2012-11-29 16:34:53,Alternative,255293,10,false,Wretches And Kings
+2012-05-13 13:51:52,Jazz,286600,21,false,Nine Pound Hammer
+2012-05-16 16:27:11,Jazz,303266,9,false,Classical Gas [Album Version]
+2012-03-30 14:43:05,Jazz,192893,2,false,Lenny Bro
+2012-03-30 15:16:13,Jazz,113266,24,false,Papa George
+2012-05-13 15:30:40,Jazz,355293,5,false,Morning Aire
+2012-03-30 14:15:08,Jazz,138533,21,false,I Go To Rio
+never,Traditional,145173,0,false,『堀の内』 あわて者の発心
+never,Traditional,212453,0,false,『堀の内』 出囃子「老松」～マクラ
+never,Traditional,169266,0,false,『堀の内』 出直し
+never,Traditional,271000,0,false,『堀の内』 堀之内へ出発
+2012-05-16 16:05:04,Jazz,217600,24,false,The Finger Lakes
+never,Traditional,132173,0,false,『堀の内』 祖師堂での失態
+2012-09-26 16:32:33,Traditional,168453,1,false,真田小僧 出囃子「老松」・マクラ
+2012-10-15 11:57:40,Metal,247973,1,false,Love Lies
+2012-10-15 12:03:02,Metal,322026,1,false,Breakout
+2012-03-30 15:19:51,Jazz,218213,2,false,Questions
+2012-10-15 11:49:14,Metal,238706,1,false,She Don't Know Me
+2012-10-15 11:53:32,Metal,258360,1,false,Shot Through The Heart
+2012-10-15 12:06:55,Metal,233000,1,false,Burning For Love
+2012-03-30 15:39:20,Jazz,122333,23,false,Train To Dusseldorf
+2012-04-25 14:27:32,Jazz,412000,21,false,Waltz For Debby (Take 1)
+2012-07-21 16:34:49,Alternative,144400,1,false,Session
+2012-07-21 16:26:30,Alternative,196106,1,false,Breaking The Habit
+2012-07-21 16:29:26,Alternative,175533,1,false,From The Inside
+never,Rock,239426,0,false,Redneck Friend
+never,Jazz,291440,0,false,River People
+2012-11-02 09:44:19,Jazz,303826,1,false,The Pursuit Of The Woman With The Feathered Hat
+2012-03-30 14:26:02,Jazz,653533,3,false,Initiation
+2012-07-21 16:37:55,Alternative,185800,1,false,Numb
+never,Jazz,415200,0,false,Young And Fine
+2012-11-12 08:59:06,Indie Rock,278666,4,false,Go Let It Out
+2012-09-03 01:06:29,Indie Rock,152266,1,false,Digsy's Dinner
+never,Indie Rock,392733,0,false,Slide Away
+never,Indie Rock,189973,0,false,Married With Children
+2012-11-12 08:54:28,Indie Rock,198826,4,false,Fuckin' In The Bushes
+2012-09-09 17:08:23,Traditional,327133,1,false,『愛宕山』 谷底
+2012-09-26 16:52:08,Traditional,256040,1,false,真田小僧 真田三代記のたとえ
+2012-09-17 14:49:19,Traditional,105693,2,false,『芝浜』 出囃子「三下がり中の舞」～マクラ
+never,Indie Rock,278266,0,false,Megalomania
+never,Traditional,1773973,0,false,阿弥陀池
+never,Indie Rock,222600,0,false,Dead Star
+never,Podcast,371539,0,false,第14号「虚構新聞ニュース」2012年10月21日
+2012-11-18 07:48:47,Alternative,106360,19,false,Victimized
+2012-11-18 07:52:37,Alternative,229933,18,false,Roads Untraveled
+2012-07-06 04:17:57,Classical,261186,3,false,Vivaldi: Concerto In B Flat For Oboe & Violin_ RV 548 (Trumpet Version) - 2. Largo
+2012-11-16 22:55:46,Alternative,211093,19,false,I'll Be Gone
+2012-11-18 07:47:00,Alternative,205453,20,false,Castle Of Glass
+2012-07-06 04:02:40,Classical,130320,1,false,Vivaldi: Concerto In B Flat For Trumpet & Violin - 3. Allegro
+2012-07-06 04:13:36,Classical,188266,3,false,Vivaldi: Concerto In B Flat For Oboe & Violin_ RV 548 (Trumpet Version) - 1. Allegro
+2012-07-06 04:10:28,Classical,85760,3,false,Bach: Orchestral Suite #2 In B Minor_ BWV 1067 - Badinerie
+2012-11-18 07:55:25,Alternative,168346,16,false,Skin To Bone
+2012-07-06 04:00:30,Classical,182680,1,false,Vivaldi: Concerto In B Flat For Trumpet & Violin - 2. Largo
+never,Traditional,481666,0,false,『宿屋の富』 当日、湯島天神境内
+never,ボイスメモ,308150,0,false,4_24_12 21:32 
+2012-10-08 19:37:37,ボイスメモ,13117,1,false,4_25_12 21:52 
+2012-09-10 04:58:17,Traditional,166200,2,false,『宿屋の富』 子の千三百六十五番
+never,ボイスメモ,12421,0,false,4_29_12 2:32 
+2012-09-10 01:22:52,Traditional,370333,1,false,『宿屋の富』 無限者?大いに語る
+never,Traditional,2136666,0,false,どうらんの幸助
+never,Rock,422493,0,false,Traintime
+2012-09-10 01:28:21,Traditional,329026,1,false,『宿屋の富』 売れ残りの富札
+never,Rock,310266,0,false,Politician [Live At Oakland]
+never,Rock,572400,0,false,I'm So Glad [Live At The Forum]
+never,Rock,295933,0,false,Sitting On Top Of The World [Live At The Forum]
+never,Rock,809666,0,false,Steppin' Out [Live At Winterland]
+never,Rock,257160,0,false,Some Days Are Better Than Others
+2012-06-29 12:15:47,Jazz,131666,2,false,Captain Jocelyn - The Pianist
+2012-06-29 12:19:05,Jazz,122733,3,false,Captain Jocelyn - A Tribute By His Crew
+never,Rock,418240,0,false,Lemon
+2012-09-06 03:22:27,Rock,260160,1,false,Numb
+never,Rap,302840,0,false,My 1st Single
+2012-07-02 16:57:05,Jazz,363106,8,false,Someone To Watch Over Me
+never,Rap,317813,0,false,Mosh
+never,Rap,247826,0,false,Puke
+never,Rap,346253,0,false,Yellow Brick Road
+never,Rap,296880,0,false,Like Toy Soldiers
+2012-09-02 11:17:03,Rock,298466,6,false,White Room
+2012-06-28 10:38:22,Jazz,331773,1,false,Mistress Luck - A Portrait
+never,Rock,147400,0,false,Outside Woman Blues
+never,Traditional,1539906,0,false,鼠穴
+2012-03-04 14:10:30,Indie Rock,281160,8,false,Kawatolius remix _ Kawatory
+2012-11-22 14:46:50,Rock,215760,12,false,Most Of Us Are Sad
+2012-11-22 14:43:14,Rock,196306,16,false,Chug All Night
+2012-06-28 10:41:46,Jazz,203560,1,false,Mistress Luck - The Party
+2012-03-13 23:50:33,Rock,250400,24,false,Train Leaves Here This Morning
+2012-11-22 14:50:58,Rock,248133,26,false,Nightingale
+2012-06-28 10:02:03,Jazz,450626,2,false,The Shadow Of Love
+2012-06-28 09:54:32,Jazz,61773,2,false,Where Have I Loved You Before
+2012-03-13 23:54:34,Rock,241440,11,false,Take The Devil
+2012-06-28 09:53:30,Jazz,472360,2,false,Vulcan Worlds
+2012-07-10 12:37:14,Jazz,312000,12,false,Beethoven's Piano sonata No. 8_ Pathetique
+2012-09-11 01:20:10,Pop,266893,3,false,トラック 02細雪（吉岡治）
+2012-07-10 12:32:02,Jazz,467146,12,false,Delusion
+2012-07-26 14:29:47,R&B,191533,12,false,Higher Ground
+2012-07-21 16:32:25,Alternative,178893,1,false,Nobody's Listening
+2012-07-26 14:26:35,R&B,159066,9,false,Signed_ Sealed_ Delivered I'm Yours
+2012-07-26 14:38:51,R&B,252533,8,false,Boogie On Reggae Woman
+2012-07-26 14:34:38,R&B,291600,7,false,Master Blaster (Jammin')
+2012-07-26 14:41:27,R&B,155866,10,false,I Was Made To Love Her
+2012-06-28 10:32:50,Jazz,54533,1,false,Port View I
+2012-10-15 10:57:29,Rock,140826,1,false,October
+2012-09-02 11:34:11,Rock,195493,5,false,Pressed Rat & Warthog
+2012-10-29 10:54:23,Rock,300333,4,false,Breathe
+never,Rock,160200,0,false,Anyone For Tennis
+2012-10-29 10:39:26,Rock,230400,4,false,Stand Up Comedy
+2012-10-15 10:55:08,Rock,279333,1,false,Tomorrow
+2012-10-29 10:35:35,Rock,205200,4,false,Get On Your Boots
+2012-10-29 10:49:23,Rock,280933,4,false,White As Snow
+2012-10-29 10:44:42,Rock,316226,4,false,Fez - Being Born
+never,Traditional,1451000,0,false,夏の医者
+2012-03-01 07:36:14,Rock,181626,4,false,We Are The Champions
+2012-10-15 10:50:29,Rock,231040,1,false,Fire
+2012-10-12 02:39:04,Traditional,2073026,1,false,口入屋
+2012-05-29 09:54:44,Rock,82373,30,false,Sgt. Pepper's Lonely Hearts Club Band (Reprise)
+2012-05-29 09:53:21,Rock,238746,19,false,Hey Jude
+never,Traditional,2467133,0,false,仔猫
+2012-05-16 17:55:34,Rock,122106,5,false,We Will Rock You
+2012-05-29 09:58:22,Rock,218933,26,false,All You Need Is Love
+never,Rock,198466,0,false,Doing That Scrapyard Thing
+2012-10-14 13:50:21,Electronica,194960,1,false,Bone Bomb
+2012-10-18 06:54:25,Metal,234333,1,false,Hook Me Up
+2012-10-14 13:33:25,Electronica,287160,1,false,How Many Worlds
+2012-10-14 13:37:24,Electronica,239293,1,false,Bottomliners
+2012-10-14 13:41:46,Electronica,261826,1,false,Just Another Day
+2012-10-14 13:47:06,Electronica,319773,1,false,Under
+never,Indie Rock,194173,0,false,Morning Bell_Amnesiac
+never,Rap,89186,0,false,Steve Berman (Skit)
+never,Indie Rock,291826,0,false,Dollars & Cents
+2012-07-05 15:32:31,Jazz,215760,6,false,In The Afterglow
+never,Indie Rock,121200,0,false,Hunting Bears
+never,Indie Rock,237333,0,false,Like Spinning Plates
+never,Indie Rock,274840,0,false,Life In A Glass House
+2012-07-05 15:19:38,Jazz,456506,6,false,Foggy Day
+2012-07-05 15:12:02,Jazz,218693,6,false,Soon All Will Know
+2012-07-05 15:28:55,Jazz,243600,6,false,Memories Of You
+never,Rock,210907,0,false,Take It Easy
+2012-07-05 15:24:51,Jazz,313333,6,false,The Song Is You
+never,Rock,283040,0,false,Tales Of Brave Ulysses [Live At Winterland]
+never,Rock,999400,0,false,Spoonful [Live At Winterland]
+never,Rock,264160,0,false,Crossroads
+2012-11-16 05:06:38,Alternative,184600,13,false,A Place For My Head
+2012-11-17 00:59:26,Alternative,216293,14,false,In The End
+2012-11-16 04:59:57,Alternative,189800,16,false,By Myself
+2012-10-18 06:50:30,Metal,226040,1,false,All About Lovin' You
+2012-11-16 04:56:48,Alternative,183933,14,false,Runaway
+2012-11-16 04:53:44,Alternative,209000,14,false,Crawling
+2012-03-19 23:02:11,Rock,152826,18,false,You Don't Have To Say You Love Me
+2012-03-28 06:32:52,Rock,183333,20,false,Can't Help Falling In Love
+2012-03-27 11:31:47,Rock,159000,20,false,G. I. Blues
+2012-03-27 10:24:08,Rock,152173,20,false,A Fool Such As I
+never,Country & Folk,107386,0,false,Gospel Plow
+never,Country & Folk,157160,0,false,Baby_ Let Me Follow You Down
+never,Country & Folk,320560,0,false,House Of The Risin' Sun
+2012-03-19 23:06:34,Rock,263173,18,false,Suspicious Minds
+2012-10-15 08:14:38,Traditional,782893,1,false,替り目
+never,Traditional,1542066,0,false,らくだ
+never,Traditional,1549533,0,false,火焔太鼓
+2012-12-01 13:48:54,Pop,232200,21,false,Even Though
+2012-09-09 16:18:49,Traditional,291933,1,false,雛鍔 _ 子供の帰宅～サゲ～追い出し
+2012-12-01 13:45:01,Pop,160906,22,false,Chasing Pirates
+never,Alternative,1237493,0,true,Something In The Way _ [Hidden Track]
+2012-12-01 14:36:29,Indie Rock,462533,5,false,D'You Know What I Mean?
+2012-08-16 22:44:23,Alternative,196373,31,false,On A Plain
+never,Traditional,1414560,0,false,短命 (1977年4月13日上野鈴本演芸場 )
+2012-08-16 22:41:06,Alternative,212466,31,false,Stay Away
+never,Traditional,859200,0,false,強情灸
+2012-10-15 11:45:15,Metal,280360,1,false,Roulette
+never,Traditional,1846360,0,false,親子茶屋
+never,Traditional,2022533,0,false,道具屋
+never,R&B_Soul,214867,0,false,September
+never,Traditional,2196133,0,false,不動坊
+never,Traditional,1384640,0,false,鉄砲勇助
+never,Traditional,2596693,0,false,はてなの茶碗
+2012-11-06 13:18:43,Pop,180093,8,false,Ruler Of My Heart
+2012-11-06 14:09:16,Pop,178253,8,false,Bull Rider
+never,none,17487,0,false,guitar_mono-by-nhk_mono+yukino_mono
+2012-11-06 14:20:47,Pop,240640,8,false,Baby It's Cold Outside
+2012-11-06 13:54:37,Pop,245786,9,false,Turn Them
+never,none,17487,0,false,guitar_mono-by-left-right_stereo+nhk_mono+yukino_mono
+never,none,17487,0,false,guitar_mono-by-left-right_stereo+yukino_mono
+never,none,17487,0,false,guitar_mono-by-clapL-snapR_stereo+yukino_mono
+never,none,17487,0,false,guitar_mono-by-left-right_stereo+nhk_mono
+2012-11-06 13:41:42,Pop,205213,8,false,The Best Part
+2012-10-07 09:54:04,Pop,215866,1,false,One Time
+2012-09-11 01:30:56,Pop,228293,3,false,ふたりの夜明け（吉田旺）
+never,Latin,312733,0,false,É Preciso Perdoar
+never,Indie Rock,222600,0,false,Treefingers
+never,Indie Rock,242000,0,false,(Probably) All In The Mind
+2012-04-23 14:51:55,Rock,215426,7,false,Jaded
+2012-04-01 13:12:07,Pop,187733,155,false,The Nearness Of You
+2012-10-29 10:04:51,Traditional,1593800,1,false,はてなの茶碗
+never,Traditional,1551800,0,false,天狗裁き
+2012-03-30 08:15:45,Pop,185733,144,false,One Flight Down
+2012-03-30 08:12:39,Pop,162040,144,false,Painter Song
+2012-03-30 07:37:32,Pop,164800,150,false,The Long Day Is Over
+2012-03-30 08:19:47,Pop,252200,151,false,Nightingale
+2012-05-16 17:09:57,Country & Folk,220466,9,false,Leaving On A Jet Plane
+never,iTunes U,938492,0,false,Luminaries in Higher Education
+2012-07-01 00:47:04,Electronica,214306,3,false,Kill Robok
+never,iTunes U,1014137,0,false,The Choice of Social Entrepreneurship
+2012-05-13 17:06:27,Rock,353466,2,false,New Kid In Town
+2012-05-13 17:12:18,Rock,351506,3,false,The Long Run
+2012-05-16 18:28:23,Jazz,1096880,4,false,Shhh_Peaceful
+2012-05-13 17:00:33,Rock,536333,2,false,Life's Been Good
+never,iTunes U,1284928,0,false,Are You a Global Citizen?
+2012-04-21 10:43:11,Jazz,1193586,2,false,In A Silent Way_It's About That Time
+2012-10-14 13:06:54,Electronica,213253,1,false,This
+2012-09-06 13:32:23,Pop,141666,1,false,レッツ・ゴー物語(ストーリー)
+2012-07-11 14:39:21,Country & Folk,100746,1,false,You're No Good
+never,iTunes U,953784,0,false,On the Education Beat
+never,none,15487,0,false,nhk_anechoic_oboe
+2012-07-10 06:33:47,none,1973,1,false,boot
+2012-06-18 05:02:33,Rock,382746,7,false,Money
+2012-07-10 04:58:24,Pop,350200,1,false,背中まで45分
+2012-07-11 14:42:41,Country & Folk,200560,1,false,Talkin' New York
+2012-06-30 00:06:35,Jazz,327453,12,false,Pachelbel's Canon
+never,Jazz,496040,0,false,Sapphire Blue
+2012-09-14 12:43:44,Traditional,2775866,1,false,帯久
+2012-09-11 00:38:28,Traditional,2067266,2,false,つぼ算
+never,Jazz,265226,0,false,Friday Night Shuffle
+2012-09-05 10:54:18,Traditional,2246893,1,false,高津の富
+2012-11-01 20:29:39,Jazz,707573,1,false,PAST AND FUTURE＿DAWN＿STRAIN＿SORROW_TESTED_MENTALITY_UNLIMITED
+2012-09-23 12:34:00,Pop,281600,3,false,長良川艶化歌（石本美由紀）
+never,Jazz,491000,0,false,Night Sweats
+2012-09-23 12:29:18,Pop,184560,4,false,夜空（山口洋子）
+never,Jazz,350200,0,false,A Pair Of Kings
+2012-06-30 00:15:02,Jazz,270306,11,false,Viva! Vegas: Daytime In Las Vegas
+2012-11-04 14:16:33,Traditional,1842933,1,false,持参金
+2012-03-04 14:01:17,Indie Rock,463693,7,false,pointer remix _ Masakatsu Inoue
+2012-09-14 14:19:38,Jazz,210000,8,false,Cowboys Dream
+2012-03-28 09:44:32,Indie Rock,190746,9,false,Rinikanau Shirimetsuretsuna Kotoba Tekkai?? Version 2.4 _ Samurai Distortion
+2012-09-14 14:13:45,Jazz,95493,5,false,Story Of Little Boy
+2012-03-27 10:17:24,Indie Rock,130146,9,false,Flugsnappare mix by Viktor Sjoebrg _ Viktor Sjoberg
+2012-03-04 14:39:53,Indie Rock,215680,8,false,Multi-ebbing View Points (Fashion Flesh re-product)_ Fashion Flesh
+2012-10-31 03:23:25,Traditional,397640,1,false,木場への道すがら
+2012-10-31 03:16:47,Traditional,195293,1,false,出囃子「三下り中の舞」・マクラ
+never,Traditional,906666,0,false,怪談ばなし二回目・サゲ・追い出し
+2012-10-30 09:43:18,Traditional,634466,2,false,怪談ばなし一回目
+2012-10-30 09:32:44,Traditional,177706,2,false,家主への対抗策
+2012-10-15 12:10:53,Metal,237706,1,false,Come Back
+2012-10-15 12:15:01,Metal,248226,1,false,Get Ready
+2012-10-15 12:22:30,Metal,360000,1,false,Lay Your Hands On Me
+2012-10-15 12:27:47,Metal,316666,1,false,Bad Medicine
+2012-10-15 12:32:27,Metal,280066,1,false,Born To Be My Baby
+never,Jazz,336400,0,false,A Girl From China
+2012-07-24 21:33:31,Rock,227266,11,false,Shattered
+2012-10-15 09:11:24,Rap,303733,7,false,Cold Wind Blows
+2012-05-28 04:27:04,Classical,124613,4,false,Dinicu: Hora Staccato
+2012-10-15 09:19:58,Rap,213493,7,false,On Fire
+2012-05-28 04:20:44,Classical,134826,4,false,Carradot: The Tale Of Tsar Saltan_ Op. 57 - The Flight Of The Bumble-Bee
+2012-05-28 04:24:59,Classical,255400,4,false,Massenet: Thais - Méditation
+2012-05-28 04:13:16,Classical,234586,4,false,Gershwin: An American In Paris_ Opening
+2012-05-28 04:18:29,Classical,313133,4,false,Gershwin: Bess_ You Is My Woman Now
+2012-09-03 00:58:12,Indie Rock,289400,1,false,Cigarettes & Alcohol
+2012-09-03 00:41:58,Indie Rock,377106,1,false,Columbia
+2012-09-21 03:42:18,Indie Rock,267093,2,false,Sad Song
+2012-11-16 03:23:21,Indie Rock,224106,33,false,Lost?
+2012-09-03 00:51:15,Indie Rock,257800,1,false,Bring It On Down
+2012-09-03 00:46:42,Indie Rock,283760,1,false,Supersonic
+never,Jazz,394866,0,false,Circles
+2012-07-22 06:28:41,Rock,219800,4,false,2120 South Michigan Avenue
+never,Jazz,318093,0,false,T.B.C. (Terminal Baggage Claim)
+2012-06-30 10:55:04,Jazz,231666,1,false,Oblivion
+2012-11-16 23:29:42,Jazz,453426,8,false,Sorceress
+2012-11-16 23:22:08,Jazz,314000,8,false,Medieval Overture
+2012-07-03 04:29:04,Jazz,370360,1,false,Pannonica
+2012-11-16 23:40:33,Jazz,651640,6,false,The Romantic Warrior
+2012-07-29 11:45:27,Rock,167626,7,false,N.S.U.
+2012-10-20 12:08:02,Metal,297266,1,false,Brokenpromiseland
+2012-11-18 08:04:05,Alternative,224466,15,false,Powerless
+2012-10-20 12:03:04,Metal,257946,1,false,Live Before You Die
+2012-11-18 08:00:20,Alternative,71893,15,false,Tinfoil
+2012-10-15 10:20:10,Rap,305680,5,false,You're Never Over
+2012-11-18 07:59:08,Alternative,223400,15,false,Until It Breaks
+2012-10-20 12:12:40,Metal,278400,1,false,Love's The Only Rule
+2012-10-27 16:47:19,Rap,292480,7,false,Almost Famous
+2012-10-27 16:51:42,Rap,263373,6,false,Love The Way You Lie
+2012-10-27 16:37:01,Rap,241586,8,false,25 To Life
+never,Podcast,321802,0,false,第10号「虚構新聞ニュース」2012年8月19日
+2012-10-27 16:42:26,Rap,325346,8,false,So Bad
+never,ボイスメモ,127243,0,false,7_4_12 1:21 
+never,ボイスメモ,61276,0,false,6_4_12 18:09 
+never,ボイスメモ,5780,0,false,5_21_12 5:56 
+never,Traditional,194106,0,false,『搗屋幸兵衛』 そこに異変が起きた
+never,ボイスメモ,73443,0,false,6_28_12 1:13 
+never,ボイスメモ,4154,0,false,6_17_12 8:04 
+2012-11-16 00:59:53,Indie Rock,301733,3,false,Butterflies & Hurricanes
+2012-10-20 01:30:55,Metal,279213,1,false,I Love This Town
+2012-09-26 19:51:31,Traditional,225200,1,false,井戸の茶碗 宙に浮いた大金とその始末
+never,iTunes U,5186954,0,false,空間情報技術
+never,iTunes U,2755422,0,false,空間情報と知識創造
+never,iTunes U,4646747,0,false,空間情報と環境創造
+never,iTunes U,4934835,0,false,空間情報と資源探査
+2012-10-21 13:18:12,Rock,309800,2,false,Holy Joe (Guilty Mix)
+never,iTunes U,3167901,0,false,Webマッピングとソーシャル・イノベーション
+2012-08-07 00:21:39,Rap,251773,5,false,Business
+never,Rap,322266,0,false,Under The Influence
+never,Rap,318800,0,false,Criminal
+2012-08-05 20:00:22,Rap,30666,4,false,Curtain Up (Skit)
+2012-08-07 00:17:27,Rap,324600,5,false,White America
+2012-03-14 19:29:44,Country & Folk,255733,9,false,Is It Love?
+2012-10-07 12:03:28,Pop,309893,1,false,Favorite Girl [Live]
+2012-06-28 10:27:04,Jazz,864800,2,false,Song To The Pharoah Kings
+2012-10-15 10:46:37,Rock,218066,1,false,Rejoice
+2012-06-28 10:03:17,Jazz,74773,2,false,Where Have I Danced With You Before
+2012-12-01 14:09:22,Pop,165426,16,false,You've Ruined Me
+2012-06-28 10:06:32,Jazz,194626,2,false,Beyond The Seventh Galaxy
+2012-06-28 10:10:19,Jazz,226800,2,false,Earth Juice
+2012-03-29 15:43:11,Rock,202133,1,false,Boulevard
+2012-06-28 10:12:39,Jazz,140173,2,false,Where Have I Known You Before
+2012-10-26 17:06:01,Pop,211573,2,false,Watching The Wheels
+2012-01-30 14:28:48,R&B,203840,7,false,You Haven't Done Nothin'
+2012-07-26 14:57:41,R&B,445333,8,false,Living For The City
+2012-07-26 14:50:16,R&B,163826,9,false,Hey Love
+2012-07-26 14:47:32,R&B,191466,7,false,Fingertips (Parts 2)
+2012-07-26 14:44:20,R&B,173666,8,false,Uptight (Everything's Alright)
+never,Rap,34626,0,false,Soap
+never,Rap,265333,0,false,As The World Turns
+never,Rap,214066,0,false,Rock Bottom
+never,Rap,242573,0,false,Just Don't Give A Fuck
+never,Rap,211906,0,false,I'm Shady
+2012-07-02 16:20:32,Jazz,392400,9,false,Lush Life
+2012-10-31 13:00:52,Traditional,2431760,1,false,饅頭こわい
+2012-12-01 14:25:20,Pop,205933,14,false,Tell Yer Mama
+2012-07-25 13:57:27,Electronica,225706,9,false,Frisco Wave
+2012-07-05 14:54:23,Jazz,145973,7,false,Cherokee
+2012-07-05 15:02:40,Jazz,497066,7,false,Goodbye
+2012-11-02 01:09:24,Jazz,499760,8,false,Caravan
+2012-07-05 14:51:57,Jazz,304666,7,false,April In Paris
+2012-10-14 13:15:24,Electronica,160693,1,false,A Long Way Down
+2012-10-14 13:12:43,Electronica,349573,1,false,And Then So Clear
+2012-07-05 15:08:23,Jazz,342400,6,false,New Orleans
+2012-10-14 13:19:46,Electronica,262226,1,false,Going Unconscious
+2012-05-16 18:31:24,Country & Folk,180666,10,false,John Wesley Harding
+2012-10-08 20:03:28,Latin,288733,1,false,Eu Quero Um Samba
+2012-03-10 21:20:31,Pop,214093,3,false,しらみの旅
+2012-03-10 21:20:36,Pop,182333,3,false,日曜日
+2012-02-10 07:02:02,Pop,225173,2,false,自転車に乗って
+2012-03-10 21:20:23,Pop,252266,3,false,生活の柄
+never,Alternative,202306,0,false,A Warm Place
+2012-11-06 19:18:52,Pop,324826,1,false,京都去りがたし
+2012-03-27 18:10:37,Alternative,331560,1,false,The Becoming
+2012-03-28 10:10:07,Alternative,298800,2,false,Ruiner
+2012-03-28 05:40:52,Alternative,96200,2,false,Big Man With A Gun
+never,Alternative,341200,0,false,I Do Not Want This
+2012-06-15 14:30:06,Rock,120000,46,false,All Shook Up
+2012-05-13 12:55:36,Rock,167333,21,false,Love Me Tender
+2012-03-19 22:49:18,Rock,136493,18,false,Wear My Ring Around Your Neck
+2012-03-28 22:09:20,Rock,148000,19,false,Jailhouse Rock
+2012-03-21 02:28:14,Rock,126000,19,false,I Need Your Love Tonight
+2012-07-21 15:40:03,Rock,154666,1,false,Carol
+2012-09-08 16:58:48,Traditional,838333,1,false,居残り佐平次 _ 布団部屋入り～イノどん誕生
+never,Traditional,416640,0,false,居残り佐平次 _ 主人との掛け合い～サゲ～砂切り
+2012-08-11 15:00:14,Indie Rock,325600,14,false,Stop Whispering
+2012-09-09 15:51:31,Traditional,263560,1,false,雛鍔 _ 出囃子「三下り中の舞」～マクラ
+2012-09-09 16:02:21,Traditional,531866,1,false,雛鍔 _ 屋敷での見聞
+2012-09-09 16:13:57,Traditional,696400,1,false,雛鍔 _ ご隠居入来
+2012-11-12 22:18:05,Indie Rock,208600,16,false,You
+2012-12-01 14:28:16,Pop,176986,13,false,Man Of The Hour
+never,Traditional,1375666,0,false,あくびの稽古(昭和59.1.5)
+2012-11-12 22:24:12,Indie Rock,132173,15,false,How Do You?
+2012-10-16 09:48:13,Spoken & Audio,2066426,1,false,浜野矩隨　(Ｓ５２・１０・３１)
+2012-11-12 22:22:00,Indie Rock,235693,15,false,Creep
+2012-11-06 17:35:12,Pop,236773,24,false,Rosie's Lullaby
+2012-05-16 15:31:59,Country & Folk,179000,6,false,Tell Me Why
+2012-11-06 17:57:38,Pop,218546,24,false,Not Too Late
+2012-05-23 00:05:55,Country & Folk,226106,68,false,After The Gold Rush
+2012-11-06 17:31:15,Pop,150573,24,false,2 Men
+2012-03-29 03:33:07,Pop,282573,6,false,Screw You (Young Man Blues)
+2012-11-06 13:15:43,Pop,233373,9,false,Love Me
+2012-06-15 12:47:32,Pop,231800,9,false,Candle In The Wind (Acoustic)
+2012-11-06 13:34:07,Pop,231613,9,false,Virginia Moon
+never,Indie Rock,251426,0,false,Everything In Its Right Place
+never,Indie Rock,284506,0,false,Kid A
+2012-03-14 17:33:30,Country & Folk,188293,6,false,Only Love Can Break Your Heart
+2012-05-29 09:13:42,Rock,271600,21,false,Strawberry Fields Forever
+2012-07-22 15:44:45,Rock,356200,1,false,Moonlight Mile
+2012-10-08 19:34:50,Voice Memo,11678,2,false,7_4_12 1:27 
+2012-10-08 19:36:15,Voice Memo,10610,2,false,7_4_12 1:32 
+never,Metal,220466,0,false,Without Love
+2012-10-08 19:36:13,Voice Memo,3736,1,false,7_4_12 1:32 
+2012-10-08 19:35:55,Voice Memo,8218,1,false,7_7_12 1:25 
+2012-10-14 14:27:38,Electronica,236826,1,false,Becalmed
+2012-10-26 11:24:13,Country & Folk,161786,6,false,One Too Many Mornings
+2012-10-26 11:28:48,Country & Folk,275146,6,false,North Country Blues
+2012-10-26 11:14:23,Country & Folk,306146,6,false,The Ballad Of Hollis Brown
+2012-10-26 11:21:31,Country & Folk,428266,6,false,With God On Our Side
+2012-10-26 11:32:21,Country & Folk,213000,6,false,Only A Pawn In Their Game
+2012-11-16 01:20:17,Indie Rock,292293,3,false,Ruled By Secrecy
+2012-05-16 16:38:40,Rock,262213,9,false,Dude (Looks Like A Lady)
+2012-09-26 18:24:56,Traditional,120533,1,false,井戸の茶碗 細川屋敷の窓下
+never,Indie Rock,236053,0,false,Undisclosed Desires
+2012-03-30 08:48:32,Rock,293760,3,false,The Name Of The Game
+2012-03-14 01:28:15,Rock,237373,2,false,One Of Us
+2012-03-14 01:39:47,Rock,168106,2,false,Waterloo
+2012-03-14 01:36:59,Rock,229666,2,false,Thank You For The Music
+2012-10-07 10:51:15,Pop,212573,1,false,Runaway Love
+never,Traditional,1581640,0,false,煮売家
+2012-10-20 01:14:52,Metal,263333,1,false,Seat Next To You
+2012-11-03 19:44:59,Rock,329373,2,false,A Sort Of Homecoming
+2012-09-06 13:09:12,Pop,181106,1,false,九ちゃんのズンタタッタ(聞いちゃいけないよ)
+2012-09-06 13:11:43,Pop,150466,1,false,カレンダーガール
+2012-11-29 16:05:38,Alternative,121120,16,false,The Requiem
+2012-11-01 21:23:01,Rock,321066,1,false,Wasted Time
+2012-11-01 21:17:40,Rock,234066,2,false,Seven Bridges Road
+2012-08-12 04:12:41,Rock,452506,6,false,You Can't Always Get What You Want
+2012-03-27 10:37:36,Rock,368266,2,false,For Everyman
+never,Rock,205933,0,false,Sing My Songs To Me
+2012-03-29 03:19:36,Pop,172306,6,false,Whenever You're Ready (We'll Go Steady)
+2012-11-18 12:49:08,Pop,203693,2,false,カナリア
+2012-07-10 04:51:23,Pop,195960,1,false,お願いはひとつ
+2012-07-10 04:48:07,Pop,231973,1,false,リバーサイドホテル
+2012-07-10 04:56:21,Pop,298240,1,false,ワカンナイ
+2012-03-29 03:13:40,Pop,169453,8,false,Harmony
+2012-11-01 23:00:56,Indie Rock,183733,1,false,Killer Cars
+2012-05-29 09:24:19,Rock,198586,19,false,Octopus's Garden_Sun King [Transition]
+2012-10-20 01:22:38,Metal,213173,1,false,The Last Night
+2012-03-29 05:15:26,Pop,249000,8,false,Roy Rogers
+2012-10-20 18:57:36,Indie Rock,46333,1,false,Parachutes
+never,Indie Rock,211000,0,false,In Limbo
+2012-10-20 18:56:50,Indie Rock,270893,1,false,Trouble
+2012-02-10 07:12:48,Pop,202493,2,false,鮪に鰯
+never,Electronica,200800,0,false,Lesser Heaven
+never,Electronica,205266,0,false,Slow Ice_ Old Moon
+never,Electronica,265293,0,false,Paleosonic
+2012-10-20 18:52:19,Indie Rock,269200,1,false,Yellow
+2012-09-14 14:01:23,Jazz,310520,8,false,Georgia On My Mind
+2012-09-11 13:32:19,Pop,306933,2,false,橋
+2012-09-19 06:16:23,Jazz,370533,19,false,Beatles Medley
+2012-03-30 15:24:10,Jazz,258746,20,false,Ruby`s Eyes
+2012-09-14 13:56:13,Jazz,329133,7,false,Workin` Man Blues
+2012-09-17 03:38:10,Jazz,554266,15,false,Mombasa
+2012-10-30 09:27:51,Traditional,418226,2,false,出囃子「三下り中の舞」・マクラ
+never,Rock,320373,0,false,Daddy's Gonna Pay For Your Crashed Car
+never,Indie Rock,309093,0,false,Idioteque
+never,Traditional,327133,0,false,『化物使い』 一つ目小僧出現
+never,Traditional,210133,0,false,『化物使い』 大入道出る
+2012-03-14 16:53:36,Pop,165333,5,false,自転車にのって
+never,Traditional,208693,0,false,『化物使い』 ノッペラボウ現る
+never,Rock,298360,0,false,Stay (Faraway_ So Close!)
+never,Traditional,88240,0,false,『化物使い』 化物の正体～サゲ～中入り
+2012-10-15 12:43:22,Metal,376573,1,false,Blood On Blood
+2012-10-15 12:37:06,Metal,279226,1,false,Living In Sin
+2012-10-15 12:53:42,Metal,308906,1,false,Wild Is The Wind
+2012-10-15 12:48:33,Metal,310693,1,false,Homebound Train
+never,iTunes U,3878545,0,false,新成長戦略とグリーンイノベーション
+never,iTunes U,4706807,0,false,空間情報とメディア創造
+never,iTunes U,1962462,0,false,「良い境界、よくない境界、活かす方法、なくす方法」〜空間情報からの発想
+never,Podcast,3132055,0,false,Episode 23 – Making games with Flash_ Node.js and Scratch
+2012-07-24 21:18:45,Rock,263733,11,false,Far Away Eyes
+2012-10-10 01:49:06,Indie Rock,255306,2,false,Little James
+2012-07-24 21:14:22,Rock,191666,11,false,Lies
+never,News,597060,0,false,9月1日 正午のニュース
+2012-07-24 21:25:18,Rock,205200,11,false,Before They Make Me
+never,News,897012,0,false,8月31日 朝7時のニュース
+2012-05-28 05:26:10,Classical,197306,5,false,Gershwin: Summertime
+never,News,897012,0,false,8月31日 正午のニュース
+2012-05-28 05:22:53,Classical,558733,5,false,Legrand: Windmills Of Your Mind
+2012-05-28 05:13:34,Classical,208973,5,false,Jobim: One Note Samba
+2012-10-20 19:01:50,Indie Rock,254266,1,false,High Speed
+2012-07-06 05:38:32,Classical,241613,6,false,Porter: Night & Day
+2012-07-06 05:34:31,Classical,248866,6,false,Ellington: Caravan
+2012-11-17 01:05:35,Indie Rock,368266,3,false,Gas Panic!
+2012-03-14 21:55:17,Country & Folk,192026,9,false,Take Me Home Country Roads
+2012-03-28 09:41:21,Country & Folk,197413,9,false,Rhymes & Reasons
+2012-05-13 12:49:39,Country & Folk,129173,10,false,I Guess He'd Rather Be In Colorado
+2012-03-14 20:46:51,Country & Folk,247520,8,false,Poems_ Prayers And Promises
+never,ボイスメモ,56097,0,false,2_10_12 5:47 
+2012-03-27 11:10:49,Country & Folk,204280,10,false,Friends With You
+never,ボイスメモ,117143,0,false,2_18_12 18:30 
+never,ボイスメモ,5710,0,false,2_16_12 11:13 
+never,Jazz,309600,0,false,Just An Excuse
+never,Jazz,342773,0,false,Take Me Down
+never,Jazz,305826,0,false,7 For You
+never,Jazz,352266,0,false,Slightly Dirty
+never,Traditional,290106,0,false,『崇徳院』 つきとめた相手先～サゲ～中入り
+never,Jazz,412493,0,false,Room 335
+never,Rap,404133,0,false,Stan
+2012-10-21 17:49:30,Jazz,253813,1,false,I Wanna Play For You Too
+2012-10-21 17:40:24,Jazz,389386,1,false,Fulani
+2012-10-21 17:45:16,Jazz,292533,1,false,Here's Why Tears Dry
+2012-11-17 00:02:30,Jazz,687573,4,false,Duel Of The Jester And The Tyrant (Parts I & II)
+2012-10-21 17:33:54,Jazz,427160,1,false,Soldier
+never,ボイスメモ,22382,0,false,7_20_12 1:05 
+never,Indie Rock,282880,0,false,Videotape
+2012-10-20 11:58:46,Metal,247413,1,false,Thorn In My Side
+2012-10-08 19:37:00,ボイスメモ,10610,2,false,7_4_12 1:32 
+never,Rap,181360,0,false,Insane
+never,ボイスメモ,11678,0,false,7_4_12 1:27 
+2012-07-30 07:04:58,Rap,319866,1,false,My Mom
+2012-07-30 06:59:38,Rap,319853,1,false,3 A.M.
+2012-07-30 06:54:18,Rap,89546,1,false,Dr. West (Skit)
+2012-10-15 10:23:25,Rap,194440,5,false,Untitled
+2012-10-08 19:35:34,ボイスメモ,12606,1,false,9_13_12 9:55 
+never,Electronica,332560,0,false,Taking Tiger Mountain
+2012-04-23 14:06:56,Rock,205373,4,false,Falling In Love (Is Hard On The Knees)
+never,Electronica,311186,0,false,The True Wheel
+never,Electronica,284373,0,false,China My China
+2012-09-06 14:51:10,Pop,251160,1,false,港町ブルース
+never,Electronica,185226,0,false,Complex Heaven
+2012-04-23 14:03:31,Rock,204813,4,false,Draw The Line
+2012-07-11 15:30:38,Pop,218640,168,false,Cold Cold Heart
+2012-10-21 13:03:06,Rock,314626,2,false,If You Wear That Velvet Dress
+2012-10-21 13:08:09,Rock,302573,2,false,Please
+2012-10-21 12:53:11,Rock,292933,2,false,Miami
+2012-10-21 12:57:52,Rock,280840,2,false,The Playboy Mansion
+2012-10-21 13:13:02,Rock,293200,2,false,Wake Up Dead Man
+never,iTunes U,4907941,0,false,空間情報と文明の進化
+never,iTunes U,3446547,0,false,空間情報と戦争
+never,iTunes U,501984,0,false,Steve Jobs
+never,iTunes U,5106740,0,false,空間・情報と未来先導
+never,Rap,377933,0,false,Kim
+never,Rap,300306,0,false,Drug Ballad
+never,Rap,61760,0,false,Ken Kaniff (Skit)
+never,Rap,288200,0,false,Bitch Please II
+never,Rap,254733,0,false,Amityville
+2012-11-07 16:23:16,Traditional,408893,1,false,久蔵に幻?の幸運
+2012-09-17 15:07:20,Traditional,267866,1,false,『大山詣り』 神奈川宿での騒動
+2012-10-30 12:50:09,Jazz,293693,1,false,Matchmakers
+2012-09-09 16:26:46,Traditional,176226,1,false,『愛宕山』 出囃子「三下り中の舞」～マクラ
+never,Indie Rock,258440,0,false,Exogenesis: Symphony Part 1 (Overture)
+2012-11-09 00:16:07,Rock,276666,8,false,Rainy Day Women #12 & 35
+2012-01-30 14:58:35,R&B,309866,4,false,That Girl
+2012-03-27 08:22:58,R&B,303293,6,false,Do I Do
+2012-03-01 13:06:15,R&B,262973,8,false,I Just Called To Say I Love You
+2012-01-30 14:42:41,R&B,222400,4,false,Part-Time Lover
+2012-10-20 18:38:44,Indie Rock,299666,11,false,Shiver
+2012-10-20 18:33:44,Indie Rock,137160,13,false,Don't Panic
+never,Rap,254066,0,false,Still Don't Give A Fuck
+2012-09-27 00:13:49,Traditional,223640,1,false,『三軒長屋』 政五郎帰宅～姐御の怒り
+never,Rap,253133,0,false,Bad Meets Evil
+never,Indie Rock,246093,0,false,MK Ultra
+2012-10-20 18:44:03,Indie Rock,318840,11,false,Spies
+never,Latin,327733,0,false,Izaura
+2012-09-26 17:49:41,Traditional,189533,1,false,駒長 長兵衛不覚・サゲ・中入り
+2012-10-08 20:12:58,Latin,214400,1,false,Valsa (Como São Lindos Os Youguis)
+2012-04-18 10:11:03,Jazz,204106,5,false,Come Rain Or Come Shine
+never,Jazz,233706,0,false,High Wire
+2012-05-13 13:47:05,Jazz,703546,2,false,Quartet No.2_ Part 1
+2012-05-13 16:34:39,Jazz,722000,2,false,Lifeline
+2012-05-13 16:48:04,Jazz,805373,5,false,Concierto De Aranjuez _ Spain
+2012-06-15 18:15:09,Country & Folk,154893,41,false,All Along The Watchtower
+2012-08-26 07:06:29,Jazz,342080,13,false,Capecod Chips
+2012-03-14 18:14:39,Country & Folk,335533,10,false,Ballad Of Frankie Lee And Judas Priest
+2012-06-30 00:01:08,Jazz,271226,12,false,Islands Azores
+2012-03-30 19:09:18,Country & Folk,172293,16,false,As I Went Out One Morning
+2012-05-12 17:22:16,Jazz,454164,13,false,A Night In Tunisia
+2012-01-19 21:48:16,Country & Folk,235240,9,false,I Dreamed I Saw St. Augustine
+2012-06-30 00:10:32,Jazz,236986,11,false,Viva! Vegas: Show Cuty_ Show Girl
+2012-05-13 11:42:04,Jazz,82886,15,false,Intro
+2012-05-13 10:44:18,Jazz,432039,14,false,Bebop
+2012-03-27 09:12:08,Country & Folk,168573,9,false,Drifter's Escape
+2012-08-06 11:07:02,Jazz,374960,34,false,Goldwrap
+2012-08-06 08:27:34,Jazz,932080,27,false,Behind The Yashmak
+2012-03-28 14:10:20,Alternative,234306,4,false,Heresy
+2012-03-11 04:14:56,Alternative,178426,2,false,March Of The Pigs
+2012-05-16 16:43:11,Alternative,270293,3,false,Mr. Self Destruct
+2012-03-01 07:20:24,Alternative,264400,2,false,Piggy
+2012-05-13 13:14:48,Alternative,373306,3,false,Closer
+never,Voice Memo,5849,0,false,11_11_12 11:56 
+2012-10-08 19:03:47,Latin,329133,2,false,Águas De Março
+2012-10-08 20:09:24,Latin,356040,1,false,Eu Vim Da Bahia
+2012-12-01 14:18:48,Pop,315853,14,false,Stuck
+never,Voice Memo,5780,0,false,5_21_12 5:56 
+2012-12-01 14:21:54,Pop,185680,15,false,December
+2012-03-27 14:40:42,Rock,137666,20,false,Hound Dog
+2012-12-01 14:13:32,Pop,249933,15,false,Back To Manhattan
+2012-03-19 23:31:22,Rock,159666,19,false,I Want You_ I Need You_ I Love You
+never,Voice Memo,13117,0,false,4_25_12 21:52 
+2012-03-27 08:36:08,Rock,124666,19,false,Don't Be Cruel
+never,Voice Memo,18992,0,false,4_25_12 21:53 
+2012-03-29 16:12:56,Rock,429440,5,false,Calling Occupants Of Interplanetary Craft
+never,Voice Memo,12421,0,false,4_29_12 2:32 
+2012-05-16 16:57:47,Rock,129333,22,false,Heartbreak Hotel
+never,Voice Memo,27792,0,false,5_1_12 20:00 
+never,Spoken & Audio,945106,0,false,町内の若い衆　(Ｓ５２・３・３１)
+never,Spoken & Audio,1283200,0,false,宮戸川-お花半七-　(Ｓ５２・１０・３１)
+never,Spoken & Audio,1389626,0,false,萬金丹
+2012-10-17 11:57:05,Spoken & Audio,2101533,1,false,鼠穴
+never,Spoken & Audio,1223240,0,false,星野屋
+2012-07-06 03:00:27,Classical,42560,1,false,Bach: Goldberg Variations_ BWV 988 - Variatio 19 A 1 Clav. (1955)
+2012-07-06 02:58:58,Classical,53066,1,false,Bach: Goldberg Variations_ BWV 988 - Variatio 17 A 2 Clav. (1955)
+2012-07-06 02:59:44,Classical,46093,1,false,Bach: Goldberg Variations_ BWV 988 - Variatio 18 A 1 Clav. Canone Alla Quinta (1955)
+never,Indie Rock,213040,0,false,Can't Take My Eyes Off You
+2012-07-06 02:56:48,Classical,136506,1,false,Bach: Goldberg Variations_ BWV 988 - Variatio 15 A 1 Clav. Canone Alla Quinta (1955)
+2012-07-06 02:58:05,Classical,77373,1,false,Bach: Goldberg Variations_ BWV 988 - Variatio 16 Ouverture A 1 Clav. (1955)
+2012-05-29 09:16:50,Rock,187680,19,false,Within You Without You_Tomorrow Never Knows
+2012-05-29 09:21:00,Rock,250480,19,false,Lucy In The Sky With Diamonds
+never,Rap,283520,0,false,Deja Vu
+2012-03-29 05:28:46,Pop,223906,7,false,Social Disease
+2012-11-06 17:54:00,Pop,163973,24,false,Little Room
+2012-05-29 09:27:15,Rock,176680,19,false,Lady Madonna
+2012-05-29 09:31:34,Rock,258053,22,false,Here Comes The Sun_The Inner Light [Transition]
+2012-11-06 17:37:59,Pop,166706,27,false,Wake Me Up
+never,Indie Rock,315973,0,false,Optimistic
+2012-11-06 17:41:35,Pop,216573,26,false,Be My Somebody
+never,Indie Rock,275800,0,false,Morning Bell
+2012-11-06 18:12:41,Pop,201013,26,false,Broken
+2012-03-29 03:24:20,Pop,110973,7,false,Jack Rabbit
+2012-11-06 17:47:55,Pop,205226,26,false,My Dear Country
+never,Voice Memo,22382,0,false,7_20_12 1:05 
+2012-04-23 14:10:53,Rock,236320,4,false,Pink
+2012-09-19 06:08:38,Pop,186453,165,false,Don't Know Why
+2012-07-11 15:10:37,Pop,145306,167,false,Seven Years
+2012-04-23 14:00:06,Rock,193186,4,false,Sweet Emotion
+2012-03-30 07:52:48,Pop,177626,157,false,Feelin' The Same Way
+2012-04-23 14:15:51,Rock,298720,6,false,I Don't Want To Miss A Thing
+2012-04-18 11:14:32,Jazz,334933,48,false,Blue Monk
+2012-04-18 11:22:47,Jazz,494386,50,false,Concierto de Aranjuez_Spain
+never,Alternative,274066,0,false,I'm Your Man '96
+2012-04-18 11:08:57,Jazz,298906,56,false,Armando's Rumba
+2012-09-26 17:46:32,Traditional,172733,1,false,駒長 嘘から出たまこと
+2012-10-13 09:48:57,Rock,237933,1,false,Miracle Drug
+2012-04-18 11:33:34,Jazz,647626,3,false,Matrix
+2012-09-17 15:02:52,Traditional,310573,1,false,『大山詣り』 大山講結成
+2012-03-14 20:14:47,Country & Folk,230680,10,false,Seasons Of The Heart
+2012-09-06 13:30:02,Pop,158640,1,false,ボクの星
+never,Indie Rock,254093,0,false,Fade Away
+never,ボイスメモ,113242,0,false,2_4_12 4:00 
+2012-06-15 12:36:14,Rock,334760,6,false,All Night Long
+never,Pop,239400,0,false,あの時の約束
+2012-09-27 00:10:06,Traditional,55960,1,false,『三軒長屋』 伊勢勘の計略
+2012-09-06 13:02:10,Pop,170600,1,false,遙かなるアラモ
+2012-08-12 03:50:55,Rock,332266,7,false,Let It Bleed
+2012-11-01 21:28:15,Rock,314026,1,false,Take It To The Limit
+2012-11-01 21:28:57,Rock,41933,2,false,Doolin-Dalton (Reprise II)
+2012-05-13 12:59:34,Rock,237773,6,false,Desperado
+2012-11-02 04:07:50,Country & Folk,497133,10,false,Ballad In Plain D
+never,Rock,227266,0,false,Saturday Night
+2012-09-27 00:08:47,Traditional,41600,1,false,『三軒長屋』 一転、剣術道場
+2012-09-06 12:57:04,Pop,180093,1,false,悲しき六十才(ムスターファ)
+2012-11-18 12:45:44,Pop,266706,2,false,愛されてばかりいると
+2012-11-18 12:36:37,Pop,288600,2,false,チャイニーズ フード
+2012-11-18 12:41:17,Pop,280693,2,false,約束は0時
+2012-09-27 00:08:06,Traditional,386000,1,false,『三軒長屋』 手打ち変じてまた喧嘩
+2012-07-25 18:28:09,Electronica,156973,9,false,Everyday I Love
+never,Traditional,1796960,0,false,次の御用日
+2012-11-18 12:31:48,Pop,289066,2,false,とまどうペリカン
+2012-10-27 15:50:11,Alternative,196840,11,false,Valentine's Day
+never,Traditional,1779133,0,false,うなぎや
+2012-10-27 15:46:54,Alternative,221693,11,false,No More Sorrow
+2012-10-14 14:34:38,Electronica,239666,1,false,Everything Merges With The Night
+2012-11-01 22:41:26,Indie Rock,208733,1,false,Bullet Proof...I Wish I Was
+2012-09-16 11:25:42,Pop,135066,2,false,ステキなタイミング
+2012-11-16 05:39:13,Alternative,233133,12,false,Hands Held High
+2012-10-14 14:37:29,Electronica,171226,1,false,Spirits Drifting
+2012-03-30 14:34:31,Jazz,183080,21,false,Jolly Swagman
+2012-08-12 03:45:23,Rock,215600,9,false,Live With Me
+2012-09-19 06:10:12,Jazz,94626,21,false,Sukiyaki
+2012-03-30 15:06:03,Jazz,182360,20,false,Old Town
+2012-11-16 05:35:20,Alternative,205226,12,false,What I've Done
+2012-04-03 04:46:26,Jazz,203026,29,false,And So It Goes
+never,Electronica,132306,0,false,Emerald And Stone
+never,Electronica,235400,0,false,Written_ Forgotten
+2012-03-30 14:02:35,Jazz,143720,29,false,Happy Hours
+2012-08-12 03:41:47,Rock,191226,9,false,Country Honk
+never,Electronica,309600,0,false,Invisible
+2012-10-08 18:49:41,Latin,318173,2,false,Disse Alguem (All Of Me)
+2012-09-11 05:01:41,Pop,254960,2,false,三郎太鼓
+2012-09-11 04:57:26,Pop,179306,2,false,銀座の庄助さん
+2012-08-12 03:38:36,Rock,264666,10,false,Love In Vain
+2012-09-11 04:54:27,Pop,241826,2,false,ギター仁義
+2012-09-11 04:50:25,Pop,223266,2,false,なみだ船
+2012-09-14 02:32:49,Pop,312493,3,false,人生道
+2012-08-12 03:34:12,Rock,275106,10,false,Gimme Shelter
+never,Electronica,205386,0,false,Put A Straw Under Baby
+2012-03-05 10:35:43,Pop,235426,1,false,最後のニュース
+2012-10-21 18:34:11,Jazz,236560,1,false,Somewhere
+2012-10-22 09:25:54,Traditional,319000,2,false,『付き馬』 出囃子「三下り中の舞」～マクラ
+2012-10-15 13:14:10,Metal,240800,1,false,Love For Sale
+2012-10-15 13:10:09,Metal,269906,1,false,99 In The Shade
+2012-10-15 13:05:39,Metal,346600,1,false,I'll Be There For You
+2012-10-15 12:59:52,Metal,285333,1,false,Stick To Your Guns
+2012-10-10 01:40:24,Indie Rock,344466,2,false,Who Feels Love?
+2012-10-10 01:44:51,Indie Rock,267133,2,false,Put Yer Money Where Yer Mouth Is
+2012-07-06 02:45:06,Classical,29253,1,false,Bach: Goldberg Variations_ BWV 988 - Variatio 4 A 1 Clav. (1955)
+never,Other,829361,0,false,８月３０日（木）「DigTag 藤木ＴＤＣのＣＤＴ」
+2012-11-02 03:55:10,Country & Folk,263093,7,false,My Back Pages
+never,News,1797012,0,false,8月31日 夜7時NHKきょうのニュース
+2012-07-24 21:11:10,Rock,276760,11,false,Some Girls
+never,News,597060,0,false,8月31日 午後3時のニュース
+2012-07-06 02:43:05,Classical,45120,1,false,Bach: Goldberg Variations_ BWV 988 - Variatio 1 A 1 Clav. (1955)
+2012-07-06 02:42:20,Classical,114600,1,false,Bach: Goldberg Variations_ BWV 988 - Aria (1955)
+never,ボイスメモ,16763,0,false,2_8_12 3:46 
+2012-07-06 02:44:37,Classical,54733,1,false,Bach: Goldberg Variations_ BWV 988 - Variatio 3 Canone All'Unisono. A 1 (1955)
+2012-07-06 02:43:42,Classical,37266,1,false,Bach: Goldberg Variations_ BWV 988 - Variatio 2 A 1 Clav. (1955)
+2012-03-14 21:14:35,Country & Folk,313920,7,false,Sunshine On My Shoulders
+2012-03-27 14:59:39,Country & Folk,267293,9,false,I'd Rather Be A Cowboy (Lady's Chains)
+2012-03-14 21:09:21,Country & Folk,245293,7,false,Farewell Andromeda (Welcome To My Morning)
+2012-03-28 09:56:41,Country & Folk,285946,8,false,Rocky Mountain High
+2012-03-27 13:03:16,Country & Folk,218346,9,false,Goodbye Again
+2012-11-05 07:05:23,Jazz,481826,1,false,A Remark You Made
+2012-11-05 09:32:26,Jazz,285173,2,false,Slang (Bass Solo)
+2012-11-05 07:17:57,Jazz,166000,2,false,In A Silent Way
+never,Jazz,433733,0,false,Birdland
+never,Jazz,213826,0,false,Thanks For The Memory (Tenor Sax Solo)
+never,iTunes U,5106740,0,false,空間・情報と未来先導
+never,iTunes U,3446547,0,false,空間情報と戦争
+never,iTunes U,4907941,0,false,空間情報と文明の進化
+never,iTunes U,4646747,0,false,空間情報と環境創造
+never,iTunes U,4934835,0,false,空間情報と資源探査
+2012-10-20 06:00:28,Traditional,145373,1,false,蔵前駕籠 3 蔵前通りの大芝居～サゲ～中入り
+2012-11-06 19:09:12,Pop,252373,1,false,十六夜舟
+2012-10-19 11:30:08,Traditional,301760,2,false,代脈 4 待望のお菓子
+2012-10-15 11:01:31,Rock,242600,1,false,With a Shout
+2012-10-19 11:34:53,Traditional,232066,1,false,代脈 5 禁断を犯した触診～サゲ
+never,Voice Memo,5710,0,false,2_16_12 11:13 
+2012-10-20 05:56:59,Traditional,512866,1,false,蔵前駕籠 2 女郎買いに決死隊あり
+2012-10-04 17:22:13,Traditional,1343333,1,false,宿屋の富
+never,Traditional,1781093,0,false,らくだ
+never,Rap,269613,0,false,We Made You
+2012-11-18 07:38:37,Alternative,147160,21,false,Lies Greed Misery
+never,Traditional,1545173,0,false,鉄拐
+2012-11-18 07:32:19,Alternative,200693,30,false,In My Remains
+never,Rap,248200,0,false,Hello
+2012-11-18 07:36:09,Alternative,230253,25,false,Burn It Down
+never,Rap,283066,0,false,Bagpipes From Baghdad
+never,Rap,246640,0,false,Same Song & Dance
+2012-11-16 22:42:37,Alternative,205773,30,false,Lost In The Echo
+never,Rap,42226,0,false,Tonya (Skit)
+never,Electronica,194960,0,false,2 Forms Of Anger
+2012-09-17 14:57:42,Traditional,310493,1,false,『大山詣り』 出囃子「老松」～マクラ
+never,Electronica,181533,0,false,Horse
+never,Electronica,115600,0,false,Flint March
+never,Electronica,108840,0,false,Small Craft On A Milk Sea
+never,Electronica,142040,0,false,Bone Jump
+2012-04-06 13:17:05,iTunes U,5165065,1,false,はじめに
+2012-07-02 16:41:00,Jazz,338666,8,false,Monk's Mood
+2012-04-06 16:11:07,iTunes U,4871104,1,false,デジタルコミュニケーションとは（基礎編１）
+2012-10-27 15:57:06,Alternative,218013,11,false,In Pieces
+2012-07-02 16:44:52,Jazz,231666,8,false,Oblivion
+2012-04-07 10:49:29,iTunes U,4831765,1,false,デジタルコミュニケーションとは（基礎編２）
+2012-10-21 12:29:06,Rock,349133,2,false,Mofo
+2012-10-21 12:34:28,Rock,322466,2,false,If God Will Send His Angels
+2012-10-21 12:39:05,Rock,276800,2,false,Staring At The Sun
+2012-09-26 04:48:45,Rock,331560,1,false,Grace
+2012-10-21 12:43:51,Rock,285666,2,false,Last Night On Earth
+2012-07-02 16:51:02,Jazz,370360,8,false,Pannonica
+2012-10-20 11:00:06,Traditional,128200,3,false,『干物箱』-1 出囃子「三下り中の舞」～マクラ
+never,iTunes U,678077,0,false,廣瀬通孝「インターフェースとしてのロボット」その2
+never,iTunes U,544010,0,false,廣瀬通孝「インターフェースとしてのロボット」その1
+never,iTunes U,710643,0,false,廣瀬通孝「インターフェースとしてのロボット」その4
+never,iTunes U,681247,0,false,廣瀬通孝「インターフェースとしてのロボット」その3
+2012-09-06 13:22:13,Pop,161506,1,false,モデル・ガール
+2012-10-24 11:09:56,Traditional,500706,1,false,『三年目』 やむを得ずの再婚～そして三年目の法事
+2012-08-07 00:58:14,Rap,350226,5,false,Superman
+2012-11-02 00:40:07,Indie Rock,426653,40,false,Yes
+never,Traditional,2400493,0,false,七度狐(昭和61.5.28)
+2012-11-17 02:42:26,Metal,224506,5,false,It's My Life
+2012-10-19 05:45:25,Traditional,191840,1,false,『佃祭』 女房のやきもちを背に佃島行き
+never,Traditional,1497240,0,false,つる
+never,Rock,310733,0,false,Toad
+never,Rock,239333,0,false,I'm So Glad
+never,Rock,283733,0,false,Rollin' And Tumblin'
+never,Rock,130400,0,false,Four Until Late
+never,Rock,185400,0,false,Cat's Squirrel
+2012-10-13 09:08:53,Rock,293466,1,false,Red Hill Mining Town
+never,Indie Rock,336586,0,false,Let There Be Love
+never,Indie Rock,277133,0,false,My Iron Lung
+never,Indie Rock,345786,0,false,Keep The Dream Alive
+never,Indie Rock,187653,0,false,A Bell Will Ring
+never,Indie Rock,204773,0,false,Guess God Thinks I'm Abel
+never,Indie Rock,227973,0,false,Part Of The Queue
+2012-10-21 18:06:14,Jazz,354626,1,false,How Is the Weather Up There?
+never,Rap,15906,0,false,Paul
+never,Rap,226626,0,false,Brain Damage
+never,Rap,316440,0,false,'97 Bonnie & Clyde
+never,Rap,245493,0,false,If I Had
+never,Rap,19693,0,false,Bitch
+2012-10-31 03:45:51,Traditional,246000,1,false,翌日、春ふたたび・サゲ・追い出し
+2012-04-03 19:31:25,Jazz,730120,8,false,Armando's Tango
+2012-10-08 19:50:19,Latin,286066,1,false,Na Baixa Do Sapateiro
+2012-10-08 19:54:52,Latin,272893,1,false,Avarandado
+never,Rock,388706,0,false,Rollin' And Tumblin' [Live At Fillmore West]
+2012-10-08 19:58:39,Latin,227266,1,false,Falsa Baiana
+2012-04-18 11:49:45,Jazz,970306,4,false,Glass Enclosure_Tempus Fight
+2012-10-31 03:41:45,Traditional,327826,1,false,母と子
+2012-04-03 09:16:12,Jazz,601906,4,false,Crystal Silence
+2012-04-03 09:24:46,Jazz,516000,4,false,Bessie's Blues
+2012-05-16 16:22:08,Jazz,695093,5,false,Autumn Leaves
+2012-08-26 06:43:40,Jazz,329693,14,false,Choux A La Creme
+2012-10-20 18:47:50,Indie Rock,227066,1,false,Sparks
+2012-08-26 06:37:51,Jazz,357920,15,false,BQE
+2012-08-26 06:55:08,Jazz,180506,14,false,Berne Baby Berne
+2012-10-31 03:35:18,Traditional,712600,1,false,三年ぶりの父と子
+2012-08-26 06:52:07,Jazz,507266,14,false,Sicilian Blue
+2012-08-06 10:34:39,Jazz,1059240,33,false,Dolores In A Shoestand
+2012-08-26 07:00:47,Jazz,338973,13,false,Somewhere
+2012-08-06 08:12:02,Jazz,1116960,28,false,Definition Of A Dog
+2012-08-06 11:00:47,Jazz,575626,32,false,Eighthundred Streets By Feet
+2012-03-11 11:55:15,Alternative,436546,3,false,Closer (Precursor)
+2012-02-06 13:52:05,Alternative,243453,1,false,Piggy (Nothing Can Stop Me Now)
+2012-02-06 13:56:08,Alternative,64106,1,false,A Violet Fluid
+2012-05-13 13:08:35,Alternative,293133,4,false,Dead Souls
+2012-02-06 14:17:22,Alternative,308800,1,false,Hurt (Quiet)
+never,Indie Rock,228786,0,false,All I Need
+never,Indie Rock,328373,0,false,House Of Cards
+never,Indie Rock,290373,0,false,Reckoner
+2012-05-29 08:56:33,Rock,114346,37,false,Drive My Car_The Word_What You're Doing
+2012-05-29 08:54:39,Rock,82400,21,false,I Want To Hold Your Hand
+2012-05-29 08:53:16,Rock,268266,24,false,I Am The Walrus
+2012-06-15 13:04:09,Rock,185933,24,false,Eleanor Rigby_Julia [Transition]
+2012-05-29 08:57:28,Rock,55106,26,false,Gnik Nus
+2012-05-13 14:34:07,Blues,234253,2,false,Before You Accuse Me
+2012-06-30 10:41:23,Jazz,202893,1,false,My Ship
+2012-11-06 13:50:31,Pop,276840,5,false,Dear John
+2012-11-06 14:12:20,Pop,183840,5,false,Creepin' In
+2012-11-06 14:02:13,Pop,456346,5,false,Court & Spark
+2012-06-30 10:30:43,Jazz,392400,1,false,Lush Life
+2012-07-06 02:20:22,Blues,273053,1,false,Blues Power
+never,Voice Memo,61276,0,false,6_4_12 18:09 
+2012-07-06 02:29:17,Blues,265426,1,false,Wonderful Tonight
+2012-06-30 10:38:00,Jazz,220373,1,false,It Could Happen To You
+never,Blues,366360,0,false,Lay Down Sally
+2012-06-30 10:34:20,Jazz,216293,1,false,This Nearly Was Mine
+2012-05-13 13:56:48,Blues,296146,2,false,Strange Brew
+2012-11-06 16:51:55,Pop,207453,6,false,Say Goodbye
+2012-04-25 14:20:34,Jazz,393493,21,false,Milestones
+never,Spoken & Audio,1622600,0,false,厩火事
+2012-11-06 16:35:18,Pop,197733,6,false,Good Morning
+never,Spoken & Audio,1156133,0,false,五目講釈
+never,Spoken & Audio,1389093,0,false,花見の仇討
+never,Indie Rock,264800,0,false,Exit Music (For A Film)
+2012-06-05 23:52:32,Jazz,517906,5,false,Expansion
+never,Indie Rock,383493,0,false,Paranoid Android
+2012-07-06 03:05:30,Classical,56853,1,false,Bach: Goldberg Variations_ BWV 988 - Variatio 24 Canone All'Ottava. A 1 Clav. (1955)
+never,Indie Rock,284400,0,false,Airbag
+2012-07-06 03:04:33,Classical,54413,1,false,Bach: Goldberg Variations_ BWV 988 - Variatio 23 A 2 Clav. (1955)
+never,Electronica,489000,0,false,Late Anthropocene
+2012-07-06 03:03:39,Classical,42280,1,false,Bach: Goldberg Variations_ BWV 988 - Variatio 22 Alla Breve A 1 Clav. (1955)
+2012-07-06 03:02:57,Classical,102280,1,false,Bach: Goldberg Variations_ BWV 988 - Variatio 21 Canone Al Settima (1955)
+2012-07-06 03:01:14,Classical,47560,1,false,Bach: Goldberg Variations_ BWV 988 - Variatio 20 A 2 Clav. (1955)
+2012-06-05 23:43:54,Jazz,628253,5,false,Entry Point
+2012-02-03 17:38:27,Country & Folk,207600,3,false,I Believe In You
+2012-02-03 17:35:00,Country & Folk,245400,3,false,When You Dance You Can Really Love
+2012-11-22 14:35:46,Rock,212466,18,false,Take It Easy
+2012-11-06 17:51:16,Pop,200600,27,false,Thinking About You
+2012-03-28 13:41:10,Country & Folk,94600,5,false,Cripple Creek Ferry
+2012-11-06 17:44:30,Pop,174480,27,false,Not My Friend
+2012-11-06 18:04:34,Pop,236400,27,false,Until The End
+2012-06-28 10:31:56,Jazz,219293,1,false,Check Blast
+2012-11-06 18:00:38,Pop,179760,28,false,The Sun Doesn't Like You
+never,Rock,173066,0,false,I Feel Free
+2012-11-06 18:09:13,Pop,278306,30,false,Sinkin' Soon
+2012-06-05 23:09:41,Rock,300506,116,false,Let It Grow
+2012-06-05 23:12:56,Rock,194666,117,false,Steady Rollin' Man
+2012-06-05 23:01:14,Rock,254266,118,false,I Can't Hold Out
+2012-06-05 23:04:40,Rock,206493,117,false,Please Be With Me
+2012-06-05 23:17:05,Rock,249400,118,false,Mainline Florida
+2012-04-23 14:56:00,Rock,244813,7,false,Crazy
+2012-04-23 15:01:06,Rock,306013,17,false,Angel
+2012-08-07 00:52:24,Rap,339640,5,false,Sing For The Moment
+2012-04-23 13:48:20,Rock,357506,18,false,Amazing
+never,Country & Folk,138666,0,false,Freight Train Blues
+2012-04-23 13:52:27,Rock,246866,4,false,The Other Side
+2012-04-23 13:56:53,Rock,266426,4,false,Dream On
+2012-03-30 08:09:57,Pop,253360,158,false,I've Got To See You Again
+2012-07-21 15:25:27,Rock,138706,1,false,I Just Want To Make Love To You
+never,Alternative,342760,0,false,Where Did Your Heart Go?
+never,Alternative,408373,0,false,Last Christmas
+never,Alternative,221426,0,false,Young Guns (Go For It!)
+never,Alternative,407240,0,false,Wham Rap!
+2012-10-08 18:16:06,Latin,75173,1,false,Cordeiro De Nana
+2012-09-17 15:16:32,Traditional,358200,1,false,『大山詣り』 坊主の目覚め
+2012-09-17 15:10:33,Traditional,193266,1,false,『大山詣り』 復讐の剃髪
+2012-07-21 15:23:08,Rock,141866,1,false,Route 66
+2012-09-17 23:37:59,Traditional,509133,1,false,『大山詣り』 女房集団出家～サゲ～中入り
+never,Alternative,361933,0,false,Everything She Wants '97
+never,Traditional,1432666,0,false,汲み立て (1977年8月31日上野鈴本演芸場)
+2012-10-08 18:09:54,Latin,289200,1,false,No Tabuleiro Da Baiana
+2012-07-21 15:27:38,Rock,130893,1,false,Honest I Do
+2012-10-08 18:14:51,Latin,297093,1,false,Milagre
+never,Pop,177266,0,false,夕やけの空
+never,Pop,193840,0,false,世界の国からこんにちは
+never,Pop,174226,0,false,レットキス (ジェンカ)
+never,Pop,138333,0,false,結構だね音頭
+never,Pop,176440,0,false,涙くんさよなら
+2012-10-18 06:46:44,Metal,209733,1,false,Misunderstood
+2012-07-25 18:25:32,Electronica,130440,9,false,Tommib Help Buss
+2012-07-25 19:18:40,Electronica,113040,10,false,Telluric Piece
+never,Rock,303466,0,false,Crumbs From Your Table
+2012-07-25 19:27:13,Electronica,513226,10,false,District Line II
+2012-07-25 19:33:41,Electronica,388240,10,false,Circlewave
+2012-07-25 19:43:09,Electronica,567226,10,false,Tetra-Sync
+2012-09-06 14:29:33,Pop,250200,1,false,命かれても
+2012-10-24 03:56:41,Traditional,431266,1,false,『付き馬』 早桶屋と若い衆のやりとり～サゲ～追い出し
+never,Indie Rock,276000,0,false,Exogenesis: Symphony Part 3 (Redemption)
+2012-08-07 00:46:22,Rap,290306,5,false,Without Me
+never,Rock,393506,0,false,Of Missing Persons
+2012-03-29 16:05:46,Rock,290026,2,false,Call it a Loan
+2012-03-10 20:11:39,Rock,488773,1,false,Hold on Hold Out
+2012-06-17 20:34:48,Rock,342200,14,false,Late For The Sky
+2012-06-17 20:41:40,Rock,412226,14,false,Fountain Of Sorrow
+2012-10-26 12:56:12,Rock,241733,43,false,Next Time You See Her
+2012-10-26 12:44:29,Rock,221960,46,false,Cocaine
+2012-10-26 12:48:14,Rock,225266,45,false,Wonderful Tonight
+2012-08-12 04:22:15,Rock,239000,3,false,100 Years Ago
+2012-08-12 04:28:10,Rock,355333,3,false,Coming Down Again
+never,none,86563,0,false,ASA
+2012-08-12 04:18:16,Rock,293733,3,false,Dancing With Mr. D.
+2012-09-14 03:17:19,Pop,208266,3,false,帰ろかな
+2012-09-14 02:40:41,Pop,223333,3,false,兄弟仁義
+2012-08-12 04:31:38,Rock,207826,3,false,Doo Doo Doo Doo Doo (Heartbreaker)
+2012-09-11 05:12:37,Pop,224240,2,false,男の涙
+2012-05-28 04:36:23,Classical,211440,4,false,Kosma: Autumn Leaves
+2012-11-17 01:44:15,Metal,253786,13,false,Wildflower
+2012-05-28 04:39:56,Classical,213413,4,false,Lara: Granada
+2012-05-28 04:29:46,Classical,162626,4,false,Schubert: Ave Maria_ D 839
+2012-05-28 04:32:51,Classical,185093,4,false,Rauber: La Vie En Rose
+2012-10-24 03:27:33,Traditional,367333,4,false,『付き馬』 若い衆を煙に巻いて登楼
+2012-10-24 03:29:14,Traditional,308893,2,false,『付き馬』 翌朝のやりとり～時間つぶしの散策
+2012-05-28 04:44:23,Classical,266786,4,false,Rota: La Strada
+2012-11-17 01:47:53,Metal,218320,12,false,Last Cigarette
+2012-10-24 03:40:06,Traditional,324773,1,false,『付き馬』 奥山から浅草寺、仲見世から雷門
+2012-07-25 10:44:20,Rock,305533,9,false,Fool To Cry
+2012-11-17 03:02:38,Metal,379160,3,false,Next 100 Years
+2012-07-25 10:21:16,Rock,237466,9,false,Cherry Oh Baby
+2012-11-17 01:35:05,Metal,277186,16,false,Last Man Standing
+2012-07-25 10:28:25,Rock,429226,9,false,Memory Motel
+2012-07-25 10:33:25,Rock,299466,9,false,Hey Negrita
+2012-07-25 10:39:15,Rock,349600,9,false,Melody
+2012-11-06 18:52:55,Pop,211400,9,false,白い船
+never,Indie Rock,191000,0,false,You And Whose Army?
+2012-10-30 11:39:46,Jazz,252066,3,false,On The Slow Glide
+2012-11-06 18:46:57,Pop,163760,9,false,愛は君
+2012-11-06 18:49:24,Pop,147066,9,false,ハトが泣いている
+2012-11-06 18:39:33,Pop,206866,9,false,小さな手
+2012-07-12 07:08:16,Pop,298800,8,false,人生が二度あれば
+never,Jazz,156573,0,false,8:30
+never,Jazz,572333,0,false,Badia _ Boogie Woogie Waltz Medley
+never,Indie Rock,293760,0,false,I Might Be Wrong
+never,Jazz,197066,0,false,The Orphan
+never,Jazz,514866,0,false,Brown Street
+never,Jazz,334960,0,false,Sightseeing
+never,Indie Rock,288733,0,false,Pyramid Song
+never,iTunes U,2755422,0,false,空間情報と知識創造
+never,Indie Rock,208626,0,false,Hung In A Bad Place
+never,iTunes U,5186954,0,false,空間情報技術
+never,iTunes U,4706807,0,false,空間情報とメディア創造
+never,iTunes U,3167901,0,false,Webマッピングとソーシャル・イノベーション
+never,iTunes U,1962462,0,false,「良い境界、よくない境界、活かす方法、なくす方法」〜空間情報からの発想
+never,Indie Rock,247266,0,false,Pulk_Pull Revolving Doors
+never,Rap,319973,0,false,Stay Wide Awake
+2012-06-30 00:31:36,Jazz,248600,10,false,Green Tea Farm
+never,Rap,278160,0,false,Old Time's Sake
+2012-11-05 09:54:07,Indie Rock,328533,7,false,Some Might Say
+never,Rap,237346,0,false,Medicine Ball
+never,Rap,19400,0,false,Paul (Skit)
+never,Indie Rock,127573,0,false,Songbird
+never,Rap,242906,0,false,Must Be The Ganja
+2012-07-10 12:46:28,Jazz,553466,15,false,Voice
+never,Metal,271840,0,false,I'd Die For You
+never,Podcast,3507372,0,false,8月21日 夜10時NHKジャーナル
+2012-10-09 06:31:13,Traditional,1527933,1,false,植木屋娘
+2012-10-14 14:14:07,Electronica,230933,1,false,I'll Come Running
+never,Voice Memo,3295,0,false,4_11_12 18:21 
+never,Podcast,897048,0,false,8月21日 正午のニュース
+2012-08-22 03:32:01,Podcast,897012,1,false,8月22日 朝7時のニュース
+never,Podcast,2697048,0,false,8月21日 夜7時NHKきょうのニュース
+2012-06-28 11:03:14,Jazz,428533,3,false,Alan Corday
+never,Latin,149240,0,false,Da Cor Do Pecado
+never,Voice Memo,30068,0,false,3_30_12 9:24 
+never,Latin,204000,0,false,Chega De Saudade
+never,ボイスメモ,206540,0,false,2_6_12 6:05 
+never,Electronica,315600,0,false,Back In Judy's Jungle
+2012-06-28 11:04:52,Jazz,98133,1,false,Port View 4
+never,Metal,235133,0,false,Wild In The Streets
+2012-04-07 21:07:22,iTunes U,4795462,1,false,IPアドレスとドメイン
+2012-04-07 13:10:24,iTunes U,4928495,1,false,通信インフラストラクチャ（基礎編３）
+2012-04-08 19:37:43,iTunes U,5022489,1,false,これまでのおさらい
+2012-04-07 19:36:13,iTunes U,5052586,1,false,通信インフラストラクチャ（基礎編４）
+2012-04-14 04:30:25,Pop,159400,20,false,On The Sunny Side Of The Street
+2012-04-08 19:37:48,iTunes U,5130197,1,false,実空間インターネット
+2012-11-05 09:59:40,Indie Rock,45533,8,false,(Untitled)
+2012-10-13 09:24:59,Rock,253066,1,false,Exit
+2012-10-13 09:20:46,Rock,323360,1,false,One Tree Hill
+2012-10-21 12:18:09,Rock,318666,2,false,Discothèque
+2012-04-14 04:33:53,Pop,207080,21,false,Moonlight In Vermont
+2012-10-13 09:30:13,Rock,314066,1,false,Mothers Of The Disappeared
+2012-07-24 21:06:33,Rock,278040,11,false,Imagination
+2012-10-21 12:23:17,Rock,307400,2,false,Do You Feel Loved
+2012-10-20 10:16:11,Traditional,199706,1,false,『柳田格之進』-6 番頭との約束 柳田退去
+2012-08-07 00:26:37,Rap,297933,5,false,Cleanin' Out My Closet
+2012-08-07 00:32:01,Rap,324026,5,false,Square Dance
+2012-07-24 21:01:55,Rock,261200,11,false,When The Whip Comes Down
+2012-08-07 00:33:17,Rap,75533,5,false,The Kiss (Skit)
+2012-08-07 00:37:03,Rap,226440,5,false,Soldier
+never,iTunes U,4844344,0,false,9-アクチュエーション
+never,Voice Memo,36755,0,false,2_8_12 3:34 
+never,iTunes U,5134401,0,false,12-社会的制度とプライバシー保護
+never,iTunes U,5178145,0,false,13-ユビキタスコンピューティングシステムの未来
+2012-07-24 21:38:20,Rock,289160,12,false,Miss You
+2012-10-14 14:15:44,Electronica,96933,1,false,Another Green World
+2012-07-25 10:48:54,Rock,274333,9,false,Crazy Mama
+never,Rock,216933,0,false,Dance The Night Away
+never,Metal,258066,0,false,Raise Your Hands
+never,Rock,121400,0,false,Lawdy Mama [Version 1 Previously Unreleased]
+never,Rock,169866,0,false,Strange Brew
+never,Rock,253000,0,false,Sunshine Of Your Love
+never,Rock,185933,0,false,World Of Pain
+never,Voice Memo,18504,0,false,2_7_12 5:52 
+2012-11-05 09:42:58,Indie Rock,260440,9,false,Wonderwall
+2012-11-05 10:24:44,Indie Rock,238266,8,false,Roll With It
+2012-11-05 09:38:22,Indie Rock,201360,12,false,Hello
+never,Indie Rock,120106,0,false,Sittin' Here In Silence (On My Own)
+never,Indie Rock,259360,0,false,Can Y'see It Now? (I Can See It Now!!)
+never,Rap,219293,0,false,Cum On Everybody
+never,Indie Rock,338813,0,false,I Belong To You _ Mon Cœur S'ouvre À Ta Voix
+never,Rap,241533,0,false,My Fault
+never,Rap,76306,0,false,Ken Kaniff
+never,Rap,205400,0,false,Role Model
+never,Rap,46533,0,false,Lounge
+never,Indie Rock,242293,0,false,Bodysnatchers
+never,Indie Rock,255386,0,false,Nude
+2012-04-20 09:43:22,Jazz,605466,2,false,Splash
+never,Indie Rock,246266,0,false,4 Minute Warning
+never,Indie Rock,238133,0,false,15 Step
+2012-06-30 01:57:04,Jazz,789906,2,false,Another MIND
+2012-06-30 01:43:54,Jazz,649933,2,false,Legend Of The Purple Valley
+2012-05-29 07:42:55,Jazz,509544,7,false,Capricorn
+never,Indie Rock,318186,0,false,Weird Fishes_Arpeggi
+2012-04-20 09:33:17,Jazz,802873,3,false,Dual Mr. Anthony Tillmon Williams Process
+2012-06-30 01:18:22,Jazz,428573,2,false,Desert On The Moon
+2012-03-28 09:20:36,Alternative,411840,2,false,Reptile
+never,Voice Memo,46786,0,false,2_6_12 6:20 
+never,Alternative,294360,0,false,Eraser
+2012-03-11 11:25:12,Alternative,373333,1,false,Hurt
+2012-03-27 09:04:22,Alternative,237293,1,false,The Downward Spiral
+2012-05-16 16:48:11,Alternative,300026,5,false,Burn
+2012-01-30 10:39:37,Short Films,145958,1,false,Luxo Jr.
+never,Indie Rock,253453,0,false,Guiding Light
+2012-04-18 09:53:30,Rock,175933,47,false,Mr. Pitiful
+2012-11-30 13:53:46,Rock,164653,54,false,Because
+2012-11-30 13:55:52,Rock,125280,40,false,Get Back
+2012-11-30 13:57:12,Rock,80626,43,false,Glass Onion
+2012-11-06 14:16:47,Pop,266826,8,false,Life Is Better
+2012-07-09 23:50:56,Pop,211133,2,false,You're Beautiful [Acoustic Version]
+2012-07-06 02:24:51,Blues,269186,2,false,Miss You
+2012-07-09 23:54:19,Pop,203213,1,false,No Bravery [Live]
+2012-11-06 13:26:31,Pop,265386,7,false,Little Lou_ Prophet Jack_ Ugly John
+2012-11-06 14:06:18,Pop,244333,7,false,Soon The New Day
+never,Traditional,2036360,0,false,不動坊
+2012-06-15 18:27:06,Pop,172800,33,false,All Across The Havens
+2012-03-29 03:16:44,Pop,184373,8,false,Lady Samantha
+2012-03-29 03:36:51,Pop,224293,7,false,Just Like Strange Rain
+2012-09-06 14:46:59,Pop,261240,1,false,年上の女
+2012-03-29 03:28:24,Pop,244333,12,false,It's Me That You Need
+2012-10-24 04:02:02,Electronica,111493,2,false,Over Fire Island
+never,Podcast,1797048,0,false,9月7日 夜7時NHKきょうのニュース
+never,Electronica,326866,0,false,Unfamiliar Wind (Leeks Hills)
+never,Electronica,247946,0,false,A Clearing
+never,Electronica,430160,0,false,Dunwich Beach_ Autumn_ 1960
+2012-11-07 15:55:38,Traditional,211493,2,false,出囃子「老松」・マクラ
+2012-10-24 04:00:11,Electronica,208066,2,false,Sky Saw
+never,Indie Rock,261626,0,false,Karma Police
+never,Indie Rock,117333,0,false,Fitter Happier
+2012-07-06 03:15:51,Classical,60266,1,false,Bach: Goldberg Variations_ BWV 988 - Variatio 29 A 1 Ovvero 2 Clav. (1955)
+never,Indie Rock,230640,0,false,Electioneering
+never,Indie Rock,285200,0,false,Climbing Up The Walls
+never,Indie Rock,228533,0,false,No Surprises
+2012-07-06 03:12:50,Classical,52200,1,false,Bach: Goldberg Variations_ BWV 988 - Variatio 26 A 2 Clav. (1955)
+2012-07-06 03:11:58,Classical,388106,1,false,Bach: Goldberg Variations_ BWV 988 - Variatio 25 A 2 Clav. Adagio (1955)
+2012-07-06 03:14:51,Classical,70666,1,false,Bach: Goldberg Variations_ BWV 988 - Variatio 28 A 2 Clav. (1955)
+2012-07-06 03:13:40,Classical,49586,1,false,Bach: Goldberg Variations_ BWV 988 - Variatio 27 A 2 Clav. Canone Alla Nona (1955)
+never,Rock,200400,0,false,Sweet Wine
+never,Rock,121200,0,false,Dreaming
+2012-11-06 17:28:45,Pop,258400,32,false,Wish I Could
+2012-03-28 13:02:03,Country & Folk,153440,6,false,Birds
+never,Rock,167800,0,false,N.S.U.
+2012-04-23 14:34:21,Rock,322386,7,false,Love In An Elevator
+2012-03-20 04:29:07,Country & Folk,230293,4,false,Oh_ Lonesome Me
+never,Voice Memo,4154,0,false,6_17_12 8:04 
+2012-03-27 08:44:50,Country & Folk,177666,8,false,Don't Let It Bring You Down
+2012-11-17 05:03:25,Pop,253133,21,false,Sleepless Nights
+2012-03-14 17:39:02,Country & Folk,332133,5,false,Southern Man
+2012-03-14 17:40:22,Country & Folk,80506,5,false,Till The Morning Comes
+2012-05-16 17:26:10,Rock,354560,42,false,Babylon Sisters
+2012-06-05 22:37:27,Rock,416360,105,false,Meet Me (Down At The Bottom)
+2012-04-23 14:39:28,Rock,306880,6,false,Livin' On The Edge
+2012-06-05 22:30:31,Rock,330573,137,false,Ain't That Lovin' You
+2012-06-05 22:25:00,Rock,317560,112,false,Walkin' Down The Road
+2012-09-06 14:42:37,Pop,217400,1,false,ひとり酒場で
+2012-05-13 15:18:50,Rock,310066,36,false,Hey Nineteen
+2012-04-23 14:43:10,Rock,221506,6,false,Walk This Way
+2012-09-26 16:47:32,Traditional,597800,1,false,真田小僧 母親の秘密?
+2012-09-26 16:36:15,Traditional,221306,1,false,真田小僧 小遣いせびり
+never,Rock,215333,0,false,Ready Or Not
+2012-07-25 13:48:50,Electronica,283360,10,false,Laser Rock
+never,Traditional,398840,0,false,今戸の狐 キツネにつままれた話～サゲ～追い出し
+2012-07-25 13:44:06,Electronica,289186,10,false,Plug Me In
+2012-04-02 17:38:48,none,172970,44,false,apple_song 1
+never,Rock,219266,0,false,The Times You've Come
+2012-10-14 13:24:12,Electronica,265786,1,false,Caught Between
+2012-04-18 12:14:02,Rock,225026,1,false,I Thought I Was A Child
+2012-05-13 12:44:20,Rock,287040,3,false,These Days
+never,Alternative,231293,0,false,Wake Me Up Before You Go-Go
+2012-03-28 07:45:58,Alternative,270240,1,false,Club Tropicana
+2012-03-27 11:07:25,Alternative,320093,1,false,Freedom
+never,Alternative,256040,0,false,Like A Baby
+never,Alternative,277600,0,false,The Edge Of Heaven
+2012-07-22 14:26:46,Rock,263226,11,false,The Lantern
+2012-09-06 14:39:00,Pop,229293,1,false,花と蝶
+2012-09-16 11:28:20,Pop,158160,1,false,ともだち
+never,iTunes U,907640,0,false,特別講義(4)：坂本龍一　×　小林康夫「音楽はどこにある？」
+2012-09-16 11:33:59,Pop,197973,2,false,明日があるさ
+2012-09-06 13:57:23,Pop,190493,1,false,勝利の旗
+2012-09-18 06:20:52,Pop,148133,2,false,幸せなら手をたたこう
+2012-09-06 14:02:54,Pop,183840,1,false,サヨナラ東京
+never,Jazz,345133,0,false,Eurydice
+2012-07-25 19:16:47,Electronica,246133,11,false,An Arched Pathway
+2012-10-21 11:24:04,Traditional,1384426,1,false,青菜
+2012-07-25 19:03:26,Electronica,343413,11,false,Menelec
+2012-07-25 18:57:43,Electronica,513906,11,false,50 Cycles
+2012-07-25 19:12:41,Electronica,464760,11,false,Steinbolt
+2012-07-22 14:31:55,Rock,309266,11,false,Gomper
+2012-07-25 19:04:56,Electronica,89613,11,false,C-Town Smash
+2012-11-13 00:49:32,Indie Rock,260533,1,false,Screenager
+never,Indie Rock,287760,0,false,Dark Shines
+2012-11-13 00:41:33,Indie Rock,439133,1,false,Citizen Erased
+2012-11-13 00:45:11,Indie Rock,218106,1,false,Micro Cuts
+never,Jazz,380293,0,false,Waterfall
+never,Rock,308893,0,false,Sometimes You Can't Make It On Your Own
+never,ボイスメモ,27792,0,false,5_1_12 20:00 
+never,Indie Rock,198973,0,false,Feeling Good
+2012-09-06 14:35:11,Pop,337800,1,false,盛り場ブルース
+2012-10-23 01:59:18,Jazz,265933,1,false,Morning Lake
+2012-05-16 18:07:01,Rock,313093,2,false,Disco Apocalypse
+2012-03-30 15:10:22,Jazz,258666,2,false,Padre [Album Version]
+never,Rock,275760,0,false,That Girl Could Sing
+2012-03-10 20:17:16,Rock,339240,1,false,Hold Out
+2012-03-14 20:32:09,Country & Folk,248266,10,false,Dreamland Express
+2012-03-27 16:02:07,Country & Folk,174493,11,false,Love Again
+2012-03-14 20:25:06,Country & Folk,245146,4,false,Wild Montana Skies
+2012-03-14 20:21:01,Country & Folk,178866,4,false,Perhaps Love
+2012-07-24 13:55:26,Rock,330706,2,false,Winter
+2012-07-24 13:49:55,Rock,252466,2,false,Hide Your Love
+2012-07-24 13:45:42,Rock,266760,2,false,Silver Train
+2012-08-12 04:36:11,Rock,273106,3,false,Angie
+2012-07-24 14:00:59,Rock,333000,2,false,Can You Hear The Music
+2012-10-20 05:42:33,Traditional,547533,1,false,蔵前駕籠 1 マクラ
+never,iTunes U,771183,0,false,The Smarter Charter Starter
+never,iTunes U,908006,0,false,Voice of the Teachers' Union
+never,iTunes U,1137960,0,false,How to Deal with LGBT Issues in School
+2012-11-14 17:57:54,Metal,280266,1,false,I Could Make A Living Out Of Loving You
+2012-07-06 04:35:38,Classical,154466,3,false,Telemann: Trumpet Concerto In D_ TV 51_D 7 - Adagio
+2012-07-06 04:37:23,Classical,104880,3,false,Telemann: Trumpet Concerto In D_ TV 51_D 7 - Allegro
+never,Country & Folk,162386,0,false,Song To Woody
+2012-07-06 04:38:37,Classical,74626,2,false,Vivaldi: Trumpet Concerto - Allegro
+2012-07-06 04:43:33,Classical,295746,2,false,Bach: Wir Eilen Mit Schwachen
+2012-07-06 04:46:24,Classical,170666,2,false,Clarke: Prince Of Denmark's March_ "Trumpet Voluntary"
+never,iTunes U,1022053,0,false,特別講義(6)：坂本龍一　×　小林康夫「音楽はどこにある？」
+2012-10-26 16:29:48,Pop,194253,2,false,Gimme Some Truth
+never,Traditional,185800,0,false,『御慶』 出囃子「老松」～マクラ
+never,Metal,292000,0,false,Secret Dreams
+2012-10-04 18:09:53,Traditional,1853360,1,false,へっつい幽霊
+never,Metal,341533,0,false,Tokyo Road
+never,Metal,266066,0,false,(I Don't Wanna Fall) To The Fire
+never,Metal,299906,0,false,Always Run To You
+2012-09-06 13:27:23,Pop,150133,1,false,もう一人のボク
+2012-11-18 10:30:26,Pop,284493,1,false,11 -イレブン-
+2012-11-18 10:25:41,Pop,192600,2,false,Be-Pop Juggler
+2012-03-05 15:46:13,Pop,330840,7,false,傘がない
+2012-03-05 14:58:59,Pop,162000,6,false,家へお帰り
+2012-07-21 15:47:05,Rock,176706,1,false,Can I Get A Witness
+2012-11-06 18:57:19,Pop,263933,9,false,限りない欲望
+never,Traditional,2094426,0,false,三方ヶ原軍記
+2012-11-14 18:02:27,Metal,272600,1,false,Neurotica
+never,Rock,278000,0,false,Sunday Bloody Sunday
+2012-10-30 12:55:37,Jazz,327733,1,false,What Do You Want (LP Version)
+2012-07-21 15:49:08,Rock,122533,1,false,You Can Make It If You Try
+2012-10-30 13:21:43,Jazz,306000,2,false,Sugarloaf Express
+2012-10-30 13:06:21,Jazz,353373,3,false,Morning Glory (LP Version)
+2012-10-30 13:16:37,Jazz,482426,3,false,The Captain's Journey (LP Version)
+2012-10-19 03:39:37,Traditional,2302440,1,false,こぶ弁慶
+2012-10-18 05:23:09,Traditional,1809693,1,false,宿替え
+2012-07-21 15:52:17,Rock,189200,1,false,Walking The Dog
+never,Traditional,2611666,0,false,地獄八景亡者戯 (後編)
+never,Traditional,1637666,0,false,くしゃみ講釈
+never,Rap,42386,0,false,Mr. Mathers (Skit)
+2012-06-05 22:52:35,Rock,227760,122,false,Get Ready
+never,iTunes U,4830497,0,false,Webと社会
+never,Rap,297520,0,false,Crack A Bottle
+never,iTunes U,3438472,0,false,Webとユーザープログラミング
+never,iTunes U,4406173,0,false,実世界とWeb
+never,iTunes U,4266767,0,false,Wiki
+never,iTunes U,3719820,0,false,Webと集合知
+2012-07-21 16:41:17,Alternative,187960,2,false,Don't Stay
+never,News,3508992,0,false,8月23日 夜10時NHKジャーナル
+2012-07-24 08:23:20,Alternative,13866,3,false,Foreword
+2012-07-24 11:03:56,Rock,151733,1,false,Surprise_ Surprise
+2012-10-07 10:22:01,Pop,229106,1,false,One Less Lonely Girl
+2012-07-24 11:01:24,Rock,186560,1,false,Little Red Rooster
+never,News,897048,0,false,8月21日 朝7時のニュース
+never,Podcast,897048,0,false,8月23日 正午のニュース
+2012-10-26 16:21:22,Alternative,156560,32,false,Lounge Act
+never,News,897012,0,false,8月22日 正午のニュース
+never,News,597024,0,false,8月22日 午後3時のニュース
+2012-07-21 16:44:50,Alternative,213933,2,false,Somewhere I Belong
+2012-11-03 18:41:28,Pop,223800,6,false,津軽海峡・冬景色
+never,Electronica,311106,0,false,The Great Pretender
+never,Electronica,287640,0,false,Third Uncle
+2012-09-14 03:26:03,Pop,235466,4,false,愛の道
+never,Electronica,305080,0,false,The Fat Lady Of Limbourg
+never,Electronica,345880,0,false,Mother Whale Eyeless
+2012-04-08 19:38:08,iTunes U,5365699,1,false,まとめ
+2012-04-08 19:38:04,iTunes U,5523257,1,false,インターネットと震災
+never,Traditional,1991160,0,false,千両みかん
+2012-04-08 19:38:01,iTunes U,5252819,1,false,インターネットとTV(3)
+2012-04-08 19:37:53,iTunes U,5217150,1,false,インターネットとTV(1)
+2012-04-08 19:37:56,iTunes U,4937137,1,false,インターネットとTV(2)
+2012-10-26 16:12:38,Alternative,177000,32,false,Polly
+2012-11-12 09:36:35,Traditional,1581733,1,false,足上り
+2012-10-19 05:54:01,Traditional,515960,1,false,『佃祭』 思いがけないめぐりあい
+2012-10-13 09:15:22,Rock,212333,1,false,Trip Through Your Wires
+2012-10-17 04:00:05,Other,1602333,1,false,藪入り(S53.1.31 鈴本演芸場)
+2012-10-13 09:11:50,Rock,176866,1,false,In God's Country
+2012-10-26 16:09:41,Alternative,256973,32,false,Lithium
+2012-10-13 09:04:00,Rock,257866,1,false,Running To Stand Still
+2012-10-13 08:59:42,Rock,271906,1,false,Bullet The Blue Sky
+never,iTunes U,4968402,0,false,11-ユビキタスコンピューティングシステムとサービス
+never,iTunes U,5490991,0,false,6-実世界センシング（2）
+never,iTunes U,5607641,0,false,7-マイクロユビキタスノードとプロセッシング（1）
+2012-04-12 23:39:50,iTunes U,5756190,1,false,8-Guest Lecture
+never,iTunes U,5195596,0,false,10-ユビキタスネットワーク
+2012-10-30 11:21:27,Jazz,269333,3,false,Is It You?
+2012-10-27 16:18:42,Rap,275400,10,false,Seduction
+2012-10-27 16:14:07,Rap,248133,11,false,Not Afraid
+2012-10-27 16:28:20,Rap,278640,9,false,Space Bound
+2012-10-27 16:23:42,Rap,299506,7,false,No Love
+2012-10-27 16:32:59,Rap,279013,8,false,Cinderella Man
+never,Indie Rock,347813,0,false,United States Of Eurasia _ Collateral Damage
+never,iTunes U,4641408,0,false,3. Objective-C (October 4_ 2011) - HD
+never,iTunes U,2185385,0,false,Debugger (September 30_ 2011) - HD
+never,iTunes U,4313647,0,false,4. Views (October 6_ 2011) - HD
+2012-11-05 09:58:55,Indie Rock,287893,8,false,Don't Look Back In Anger
+never,Podcast,4804310,0,false,Episode 22 – Meeting Flash game developers at Flash Gaming Summit
+2012-11-05 09:48:38,Indie Rock,340533,8,false,Hey Now!
+2012-08-24 12:57:11,Indie Rock,327800,2,false,Daylight
+2012-08-24 13:30:51,Indie Rock,228733,4,false,In My Place
+2012-08-24 12:41:26,Indie Rock,297306,3,false,God Put A Smile Upon Your Face
+2012-08-24 12:46:35,Indie Rock,309160,3,false,The Scientist
+2012-08-24 12:51:43,Indie Rock,307466,2,false,Clocks
+2012-04-11 14:36:34,Jazz,434076,11,false,Hot House
+2012-03-28 13:39:35,R&B,225573,1,false,Crazy Love
+2012-04-11 14:38:51,Jazz,136881,11,false,Fifty Second Street Theme
+2012-05-12 18:16:44,Jazz,437028,12,false,Groovin' High
+2012-04-11 14:29:20,Jazz,472346,11,false,Salt Peanuts
+2012-03-27 14:14:38,R&B,315893,4,false,Hey Girl
+2012-02-13 10:48:10,R&B,265200,1,false,Sinner's Prayer
+2012-05-29 07:34:26,Jazz,308062,8,false,Water Babies
+2012-03-28 13:55:50,R&B,272600,13,false,Heaven Help Us All
+2012-01-22 04:47:42,R&B,294600,1,false,Over The Rainbow
+2012-06-30 01:11:14,Jazz,545120,3,false,Brain
+2012-11-04 13:23:07,Traditional,2542066,1,false,花筏
+2012-06-10 16:34:05,Jazz,365586,3,false,The Tom And Jerry Show
+2012-06-30 02:03:57,Jazz,413240,4,false,Kung-Fu World Champion
+2012-06-30 02:11:09,Jazz,431493,4,false,IF...
+2012-06-30 02:16:52,Jazz,343173,4,false,Wind Song
+never,ボイスメモ,18992,0,false,4_25_12 21:53 
+2012-07-10 06:32:18,Jazz,465680,35,false,Music for Three-Piece-Orchestra: Deja vu
+2012-10-30 11:12:09,Jazz,254800,3,false,(Just) Tell Me Pretty Lies
+2012-07-10 06:24:32,Jazz,616400,35,false,Music for Three-Piece-Orchestra: Open Door - Tuning - Prolog
+2012-07-10 06:14:16,Jazz,604573,37,false,Spiral
+2012-03-27 14:09:22,Alternative,240173,2,false,Heresy (Demo)
+never,Alternative,417760,0,false,Liar (Reptile Demo)
+2012-10-20 10:49:38,Traditional,335000,1,false,『柳田格之進』-10 柳田の碁盤割り～中入り
+2012-06-10 17:22:02,Jazz,440773,4,false,Truth And Lies
+2012-10-20 10:20:31,Traditional,260066,1,false,『柳田格之進』-7 現われた五十両
+2012-06-05 22:48:47,Rock,211573,126,false,Willie And The Hand Jive
+2012-06-10 16:19:15,Jazz,459666,3,false,Dancando No Paraiso
+2012-06-05 22:42:21,Rock,293626,140,false,Motherless Children
+2012-06-05 22:45:15,Rock,174200,129,false,Give Me Strength
+2012-10-26 16:18:45,Alternative,223866,32,false,Drain You
+2012-10-26 16:15:01,Alternative,143333,32,false,Territorial Pissings
+2012-06-05 22:57:00,Rock,265106,120,false,I Shot The Sheriff
+2012-04-19 14:41:29,Jazz,66266,14,false,ラウンジ・タイム#2
+2012-07-06 03:20:55,Classical,113093,2,false,Bach: Goldberg Variations_ BWV 988 - Aria (Zenph Version)
+never,Traditional,1987400,0,false,住吉駕籠
+2012-07-06 03:21:40,Classical,45133,2,false,Bach: Goldberg Variations_ BWV 988 - Variatio 1 A 1 Clav. (Zenph Version)
+2012-07-06 03:16:39,Classical,47933,1,false,Bach: Goldberg Variations_ BWV 988 - Variatio 30 Quodlibet. A 1 Clav. (1955)
+2012-07-06 03:19:02,Classical,143053,1,false,Bach: Goldberg Variations_ BWV 988 - Aria Da Capo (1955)
+2012-10-21 12:48:18,Rock,266760,2,false,Gone
+2012-10-24 04:07:35,Electronica,150066,2,false,In Dark Trees
+2012-10-24 04:05:05,Electronica,183133,2,false,St. Elmo's Fire
+2012-04-19 14:43:01,Jazz,91933,14,false,ラウンジ・タイム#3
+2012-07-06 03:22:17,Classical,37253,2,false,Bach: Goldberg Variations_ BWV 988 - Variatio 2 A 1 Clav. (Zenph Version)
+2012-10-14 14:10:16,Electronica,183440,1,false,The Big Ship
+2012-11-17 04:52:07,Pop,193226,22,false,The Long Way Home
+2012-11-17 04:55:59,Pop,231800,22,false,The Prettiest Thing
+2012-11-17 04:45:10,Pop,276466,24,false,Humble Me
+2012-11-01 22:17:34,Indie Rock,257533,1,false,High And Dry
+2012-11-17 04:48:54,Pop,223840,23,false,Above Ground
+2012-07-29 18:14:17,Rock,169093,12,false,Tales Of Brave Ulysses
+2012-11-01 22:09:11,Indie Rock,259200,1,false,Planet Telex
+2012-11-01 22:13:17,Indie Rock,246200,1,false,The Bends
+2012-11-17 04:59:12,Pop,192533,23,false,Don't Miss You At All
+never,Indie Rock,259626,0,false,Lucky
+never,Indie Rock,324533,0,false,The Tourist
+never,Traditional,1551840,0,false,首提灯
+2012-07-06 01:38:14,Pop,193720,12,false,Goodbye Yellow Brick Road
+2012-07-29 18:11:28,Rock,211733,12,false,Blue Condition
+2012-07-29 18:20:18,Rock,207173,12,false,We're Going Wrong
+2012-07-29 18:16:51,Rock,154200,12,false,Swlabr
+2012-03-27 15:02:19,Country & Folk,159373,8,false,I'll Be Your Baby Tonight
+2012-07-06 02:05:27,Pop,668626,15,false,Funeral For A Friend_Love Lies Bleeding
+2012-07-06 02:09:17,Pop,230013,14,false,Candle In The Wind
+2012-07-06 01:35:00,Pop,324506,12,false,Bennie And The Jets
+2012-05-13 15:06:08,Rock,332333,32,false,Gaucho
+2012-05-13 15:13:40,Rock,452133,32,false,Glamour Profession
+2012-05-13 15:00:36,Rock,274693,29,false,My Rival
+2012-05-13 12:37:04,Rock,254640,30,false,Time Out Of Mind
+2012-05-13 14:56:01,Rock,314173,29,false,Third World Man
+never,Jazz,293280,0,false,Hotalu
+2012-10-26 11:09:17,Country & Folk,195906,12,false,The Times They Are A-Changin'
+2012-09-26 17:24:54,Traditional,194400,1,false,駒長 マクラ
+2012-08-07 00:46:45,Rap,22693,5,false,Paul Rosenberg (Skit)
+2012-09-26 17:34:34,Traditional,580200,1,false,駒長 踏み倒しの悪だくみ
+2012-04-18 12:10:17,Rock,257840,2,false,Colors Of The Sun
+never,none,433267,0,false,WE_ARE_THE_WORLD-quicktime
+2012-08-11 15:40:11,Indie Rock,245466,11,false,Creep [Live]
+2012-05-16 17:17:27,Rock,232293,2,false,Take It Easy
+2012-08-11 15:36:05,Indie Rock,197333,11,false,Million Dollar Question
+2012-04-23 14:24:37,Rock,267186,5,false,Devil's Got A New Disguise
+2012-04-23 14:20:10,Rock,258173,4,false,Sedona Sunrise
+2012-08-11 15:43:24,Indie Rock,193333,11,false,Ripcord [Live]
+2012-07-29 18:22:45,Rock,146866,12,false,Outside Woman Blues
+never,Alternative,390226,0,false,Everything She Wants
+2012-05-16 15:48:50,Alternative,223600,1,false,If You Were There
+never,Alternative,246200,0,false,I'm Your Man
+2012-08-05 20:34:40,Rap,285560,4,false,Drips
+never,none,361933,0,false,Track 13
+never,none,274066,0,false,Track 14
+2012-04-23 02:09:59,Rock,358533,38,false,Ballad Of A Thin Man
+2012-03-29 05:07:37,Pop,198173,9,false,The Scaffold
+2012-11-22 13:14:22,Rock,249106,41,false,It Takes A Lot To Laugh_ It Takes A Train To Cry
+2012-04-23 02:04:00,Rock,199133,43,false,From A Buick 6
+2012-04-23 02:19:00,Rock,210133,35,false,Highway 61 Revisited
+never,Metal,290293,0,false,Never Say Goodbye
+2012-03-29 03:10:50,Pop,433226,8,false,Gulliver_It's Hay Chewed
+never,Rock,336066,0,false,New Year's Day
+2012-07-25 18:47:09,Electronica,415906,11,false,Iambic 9 Poetry
+2012-07-25 18:40:13,Electronica,211040,11,false,I Fulcrum
+2012-07-25 18:36:42,Electronica,513093,11,false,Ultravisitor
+2012-11-18 09:00:50,Pop,200933,2,false,少年時代
+2012-07-25 18:49:09,Electronica,120320,11,false,Andrei
+2012-11-07 16:10:46,Traditional,464893,1,false,火事場の騒ぎ・鎮火・火事場見舞いへの対応
+2012-11-13 00:10:01,Indie Rock,200933,1,false,Hyper Music
+2012-11-13 00:06:40,Indie Rock,380800,1,false,Space Dementia
+2012-06-30 01:33:04,Jazz,602706,2,false,Keytalk
+2012-11-12 23:56:07,Indie Rock,363466,1,false,New Born
+2012-11-13 00:13:41,Indie Rock,220426,1,false,Plug In Baby
+2012-10-08 19:37:57,ボイスメモ,4340,1,false,3_1_12 21:54 
+2012-07-22 14:46:59,Rock,170973,12,false,Citadel
+2012-09-06 14:54:27,Pop,197506,1,false,波止場女のブルース
+2012-03-27 10:53:57,Indie Rock,205600,10,false,free from the Point mix _ DJ Kodomo
+2012-10-10 07:31:34,Rock,248066,3,false,Beautiful Day
+2012-03-30 15:14:20,Jazz,237666,1,false,Pan Man [Album Version]
+2012-03-04 14:14:59,Indie Rock,269720,8,false,Noise Of The Apache _ Teruhito Tomioka
+2012-03-30 14:12:50,Jazz,239160,5,false,The Hunt [Album Version]
+2012-03-30 14:31:28,Jazz,326000,4,false,Initiation [Album Version]
+2012-03-04 14:21:42,Indie Rock,402840,8,false,MC Cat Genius' BomBassTic Re-bomb _ Animal Family featuring MC Cat Genius
+2012-07-22 15:49:21,Rock,230493,2,false,Brown Sugar
+2012-07-24 13:18:27,Rock,264960,1,false,Star Star
+2012-07-22 15:10:50,Rock,344133,1,false,Wild Horses
+2012-07-22 15:05:06,Rock,232866,1,false,Sway
+2012-07-22 15:18:06,Rock,435640,1,false,Can't You Hear Me Knocking
+2012-06-30 01:23:01,Jazz,278920,2,false,Green Tea Farm
+2012-09-14 14:16:08,Jazz,143746,7,false,Tall Fiddler
+2012-03-04 14:33:07,Indie Rock,232000,8,false,The walk of Basset Hound _ Panpease Records
+2012-07-06 04:24:31,Classical,103906,3,false,Schickhardt: Sonata_ Op. 17_12
+2012-07-06 04:22:47,Classical,290120,3,false,Vivaldi: Concerto In B Flat For Oboe & Violin_ RV 548 (Trumpet Version) - 3. Allegro
+2012-07-06 04:30:24,Classical,174440,3,false,Stölzel: Trumpet Concerto In D - 2. Andante
+2012-09-26 17:39:03,Traditional,268266,1,false,駒長 悪事の稽古
+2012-07-06 04:27:29,Classical,177960,3,false,Stölzel: Trumpet Concerto In D - 1. Allegro
+2012-09-14 14:12:09,Jazz,270853,18,false,Amazing Grace
+2012-07-06 04:33:03,Classical,159653,3,false,Stölzel: Trumpet Concerto In D - 3. Allegro
+never,Metal,308493,0,false,Wanted Dead Or Alive
+2012-10-07 11:58:18,Pop,198760,1,false,Stuck In The Moment
+2012-04-18 12:05:59,Rock,218866,1,false,Our Lady Of The Well
+never,Traditional,463200,0,false,『崇徳院』 若旦那の恋物語
+2012-09-14 14:07:38,Jazz,375226,6,false,House Of The Risin` Sun
+2012-11-14 14:02:18,Traditional,689226,2,false,『お茶汲み』 裏をかいた身の上話し～サゲ
+2012-11-14 13:46:36,Traditional,684733,3,false,『お茶汲み』 裏があった身の上話し
+2012-10-07 11:54:59,Pop,196613,1,false,U Smile
+never,Traditional,173640,0,false,『崇徳院』 若旦那の身を案じる文
+never,Traditional,302893,0,false,『崇徳院』 出囃子「老松」～マクラ
+2012-11-18 10:54:04,Pop,270133,1,false,鍵の数
+2012-10-07 10:59:51,Pop,251186,1,false,Overboard
+2012-11-18 10:39:49,Pop,283893,1,false,Power Down
+2012-11-18 10:35:05,Pop,279506,1,false,水瓶座の夜
+2012-10-22 09:11:42,Traditional,96493,1,false,SR
+2012-11-18 10:49:34,Pop,335933,1,false,カナディアン アコーディオン
+2012-11-18 10:43:58,Pop,248906,1,false,Make-up Shadow
+2012-11-05 06:57:21,Jazz,363973,1,false,Teen Town
+never,Tech News,6325198,0,false,Macworld San Francisco 2007 Keynote Address
+2012-10-30 13:27:08,Jazz,324440,1,false,That's Enough For Me (LP Version)
+never,Jazz,229160,0,false,Etude
+2012-11-05 07:15:11,Jazz,587866,2,false,Black Market
+2012-11-05 06:51:17,Jazz,510693,1,false,Scarlet Woman
+never,Traditional,1983266,0,false,鴻池の犬
+2012-11-17 03:12:21,Metal,314533,3,false,Mystery Train
+2012-10-21 12:11:57,Traditional,2141200,1,false,佐々木裁き
+never,Traditional,1843493,0,false,天神山
+2012-10-22 09:09:59,Traditional,1709440,1,false,日和ちがい
+2012-10-21 14:05:44,Indie Rock,287573,21,false,Square One
+never,Podcast,310752,0,false,第4号「虚構新聞ニュース」2012年5月20日
+never,Rap,371453,0,false,Underground
+never,Podcast,310752,0,false,第3号「虚構新聞ニュース」2012年5月6日
+2012-10-21 14:16:09,Indie Rock,328173,19,false,White Shadows
+never,Podcast,307069,0,false,第1号「虚構新聞ニュース」2012年4月1日
+never,iTunes U,4506607,0,false,Webとナビゲーション
+never,Podcast,279066,0,false,第2号「虚構新聞ニュース」2012年4月15日
+never,iTunes U,4048582,0,false,Webと情報視覚化
+never,Indie Rock,236160,0,false,Exogenesis: Symphony Part 2 (Cross-Pollination)
+never,iTunes U,4522289,0,false,Webと検索
+never,iTunes U,4777110,0,false,Webと認証
+2012-11-03 18:49:19,Pop,252960,3,false,波止場しぐれ
+never,iTunes U,4519720,0,false,Webと情報登録
+never,Podcast,299023,0,false,第5号「虚構新聞ニュース」2012年6月3日
+2012-07-21 16:47:45,Alternative,175040,2,false,Lying From You
+2012-11-16 01:08:24,Indie Rock,302000,3,false,Fury
+2012-07-21 16:50:30,Alternative,164133,2,false,Hit The Floor
+2012-07-21 16:53:54,Alternative,204226,2,false,Easier To Run
+2012-07-24 09:09:57,Alternative,162133,2,false,Faint
+2012-07-21 16:23:14,Alternative,197533,1,false,Figure.09
+2012-11-06 19:28:12,Pop,292573,1,false,指輪
+never,Latin,176360,0,false,Voçê Vai Ver
+2012-11-16 04:37:42,Pop,193466,46,false,Call Me Maybe
+never,Latin,234933,0,false,Desde Que O Samba É Samba
+never,iTunes U,2247581,0,false,6-情報とメディアの演習（１）
+never,ボイスメモ,46786,0,false,2_6_12 6:20 
+never,Rock,444733,0,false,Sunshine Of Your Love
+never,iTunes U,2045712,0,false,2-仕組みと構造の演習-エッグドロップ(1)
+never,iTunes U,4826026,0,false,1-環境情報学の俯瞰
+never,iTunes U,3169002,0,false,3-仕組みと構造の実験（２）
+never,iTunes U,3566333,0,false,4-問題発見と解決の演習（１）
+2012-10-13 08:55:10,Rock,296160,1,false,With Or Without You
+never,Jazz,248666,0,false,Ao
+2012-10-20 11:31:35,Traditional,445000,1,false,『干物箱』-6 悪事露見～サゲ
+2012-10-29 10:58:44,Rock,260400,4,false,Cedars Of Lebanon
+2012-10-29 11:02:49,Rock,245640,3,false,No Line On The Horizon 2
+2012-11-15 03:29:42,Rock,338306,2,false,Where The Streets Have No Name
+2012-11-16 01:03:22,Indie Rock,209000,3,false,The Small Print
+2012-10-13 08:49:54,Rock,278000,1,false,I Still Haven't Found What I'm Looking For
+never,Jazz,311386,0,false,Easy Mystery
+never,iTunes U,5105506,0,false,5-実世界センシング（1）【補講：10月18日休講分】
+2012-11-22 14:29:16,Pop,217866,10,false,Skyline Pigeon
+never,iTunes U,5123390,0,false,2-ユビキタスコンピューティングシステムの構成要素（1）
+2012-04-15 23:46:36,iTunes U,3898332,1,false,1-ユビキタスコンピューティングシステムの過去、現在、未来
+never,Jazz,331133,0,false,East West Stroll
+never,iTunes U,5075943,0,false,4-ユビキタスコンピューティングシステムの構成要素（3）
+never,iTunes U,5466567,0,false,3-コンテクストアウェアシステム
+2012-09-10 05:57:09,Traditional,978560,1,false,文七元結 _ あづま橋
+2012-04-23 02:15:30,Rock,331333,34,false,Queen Jane Approximately
+2012-09-10 05:23:13,Traditional,426600,1,false,文七元結 _ 長兵衛内
+2012-09-10 05:39:31,Traditional,873200,1,false,文七元結 _ 佐野槌内証
+2012-10-15 09:28:22,Rap,238173,6,false,W.T.P.
+2012-09-10 06:25:49,Traditional,97826,1,false,文七元結 _ 翌朝
+2012-10-15 09:33:21,Rap,298893,6,false,Going Through Changes
+2012-03-29 04:55:20,Pop,225093,9,false,Sails
+2012-04-21 11:06:26,Country & Folk,154026,20,false,Mona Lisa
+2012-09-02 11:38:25,Rock,253506,5,false,Politician
+2012-05-13 12:52:49,Pop,189066,13,false,Lady What's Tomorrow
+2012-04-21 11:03:20,Country & Folk,269413,18,false,The Gypsy
+2012-11-05 10:13:16,Indie Rock,304293,5,false,Morning Glory
+2012-11-05 10:25:23,Indie Rock,39200,5,false,(Untitled)
+2012-11-05 10:04:32,Indie Rock,291840,6,false,Cast No Shadow
+2012-11-05 10:08:12,Indie Rock,219533,6,false,She's Electric
+2012-04-21 11:11:21,Country & Folk,170973,16,false,Ole Buttermilk Sky
+2012-11-05 10:20:46,Indie Rock,449506,5,false,Champagne Supernova
+never,iTunes U,4461862,0,false,空間情報と文明の進化
+never,iTunes U,4353587,0,false,イントロダクション
+never,iTunes U,3970737,0,false,2. My First iOS App (September 29_ 2011) - HD
+2012-09-19 06:05:31,Country & Folk,124266,125,false,Ac-Cent-Tchu-Ate The Positive
+never,iTunes U,3688455,0,false,1. MVC and Introduction to Objective-C (September 27_ 2011) - HD
+2012-11-17 03:51:29,Metal,271333,3,false,Captain Crash & The Beauty Queen From Mars
+never,Jazz,289866,0,false,Take Your Pick
+never,iTunes U,3512646,0,false,空間情報と戦争
+2012-08-24 13:21:34,Indie Rock,319360,2,false,Amsterdam
+2012-11-17 03:45:30,Metal,331960,3,false,Save The World
+never,none,17487,0,false,guitar_mono-by-clapL-snapR_stereo+left-right_stereo
+2012-08-24 13:06:25,Indie Rock,331133,2,false,Warning Sign
+2012-08-24 13:00:54,Indie Rock,223040,2,false,Green Eyes
+2012-08-24 13:16:14,Indie Rock,351400,2,false,A Rush Of Blood To The Head
+2012-08-24 13:10:23,Indie Rock,238333,2,false,A Whisper
+2012-10-15 09:16:25,Rap,300426,6,false,Talkin' 2 Myself
+never,none,525826,0,false,Ba-Lue Bolivar Ba-Lues-Are (Bolivar Blues)
+2012-04-03 04:07:33,Pop,238733,35,false,All Of Me
+2012-05-16 13:20:30,none,731693,1,false,Concierto de Aranjuez - Spain
+2012-05-16 13:29:33,none,542426,1,false,Déja Vu
+2012-05-16 13:42:36,none,782853,1,false,Do Mo (Children's Song #12)
+2012-04-03 00:24:25,Pop,234480,22,false,Stardust
+2012-05-16 13:57:02,none,458640,1,false,How Insensitive
+2012-01-22 04:26:57,R&B,251600,2,false,Ellie My Love
+2012-11-17 03:07:07,Metal,268773,3,false,Just Older
+2012-04-03 00:32:26,Pop,217893,19,false,Blue Skies
+2012-04-03 00:28:48,Pop,263320,21,false,Georgia On My Mind
+2012-10-18 06:38:20,Metal,288440,1,false,The Distance
+2012-10-15 09:24:24,Rap,265906,6,false,Won't Back Down
+2012-09-26 23:21:58,Traditional,659333,1,false,今戸の狐 可楽への強請
+2012-10-18 06:33:32,Metal,179933,1,false,Everyday
+2012-03-28 10:14:59,Alternative,291653,1,false,Ruiner (Demo)
+never,Alternative,305973,0,false,Closer To God
+2012-10-18 06:30:32,Metal,233293,1,false,Undivided
+2012-03-30 17:45:12,Alternative,446013,4,false,All The Pigs_ All Lined Up
+2012-03-10 22:08:16,Alternative,442480,1,false,Memorabilia
+never,iTunes U,4919552,0,false,Supporting Excellent Teaching of English Learners: New Directions
+never,Alternative,452933,0,false,The Downward Spiral (The Bottom)
+2012-11-17 02:15:26,Metal,222493,10,false,These Open Arms
+2012-03-01 06:28:23,none,11000,347,false,speaker_0cm 1
+2012-11-17 04:01:18,Metal,318106,3,false,She's A Mystery
+2012-04-02 17:41:41,none,172970,5,false,apple_song 2
+2012-07-10 05:54:32,Jazz,542986,31,false,Love and Laughter
+2012-09-23 13:26:06,Traditional,1863466,1,false,くやみ
+2012-07-10 05:45:29,Jazz,500746,31,false,Old Castle_ by the river_ in the middle of a forest
+2012-10-14 14:23:41,Electronica,240866,1,false,Golden Hours
+2012-07-10 05:37:08,Jazz,319733,35,false,Music for Three-Piece-Orchestra: Edge
+2012-10-14 14:19:40,Electronica,90240,1,false,Little Fishes
+2012-07-10 05:31:48,Jazz,309373,34,false,Music for Three-Piece-Orchestra: Reverse
+2012-10-20 14:42:43,Pop,240280,4,false,Tug Of War (Dave "Rave" Ogilvie Remix)
+2012-11-06 13:30:15,Pop,224466,5,false,Blue Bayou
+2012-10-26 15:54:26,Alternative,301600,34,false,Smells Like Teen Spirit
+2012-10-26 15:58:41,Alternative,254906,32,false,In Bloom
+2012-07-10 06:04:11,Jazz,579493,24,false,Return of Kung-Fu World Champion
+2012-10-14 14:30:38,Electronica,180573,1,false,Zawinul_Lava
+2012-07-06 03:23:12,Classical,54720,2,false,Bach: Goldberg Variations_ BWV 988 - Variatio 3 Canone All'Unisono. A 1 (Zenph Version)
+2012-07-06 03:23:41,Classical,29266,2,false,Bach: Goldberg Variations_ BWV 988 - Variatio 4 A 1 Clav. (Zenph Version)
+2012-07-06 03:24:18,Classical,37040,2,false,Bach: Goldberg Variations_ BWV 988 - Variatio 5 A 1 Ovvero 2 Clav. (Zenph Version)
+2012-07-06 03:24:53,Classical,34146,2,false,Bach: Goldberg Variations_ BWV 988 - Variatio 6 A 1 Clav. Canone Alla Seconda (Zenph Version)
+2012-04-30 16:48:00,iTunes U,1093079,1,false,第5回(3)：廣瀬 通孝「コンピュータとバーチャルリアリティ」
+2012-04-30 16:47:53,iTunes U,1088806,1,false,第5回(2)：廣瀬 通孝「コンピュータとバーチャルリアリティ」
+never,iTunes U,1090085,0,false,第6回(1)：廣瀬 通孝「コンピュータとバーチャルリアリティ」
+2012-04-30 16:48:10,iTunes U,985617,1,false,第5回(5)：廣瀬 通孝「コンピュータとバーチャルリアリティ」
+2012-11-17 04:26:07,Pop,191933,29,false,Carnival Town
+2012-07-02 16:27:48,Jazz,220373,8,false,It Could Happen To You
+2012-07-02 16:24:08,Jazz,216293,9,false,This Nearly Was Mine
+2012-11-01 22:37:58,Indie Rock,276426,1,false,My Iron Lung
+2012-11-17 04:36:47,Pop,183840,20,false,Creepin' In
+2012-11-01 22:33:21,Indie Rock,234106,1,false,Just
+2012-11-17 04:40:34,Pop,226493,25,false,Toes
+2012-11-01 22:29:27,Indie Rock,233226,1,false,(Nice Dream)
+2012-11-01 22:25:34,Indie Rock,189000,1,false,Bones
+2012-11-01 22:22:25,Indie Rock,290706,1,false,Fake Plastic Trees
+2012-07-02 16:35:22,Jazz,250373,8,false,I Didn't Know What Time It Was
+2012-03-27 08:56:53,Country & Folk,145826,8,false,Down Along The Cove
+2012-10-20 17:58:03,Rock,301666,2,false,Sitting On Top Of The World [Live]
+2012-01-19 21:27:01,Country & Folk,204466,8,false,I Am A Lonesome Hobo
+2012-03-27 07:28:12,Country & Folk,198560,9,false,Dear Landlord
+2012-01-19 21:33:23,Country & Folk,125266,7,false,Wicked Messenger
+2012-01-19 21:31:18,Country & Folk,256306,7,false,I Pity The Poor Immigrant
+2012-10-08 19:45:33,Latin,402400,1,false,Undiú
+2012-07-01 02:16:43,Electronica,258520,1,false,Anstromm-Feck 4
+never,Pop,244000,0,false,ゆうすげの恋
+never,none,342760,0,false,Track 12
+never,none,277600,0,false,Track 08
+never,none,407240,0,false,Track 09
+never,none,221426,0,false,Track 10
+never,none,408373,0,false,Track 11
+2012-04-02 17:44:49,Rock,188000,23,false,Are You Lonesome Tonight
+2012-07-10 13:09:19,Jazz,474706,13,false,Temptation
+2012-05-16 17:06:16,Pop,509493,10,false,Empty Sky
+2012-07-10 13:01:24,Jazz,376933,14,false,Now or Never
+2012-03-29 04:08:29,Pop,252000,9,false,Val-Hala
+never,Voice Memo,27676,0,false,3_22_12 19:51 
+2012-03-29 04:19:59,Pop,195440,9,false,Western Ford Gateway
+2012-07-10 12:11:01,Jazz,460600,12,false,Labyrinth
+2012-03-29 04:34:56,Pop,269800,9,false,Hymn 2000
+never,Voice Memo,294845,0,false,3_8_12 7:36 
+never,Voice Memo,9240,0,false,3_17_12 12:58 
+never,Voice Memo,6894,0,false,3_5_12 7:02 
+2012-05-13 14:12:02,Country & Folk,130933,2,false,To Be Alone With You
+never,Voice Memo,269605,0,false,3_7_12 8:46 
+2012-09-26 19:43:47,Traditional,170840,1,false,井戸の茶碗 再び細川屋敷窓下
+2012-11-16 01:15:24,Indie Rock,191066,3,false,Thoughts Of A Dying Atheist
+2012-07-01 02:40:32,Electronica,203160,2,false,Direct To Mental
+2012-07-01 01:44:50,Electronica,433146,1,false,Boneville Occident
+2012-09-26 19:47:46,Traditional,239226,1,false,井戸の茶碗 再び卜斎浪宅
+2012-07-01 01:53:38,Electronica,527373,1,false,Go! Spastic
+2012-07-01 02:03:28,Electronica,590013,1,false,Greenways Trajectory
+2012-07-01 02:12:24,Electronica,536520,1,false,My Fucking Sound
+2012-11-09 00:06:42,Country & Folk,246266,34,false,All I Really Want To Do
+2012-11-22 14:08:39,Jazz,260573,14,false,Delia
+2012-07-02 11:53:52,R&B,302160,3,false,Captain Jetter
+2012-11-22 13:57:49,Jazz,218146,15,false,Little Flower
+2012-11-22 14:04:19,Jazz,389240,15,false,Spider B.
+2012-03-14 01:16:12,Rock,310960,2,false,Voulez Vous
+2012-06-13 00:59:27,R&B,441960,2,false,Nuzzolese Blues
+never,Indie Rock,284066,0,false,Spiral Static
+never,Indie Rock,243600,0,false,Sober
+never,Indie Rock,146266,0,false,Overdue
+never,iTunes U,2830597,0,false,A Conversation on "Waiting for Superman" 
+never,Indie Rock,310333,0,false,Hate This & I'll Love You
+2012-10-26 13:12:14,Rock,282293,41,false,Mean Old Frisco
+2012-10-26 13:17:04,Rock,289973,41,false,Peaches & Diesel
+2012-03-28 09:26:09,Country & Folk,333920,5,false,Restless Farewell
+2012-10-26 13:07:32,Rock,525906,42,false,The Core
+2012-08-06 10:51:12,Jazz,478826,33,false,Sipping On The Solid Ground
+2012-10-26 13:20:06,Rock,181933,40,false,May You Never
+2012-10-07 11:11:01,Pop,232733,1,false,That Should Be Me
+2012-04-02 20:26:56,Indie Rock,271280,14,false,another psychdelic point remix _ DRITT DRITTEL
+never,iTunes U,4202168,0,false,Supporting Excellent Teaching of English Learners: Panel Discussion
+2012-03-30 14:00:12,Jazz,165333,6,false,Gollywogs Cake Walk_English Country Garden [Album Version]
+2012-11-06 19:32:48,Pop,275426,2,false,冬の旅
+2012-11-06 20:03:44,Pop,207160,2,false,さざんか
+2012-09-26 04:24:50,Rock,219160,1,false,In A Little While
+2012-03-30 14:39:52,Jazz,321133,6,false,The Journey [Album Version]
+2012-03-30 15:28:07,Jazz,237200,8,false,Run A Good Race [Album Version]
+2011-12-31 08:20:34,Country & Folk,198533,4,false,When The Ship Comes In
+2012-03-30 09:22:14,Jazz,283026,10,false,Concierto De Aranjuez [Album Version]
+2012-08-06 08:47:50,Jazz,423493,43,false,The Goldhearted Miner
+2012-05-13 13:35:21,Jazz,217200,6,false,She Never Knew [Album Version]
+2012-07-22 15:38:32,Rock,245160,1,false,Dead Flowers
+2012-07-22 15:28:12,Rock,234826,1,false,I Got the Blues
+2012-07-22 15:33:47,Rock,334906,1,false,Sister Morphine
+2012-07-22 15:20:40,Rock,154133,1,false,You Gotta Move
+2012-07-22 15:24:18,Rock,217600,1,false,Bitch
+2012-11-13 00:00:19,Indie Rock,252533,1,false,Bliss
+2012-07-25 14:12:35,Electronica,305440,9,false,Endless Night
+2012-07-29 11:03:27,Rock,262373,6,false,Sleepy Time Time
+2012-11-14 00:20:19,Metal,264560,2,false,Blame It On The Love Of Rock & Roll
+2012-11-14 00:26:04,Metal,345133,2,false,Little Bit Of Soul
+2012-07-06 05:30:22,Classical,404520,6,false,Legrand: Jeux Interdits
+2012-07-06 05:23:37,Classical,183146,6,false,Strauss Jr. (J): Tritsch-Tratsch Polka_ Op. 214
+2012-07-06 05:20:34,Classical,464453,6,false,Arban: Fantaisie Et Variations Sur "Le Carneval De Venise"
+2012-07-06 05:12:50,Classical,221600,2,false,Hummel: Trumpet Concerto In E Flat_ S 49 - 3. Rondo
+2012-07-06 05:09:08,Classical,307493,2,false,Hummel: Trumpet Concerto In E Flat_ S 49 - 2. Andante
+2012-11-18 11:10:47,Pop,342893,1,false,UNDER THE SUN
+2012-11-18 11:14:52,Pop,245666,1,false,長い話
+never,Indie Rock,249133,0,false,Jigsaw Falling Into Place
+2012-11-18 10:59:56,Pop,352000,1,false,ストイック
+2012-11-18 11:05:04,Pop,307800,1,false,5月の別れ
+2012-03-05 10:24:21,Pop,234666,1,false,Pi Po Pa
+2012-11-15 07:13:10,Indie Rock,22133,3,false,Intro
+2012-10-07 10:40:43,Pop,220920,1,false,Somebody To Love
+2012-11-18 08:20:23,Pop,213973,13,false,Baby
+2012-11-16 04:30:34,Pop,250546,2,false,Common Denominator
+2012-10-07 10:28:57,Pop,193466,1,false,Love Me
+2012-11-16 04:30:38,Pop,222333,2,false,First Dance
+never,Indie Rock,129800,0,false,Faust Arp
+2012-09-26 19:33:11,Traditional,189893,1,false,井戸の茶碗 陽の目を見た大金～二階からの首実験
+never,none,373740,0,false,2010_sound design summer workshop_DISC1_22PIGEN
+2012-11-16 23:45:34,Jazz,300400,4,false,Majestic Dance
+never,Podcast,300016,0,false,第6号「虚構新聞ニュース」2012年6月17日
+never,Traditional,1815626,0,false,雨乞い源兵衛
+never,Podcast,287451,0,false,第7号「虚構新聞ニュース」2012年7月1日
+never,Traditional,1504133,0,false,幽霊の辻
+never,Podcast,299728,0,false,第9号「虚構新聞ニュース」2012年8月5日
+2012-10-18 07:04:24,Metal,249600,1,false,Love Me Back To Life
+never,Podcast,351712,0,false,第8号「虚構新聞ニュース」2012年7月15日
+2012-10-21 14:45:56,Indie Rock,332093,17,false,Low
+2012-10-21 14:40:24,Indie Rock,285306,17,false,A Message
+2012-10-21 14:35:38,Indie Rock,288453,17,false,Speed Of Sound
+2012-10-21 14:30:50,Indie Rock,274146,17,false,X&Y
+2012-10-15 11:05:29,Rock,237866,1,false,Stranger in a Strange Land
+2012-10-21 14:26:16,Indie Rock,311253,17,false,Talk
+2012-11-16 23:51:02,Jazz,328893,4,false,The Magician
+2012-07-24 11:20:47,Rock,186933,2,false,What A Shame
+2012-07-24 11:14:50,Rock,220400,2,false,You Can't Catch Me
+2012-07-24 11:17:40,Rock,169933,2,false,Heart Of Stone
+2012-07-24 11:06:56,Rock,180493,2,false,Everybody Needs Somebody To Love
+2012-07-24 11:11:09,Rock,253200,2,false,Down Home Girl
+never,Latin,128960,0,false,Coração Vagabundo
+never,none,350417,0,false,アクターズスタジオインタビュー(2008-03-06)アル・パチーノ自らを語る(再)前篇(47m00s)_.wmv
+2012-09-26 19:40:56,Traditional,336533,1,false,井戸の茶碗 清正公境内の茶店
+2012-10-19 05:42:13,Traditional,141893,1,false,『佃祭』 出囃子「三下がり中の舞」～マクラ
+never,Latin,176173,0,false,Não Vou Para Casa
+never,Latin,184400,0,false,Eclipse
+never,Latin,154240,0,false,Eu Vim Da Bahia
+never,none,350417,0,false,アクターズスタジオインタビュー(2008-03-06)アル・パチーノ自らを語る(再)後篇(44m59s)_.wmv.mp4
+never,Latin,207560,0,false,Desafinado
+never,iTunes U,2590190,0,false,10-実空間とのインタラクションの演習（１）
+never,iTunes U,3277110,0,false,7-情報とメディアの演習（２）
+never,iTunes U,3607007,0,false,5-問題発見と解決の演習（２）
+never,iTunes U,4957624,0,false,8-人間工学と造形の演習(1)
+never,iTunes U,3206540,0,false,9-総合政策学を考える
+never,Traditional,264266,0,false,『搗屋幸兵衛』 義妹との再婚、そして重なる不幸
+never,Rock,975573,0,false,Toad
+never,Traditional,144733,0,false,『搗屋幸兵衛』 搗米屋の入来
+never,Traditional,1716800,0,false,皿屋敷
+never,Traditional,155800,0,false,『搗屋幸兵衛』 長篇回顧談の始まり
+never,Traditional,248093,0,false,『搗屋幸兵衛』 しあわせだった新世帯の頃
+2012-10-20 12:15:57,Metal,196853,1,false,Fast Cars
+2012-10-26 16:54:16,Pop,288866,2,false,#9 Dream
+2012-10-15 03:54:45,Electronica,552226,1,false,The Lost Day
+2012-09-10 09:21:19,Traditional,321000,1,false,『お直し』　廃墟に咲いた花～サゲ～仲入り
+2012-09-10 09:15:58,Traditional,749733,1,false,『お直し』　酔客との戯れ～重ね重ねの「お直し」
+2012-09-06 14:58:46,Pop,258866,1,false,望郷
+2012-09-10 09:02:41,Traditional,246666,1,false,『お直し』　羅生門河岸での再出発
+2012-09-10 08:58:34,Traditional,868840,1,false,『お直し』　転落の人生～奈落の決断
+2012-09-10 05:16:07,Traditional,505533,1,false,文七元結 _ 出囃子「三下り中の舞」～マクラ
+2012-11-06 19:05:00,Pop,222560,4,false,おふくろさん
+2012-07-26 05:02:55,Electronica,290600,8,false,Boneville Occident
+2012-10-20 12:20:18,Metal,261053,1,false,Happy Now
+never,iTunes U,934474,0,false,The $320_000 Kindergarten Teacher?
+2012-11-06 13:22:05,Pop,202573,6,false,Loretta
+2012-11-06 19:13:28,Pop,256266,2,false,流れのブルース
+never,Indie Rock,289026,0,false,Soldier On
+never,Indie Rock,163840,0,false,I Believe In All
+never,Indie Rock,309080,0,false,The Turning (Alt Version #4)
+2012-03-30 09:25:58,Jazz,224600,4,false,Countrywide
+never,Podcast,897012,0,false,9月4日 正午のニュース
+2012-07-06 03:26:01,Classical,68026,2,false,Bach: Goldberg Variations_ BWV 988 - Variatio 7 A 1 Ovvero 2 Clav. (Zenph Version)
+never,iTunes U,3548415,0,false,空間情報と知識創造
+never,iTunes U,4613647,0,false,空間情報と環境創造
+2012-10-20 11:23:07,Traditional,146026,1,false,『干物箱』-5 替え玉作戦成功か
+never,iTunes U,3337504,0,false,空間情報とメディア創造
+never,iTunes U,4907407,0,false,空間情報と資源探査
+2012-10-26 16:45:12,Pop,304240,2,false,Cold Turkey
+never,iTunes U,3241475,0,false,Webマッピングとソーシャル・イノベーション
+2012-03-04 14:25:49,Indie Rock,246813,8,false,A point RE:view MIX_ Masaki Sakamoto
+never,Rap,10600,0,false,Paul (Skit)
+never,Rap,227706,0,false,Who Knew
+never,Rap,264400,0,false,Kill You
+2012-11-06 13:45:54,Pop,252306,5,false,More Than This
+2012-03-30 15:45:14,Jazz,353840,5,false,Who Dares Wins [Album Version]
+never,Rap,53626,0,false,Steve Berman (Skit)
+never,Traditional,1608533,0,false,替り目
+never,Jazz,325426,0,false,Mr. Gone
+2012-07-26 04:58:05,Electronica,282053,8,false,My Red Hot Car
+never,Rock,358000,0,false,Passing The Time [Alternate Version]
+never,Rock,300506,0,false,White Room
+never,Rock,301266,0,false,Sitting On Top Of The World
+never,Rock,188333,0,false,Take It Back
+never,Rock,107920,0,false,Mother's Lament
+2012-09-06 16:22:28,Pop,228266,1,false,人を恋うる唄
+2012-10-14 16:34:22,Electronica,190866,1,false,Needle In The Camel's Eye
+never,Traditional,2397466,0,false,たちぎれ線香
+2012-09-26 16:28:35,Traditional,1963266,1,false,兵庫船
+2012-10-08 18:44:23,Latin,395866,2,false,Aquarela Do Brasil
+never,Traditional,1257200,0,false,馬の田楽
+2012-10-08 18:05:04,Latin,313800,1,false,Bahia Com H
+2012-09-23 10:13:13,Traditional,2743360,1,false,寝床
+2012-07-06 03:27:24,Classical,37946,2,false,Bach: Goldberg Variations_ BWV 988 - Variatio 9 Canone Alla Terza. A 1. Clav. (Zenph Version)
+2012-07-06 03:26:46,Classical,45493,2,false,Bach: Goldberg Variations_ BWV 988 - Variatio 8 A 2 Clav. (Zenph Version)
+2012-07-06 03:29:01,Classical,54546,2,false,Bach: Goldberg Variations_ BWV 988 - Variatio 11 A 2 Clav. (Zenph Version)
+2012-09-06 16:14:07,Pop,311293,1,false,それは恋
+2012-07-06 03:28:07,Classical,42826,2,false,Bach: Goldberg Variations_ BWV 988 - Variatio 10 Fughetta. A 1 Clav. (Zenph Version)
+never,iTunes U,1134232,0,false,特別講義(5)：坂本龍一　×　小林康夫「音楽はどこにある？」
+2012-07-06 03:29:57,Classical,55826,2,false,Bach: Goldberg Variations_ BWV 988 - Variatio 12 Canone Alla Quarta (Zenph Version)
+2012-04-30 10:43:25,iTunes U,1011461,1,false,第5回(1)：廣瀬 通孝「コンピュータとバーチャルリアリティ」
+never,Podcast,2419565,0,false,Episode 25 – US visas_ retina screens and art for non-artists
+2012-03-29 04:51:35,Pop,161960,7,false,Your Sister Can't Twist (But She Can Rock 'n Roll)
+2012-07-23 03:28:29,Jazz,155093,1,false,Smile
+2012-03-30 17:50:23,Pop,310520,14,false,All The Young Girls Love Alice
+2012-11-17 04:17:54,Pop,210000,32,false,What Am I To You?
+2012-03-29 04:30:26,Pop,302040,8,false,Dirty Little Girl
+2012-11-17 04:14:24,Pop,200626,33,false,Sunrise
+2012-03-29 04:16:44,Pop,264893,9,false,The Ballad Of Danny Bailey (1909-1934)
+2012-07-02 17:01:29,Jazz,263600,8,false,Armando's Rhumba
+2012-11-17 04:22:55,Pop,202640,30,false,Those Sweet Words
+2012-03-29 05:04:19,Pop,296893,7,false,Saturday Night's Alright For Fighting
+2012-07-29 11:37:22,Rock,167466,6,false,The Coffee Song
+2012-06-18 04:27:24,Rock,469853,5,false,Us And Them
+2012-07-29 11:20:39,Rock,130373,6,false,Four Until Late
+2012-07-29 11:25:23,Rock,283933,6,false,Rollin' And Tumblin'
+2012-07-29 11:29:23,Rock,239866,6,false,I'm So Glad
+2012-07-29 11:34:34,Rock,311333,6,false,Toad
+never,Soundtrack,353453,0,false,永久に
+2012-07-26 05:10:25,Electronica,68173,8,false,Metteng Excusks v1.2
+2012-07-26 05:17:09,Electronica,403493,8,false,The Exploding Psychology
+2012-07-26 05:22:02,Electronica,293693,8,false,I Wish You Could Talk
+2012-11-18 08:44:26,Soundtrack,278413,1,false,運命 -SADAME-
+2012-11-18 08:49:11,Soundtrack,284333,1,false,Heart To Heart
+2012-11-18 08:53:41,Soundtrack,270973,1,false,それぞれの未来へ
+never,Soundtrack,327800,0,false,夢想歌
+never,Indie Rock,267706,0,false,Subterranean Homesick Alien
+never,none,320093,0,false,Track 07
+2012-07-22 14:50:13,Rock,193226,12,false,In Another Land
+2012-09-11 01:27:08,Pop,203640,3,false,潮どき（岩谷時子）
+never,none,270240,0,false,Track 04
+never,none,390226,0,false,Track 03
+2012-09-09 17:02:56,Traditional,249040,1,false,『愛宕山』 落下
+never,none,256040,0,false,Track 06
+never,none,231293,0,false,Track 05
+2012-03-27 08:53:45,Country & Folk,221000,4,false,Don't Think Twice_ It's All Right
+2012-03-27 13:36:47,Country & Folk,413333,6,false,A Hard Rain's A-Gonna Fall
+2012-07-10 12:55:07,Jazz,519253,15,false,Flashback
+2012-01-18 04:40:54,Country & Folk,110293,3,false,Oxford Town
+never,Voice Memo,119511,0,false,4_11_12 18:31 
+2012-03-14 04:04:35,Country & Folk,302733,5,false,Bob Dylan's Dream
+never,Voice Memo,32158,0,false,4_11_12 18:29 
+never,Voice Memo,223955,0,false,4_11_12 18:21 
+2012-01-18 04:47:22,Country & Folk,387573,3,false,Talking World War III Blues
+2012-06-30 00:20:45,Jazz,342266,11,false,Viva! Vegas: The Gambler
+never,Indie Rock,254866,0,false,Knives Out
+2012-06-30 00:27:27,Jazz,402600,11,false,Place To Be
+never,Metal,250160,0,false,Livin' On A Prayer
+never,Metal,258240,0,false,Social Disease
+never,Metal,324573,0,false,Let It Rock
+never,Indie Rock,299266,0,false,Let Down
+2012-07-02 12:06:43,R&B,203613,2,false,My Old Frame
+2012-07-02 12:03:19,R&B,335226,2,false,On The Alamo
+2012-07-02 11:57:44,R&B,201613,1,false,Evening In Paris
+never,Metal,223933,0,false,You Give Love A Bad Name
+2012-06-13 01:03:45,R&B,258360,1,false,Everything I Love
+2012-10-20 18:08:05,Rock,236360,2,false,What A Bringdown
+2012-07-02 12:11:36,R&B,293000,1,false,Little Jon Special
+never,Rock,144426,0,false,Wrapping Paper
+never,Indie Rock,218426,0,false,Uno
+never,Rock,281400,0,false,Original Of The Species
+2012-10-30 11:16:57,Jazz,288333,3,false,No Sympathy
+never,Indie Rock,316760,0,false,Showbiz
+never,Indie Rock,237106,0,false,Unintended
+never,Indie Rock,273973,0,false,Falling Down
+never,Indie Rock,286000,0,false,Cave
+2012-10-20 18:00:51,Rock,167826,2,false,Badge
+2012-03-27 15:54:53,Country & Folk,241640,8,false,Looking For Space
+2012-03-14 21:42:34,Country & Folk,211760,7,false,I'm Sorry
+2012-05-16 17:13:35,Country & Folk,218000,13,false,Calypso
+2012-03-27 10:21:36,Country & Folk,251666,11,false,Fly Away
+2012-10-14 15:09:21,Electronica,236253,1,false,King's Lead Hat
+2012-03-30 19:38:50,Country & Folk,169386,15,false,Baby_ You Look Good To Me Tonight
+2012-10-20 18:04:09,Rock,197906,2,false,Doing That Scrapyard Thing
+2012-10-30 11:45:12,Jazz,209493,4,false,Mr. Briefcase
+2012-11-01 22:49:16,Indie Rock,222960,1,false,Sulk
+2012-09-06 03:18:07,Rock,241933,1,false,Babyface
+2012-09-14 03:01:00,Pop,284040,3,false,北の漁場
+2012-10-20 19:18:00,Indie Rock,284426,1,false,Careful Where You Stand
+never,Rock,231560,0,false,One Step Closer
+2012-11-01 22:53:30,Indie Rock,253400,1,false,Street Spirit (Fade Out)
+never,Rock,281866,0,false,Yahweh
+2012-11-18 10:09:41,Pop,239440,1,false,エンジの雨
+2012-11-22 14:39:58,Rock,251560,13,false,Witchy Woman
+never,Indie Rock,280293,0,false,Punchdrunk Lovesick Singalong
+2012-11-18 09:53:46,Pop,256000,1,false,アンチヒロイン
+2012-11-18 09:57:26,Pop,219893,1,false,ラブレターの気分で
+2012-11-18 10:01:07,Pop,221306,1,false,ロングインタビュー
+2012-11-18 10:05:42,Pop,274493,1,false,TEENAGER
+2012-08-24 13:26:52,Indie Rock,318626,4,false,Politik
+2012-11-01 22:45:33,Indie Rock,247040,1,false,Black Star
+never,iTunes U,772985,0,false,Immigrants Raising Citizens
+never,iTunes U,2830597,0,false,A Conversation on "Waiting for Superman" 
+never,iTunes U,1014137,0,false,The Choice of Social Entrepreneurship
+never,iTunes U,1354390,0,false,The Urban Education Toolkit
+2012-07-06 05:04:01,Classical,171720,2,false,Mozart: The Magic Flute - Queen Of The Night's Aria
+never,Indie Rock,246786,0,false,(Get Off Your) High Horse Lady
+never,Metal,264933,0,false,In & Out Of Love
+never,Indie Rock,260080,0,false,Falling Down
+never,Metal,234000,0,false,King Of The Mountain
+never,Indie Rock,275746,0,false,To Be Where There's Life
+never,Metal,299426,0,false,Only Lonely
+never,Indie Rock,134813,0,false,Ain't Got Nothin'
+2012-07-06 04:49:25,Classical,181160,2,false,Gounod: Ave Maria
+never,Indie Rock,227866,0,false,The Nature Of Reality
+2012-07-06 04:51:25,Classical,120093,2,false,Charpentier: Te Deum - Fanfare
+2012-07-06 04:57:52,Classical,386826,2,false,Albinoni: Adagio In G Minor
+2012-07-06 05:01:09,Classical,197013,2,false,Tartini: Trumpet Concerto In D_ D 53 - 3. Allegro
+2012-09-06 03:14:05,Rock,392133,1,false,Zooropa
+2012-03-05 10:27:56,Pop,215093,1,false,エミリー
+2012-03-05 10:31:48,Pop,231573,1,false,ライバル
+2012-03-04 16:15:26,Rock,225040,2,false,I Wish You Peace
+2012-03-05 10:40:50,Pop,307000,1,false,ギャラリー
+2012-03-04 16:07:45,Rock,238573,2,false,Visions
+2012-05-22 23:22:01,Rock,236626,35,false,After The Thrill Is Gone
+2012-03-04 15:58:59,Rock,381973,2,false,Lyin Eyes
+2012-03-04 16:03:46,Rock,286826,2,false,Take It To The Limit
+2012-05-13 17:59:34,Rock,224240,15,false,Highway 29
+2012-05-13 18:03:05,Rock,210426,14,false,Straight Time
+2012-05-16 17:34:37,Rock,267133,16,false,The Ghost Of Tom Joad
+never,Jazz,205240,0,false,Tears
+2012-03-27 09:36:34,Pop,303666,1,false,Easy Ride
+2012-10-07 11:51:42,Pop,243493,1,false,Down To Earth
+2012-10-07 11:42:32,Pop,237720,1,false,One Less Lonely Girl
+2012-07-22 14:53:20,Rock,187840,12,false,2000 Man
+never,Rock,222706,0,false,Fast Cars
+2012-05-13 17:55:50,Rock,237933,15,false,Youngstown
+2012-10-18 07:00:15,Metal,350133,1,false,Right Side Of Wrong
+never,iTunes U,4029162,0,false,2-Webとなめらかなインタフェース
+never,iTunes U,4762729,0,false,3-Webプログラミング
+never,iTunes U,5035736,0,false,1-ガイダンス
+never,Rap,25800,0,false,PSA 2000
+2012-09-06 12:49:44,Pop,231266,2,false,鴎という名の酒場
+2012-09-06 12:45:52,Pop,264333,2,false,東京めぐり愛
+never,Traditional,1117240,0,false,胴斬り
+2012-09-05 15:43:17,Pop,259306,1,false,火の国へ
+2012-10-18 06:43:15,Metal,294293,1,false,Joey
+2012-09-05 15:38:57,Pop,302693,1,false,滝の白糸
+2012-10-21 14:50:21,Indie Rock,265026,16,false,The Hardest Part
+2012-10-21 14:54:20,Indie Rock,238973,16,false,Swallowed In The Sea
+2012-09-05 15:48:27,Pop,310733,1,false,うたかた
+2012-10-21 14:58:51,Indie Rock,271146,15,false,Twisted Logic
+2012-10-21 15:07:35,Indie Rock,523840,15,false,Til Kingdom Come
+2012-07-03 13:04:54,Pop,236826,159,false,Shoot The Moon
+2012-10-20 14:38:42,Pop,98506,4,false,I Still Wonder (Acoustic)
+2012-10-20 14:37:04,Pop,187666,4,false,Sour Candy
+2012-07-24 11:34:16,Rock,129506,2,false,Oh Baby (We Got A Good Thing Goin')
+2012-10-20 14:33:56,Pop,172186,4,false,Hotel Shampoos
+2012-07-24 11:32:06,Rock,132426,2,false,Pain In My Heart
+2012-07-24 11:29:54,Rock,155333,2,false,Off The Hook
+2012-07-24 11:27:18,Rock,176466,2,false,Down The Road Apiece
+2012-05-13 13:31:44,Pop,197906,163,false,Come Away With Me
+2012-07-24 11:24:22,Rock,215373,2,false,Mona (I Need You Baby)
+2012-10-20 14:45:45,Pop,182786,4,false,Sour Candy (Radio Version)
+2012-11-06 18:26:30,Pop,240133,9,false,あこがれ
+2012-03-06 11:09:17,Rock,380306,11,false,Before The Deluge
+2012-11-06 18:32:57,Pop,150026,9,false,もしも明日が晴れなら
+2012-11-06 18:30:27,Pop,237200,9,false,断絶
+2012-03-30 08:05:44,Pop,186106,160,false,Lonestar
+2012-11-06 18:36:06,Pop,188973,9,false,感謝知らずの女
+2012-07-01 01:11:23,Electronica,305533,4,false,Do You Know Squarepusher
+2012-10-07 10:55:40,Pop,264400,1,false,Never Let You Go
+2012-03-30 08:02:37,Pop,154800,162,false,Turn Me On
+2012-10-07 10:44:26,Pop,222960,1,false,Stuck In The Moment
+never,iTunes U,3878545,0,false,新成長戦略とグリーンイノベーション
+never,Traditional,422800,0,false,『搗屋幸兵衛』 小言の幸兵衛
+2012-10-19 06:25:48,Traditional,308066,1,false,『佃祭』 次郎兵衛生還の波紋
+2012-10-19 06:20:40,Traditional,916200,1,false,『佃祭』 悔みの脱線口上～弔いの準備
+2012-10-07 10:47:43,Pop,196906,1,false,U Smile
+never,Traditional,198666,0,false,『搗屋幸兵衛』 出囃子「梅は咲いたか」～マクラ
+2012-10-19 06:28:05,Traditional,137106,1,false,『佃祭』 与太郎の発心～サゲ～追い出し
+2012-09-10 11:10:56,Traditional,280973,2,false,『百川』 再び二階座敷の問答
+2012-09-10 11:05:22,Traditional,313733,2,false,『百川』 一人合点の名解説
+2012-09-10 06:59:18,Traditional,433826,1,false,『お直し』　出囃子「老松」～マクラ～発端
+never,Traditional,432200,0,false,『百川』 歌女文字鴨地の間違い～サゲ～中入り
+2012-09-10 07:08:12,Traditional,533466,1,false,『お直し』　主人の温情
+never,Traditional,2121466,0,false,池田の猪買い
+never,Traditional,470533,0,false,『崇徳院』 その相手はどこの誰だ?
+never,Podcast,2827261,0,false,岩井俊二: Meet the Filmmaker
+never,Traditional,227506,0,false,『粗忽の使者』 出囃子「三下り中の舞」～マクラ
+2012-11-03 20:23:41,Rock,260133,2,false,Wire
+2012-11-03 19:48:49,Rock,230293,2,false,Pride (In The Name Of Love)
+2012-02-10 07:15:00,Pop,131906,2,false,結婚
+2012-11-03 20:31:13,Rock,155826,2,false,Promenade
+2012-11-03 20:28:37,Rock,295906,2,false,The Unforgettable Fire
+2012-11-03 20:33:30,Rock,136906,2,false,4th Of July
+2012-10-20 19:06:00,Indie Rock,249373,1,false,We Never Change
+2012-10-20 19:13:16,Indie Rock,436066,1,false,Everything's Not Lost (Life Is For Living)
+never,iTunes U,4664665,0,false,空間情報社会
+never,Indie Rock,241266,0,false,Fillip
+2012-10-20 19:23:42,Indie Rock,342040,1,false,For You
+never,iTunes U,3319386,0,false,空間情報と安全
+never,iTunes U,3501702,0,false,空間情報と文化
+never,iTunes U,4502603,0,false,空間情報技術
+never,iTunes U,166066,0,false,空間情報ビジネス
+never,Rap,310133,0,false,I'm Back
+never,Indie Rock,263200,0,false,Muscle Museum
+never,Rap,218533,0,false,Remember Me?
+never,iTunes U,4006974,0,false,12-まとめ
+never,Rap,284533,0,false,The Real Slim Shady
+never,iTunes U,3476443,0,false,11-実空間とのインタラクションの演習（２）
+never,Rap,290440,0,false,The Way I Am
+never,iTunes U,3255289,0,false,Xcode and Source Code Management (October 7_ 2011) - HD
+never,Indie Rock,234293,0,false,Sunburn
+never,Rap,320866,0,false,Marshall Mathers
+never,iTunes U,3073974,0,false,Designing Multimedia iOS Apps (December 2_ 2011) - HD
+2012-09-26 15:54:10,Traditional,2458160,1,false,崇徳院
+2012-08-06 10:43:13,Jazz,513573,34,false,Where We Used To Live
+2012-08-06 09:02:15,Jazz,863493,39,false,The Rube Thing
+2012-08-06 08:40:47,Jazz,792573,46,false,Tuesday Wonderland
+2012-05-16 15:17:57,none,466760,1,false,Windows
+2012-05-16 15:10:10,none,555186,1,false,Very Early
+never,iTunes U,639362,0,false,Carnegie with a Yak
+2012-09-17 15:23:33,Traditional,421626,1,false,『大山詣り』 遭難の報告
+never,Voice Memo,106438,0,false,11_8_12 23:34 
+2012-04-21 11:36:17,Country & Folk,156400,14,false,One For My Baby (And One For The Road)
+2012-04-03 04:56:22,Country & Folk,290893,19,false,Angel Eyes
+never,Rock,209666,0,false,We're Going Wrong
+never,Rock,154466,0,false,Swlabr
+never,Rock,169466,0,false,Tales Of Brave Ulysses
+never,Rock,212466,0,false,Blue Condition
+never,Voice Memo,271532,0,false,11_9_12 0:06 
+2012-07-06 03:37:34,Classical,53066,2,false,Bach: Goldberg Variations_ BWV 988 - Variatio 17 A 2 Clav. (Zenph Version)
+2012-04-19 15:01:33,Jazz,273773,14,false,クレイジー・ヒー・コールズ・ミー
+2012-04-19 14:56:59,Jazz,479493,14,false,ルペ・ベレスの葬儀
+2012-07-06 03:33:07,Classical,58813,2,false,Bach: Goldberg Variations_ BWV 988 - Variatio 14 A 2 Clav. (Zenph Version)
+2012-04-19 15:04:08,Jazz,155226,14,false,南米のエリザベス・テイラーの歌
+2012-07-06 01:40:38,Pop,144346,12,false,This Song Has No Title
+2012-07-06 01:44:40,Pop,241613,12,false,Grey Seal
+2012-07-06 01:48:20,Pop,219853,10,false,Jamaica Jerk Off
+never,Jazz,499866,0,false,Autumn Leaves
+2012-07-06 01:54:18,Pop,358413,9,false,I've Seen That Movie Too
+2012-07-23 03:25:54,Jazz,292106,1,false,I Want To Be Happy
+2012-05-16 17:53:32,Pop,235493,9,false,Sweet Painted Lady
+2012-07-23 03:21:02,Jazz,221600,1,false,Anna
+2012-07-23 03:17:20,Jazz,277466,1,false,Stella By Starlight
+never,Jazz,299560,0,false,Bessie's Blues
+never,Jazz,292906,0,false,My One And Only Love
+2012-07-29 18:41:26,Rock,217066,13,false,Dance The Night Away
+2012-11-03 18:45:06,Pop,217533,3,false,合縁坂
+2012-07-29 18:30:31,Rock,170160,13,false,Strange Brew
+2012-07-29 11:39:43,Rock,141000,6,false,Wrapping Paper
+2012-07-29 18:37:49,Rock,184040,13,false,World Of Pain
+2012-07-29 18:34:45,Rock,254066,13,false,Sunshine Of Your Love
+2012-10-15 11:08:21,Rock,172200,1,false,Scarlet
+2012-07-07 13:01:00,Electronica,425413,6,false,My Fucking Sound
+never,Rock,347866,0,false,City Of Blinding Lights
+never,Soundtrack,401320,0,false,星座
+2012-07-07 13:11:55,Electronica,326253,5,false,Hardcore Obelisk
+2012-10-21 14:10:41,Indie Rock,297026,19,false,What If
+2012-07-07 13:06:29,Electronica,328720,6,false,Plaistow Flex Out
+never,Soundtrack,270826,0,false,エターナルラブ
+never,Soundtrack,315680,0,false,POWDER SNOW
+2012-10-15 11:11:21,Rock,180066,1,false,Is That All?
+never,Soundtrack,336546,0,false,キミガタメ
+never,Soundtrack,289973,0,false,末期の言葉 ～最期の誓い ～静寂
+never,none,223600,0,false,Track 01
+2012-05-16 15:00:55,none,675631,1,false,temp3 1
+2012-05-16 14:47:37,none,300225,1,false,temp 3 1
+2012-05-16 14:42:37,none,190537,1,false,temp 2 1
+never,Traditional,324400,0,false,『粗忽の使者』 口上失念騒動
+never,Traditional,149333,0,false,『粗忽の使者』 使者の出発
+2012-10-21 14:21:04,Indie Rock,294973,18,false,Fix You
+never,none,246200,0,false,Track 02
+never,Traditional,1972760,0,false,鷺とり
+never,Jazz,201706,0,false,And Then
+never,Indie Rock,259066,0,false,Creep [Acoustic]
+never,Indie Rock,104466,0,false,You Never Wash Up After Yourself
+never,Voice Memo,230595,0,false,4_23_12 16:34 
+2012-11-22 13:10:12,Rock,358493,44,false,Tombstone Blues
+never,Indie Rock,168240,0,false,Permanent Daylight
+2012-01-18 04:56:56,Country & Folk,288973,3,false,I Shall Be Free
+never,Voice Memo,14952,0,false,4_13_12 14:44 
+2012-11-22 13:04:14,Rock,373533,73,false,Like A Rolling Stone
+never,Voice Memo,20083,0,false,4_11_12 20:14 
+2012-03-28 08:46:57,Country & Folk,164066,5,false,Corrina_ Corrina
+never,Voice Memo,33110,0,false,4_23_12 13:17 
+2012-03-10 20:23:18,Country & Folk,120826,4,false,Honey_ Just Allow Me One More Chance
+never,Voice Memo,59464,0,false,4_19_12 16:32 
+2012-09-26 23:50:08,Traditional,572800,1,false,『三軒長屋』 勇み肌の手打ち
+2012-07-10 00:01:56,Pop,212973,4,false,You're Beautiful
+2012-07-26 05:09:17,Electronica,381466,8,false,Go! Spastic
+2012-07-09 23:58:23,Pop,243920,5,false,High
+2012-07-10 00:09:57,Pop,258066,3,false,Goodbye My Lover
+2012-07-10 00:05:39,Pop,222800,3,false,Wisemen
+2012-07-10 00:14:02,Pop,244320,3,false,Tears And Rain
+2012-09-10 00:21:59,Traditional,248733,1,false,『宿屋の富』 出囃子「三下り中の舞」～マクラ
+2012-07-06 03:50:34,Classical,388106,1,false,Bach: Goldberg Variations_ BWV 988 - Variatio 25 A 2 Clav. Adagio (Zenph Version)
+2012-07-06 03:51:26,Classical,52186,1,false,Bach: Goldberg Variations_ BWV 988 - Variatio 26 A 2 Clav. (Zenph Version)
+2012-07-06 03:43:09,Classical,54400,2,false,Bach: Goldberg Variations_ BWV 988 - Variatio 23 A 2 Clav. (Zenph Version)
+2012-07-06 03:44:06,Classical,56813,2,false,Bach: Goldberg Variations_ BWV 988 - Variatio 24 Canone All'Ottava. A 1 Clav. (Zenph Version)
+never,Podcast,368718,0,false,第16号「虚構新聞ニュース」2012年11月18日
+2012-07-06 03:52:16,Classical,49600,1,false,Bach: Goldberg Variations_ BWV 988 - Variatio 27 A 2 Clav. Canone Alla Nona (Zenph Version)
+2012-03-14 21:23:06,Country & Folk,224413,7,false,Matthew
+2012-03-30 19:49:30,Country & Folk,286146,10,false,Back Home Again
+2012-04-03 04:59:24,Country & Folk,182066,13,false,Annie's Song
+2012-03-14 21:26:28,Country & Folk,202453,7,false,Thank God I'm A Country Boy
+2012-03-14 21:35:00,Country & Folk,330093,7,false,Sweet Surrender
+never,Rock,221200,0,false,The Refugee
+2012-09-11 13:04:31,Pop,328640,3,false,おやじの背中
+2012-09-14 03:13:51,Pop,279933,3,false,川
+2012-09-14 03:22:07,Pop,288000,3,false,年輪
+2012-09-11 08:18:57,Pop,281560,2,false,あじさい情話
+2012-09-14 02:56:15,Pop,297533,3,false,北の大地
+never,Pop,237000,0,false,ダンスはうまく踊れない
+2012-11-18 10:22:05,Pop,351200,1,false,長い坂の絵のフレーム
+2012-11-18 10:16:13,Pop,392466,1,false,ビルの最上階
+never,Pop,285093,0,false,鍵の数
+never,Pop,245533,0,false,飾りじゃないのよ涙は
+never,Traditional,727133,0,false,『御慶』 八五郎大当たり、夫婦の喜び
+never,iTunes U,1011968,0,false,Mayor Fenty's Bold Move(ment)
+never,Traditional,361093,0,false,『御慶』 買い損なった意中の番号
+never,Traditional,540440,0,false,『御慶』 易断が示した新番号
+never,iTunes U,905747,0,false,College For All? Maybe Not
+never,iTunes U,798283,0,false,Understanding Baggy Pants
+never,iTunes U,741205,0,false,20 Years of TFA
+never,iTunes U,905392,0,false,Sesame Street: At the Intersection of Laughter and Learning
+never,Indie Rock,304840,0,false,The Turning
+never,Indie Rock,280413,0,false,Bag It Up
+never,Indie Rock,299946,0,false,The Shock Of The Lightning
+2012-11-07 16:33:07,Traditional,587866,1,false,久蔵酩酊
+never,Indie Rock,182986,0,false,Waiting For The Rapture
+2012-11-14 03:15:53,Rock,246400,4,false,Take A Chance On Me
+2012-11-13 23:37:10,Metal,283066,2,false,I'll Sleep When I'm Dead
+never,Indie Rock,250013,0,false,I'm Outta Time
+2012-11-13 23:32:27,Metal,346426,2,false,Keep The Faith
+2012-11-13 23:26:41,Metal,348840,2,false,I Believe
+2012-10-20 12:24:57,Metal,279640,1,false,Learn To Love
+2012-11-18 09:10:38,Pop,176760,1,false,Tokyo
+2012-11-18 09:06:08,Pop,318173,1,false,フィクション
+2012-11-02 03:59:33,Country & Folk,263240,9,false,I Don't Believe You (She Acts Like We Never Have Met)
+2012-11-18 09:21:48,Pop,367026,1,false,自然に飾られて
+2012-11-18 09:15:41,Pop,303040,1,false,夢寝見
+2012-03-29 17:28:57,Rock,197626,10,false,Doctor My Eyes
+2012-11-18 09:26:10,Pop,262000,1,false,長時間の飛行
+2012-03-31 07:57:18,Rock,239866,12,false,A Child In These Hills
+2012-03-03 14:43:14,Rock,206173,9,false,Jamaica Say You Will
+2012-11-14 03:07:43,Rock,231533,6,false,Dancing Queen
+2012-05-13 12:29:18,Rock,232626,14,false,Sinaloa Cowboys
+2012-03-14 04:05:35,Rock,319773,12,false,The Line
+2012-03-30 19:54:46,Rock,201693,13,false,Balboa Park
+2012-03-27 09:24:08,Rock,217640,14,false,Dry Lightning
+2010-08-23 05:43:19,none,378240,2,false,あらゆる音声を立体音響化.mp4
+2012-03-14 04:18:24,Rock,349293,12,false,The New Timer
+2012-11-14 03:11:46,Rock,243626,4,false,Knowing Me_ Knowing You
+2012-10-14 13:28:38,Electronica,265680,1,false,Passing Over
+2012-05-28 18:27:33,Jazz,477746,15,false,Bye Bye Blackbird
+2012-05-28 18:32:03,Jazz,269426,15,false,Tadd's Delight
+2012-05-28 18:39:54,Jazz,471333,14,false,Dear Old Stockholm
+2012-11-01 20:33:48,Rock,223200,8,false,The Long Run
+2012-11-01 20:39:11,Rock,295866,8,false,I Can't Tell You Why
+2012-11-17 02:11:43,Metal,227786,10,false,Unbreakable
+2012-09-06 12:41:28,Pop,290400,2,false,越前竹舞い
+never,Rock,908826,0,false,Sweet Wine [Live At Winterland]
+2012-07-06 03:36:40,Classical,77360,2,false,Bach: Goldberg Variations_ BWV 988 - Variatio 16 Ouverture A 1 Clav. (Zenph Version)
+2012-09-06 12:31:51,Pop,250760,2,false,港唄
+2012-11-17 02:00:13,Metal,289013,11,false,Novocaine
+2012-09-06 12:36:38,Pop,287306,2,false,天城越え
+2012-11-17 01:55:24,Metal,217093,11,false,Complicated
+2012-09-06 12:23:28,Pop,256040,2,false,大阪つばめ
+2012-11-17 02:07:55,Metal,213586,10,false,Dirty Little Secret
+2012-09-06 12:27:40,Pop,252200,2,false,春の雪
+2012-11-17 02:04:22,Metal,249146,10,false,Story Of My Life
+2012-11-07 17:43:38,Classical,181426,825,false,Lieder ohne Worte: Op. 30_ No. 6. Allegretto in F Sharp Minor_ "Venetian Gondola Song"
+2012-11-04 14:54:20,Classical,176000,9,false,Lieder ohne Worte_ Op. 30: No. 6. Allegretto in F Sharp Minor "Venetian Gondola Song"
+2012-07-06 03:35:23,Classical,136546,2,false,Bach: Goldberg Variations_ BWV 988 - Variatio 15 A 1 Clav. Canone Alla Quinta (Zenph Version)
+never,Podcast,270367,0,false,第13号「虚構新聞ニュース」2012年10月7日
+2012-07-22 06:19:02,Rock,174466,4,false,Time Is On My Side
+2012-07-22 06:16:08,Rock,158773,4,false,Empty Heart
+2012-07-22 06:25:01,Rock,207493,4,false,It's All Over Now
+2012-05-16 15:21:04,none,186453,1,false,01 Don't Know Why
+2012-03-06 11:02:56,Rock,235426,11,false,Walking Slow
+2012-09-11 08:00:03,Pop,266093,2,false,まつり
+2012-11-01 20:17:52,Jazz,224200,1,false,ARDENT
+2012-03-28 09:47:40,Rock,188200,12,false,The Road And The Sky
+2012-11-01 20:14:08,Jazz,237333,1,false,PITY
+2012-03-27 10:28:55,Rock,286466,13,false,For A Dancer
+2012-07-06 03:32:08,Classical,130546,2,false,Bach: Goldberg Variations_ BWV 988 - Variatio 13 A 2 Clav. (Zenph Version)
+2012-03-06 10:45:51,Rock,321400,11,false,Farther On
+2012-11-01 20:04:00,Jazz,260933,1,false,ASOBIにつれてって
+2012-03-06 10:51:06,Rock,315373,11,false,The Late Show
+2012-11-01 19:59:40,Jazz,282040,1,false,ESCALATION
+2012-10-20 06:56:16,Traditional,408840,1,false,『大工調べ』 出囃子「老松」～マクラ
+never,Traditional,336666,0,false,『黄金餅』 桐ケ谷の焼場～結末～追い出し
+2012-10-20 06:35:54,Traditional,363160,1,false,『黄金餅』 麻布絶口釜蕪村の木蓮寺
+2012-10-20 06:29:51,Traditional,58146,2,false,『黄金餅』 下谷から麻布へ、町名づくし
+2012-10-20 07:02:45,Traditional,389000,1,false,『大工調べ』 道具箱喪失の事情
+never,Rap,30200,0,false,Final Thought (Skit)
+2012-07-07 13:47:44,Electronica,430613,7,false,Greenways Trajectory
+never,Rap,348400,0,false,Encore _ Curtains Down
+never,Rap,33733,0,false,Public Service Announcement
+never,Rap,268400,0,false,My Name Is
+never,Rap,199333,0,false,Guilty Conscience
+2012-10-29 12:23:41,Jazz,195360,1,false,Barbary Coast
+2012-10-07 12:11:20,Pop,223040,1,false,Never Say Never
+2012-09-14 03:09:11,Pop,264000,3,false,夫婦絶唱
+2012-09-17 14:52:14,Traditional,735493,3,false,『百川』 二階座敷の問答
+never,Jazz,420026,0,false,So In Love
+2012-09-10 10:42:57,Traditional,77600,2,false,『百川』 マクラII: 江戸の祭、四神剣、百川
+2012-09-10 10:46:35,Traditional,207240,2,false,『百川』 百兵衛、百川へ入来
+2012-09-10 10:37:50,Traditional,787773,2,false,『芝浜』 三年目の大晦日～サゲ～追い出し
+2012-09-10 10:41:39,Traditional,229093,2,false,『百川』 囃子「老松」～マクラI: 名物
+never,Rock,241533,0,false,What A Bringdown
+never,Jazz,312106,0,false,Sophisticated Lady
+2012-07-23 03:12:43,Jazz,293026,1,false,Blues For Art
+2012-10-20 11:20:19,Traditional,528733,1,false,『干物箱』-4 善公との打ち合わせ
+never,Indie Rock,239280,0,false,Turn Up The Sun
+2012-11-03 19:39:29,Rock,153066,1,false,MLK
+2012-07-15 12:53:41,Jazz,263600,1,false,Armando's Rhumba
+2012-11-03 20:43:59,Rock,259933,2,false,Indian Summer Sky
+2012-11-03 20:39:39,Rock,369293,2,false,Bad
+2012-10-20 11:03:04,Traditional,140333,1,false,『干物箱』-2 噛み合わない父子の会話
+never,iTunes U,1621855,0,false,12. Persistence (November 3_ 2011) - HD
+never,Podcast,3592008,0,false,9月5日 夜10時NHKジャーナル
+never,iTunes U,4720954,0,false,13. Core Data (November 8_ 2011) - HD
+never,iTunes U,4226026,0,false,19. Automated Testing (December 6_ 2011) - HD
+never,iTunes U,4632833,0,false,18. iCloud Demo (December 1_ 2011)
+2012-10-20 11:10:12,Traditional,211573,2,false,『干物箱』-3 息子脱出～また遊びの虫が
+never,iTunes U,4285252,0,false,17. iCloud (November 29_ 2011) - HD
+2012-05-16 13:49:23,none,407746,1,false,The Fool On The Hill
+2012-05-16 14:04:53,none,471186,1,false,Humpty Dumpty
+2012-05-16 14:19:52,none,898946,1,false,Old Castle_ By The River_ In The Middle Of Forest
+2012-05-16 14:28:11,none,493266,1,false,PLACE TO BE
+2012-05-16 14:37:10,none,531600,1,false,Summer Time
+2012-04-21 11:17:22,Country & Folk,216493,15,false,Little Things Mean A Lot
+2012-04-21 11:21:11,Country & Folk,228506,15,false,Cry
+2012-04-21 11:25:21,Country & Folk,250546,14,false,You'll Never Know
+2012-04-21 11:29:23,Country & Folk,241786,14,false,Tenderly
+2012-04-21 11:33:41,Country & Folk,145626,14,false,Stormy Weather
+never,Rock,221000,0,false,Deserted Cities Of The Heart
+2012-06-28 10:42:56,Jazz,70840,1,false,Port View 2
+never,Rock,167866,0,false,Badge
+2012-09-26 04:37:43,Rock,257706,1,false,When I Look At The World
+2012-10-26 12:58:46,Rock,153933,43,false,We're All The Way
+never,iTunes U,995324,0,false,第6回(5)：廣瀬 通孝「コンピュータとバーチャルリアリティ」
+never,iTunes U,1097142,0,false,第6回(4)：廣瀬 通孝「コンピュータとバーチャルリアリティ」
+never,iTunes U,1119644,0,false,第6回(3)：廣瀬 通孝「コンピュータとバーチャルリアリティ」
+2012-09-26 04:28:37,Rock,226666,1,false,Wild Honey
+never,iTunes U,1085347,0,false,第6回(2)：廣瀬 通孝「コンピュータとバーチャルリアリティ」
+2012-07-07 13:49:03,Electronica,79293,7,false,Tommib
+2012-07-06 03:42:14,Classical,42240,2,false,Bach: Goldberg Variations_ BWV 988 - Variatio 22 Alla Breve A 1 Clav. (Zenph Version)
+2012-10-26 12:52:10,Rock,236266,43,false,Lay Down Sally
+2012-07-06 03:38:20,Classical,46053,2,false,Bach: Goldberg Variations_ BWV 988 - Variatio 18 A 1 Clav. Canone Alla Quinta (Zenph Version)
+2012-07-06 03:39:02,Classical,42626,2,false,Bach: Goldberg Variations_ BWV 988 - Variatio 19 A 1 Clav. (Zenph Version)
+2012-07-06 03:39:50,Classical,47466,2,false,Bach: Goldberg Variations_ BWV 988 - Variatio 20 A 2 Clav. (Zenph Version)
+2012-10-07 12:33:59,Jazz,470240,1,false,A Foggy Day
+2012-07-06 03:41:32,Classical,102400,2,false,Bach: Goldberg Variations_ BWV 988 - Variatio 21 Canone Al Settima (Zenph Version)
+2012-07-03 04:35:07,Jazz,363106,1,false,Someone To Watch Over Me
+2012-07-29 11:42:39,Rock,176106,7,false,I Feel Free
+2012-11-25 16:36:52,Rock,269733,28,false,New Divide
+2012-11-16 03:24:39,Indie Rock,78040,33,false,Death Will Never Conquer
+never,Jazz,517573,0,false,Spain
+2012-11-22 15:44:01,R&B,309133,62,false,Know What I Mean? (Take 12)
+2012-06-30 10:45:33,Jazz,250373,1,false,I Didn't Know What Time It Was
+2012-11-22 15:38:52,R&B,367493,61,false,Who Cares? (take 4)
+2012-06-30 10:51:12,Jazz,338666,1,false,Monk's Mood
+2012-11-22 15:32:44,R&B,298000,65,false,Know What I Mean? (take 7)
+never,Jazz,399933,0,false,Morning Sprite
+2012-11-22 15:27:46,R&B,248666,63,false,Nancy (With The Laughing Face)
+never,Jazz,378066,0,false,Someday My Prince Will Come
+2012-11-22 15:23:38,R&B,352506,63,false,Elsa
+2012-09-10 06:07:21,Traditional,576573,1,false,文七元結 _ 近江屋内
+2012-11-09 00:42:39,Rock,425906,6,false,Stuck Inside Of Mobile With The Memphis Blues Again
+2012-11-09 00:32:26,Rock,294760,6,false,One Of Us Must Know (Sooner Or Later)
+2012-11-09 00:35:34,Rock,187760,6,false,I Want You
+2012-11-09 00:19:58,Rock,230093,7,false,Pledging My Time
+2012-11-09 00:27:31,Rock,453440,6,false,Visions Of Johanna
+2012-09-10 09:55:35,Traditional,385066,1,false,『芝浜』 思いがけない金
+2012-03-27 08:48:20,Rock,210893,2,false,Don't Stop Me Now
+2012-09-10 09:57:28,Traditional,113133,1,false,『芝浜』 再び目覚めて
+2012-03-27 12:53:21,Rock,175400,2,false,Good Old-Fashioned Lover Boy
+2012-09-10 09:29:04,Traditional,240173,1,false,『芝浜』 魚熊のいきさつ
+2012-03-14 04:09:09,Rock,273640,2,false,Body Language
+2012-09-10 09:32:03,Traditional,178266,1,false,『芝浜』 久しぶりの魚河岸行き
+2012-02-05 17:28:52,Rock,228733,1,false,Save Me
+2012-07-25 14:07:29,Electronica,226413,9,false,Abstract Lover
+2012-07-25 14:03:43,Electronica,274986,9,false,Megazine
+2012-09-10 10:04:31,Traditional,423560,1,false,『芝浜』 "真相"
+2012-02-05 17:39:40,Rock,262133,1,false,I Want To Break Free
+2012-07-25 13:53:36,Electronica,286506,9,false,Into The Blue
+2012-06-15 18:22:37,Rock,329933,29,false,Across The Border
+2012-03-27 11:36:55,Rock,307133,12,false,Galveston Bay
+2012-09-14 03:04:47,Pop,227573,3,false,博多の女
+2012-03-08 05:54:12,Rock,120440,10,false,My Best Was Never Good Enough
+2012-05-16 14:49:40,none,122566,1,false,temp 4
+2012-05-16 14:39:27,none,134373,1,false,temp 1 1
+2012-09-06 15:52:24,Pop,229666,3,false,女のためいき
+2012-09-09 16:47:35,Traditional,286426,1,false,『愛宕山』 見晴らし～土器投げ
+never,Voice Memo,8845,0,false,4_24_12 21:22 
+2012-10-17 11:16:25,Other,1338226,1,false,目黒の秋刀魚(S52.10.31 鈴本演芸場)
+never,Voice Memo,98729,0,false,4_24_12 21:27 
+never,Voice Memo,58187,0,false,4_23_12 16:38 
+2012-09-06 14:25:23,Pop,256640,2,false,女の波止場
+never,Voice Memo,6709,0,false,4_24_12 21:22 
+never,Voice Memo,308150,0,false,4_24_12 21:32 
+2012-10-17 10:42:09,Other,1496200,1,false,崇徳院(S52.7.31 鈴本演芸場)
+2012-03-14 16:54:42,Pop,65333,6,false,ブルース
+2012-05-12 18:23:58,Jazz,433893,24,false,My Romance (Take 1)
+never,Indie Rock,199040,0,false,Lewis (Mistreated)
+never,Indie Rock,280466,0,false,The Trickster
+2012-05-13 11:40:42,Jazz,299533,28,false,My Foolish Heart
+never,Blues,471600,0,false,Layla
+2012-03-29 08:43:09,Pop,81360,5,false,アイスクリーム
+2012-05-13 10:37:06,Jazz,418026,29,false,Waltz For Debby (Take 2)
+never,Traditional,1729866,0,false,一分茶番 (1980年7月31日上野鈴本演芸場)
+2012-07-22 14:17:47,Rock,514133,11,false,Sing This All Together (See What Happens)
+never,Traditional,1874333,0,false,地獄八景亡者戯 (前編)
+2012-09-14 02:43:56,Pop,194226,3,false,函館の女
+2012-07-22 14:22:23,Rock,275466,11,false,She's A Rainbow
+2012-09-09 16:42:49,Traditional,812733,1,false,『愛宕山』 登り道
+2012-08-11 15:32:48,Indie Rock,191933,11,false,Inside My Head
+2012-09-09 16:28:54,Traditional,127640,1,false,『愛宕山』 その前夜
+2012-07-10 00:33:45,Pop,241826,3,false,No Bravery
+never,Traditional,1620866,0,false,付き馬
+2012-07-10 00:25:36,Pop,216906,4,false,Billy
+2012-08-11 15:19:34,Indie Rock,253160,13,false,I Can't
+2012-07-10 00:29:43,Pop,246640,3,false,Cry
+2012-08-11 15:22:42,Indie Rock,187800,13,false,Lurgee
+2012-07-10 00:17:35,Pop,213200,3,false,Out Of My Mind
+2012-08-11 15:27:23,Indie Rock,280800,13,false,Blow Out
+2012-07-10 00:21:59,Pop,264680,3,false,So Long_ Jimmy
+2012-08-11 15:29:36,Indie Rock,132800,12,false,Pop Is Dead
+2012-07-06 03:57:27,Classical,132640,1,false,Bach: Goldberg Variations_ BWV 988 - Aria Da Capo (Zenph Version)
+2012-03-04 07:54:29,Rock,215400,3,false,Rainy Days And Mondays
+2012-07-06 03:55:14,Classical,47986,1,false,Bach: Goldberg Variations_ BWV 988 - Variatio 30 Quodlibet. A 1 Clav. (Zenph Version)
+2012-03-04 07:50:53,Rock,227466,3,false,Superstar
+2012-07-06 03:54:26,Classical,60200,1,false,Bach: Goldberg Variations_ BWV 988 - Variatio 29 A 1 Ovvero 2 Clav. (Zenph Version)
+2012-03-04 07:47:06,Rock,185226,3,false,We've Only Just Begun
+2012-07-06 03:53:26,Classical,70720,1,false,Bach: Goldberg Variations_ BWV 988 - Variatio 28 A 2 Clav. (Zenph Version)
+2012-03-04 07:44:01,Rock,238866,3,false,Yesterday Once More
+never,Voice Memo,244620,0,false,11_9_12 0:02 
+never,Voice Memo,283816,0,false,11_8_12 23:55 
+never,Traditional,817800,0,false,『粗忽の使者』 にわか近習誕生
+never,Voice Memo,14743,0,false,11_11_12 11:55 
+never,Podcast,3846060,0,false,Episode 24 – Game cloning_ intellectual property and ideas
+2012-03-27 13:07:13,Rock,237066,5,false,Goodbye To Love
+2012-10-20 05:28:21,Indie Rock,420000,1,false,It's Gettin' Better (Man!!)
+2012-11-17 00:47:19,Indie Rock,129200,2,false,All Around The World (Reprise)
+2012-10-13 09:44:59,Rock,194106,1,false,Vertigo
+2012-03-14 20:18:02,Country & Folk,194853,10,false,Shanghai Breezes
+2012-05-13 13:19:58,Rock,309586,9,false,Cryin'
+2012-03-28 16:38:09,Country & Folk,278120,13,false,The Cowboy And The Lady
+2012-03-14 20:06:19,Country & Folk,241680,10,false,Some Days Are Diamonds (Some Days Are Stone)
+2012-03-30 19:12:58,Country & Folk,219920,15,false,Autograph
+never,Pop,316866,0,false,Final Love Song
+never,Pop,354840,0,false,嘘つきダイヤモンド
+never,Pop,298093,0,false,カナリア
+never,Pop,297973,0,false,映画に行こう
+never,Pop,245293,0,false,ワカンナイ
+never,iTunes U,944646,0,false,A New Harlem Renaissance
+never,iTunes U,1104924,0,false,Releasing the World's Report Card
+never,iTunes U,817210,0,false,Eight Decades of Education
+never,iTunes U,807238,0,false,The Education Governor
+never,iTunes U,1004274,0,false,Knight of Reform
+never,Podcast,408163,0,false,第15号「虚構新聞ニュース」2012年11月4日
+2012-11-16 01:28:06,Indie Rock,275466,1,false,Take A Bow
+2012-11-14 00:10:18,Metal,186293,2,false,Fear
+2012-10-24 03:44:46,Traditional,280266,1,false,『付き馬』 たまりかねた若い衆～早桶屋へ案内
+2012-11-07 16:03:01,Traditional,348066,1,false,売れ残りの富札
+2012-10-20 01:26:16,Metal,217733,1,false,One Step Closer
+2012-11-13 23:49:04,Metal,394373,2,false,Bed Of Roses
+2012-11-13 23:53:31,Metal,267333,2,false,If I Was Your Mother
+2012-11-14 00:03:23,Metal,591893,2,false,Dry County
+2012-11-14 00:07:12,Metal,228506,2,false,Woman In Love
+2012-10-07 12:37:11,Jazz,191760,1,false,Profile Of Jackie
+never,Rock,333440,0,false,Surrender
+2012-04-25 14:42:23,Jazz,438560,19,false,My Romance (Take 2)
+2012-10-26 16:26:34,Pop,202560,2,false,Power To The People
+2012-03-05 18:23:18,Jazz,464880,3,false,Spirit Of The Air
+2012-03-05 18:15:33,Jazz,560146,3,false,Soul Search
+2012-04-25 14:13:58,Jazz,308706,22,false,Some Other Time
+2012-04-25 14:34:58,Jazz,443840,22,false,Detour Ahead (Take 1)
+2012-06-05 23:33:26,Jazz,952973,6,false,Orchestrion
+2012-07-21 15:54:06,Rock,108693,2,false,Not Fade Away
+2012-07-22 14:40:21,Rock,221133,11,false,On With The Show
+never,Pop,279626,0,false,Nobody Knows Me
+2012-05-29 09:09:10,Rock,151920,22,false,Blackbird_Yesterday
+never,Pop,248400,0,false,I'm So Stupid
+2012-03-27 16:22:58,Pop,217866,1,false,Love Profusion
+never,Jazz,264600,0,false,The Elders
+2012-05-16 15:36:56,Pop,297293,5,false,American Life
+never,Pop,264440,0,false,Hollywood
+2012-05-29 09:06:39,Rock,138560,62,false,Help!
+2012-10-20 11:35:55,Metal,243493,1,false,We Weren't Born To Follow
+never,Indie Rock,136200,0,false,Lozenge Of Love
+never,Traditional,224626,0,false,『粗忽の使者』 いよいよ正念場～サゲ～追い出し
+2012-05-29 09:04:20,Rock,202213,23,false,Being For The Benefit Of Mr. Kite!_I Want You (She's So Heavy)_Helter Skelter
+2012-11-01 20:45:42,Rock,165266,6,false,Disco Strangler
+2012-11-01 20:42:57,Rock,225960,6,false,In The City
+2012-11-01 20:56:37,Rock,266933,6,false,Heartache Tonight
+never,Indie Rock,414960,0,false,Unnatural Selection
+2012-11-01 20:52:10,Rock,388306,6,false,King Of Hollywood
+2012-10-24 03:33:50,Traditional,275666,1,false,『付き馬』 朝湯朝酒朝御飯
+2012-11-01 21:01:32,Rock,294826,6,false,Those Shoes
+2012-05-29 09:00:58,Rock,209666,22,false,Something_Blue Jay Way [Transition]
+2012-11-17 01:51:47,Metal,233573,11,false,I Am
+never,Rock,156960,0,false,"40"
+2012-07-22 06:03:40,Rock,126360,3,false,Grown Up Wrong
+2012-09-11 01:34:56,Pop,239840,3,false,酒　尽尽（能吉利人）
+2012-07-22 06:05:45,Rock,125373,3,false,If You Need Me
+never,Podcast,597024,0,false,9月2日 夜10時のニュース
+2012-07-22 05:59:04,Rock,167466,3,false,Under The Boardwalk
+2012-07-22 06:01:33,Rock,149640,3,false,Congratulations
+2012-08-31 04:35:48,none,799,1,false,bar
+2012-09-11 01:23:44,Pop,213466,3,false,倖せさがして（たかたかし）
+2012-07-22 06:07:36,Rock,110960,3,false,Susie Q
+2012-09-21 03:18:17,Indie Rock,322226,2,false,Rock 'n' Roll Star
+never,Podcast,897048,0,false,9月1日 夜7時NHKきょうのニュース
+never,Indie Rock,351626,0,false,The National Anthem
+2012-11-01 19:54:58,Jazz,319493,1,false,WILL YOU LOVE ME TOMORROW
+never,Indie Rock,241000,0,false,Packt Like Sardines In A Crushd Tin Box
+2012-10-29 12:30:17,Jazz,396800,1,false,Herandnu
+2012-11-01 19:39:51,Jazz,369493,1,false,AWAKEN
+never,Indie Rock,356400,0,false,How To Disappear Completely
+2012-11-01 19:45:03,Jazz,311173,1,false,MIST
+2012-11-01 19:49:38,Jazz,275466,1,false,心・奥 KOKORO-CK
+never,Traditional,132560,0,false,『搗屋幸兵衛』 真相判明～サゲ～中入り
+2012-10-20 06:06:22,Traditional,184933,1,false,『黄金餅』 出囃子「三下り中の舞」～マクラ
+2012-10-20 06:10:21,Traditional,238533,1,false,『黄金餅』 二朱分のあんころ餅
+2012-10-20 06:14:30,Traditional,249760,1,false,『黄金餅』 西念の異様な最後
+2012-10-20 06:28:53,Traditional,383493,2,false,『黄金餅』 長屋の弔い
+never,Rock,243440,0,false,Two Hearts Beat As One
+2012-11-29 16:51:35,Alternative,183586,10,false,The Messenger
+never,Rap,310720,0,false,Spend Some Time
+2012-11-17 02:56:19,Metal,310266,4,false,Two Story Town
+never,Rap,265480,0,false,Ass Like That
+never,Rap,242306,0,false,Crazy In Love
+never,Rap,250760,0,false,Mockingbird
+never,Rap,266573,0,false,One Shot 2 Shot
+2012-11-17 02:51:09,Metal,308933,4,false,Thank You For Loving Me
+2012-10-29 11:59:26,Jazz,389693,1,false,Black Market
+2012-11-17 00:55:50,Indie Rock,231093,2,false,Let's All Make Believe
+2012-11-17 02:46:00,Metal,213333,4,false,Say It Isn't So
+2012-03-11 11:44:55,Rock,194666,1,false,Is It True
+2012-03-27 12:50:25,Rock,266706,2,false,Good Day In Hell
+2012-03-11 11:37:19,Rock,218373,1,false,James Dean
+2012-03-11 11:41:41,Rock,261893,1,false,Ol' 55
+2012-09-27 13:55:07,Traditional,189693,1,false,『羽織の遊び』 羽織着用の至上命令
+2012-09-27 14:02:03,Traditional,395600,1,false,『羽織の遊び』 羽織の算段～サゲ
+2012-03-28 05:27:06,Rock,274360,3,false,The Best Of My Love
+never,Podcast,283167,0,false,第12号「虚構新聞ニュース」2012年9月16日
+2012-11-06 20:08:20,Pop,276133,2,false,雨の桟橋
+never,Rock,225693,0,false,Red Light
+never,Indie Rock,102960,0,false,The Meaning Of Soul
+never,Indie Rock,236200,0,false,Mucky Fingers
+never,Indie Rock,310213,0,false,Lyla
+never,Indie Rock,172933,0,false,Love Like A Bomb
+never,Indie Rock,219706,0,false,The Importance Of Being Idle
+never,iTunes U,4559293,0,false,10. Blocks and Multithreading (October 27_ 2011) - HD
+never,iTunes U,4384685,0,false,11. Core Location and MapKit (November 1_ 2011) - HD
+never,iTunes U,4495462,0,false,9. Table Views (October 25_ 2011) - HD
+never,ボイスメモ,269605,0,false,3_7_12 8:46 
+never,ボイスメモ,294845,0,false,3_8_12 7:36 
+never,iTunes U,2986687,0,false,Building Apps that People Want (November 11_ 2011) - HD
+never,ボイスメモ,6894,0,false,3_5_12 7:02 
+never,iTunes U,4632199,0,false,16. Action Sheets_ Image Picker_ Core Motion (November 17_ 2011) - HD
+never,ボイスメモ,9240,0,false,3_17_12 12:58 
+never,iTunes U,3197731,0,false,Smule (November 18_ 2011) - HD
+never,ボイスメモ,36755,0,false,2_8_12 3:34 
+never,Rock,256533,0,false,Politician
+never,Rock,177200,0,false,Those Were The Days
+never,Rock,263000,0,false,As You Said
+never,Rock,198466,0,false,Pressed Rat & Warthog
+never,Rock,193600,0,false,Born Under A Bad Sign
+2012-07-02 16:11:24,Jazz,292106,7,false,I Want To Be Happy
+2012-07-02 17:14:41,Jazz,221600,8,false,Anna
+2012-07-02 17:11:00,Jazz,277466,9,false,Stella By Starlight
+2012-07-02 17:06:22,Jazz,293026,8,false,Blues For Art
+2012-10-07 12:52:07,Jazz,896040,1,false,Love Chant
+2012-04-21 11:13:46,Country & Folk,144400,16,false,That Lucky Old Sun (Just Rolls Around Heaven All Day)
+2012-07-02 16:13:59,Jazz,155093,7,false,Smile
+never,iTunes U,864430,0,false,第5回(1)：須藤　修「情報爆発と新たなネットワーク社会の創造」
+never,iTunes U,1004370,0,false,第5回(2)：須藤　修「情報爆発と新たなネットワーク社会の創造」
+never,iTunes U,1101065,0,false,第5回(3)：須藤　修「情報爆発と新たなネットワーク社会の創造」
+never,iTunes U,725623,0,false,第5回(6)：須藤　修「情報爆発と新たなネットワーク社会の創造」
+never,Indie Rock,302826,0,false,Uprising
+2012-09-10 00:17:50,Traditional,140666,1,false,『愛宕山』 生還～サゲ～追い出し
+never,Indie Rock,346693,0,false,Resistance
+2012-09-09 16:58:47,Traditional,283800,2,false,『愛宕山』 小判投げ
+2012-11-16 04:50:15,Alternative,200266,15,false,Points Of Authority
+2012-07-29 11:05:28,Rock,121200,6,false,Dreaming
+2012-06-30 04:48:16,Jazz,643533,1,false,The Mad Hatter Rhapsody
+2012-07-29 11:08:49,Rock,200960,6,false,Sweet Wine
+2012-07-29 11:15:21,Rock,391840,6,false,Spoonful
+2012-07-29 11:18:29,Rock,187893,6,false,Cat's Squirrel
+2012-06-30 03:22:07,Jazz,497000,1,false,Falling Alice
+2012-11-16 04:40:56,Alternative,185533,20,false,Papercut
+2012-06-30 03:10:41,Jazz,79333,1,false,Prelude To Falling Alice
+2012-11-16 04:43:31,Alternative,155693,17,false,One Step Closer
+2012-06-30 04:37:32,Jazz,787440,1,false,Dear Alice
+2012-11-16 04:46:54,Alternative,203240,17,false,With You
+2012-06-30 03:24:58,Jazz,170666,1,false,Tweedle Dum
+2012-09-26 18:18:46,Traditional,254333,1,false,井戸の茶碗 出囃子「老松」～マクラ
+2012-09-26 04:52:29,Rock,223840,1,false,The Ground Beneath Her Feet (UK only)
+2012-11-09 01:06:54,Rock,297026,66,false,Absolutely Sweet Marie
+never,Electronica,331293,0,false,Lantern Marsh
+2012-11-09 01:01:57,Rock,302533,2,false,Temporary Like Achilles
+never,Electronica,180480,0,false,Shadow
+2012-11-09 00:56:54,Rock,210200,3,false,Most Likely You Go Your Way (And I'll Go Mine)
+never,Electronica,327906,0,false,Tal Coat
+2012-11-09 00:51:28,Rock,290733,6,false,Just Like A Woman
+2012-09-26 18:22:55,Traditional,248933,1,false,井戸の茶碗 千代田卜斎の浪宅
+2012-11-09 00:46:38,Rock,238400,6,false,Leopard-Skin Pill-Box Hat
+2012-10-15 03:45:33,Electronica,274306,1,false,Lizard Point
+2012-11-22 15:12:36,R&B,177506,65,false,Venice
+2012-11-22 15:09:39,R&B,356493,66,false,Who Cares?
+2012-11-22 15:03:42,R&B,377173,72,false,Goodbye
+2012-11-22 14:57:25,R&B,317493,73,false,Waltz For Debby
+2012-07-25 14:18:48,Electronica,373626,9,false,Cryptic Motion
+2012-10-03 05:20:02,Traditional,2272866,1,false,猫の忠信
+2012-07-25 14:25:48,Electronica,419653,9,false,Maximum Planck
+2012-07-07 20:24:39,Electronica,270120,8,false,On Fire Again
+2012-11-22 15:17:45,R&B,308826,64,false,Toy
+2012-10-19 06:36:46,Electronica,319293,2,false,Baby's On Fire
+2012-10-19 06:40:11,Electronica,205333,2,false,Cindy Tells Me
+2012-10-29 08:58:07,Traditional,1311066,1,false,五光
+2012-10-19 06:31:27,Electronica,185133,2,false,The Paw Paw Negro Blowtorch
+2012-10-19 06:45:23,Electronica,312133,2,false,Driving Me Backwards
+2012-07-06 02:35:59,Blues,401986,1,false,Old Love
+2012-07-06 02:40:25,Blues,266293,1,false,Too Bad
+2012-07-06 02:15:49,Blues,254000,1,false,Roll It Over
+never,Blues,223933,0,false,Crossroads
+2012-05-13 14:38:38,Blues,270720,2,false,Tears In Heaven
+2012-10-11 23:39:37,Rock,252733,1,false,Gloria
+2012-03-24 13:37:15,Pop,211573,6,false,銭がなけりゃ
+2012-11-01 22:57:52,Indie Rock,262266,1,false,How Can You Be Sure?
+2012-03-14 04:15:53,Pop,140600,6,false,コーヒーブルース
+2012-03-14 04:13:33,Pop,133773,4,false,おなじみの短い手紙
+2012-03-14 04:20:50,Pop,187800,4,false,夕焼け
+2012-03-14 04:17:42,Pop,108826,4,false,値上げ
+2012-10-26 16:33:20,Pop,211506,2,false,Woman
+2012-04-23 05:34:44,Jazz,196026,16,false,Peri's Scope
+2012-08-11 15:15:21,Indie Rock,145373,13,false,Prove Yourself
+2012-09-10 05:03:36,Traditional,187000,1,false,『宿屋の富』 宿の亭主の喜び～サゲ～追い出し
+never,Indie Rock,250800,0,false,Dead Star [Live]
+never,Indie Rock,192826,0,false,In Your World [Live]
+2012-08-11 15:06:34,Indie Rock,217800,14,false,Anyone Can Play Guitar
+2012-04-23 04:06:33,Jazz,360560,20,false,Autumn Leaves [Take 1]
+2012-08-11 15:02:56,Indie Rock,161600,14,false,Thinking About You
+2012-04-23 04:12:00,Jazz,326440,21,false,Autumn Leaves [Take 2]
+2012-08-11 15:12:56,Indie Rock,192666,14,false,Vegetable
+2012-04-23 04:16:37,Jazz,277800,16,false,Witchcraft
+2012-08-11 15:09:43,Indie Rock,189693,14,false,Ripcord
+2012-04-23 05:31:28,Jazz,297200,15,false,When I Fall In Love
+2012-03-05 17:01:08,Rock,236240,4,false,I Believe You
+2012-03-04 08:05:21,Rock,178533,3,false,It's Going To Take Some Time
+2012-03-04 08:10:14,Rock,293600,3,false,This Masquerade
+2012-03-04 08:14:25,Rock,250360,3,false,Ticket To Ride
+2012-03-04 08:17:25,Rock,179906,3,false,Top Of The World
+2012-10-23 01:46:08,Jazz,322666,1,false,Seventh Arrow
+2012-03-14 19:58:37,Country & Folk,290800,10,false,My Sweet Lady
+never,Rock,287200,0,false,Like A Song...
+never,Rock,290600,0,false,Love And Peace Or Else
+never,Rock,270040,0,false,A Man And A Woman
+2012-11-17 01:09:14,Rock,219066,1,false,All Because Of You
+2012-03-14 19:44:07,Country & Folk,224320,11,false,Like A Sad Song
+2012-05-13 12:47:30,Country & Folk,190653,15,false,How Can I Leave You Again
+2012-03-14 19:49:57,Country & Folk,159160,10,false,It Amazes Me
+never,Rock,254493,0,false,Drowning Man
+2012-03-14 19:53:46,Country & Folk,229000,10,false,I Want To Live
+2012-10-15 10:38:05,Rock,219640,2,false,I Fall Down
+never,Pop,366040,0,false,灰色の指先
+never,Pop,278760,0,false,海へ来なさい
+never,Pop,351440,0,false,最後のニュース
+2012-05-12 16:47:31,Jazz,514333,16,false,京マチ子の夜
+never,Podcast,3184065,0,false,26 – Kyle McDonald meets the Secret Service
+never,none,83963,0,false,YORU_BN
+never,Rock,191506,0,false,Seconds
+never,iTunes U,768553,0,false,Behind "Waiting for Superman"
+never,iTunes U,759550,0,false,The Literary Life of Lois Lowry
+never,iTunes U,1517158,0,false,Harvard Meets the Homeless
+2012-10-15 10:42:59,Rock,294493,1,false,I Threw a Brick Through a Window
+2012-11-02 03:50:47,Country & Folk,273906,6,false,Motorpsycho Nitemare
+never,iTunes U,829747,0,false,Organizing a Posse
+2012-11-14 03:24:02,Rock,275466,7,false,Lay All Your Love On Me
+2012-11-02 04:11:25,Country & Folk,215266,9,false,It Ain't Me Babe
+2012-11-16 01:35:36,Indie Rock,209360,1,false,Supermassive Black Hole
+2012-11-16 01:32:06,Indie Rock,239800,1,false,Starlight
+2012-11-16 01:41:58,Indie Rock,123893,1,false,Soldier's Poem
+2012-11-16 01:39:54,Indie Rock,258840,1,false,Map Of The Problematique
+2012-11-16 01:46:59,Indie Rock,300240,1,false,Invincible
+never,Traditional,150960,0,false,『崇徳院』 熊さんの女房の知恵
+2012-03-04 16:24:59,Rock,280826,3,false,Too Many Hands
+2012-03-10 20:21:18,Rock,241533,4,false,Hollywood Waltz
+2012-11-14 12:32:46,Traditional,174866,2,false,『お茶汲み』 出囃子「老松」～マクラ
+2012-04-25 14:48:30,Jazz,358773,19,false,Porgy (I Loves You_ Porgy)
+2012-03-04 16:20:18,Rock,291866,3,false,One Of These Nights
+2012-11-17 01:25:47,Metal,227040,18,false,Welcome To Wherever You Are
+2012-11-13 07:47:22,Traditional,343440,2,false,『二番煎じ』 "煎じ薬"と"口直し"
+2012-11-13 01:35:26,Traditional,299626,1,false,『二番煎じ』 「火の用心」のどくらべ
+2012-03-04 16:35:39,Rock,398266,4,false,Journey Of The Sorcerer
+2012-11-14 06:43:05,Traditional,409200,1,false,『二番煎じ』 見廻り役人来たる～サゲ～追い出し
+2012-11-14 04:23:27,Traditional,824666,1,false,『二番煎じ』 禁断の酒宴
+2012-03-11 11:33:40,Rock,264093,1,false,On The Border
+2012-10-07 12:07:37,Pop,249066,1,false,That Should Be Me
+2012-10-07 12:26:09,Jazz,636626,1,false,Pithecanthropus Erectus
+2012-10-07 12:14:53,Pop,212920,1,false,Pray
+2012-04-03 04:23:08,Rock,255733,11,false,Already Gone
+2012-03-11 11:21:48,Rock,240960,1,false,You Never Cry Like A Lover
+2012-03-11 11:25:46,Rock,238133,1,false,Midnight Flyer
+2012-03-28 20:11:07,Rock,210573,2,false,My Man
+2012-11-06 19:50:16,Pop,275360,1,false,わるいひと
+2012-11-06 20:00:16,Pop,311800,1,false,女心
+2012-07-22 14:36:40,Rock,284866,11,false,2000 Light Years From Home
+2012-03-27 08:07:39,Pop,278426,1,false,Die Another Day
+never,Pop,273266,0,false,Mother And Father
+never,Pop,229466,0,false,X-Static Process
+never,Pop,294466,0,false,Intervention
+never,Pop,288373,0,false,Nothing Fails
+2012-11-14 03:19:26,Rock,213466,4,false,Mamma Mia
+2012-10-27 16:06:15,Alternative,166333,8,false,Faint [Live]
+2012-11-16 03:09:03,Indie Rock,222653,40,false,Violet Hill
+never,Traditional,270933,0,false,『崇徳院』 髪結床と湯屋の徹底捜索
+2012-09-06 13:14:02,Pop,138960,1,false,月夜に歩けば
+2012-09-21 03:28:02,Indie Rock,276533,2,false,Live Forever
+2012-10-26 16:05:24,Alternative,183560,32,false,Breed
+2012-09-21 03:33:22,Indie Rock,320240,2,false,Cloudburst
+2012-07-25 10:12:51,Rock,321733,10,false,Hot Stuff
+never,Podcast,300146,0,false,第11号「虚構新聞ニュース」2012年9月2日
+2012-10-20 01:34:52,Metal,236880,1,false,Lonely
+2012-09-21 03:23:26,Indie Rock,308466,2,false,Shakermaker
+2012-07-02 11:33:20,Jazz,414000,3,false,BAGAMOYO _ ZANZIBAR
+2012-07-02 11:26:26,Jazz,395000,3,false,GOOD FOR ALL NIGHT
+2012-10-15 12:55:07,Metal,85026,1,false,Ride Cowboy Ride
+2012-07-02 11:19:51,Jazz,307000,3,false,CALL ME
+2012-09-21 03:37:51,Indie Rock,268866,2,false,Up In The Sky
+2012-07-02 11:14:44,Jazz,281466,4,false,RIDE ON
+2012-07-02 11:10:03,Jazz,280533,4,false,ORANGE EXPRESS
+2012-11-29 16:41:28,Alternative,296560,10,false,Iridescent
+2012-09-23 12:38:08,Pop,248506,5,false,裏通り（藤田まさと）
+2012-11-29 16:42:51,Alternative,83053,11,false,Fallout
+2012-11-29 16:48:31,Alternative,339853,10,false,The Catalyst
+2012-08-12 04:05:08,Rock,256200,7,false,Monkey Man
+2012-09-05 15:58:05,Pop,337533,1,false,ホテル港や
+2012-10-14 12:58:38,Alternative,294573,15,false,New Divide [Live]
+2012-09-05 15:52:28,Pop,240200,1,false,夫婦善哉
+2012-10-27 16:03:29,Alternative,383333,10,false,The Little Things Give You Away
+2012-09-05 16:08:11,Pop,287200,1,false,純・情歌
+never,Jazz,273813,0,false,Tokyo Night
+2012-09-05 16:03:24,Pop,318933,1,false,風の盆恋歌
+never,Latin,195466,0,false,Segredo
+2012-10-14 14:18:10,Electronica,145826,1,false,Sombre Reptiles
+2012-09-27 13:51:57,Traditional,487000,1,false,『羽織の遊び』 伊勢屋のキザ息子
+2012-08-12 03:57:55,Rock,419733,7,false,Midnight Rambler
+2012-08-12 04:00:52,Rock,176866,7,false,You Got the Silver
+never,Electronica,197760,0,false,Burning Airlines Give You So Much More
+2012-10-19 11:29:03,Traditional,339573,2,false,代脈 3 代脈道中～病家玄関先
+2012-11-18 12:55:43,Pop,249933,2,false,ラブ ショック ナイト
+2012-10-19 10:56:31,Traditional,387760,1,false,代脈 1 出囃子「老松」～マクラ
+2012-10-19 11:17:37,Traditional,852066,1,false,代脈 2 代脈の心得伝授
+2012-10-20 09:27:51,Traditional,442933,2,false,『大工調べ』 奉行の裁き。まずは家主の権利保証
+never,Traditional,283200,0,false,『大工調べ』 一転、与太郎側に温情の判決～サゲ～中入り
+2012-10-23 01:37:18,Jazz,153066,1,false,Milky Way
+never,Jazz,362000,0,false,Havona
+2012-10-26 16:02:20,Alternative,219333,32,false,Come As You Are
+2012-10-23 01:40:45,Jazz,207293,1,false,Umbrellas
+2012-10-23 01:54:52,Jazz,523906,1,false,Orange Lady
+2012-10-09 03:58:42,Indie Rock,192933,1,false,I Can See A Liar
+2012-07-06 02:54:31,Classical,58800,1,false,Bach: Goldberg Variations_ BWV 988 - Variatio 14 A 2 Clav. (1955)
+2012-10-09 03:55:29,Indie Rock,312626,1,false,Sunday Morning Call
+2012-07-25 10:17:19,Rock,267933,10,false,Hand Of Fate
+2012-10-10 01:59:41,Indie Rock,266800,2,false,Where Did It All Go Wrong?
+2012-07-06 02:49:32,Classical,42813,1,false,Bach: Goldberg Variations_ BWV 988 - Variatio 10 Fughetta. A 1 Clav. (1955)
+2012-07-06 02:50:26,Classical,54546,1,false,Bach: Goldberg Variations_ BWV 988 - Variatio 11 A 2 Clav. (1955)
+2012-07-06 02:51:22,Classical,55826,1,false,Bach: Goldberg Variations_ BWV 988 - Variatio 12 Canone Alla Quarta (1955)
+2012-10-09 05:55:38,Indie Rock,396040,1,false,Roll It Over
+2012-07-06 02:53:32,Classical,130546,1,false,Bach: Goldberg Variations_ BWV 988 - Variatio 13 A 2 Clav. (1955)
+2012-06-18 04:51:26,Rock,409600,6,false,Time
+2012-10-21 17:53:11,Jazz,220560,1,false,Bass Folk Song No. 10
+2012-06-18 04:44:36,Rock,230600,5,false,On The Run
+2012-10-21 18:00:20,Jazz,429186,1,false,No Mystery
+2012-06-18 04:40:46,Rock,168720,5,false,Breathe (In The Air)
+2012-09-27 13:39:32,Traditional,315226,1,false,『羽織の遊び』 出囃子「老松」～マクラ
+2012-06-18 04:37:57,Rock,68346,5,false,Speak To Me
+2012-10-21 18:12:46,Jazz,392200,1,false,Larry Has Traveled 11miles And Waited A Lifetime For The Return Of Vishnu's Report
+2012-09-27 01:43:57,Traditional,263666,1,false,『三軒長屋』 伊勢勘と政五郎～サゲ～中入り
+2012-10-21 18:18:43,Jazz,356520,1,false,Labyrinth
+2012-09-27 01:39:33,Traditional,419466,1,false,『三軒長屋』 楠先生と伊勢勘
+2012-10-24 11:17:03,Traditional,366600,1,false,『三年目』 三年目の幽霊～サゲ～追い出し
+2012-09-27 13:42:38,Traditional,186173,1,false,『羽織の遊び』 廓遊びのパトロン探し
+2012-06-18 04:56:10,Rock,284133,9,false,The Great Gig In The Sky
+2012-04-30 16:48:05,iTunes U,1214496,1,false,第5回(4)：廣瀬 通孝「コンピュータとバーチャルリアリティ」

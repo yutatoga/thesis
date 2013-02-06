@@ -1,0 +1,663 @@
+never,none,771325,0,false,Muscles & Mascara with Nick Adams- Episode 9
+never,none,591996,0,false,Muscles & Mascara with Nick Adams- Episode 11
+2012-03-30 11:43:16,Pop,312146,6,false,蝶々結び
+2012-06-02 20:17:06,none,801655,1,false,Muscles & Mascara with Nick Adams- Episode 3
+2012-03-30 22:34:21,Pop,301506,6,false,夢のダンス
+2012-12-08 17:50:55,Pop,210560,10,false,Le Long De La Route (New Version)
+2012-03-31 09:21:04,Pop,291186,7,false,二時頃
+2012-03-30 08:31:13,Pop,288946,6,false,シャッター
+2012-03-30 12:32:28,Pop,323960,4,false,瞳
+2012-03-30 17:18:27,Rock,339093,1,true,イケナイコトカイ
+2012-03-30 22:26:02,Rock,324706,2,true,Dog Days
+2012-07-17 22:33:51,Children's,64386,10,true,自由への扉 (リプライズ1)
+2012-03-31 05:12:15,Rock,297666,2,true,Young oh! oh!
+2012-05-31 09:00:41,none,274637,1,false,Celine Dion My Heart Will Go On
+2012-03-30 23:55:34,Rock,225826,3,true,Check Out Love
+2012-03-30 08:26:24,Rock,267440,4,true,Out of Blue
+2012-11-05 07:27:54,Indie Rock,309160,4,false,The Scientist
+2012-07-16 06:43:45,Pop,575240,1,false,Scheiße (DJ White Shadow Mugler)
+2012-08-20 12:07:36,Children's,152266,11,false,自由への扉
+2012-07-16 06:53:28,Pop,358133,1,false,Born This Way (Jost & Naaf Remix)
+2012-07-16 06:57:20,Pop,231666,1,false,Born This Way (LLG Vs. GLG Radio Mix)
+2012-03-30 19:10:13,Pop,299413,7,false,二人
+2012-04-21 18:08:35,Pop,294226,7,false,Bad Romance
+2012-08-22 16:44:00,none,289333,1,false,トラック 12
+2012-08-22 16:49:05,none,305293,1,false,トラック 13
+2012-12-08 17:44:40,Pop,280333,10,false,Dans Ma Rue
+2012-08-22 16:57:57,none,266546,1,false,トラック 15
+2012-12-04 13:39:30,Pop,228840,9,false,Loser
+2012-03-31 09:51:32,Pop,311360,7,false,初恋
+2012-12-04 13:44:02,Pop,272093,8,false,Give Up The Funk
+2012-04-21 17:59:59,Pop,159733,5,false,Beth
+2012-04-21 18:03:41,Pop,221533,5,false,Poker Face
+2012-03-30 14:06:06,Pop,286960,5,false,ナキ・ムシ
+2012-12-04 07:11:33,Latin,230600,2,false,Aides Moi
+2012-12-04 07:07:42,Latin,275706,3,false,Lili (Tilda)
+2012-12-04 07:03:07,Latin,250560,3,false,Le Ou Vle
+2012-12-04 06:58:56,Latin,201466,3,false,Bel Pawol
+2012-12-04 06:55:34,Latin,229333,4,false,Mille Et Une Nuit
+2012-11-12 17:30:14,R&B,257626,12,false,Smooth Criminal (Radio Edit)
+2012-12-08 19:19:46,Soundtrack,235520,11,false,Out Tonight
+2012-11-05 13:44:23,R&B,312573,10,false,Thriller
+2012-03-30 18:54:32,R&B,256733,7,false,Beat It
+2012-12-08 18:10:02,Rock,201013,189,false,Go West
+2012-03-31 01:48:47,R&B,255773,10,false,Black Or White
+2012-12-08 19:04:59,Soundtrack,166840,7,false,One Song Glory
+2012-12-08 19:09:09,Soundtrack,250040,6,false,Light My Candle
+2012-12-08 19:11:54,Soundtrack,164920,8,false,Today 4 U
+2012-12-08 18:22:10,Rock,160800,148,false,Follie!! Delirio Vano È Quest
+2012-12-08 19:15:50,Soundtrack,236280,8,false,Tango: Maureen
+2012-09-08 11:49:45,Pop,260253,8,false,Born This Way
+2012-07-03 12:09:47,Rock,431333,12,false,Hey Jude
+2012-07-16 07:05:12,Soundtrack,120826,2,false,Tough Lover (Christina Aguilera)
+2012-06-20 01:16:30,Rock,205293,8,false,Revolution
+2012-03-31 01:03:42,Jazz,780960,2,false,校庭
+2012-07-10 09:50:59,Rock,138986,12,false,Lady Madonna
+2012-11-05 14:25:20,Soundtrack,181533,1,false,When I First Saw You (Duet)
+2012-03-31 04:24:48,Jazz,190133,4,false,阿呆の王
+2012-08-22 20:18:01,Soundtrack,152600,3,false,Dreamgirls (Finale - Highlights Version)
+2012-03-30 13:05:28,Jazz,190773,1,false,すてきち
+2012-07-16 07:03:11,Soundtrack,166120,3,false,Welcome To Burlesque (Cher)
+2012-11-05 13:59:26,Jazz,564293,4,false,ニューゲート
+2012-07-16 07:00:25,Soundtrack,184880,2,false,Something's Go　t A Hold On Me (Christina Aguilera)
+2012-03-30 15:54:25,Jazz,450133,2,false,渚の男
+2012-12-05 10:29:00,Children's,98320,28,false,Mother Knows Best (Reprise)
+2012-03-31 08:30:40,Pop,303986,5,false,三国駅
+2012-12-05 10:37:33,Children's,224240,39,false,I See The Light
+2012-07-03 11:21:59,Soundtrack,226520,2,false,そばにいて (日本語歌)
+2012-12-05 10:24:10,Children's,126093,29,false,When Will My Life Begin? (Reprise 2)
+2012-07-16 06:34:10,Pop,260573,1,false,Marry The Night (Zedd Remix)
+2012-12-05 10:27:22,Children's,191413,30,false,I've Got A Dream
+2012-03-30 08:19:44,Pop,245453,4,false,mix juice
+2012-03-31 04:08:50,Pop,237466,6,false,帽子と水着と水平線
+2012-09-08 11:45:25,Pop,264520,5,false,Marry The Night
+2012-03-30 20:04:32,Pop,325746,4,false,シアワセ
+2012-12-05 10:38:28,Children's,54440,27,false,Healing Incantation
+2012-03-30 07:45:01,Pop,206640,4,false,ジェット
+never,none,793331,0,false,Muscles & Mascara with Nick Adams- Episode 5
+2012-09-12 16:47:22,none,489122,1,false,Muscles & Mascara with Nick Adams- Episode 17
+2012-11-18 14:11:24,Pop,348013,8,false,ここにあるから
+2012-12-09 17:03:22,Pop,320760,12,false,誇り高き花のように
+2012-12-07 17:21:23,Pop,350920,15,false,Lady
+2012-12-07 17:15:32,Pop,282773,9,false,僕と月のワルツ
+2012-11-05 07:13:58,Indie Rock,318626,7,false,Politik
+2012-12-09 15:54:55,Traditional,231800,4,false,Vals Efter Erik Nilsson
+never,none,131580,0,false,PRISCILLA on Broadway- The Priscilla Diva Mix
+2012-12-09 15:59:09,Traditional,253213,5,false,2 Polskor Efter Schedin
+2012-12-09 16:01:52,Traditional,163386,6,false,Spelman Satt Vid Vaggan
+2012-12-09 16:04:35,Traditional,162826,5,false,Säckpipslåt Från Norra Råda
+2012-04-06 08:48:48,Pop,363973,7,false,KissHug
+2012-12-09 16:07:33,Traditional,178386,4,false,Schottis Från Indal
+2012-03-30 10:35:42,Pop,359293,5,false,天の川
+2012-03-30 09:32:28,Pop,303906,5,false,かばん
+2012-03-31 09:42:42,Pop,226066,7,false,愛の病
+never,none,841215,0,false,Muscles & Mascara with Nick Adams- Episode 7
+2012-03-30 08:36:41,Pop,328626,5,false,歌姫
+2012-07-14 13:08:58,Pop,275000,23,false,Who Let In The Rain
+2012-03-31 10:41:16,Rock,80960,4,false,ワールド ワールド
+2012-03-31 10:45:33,Rock,256173,4,false,或る街の群青
+2012-03-30 15:08:08,Rock,241040,3,false,惑星
+2012-11-05 12:56:12,Rock,277533,5,false,転がる岩、君に朝が降る
+2012-03-30 22:29:20,Rock,197800,4,false,新しい世界
+2012-04-25 13:02:49,none,35288,5,true,クラブ・ポーリー　オケ
+2012-12-09 15:21:40,Traditional,218426,13,false,O Dia Em Que Eu Morrer
+2012-12-09 15:18:02,Traditional,246506,12,false,Berimbau
+2012-10-15 00:39:10,Jazz,386040,11,false,Dindi
+2012-10-15 00:32:44,Jazz,438293,11,false,Disparada
+2012-10-15 00:44:55,Jazz,345066,9,false,O..._ Amigo
+2012-12-07 08:08:48,Pop,320533,11,false,The Edge Of Glory
+2012-03-30 09:13:32,Rock,335893,1,true,パラシュート★ガール
+2012-03-30 15:30:38,Rock,299573,1,true,チャーム ポイント
+2012-11-18 14:28:50,Rock,211080,11,false,Makes Me Wonder
+2012-03-30 17:12:48,Rock,299560,2,true,Peach X'mas
+2012-03-31 01:44:31,Rock,440200,1,true,ハレンチ
+2012-12-07 17:41:00,Rock,220306,10,false,The Long And Winding Road
+2012-03-31 03:59:08,Rock,498373,1,true,セックス
+2012-11-18 14:25:19,Rock,201000,9,false,If I Never See Your Face Again
+2012-12-07 17:33:30,Rock,232373,14,false,Let It Be
+2012-08-14 03:21:36,Soundtrack,282173,1,false,Into The Well
+2012-12-07 17:37:20,Rock,229786,16,false,Across The Universe
+2012-08-14 03:16:54,Soundtrack,106960,1,false,Andalasia
+2012-04-25 13:05:08,none,87947,11,true,ポーリー１番　メロディーあり
+2012-12-09 16:51:53,Rock,316133,14,false,夜
+2012-07-14 12:39:12,Pop,223626,23,false,She Bop
+2012-12-04 13:22:32,Pop,238280,7,false,One
+2012-12-04 13:24:34,Pop,121613,8,false,Rose's Turn
+2012-12-04 13:29:09,Pop,275440,6,false,Dream On
+2012-12-04 13:32:31,Pop,202133,5,false,Safety Dance
+2012-06-29 09:28:05,Pop,230400,21,false,I'm Gonna Be Strong
+2012-12-04 13:35:41,Pop,190213,9,false,I Dreamed A Dream
+2012-11-20 13:29:24,Pop,235933,26,false,Girls Just Want To Have Fun
+2012-07-14 12:21:13,Pop,303200,23,false,Money Changes Everything
+2012-07-14 12:25:14,Pop,241266,23,false,Time After Time
+2012-08-22 16:35:24,none,449066,1,false,トラック 10
+2012-08-22 16:27:55,none,274866,1,false,トラック 09
+2012-08-22 16:23:20,none,292693,1,false,トラック 08
+2012-08-22 16:18:27,none,293733,1,false,トラック 07
+2012-08-22 16:39:11,none,226666,1,false,トラック 11
+2012-11-30 23:42:50,Soundtrack,50173,6,false,I'm Not That Girl (Reprise)
+2012-11-30 23:50:46,Rock,271080,4,false,新しい文明開化
+2012-09-03 18:32:45,Soundtrack,298360,5,false,Wonderful
+2012-03-31 06:17:35,R&B,247706,6,false,Thriller Megamix (Radio Edit)
+2012-11-30 16:00:31,Soundtrack,383520,7,false,Thank Goodness
+2012-11-30 03:08:16,Soundtrack,357013,6,false,Defying Gravity
+2012-03-30 13:09:27,R&B,239866,8,false,Remember The Time
+2012-03-31 06:51:38,R&B,279186,7,false,Scream
+2012-03-31 07:10:20,R&B,165306,6,false,Ben
+2012-09-03 18:37:23,Soundtrack,227600,5,false,As Long As You're Mine
+2012-03-30 09:50:24,R&B,246520,7,false,Off The Wall
+2012-07-14 07:22:02,Rock,307680,11,false,A Day In The Life
+2012-07-14 07:25:51,Rock,228653,13,false,All You Need Is Love
+2012-12-01 00:03:13,Rock,240626,3,false,禁じられた遊び
+2012-12-01 00:05:58,Rock,164760,4,false,ドーパミント!
+2012-11-30 23:55:04,Rock,257906,4,false,電気のない都市
+2012-11-30 23:59:12,Rock,249373,3,false,海底に巣くう男
+2012-09-01 09:43:36,Pop,162040,9,false,Painter Song
+2012-07-14 07:30:27,Rock,275680,13,false,I Am The Walrus
+2012-09-01 09:36:41,Pop,186106,9,false,Lonestar
+2012-08-20 09:49:17,Rock,279493,3,false,恐るべき大人達
+2012-09-01 09:33:35,Pop,154800,11,false,Turn Me On
+2012-09-01 09:31:00,Pop,236826,13,false,Shoot The Moon
+2012-11-12 17:15:09,Pop,219106,5,false,Fashion Of His Love
+2012-08-31 13:23:30,Traditional,216720,5,false,Sirba Moldoveneasca
+2012-07-16 05:49:17,Pop,230973,4,false,Bad Kids
+2012-03-30 19:21:06,Pop,269440,2,false,鳴いてる怪獣
+2012-12-09 14:28:20,Religious,222933,6,false,Wandering Eyes
+2012-08-22 19:27:49,Pop,255746,7,false,Highway Unicorn (Road To Love)
+2012-03-30 23:59:43,Pop,248560,2,false,勇敢なヴァニラアイスクリーム
+2012-03-31 01:37:11,Pop,221200,2,false,揺れるスカート
+2012-07-16 06:05:36,Pop,252240,3,false,Electric Chapel
+2012-03-30 06:53:47,R&B,417893,10,false,Dangerous
+2012-11-05 13:03:58,Pop,218840,5,false,Hello!
+2012-07-16 06:47:30,Pop,225106,1,false,Fashion Of His Love (Fernando Garibay Remix)
+2012-12-05 10:18:54,Children's,63213,35,false,When Will My Life Begin? (Reprise 1)
+2012-12-08 15:59:43,Soundtrack,229253,18,false,That's How You Know
+2012-11-22 22:39:18,Rock,181440,7,false,天国へようこそ
+2012-12-08 15:53:43,Soundtrack,193093,16,false,True Love's Kiss
+2012-12-05 10:17:50,Children's,152333,40,false,When Will My Life Begin?
+2012-09-08 11:41:00,Pop,221706,6,false,Iba
+2012-09-08 11:32:19,Pop,189226,5,false,Peace
+2012-09-08 11:37:19,Pop,299920,4,false,So Beautiful
+2012-09-08 11:23:55,Pop,214000,6,false,No One Knows
+2012-09-08 11:29:09,Pop,314786,6,false,Awé
+2012-11-12 17:06:19,Pop,277626,22,false,Come On Home
+2012-04-30 12:33:53,none,354818,10,true,二番以降　確定稿
+never,Soundtrack,196266,0,false,Robert Says Goodbye
+2012-08-11 07:52:19,Children's,122573,4,false,Prologue
+2012-04-11 12:22:53,Soundtrack,294720,1,false,Steppin' To The Bad Side (Highlights Version)
+2012-09-01 09:27:03,Pop,197906,14,false,Come Away With Me
+2012-04-11 12:28:37,Soundtrack,173760,1,false,I Want You Baby
+2012-08-21 13:12:07,Soundtrack,202466,3,false,Family
+2012-07-17 22:41:45,Rock,73333,6,false,イントロの才能
+2012-09-01 09:17:09,Pop,145293,13,false,Seven Years
+2012-09-01 09:14:44,Pop,186466,19,false,Don't Know Why
+2012-09-01 09:23:45,Pop,177626,12,false,Feelin' The Same Way
+2012-09-01 09:20:48,Pop,218640,13,false,Cold Cold Heart
+2012-07-14 05:37:15,Rock,346546,5,false,こまくやぶれる
+2012-07-14 05:41:17,Rock,241693,5,false,爆弾こわい
+2012-07-14 05:47:44,Rock,387666,5,false,マルマルファンク
+2012-08-22 16:53:31,none,265720,1,false,トラック 14
+2012-04-23 05:33:09,Pop,212573,6,false,れんげ畑
+2012-12-07 17:44:40,none,220290,14,false,Priscilla Queen of the Desert on Today1.MP4
+2012-03-30 16:29:55,Pop,361466,5,false,気付かれないように
+2012-04-23 05:29:37,Pop,306360,6,false,横顔
+2012-03-30 08:15:39,Pop,282173,4,false,be master of life
+2012-03-30 06:58:57,Pop,309893,5,false,飛行機
+2012-10-15 01:09:54,Rock,337826,3,true,マシュマロ ハネムーン
+2012-03-31 02:00:23,Pop,210386,4,false,相思相愛
+2012-03-31 08:51:10,Pop,223333,3,false,集まろう for tomorrow
+2012-03-30 16:17:05,Pop,233693,3,false,あの娘になりたい
+2012-03-30 10:04:13,Pop,269506,2,false,笑いとばせ
+2012-08-22 19:38:41,Pop,307360,5,false,Yoü And I
+2012-08-22 19:33:33,Pop,316520,4,false,The Queen
+2012-07-16 06:25:42,Pop,261480,1,false,Born This Way (Country Road Version)
+2012-08-20 12:05:03,Children's,163173,4,false,Something That I Want
+2012-07-16 06:29:49,Pop,247480,1,false,Judas (DJ White Shadow Remix)
+2012-03-30 16:04:22,Dance & House,341706,3,false,Butterfly
+2012-08-11 07:56:13,Children's,117426,3,false,Escape Route
+2012-03-31 07:07:35,Dance & House,297520,3,false,シークレットシークレット
+2012-03-31 11:28:28,Dance & House,328533,4,false,Take me Take me
+2012-03-30 14:48:13,Dance & House,274306,4,false,セラミックガール
+2012-11-17 11:54:17,Electronica,201160,2,false,Brestir Og Brak
+2012-03-30 19:55:47,Dance & House,229733,3,false,Twinkle Snow Powdery Snow
+2012-12-04 06:51:45,Latin,116333,5,false,Wooh She's Who
+2012-08-20 12:12:35,Children's,54853,8,false,魔法の花
+2012-12-04 06:43:38,Latin,130506,5,false,Young Black Pearl
+2012-12-04 06:41:28,Latin,176293,6,false,Tu M'aimes Trop Tard
+2012-12-04 06:49:49,Latin,150640,4,false,Rete
+2012-12-04 06:47:18,Latin,219893,4,false,Softcore
+2012-07-10 09:57:03,R&B,293640,18,false,Billie Jean
+2012-11-05 06:49:30,Soundtrack,231360,6,false,Take Me Or Leave Me
+2012-03-30 15:46:55,Rock,201266,6,false,Losing My Mind
+2012-03-31 05:07:17,Rock,267413,6,false,Infatuation
+2012-03-30 15:01:02,Rock,197293,3,false,Until You're Over Me
+2012-11-22 14:50:40,Soundtrack,151066,10,false,I'll Cover You
+2012-11-05 06:31:45,Soundtrack,207640,8,false,Santa Fe
+2012-11-05 06:45:38,Soundtrack,172080,6,false,I Should Tell You
+2012-11-05 06:42:46,Soundtrack,510346,10,false,La Vie Boheme A & B
+2012-07-10 10:02:20,R&B,317920,13,false,Man In The Mirror
+2012-08-20 10:33:32,Children's,110800,4,false,Kingdom Celebration
+2012-07-17 16:32:50,Soundtrack,136800,1,false,When I First Saw You
+2012-04-05 15:22:18,Rock,181120,1,false,絶対値対相対値
+2012-12-05 10:15:05,Soundtrack,210680,8,false,Ever Ever After
+2012-04-25 13:03:40,none,50504,7,true,クラブ・ポーリー　序曲
+never,Soundtrack,214893,0,false,Patience
+2012-04-25 13:02:14,none,35276,3,true,クラブ・ポーリー　オケ
+2012-04-25 14:51:13,none,57572,3,true,13-2 ちょっぴりオツムに、ちょっぴりハートに　２
+2012-03-31 06:05:57,Indie Rock,238333,3,false,A Whisper
+2012-07-14 07:36:57,Rock,180253,13,false,The Fool On The Hill
+2012-12-09 14:41:48,Religious,182866,7,false,Ain't No Mountain High Enough
+2012-12-09 14:38:45,Religious,261333,8,false,Joyful_ Joyful
+2012-12-09 14:34:23,Religious,93026,9,false,Ode To Joy
+2012-07-17 16:30:34,Soundtrack,285400,1,false,And I Am Telling You I'm Not Going (Highlights Version)
+2012-12-09 14:32:50,Religious,270706,8,false,Pay Attention
+2012-12-07 17:25:18,Rock,209893,13,false,Hello Goodbye
+never,none,590619,0,false,Muscles & Mascara with Nick Adams- Episode 14
+2012-12-09 15:27:50,Traditional,138173,6,false,Brudmarsch Från Skokloster
+2012-07-16 07:49:29,Pop,304186,4,false,Do What U Gotta Do
+2012-12-09 15:25:32,Traditional,231306,4,false,Polska Efter Jonas Lång
+2012-12-09 15:33:18,Traditional,129093,5,false,Polska Efter Andreas Lång
+2012-12-09 15:31:09,Traditional,198893,5,false,I Österland
+2012-07-16 07:32:28,Pop,189906,4,false,Wonder Woman
+2012-12-09 15:36:11,Traditional,172680,4,false,Vals Efter Lasse I Lyby
+2012-07-16 07:36:56,Pop,268320,3,false,UNUSUAL
+2012-07-16 07:40:11,Pop,195120,4,false,make it happen
+2012-12-05 10:22:04,Children's,190440,30,false,Mother Knows Best
+2012-07-16 07:44:25,Pop,253306,4,false,ROCK U
+2012-12-08 18:12:54,Rock,171666,170,false,I Say A Little Prayer
+never,none,755407,0,false,Muscles & Mascara with Nick Adams- Episode 12
+2012-03-31 06:25:52,Rock,139493,4,true,春色グラフィティー (Piano Instrumental version)
+2012-03-31 09:36:12,Rock,180106,4,true,Shine (Piano Instrumental version)
+2012-03-30 15:17:57,Rock,235960,3,true,負けんな!
+2012-03-30 13:48:53,R&B,247586,9,false,Bad
+2012-03-31 06:23:33,Rock,357893,3,true,希望の灯
+2012-07-16 08:31:24,none,241867,2,false,Donna Summer *
+2012-03-31 08:55:26,Rock,255533,3,true,キミノトモダチ (Piano Instrumental version)
+2012-09-01 10:54:15,R&B,324093,9,false,Why You Wanna Trip On Me
+2012-11-05 13:50:02,R&B,339600,11,false,Jam
+2012-07-14 12:09:33,Traditional,288640,4,false,Polska Efter Gällsbo-Jonas
+2012-12-09 16:11:07,Traditional,213880,6,false,Er Framtid Blive Lyckelig
+2012-09-23 12:45:19,none,318000,2,false,Priscilla Queen of The Desert on Broadway- Hot Stuff (LIVE)
+2012-12-03 07:34:44,R&B,391573,10,false,In The Closet
+2012-06-17 06:08:17,none,220270,3,false,Priscilla Queen of the Desert  on Today1.MP4
+2012-11-27 11:05:13,Rock,242200,4,false,アンタレスと針
+2012-03-30 14:29:18,Rock,42400,4,false,RL
+2012-11-27 10:51:51,Rock,250626,11,false,アイデンティティ
+2012-11-27 10:55:49,Rock,238466,7,false,モノクロトウキョー
+2012-11-27 11:01:11,Rock,321773,7,false,ルーキー
+2012-09-01 09:40:54,Pop,253360,10,false,I've Got To See You Again
+2012-11-27 11:26:24,Soundtrack,138626,2,false,Move (Highlights Version)
+2012-11-27 11:24:05,Rock,286933,7,false,ドキュメント
+2012-11-27 11:19:19,Rock,263866,4,false,years
+2012-11-18 13:29:08,Pop,280560,6,false,Winterland
+2012-11-18 13:24:28,Pop,250546,8,false,I Could Be
+2012-11-18 13:34:03,Pop,294933,9,false,sing sing
+2012-12-09 15:13:56,Traditional,437426,14,false,Reza
+2012-12-09 15:06:38,Traditional,188640,14,false,Deixa Isso Pra La
+2012-12-09 15:03:29,Traditional,332333,12,false,Arrastao
+2012-12-09 14:57:57,Traditional,320293,13,false,Inssensatez
+2012-12-09 14:52:37,Traditional,187400,11,false,Soul Samba
+2012-12-08 15:50:30,Rock,349280,7,false,才能あるよ
+2012-07-16 06:01:24,Pop,252546,4,false,Heavy Metal Lover
+2012-09-01 10:40:10,Indie Rock,164360,8,false,Bourgeois Shangri-La (Single Version)
+2012-09-01 10:43:12,Indie Rock,181466,6,false,I Heard Of A Girl (Acoustic Version)
+2012-09-01 10:32:44,Indie Rock,192080,9,false,The Boy In The Fancy Suit
+2012-09-01 10:37:26,Indie Rock,281880,5,false,Stupid Girl
+2012-03-30 11:38:04,Dance & House,249653,2,false,ポリリズム
+2012-12-08 17:55:24,Pop,269466,10,false,La Fée (Live Version)
+2012-11-12 17:25:56,Pop,240666,22,false,Hole In My Heart (All The Way To China)
+2012-11-05 12:37:58,R&B／ソウル,233773,5,false,Hot Stuff (Single Version)
+2012-12-05 09:23:56,Rock,303786,6,false,城
+2012-12-04 13:11:12,Pop,213000,9,false,Home
+2012-10-30 00:12:54,Pop,241506,9,false,Beautiful
+2012-12-04 13:15:46,Pop,266533,6,false,Total Eclipse Of The Heart
+2012-10-30 00:19:47,Pop,200120,6,false,Physical
+2012-08-31 13:19:53,Traditional,256986,5,false,Alili
+2012-12-04 13:18:34,Pop,167800,8,false,Lady Is A Tramp
+never,none,313613,0,false,トラック 02
+2012-08-22 15:59:26,none,302760,1,false,トラック 03
+2012-08-22 16:03:49,none,262480,1,false,トラック 04
+2012-08-25 10:13:38,Traditional,190013,3,false,007(James Bond Theme)
+2012-08-22 16:09:31,none,342826,1,false,トラック 05
+2012-08-22 16:13:34,none,242253,1,false,トラック 06
+2012-11-05 06:57:28,Soundtrack,221666,5,false,I'll Cover You (Reprise)
+2012-08-20 12:11:40,Children's,223693,10,false,輝く未来
+2012-11-05 06:53:46,Soundtrack,256746,6,false,Without You
+2012-11-05 07:04:03,Soundtrack,154866,5,false,Finale B
+2012-12-03 07:58:05,R&B,255933,9,false,Black Or White
+2012-11-05 07:01:28,Soundtrack,240053,5,false,What You Own
+2012-12-03 07:53:49,R&B,385000,10,false,Heal The World
+2012-12-03 07:47:24,R&B,298893,11,false,Can't Let Her Get Away
+2012-11-05 07:08:40,Soundtrack,276773,4,false,Love Heals
+2012-12-03 07:42:26,R&B,240240,11,false,Remember The Time
+2012-12-03 07:38:25,R&B,221693,9,false,She Drives Me Wild
+2012-12-05 09:03:50,none,202700,3,false,Priscilla_ Queen of The Desert- Material Girl- LIVE on Broadway
+2012-03-31 07:02:38,Pop,212840,3,false,マイ・プライヴェート・アイダホ
+2012-03-30 15:43:34,Pop,292933,3,false,クライマー・クライマー
+2012-03-30 18:37:12,Pop,248266,3,false,ひみつ
+2012-03-31 03:39:41,Pop,236986,3,false,Wild Ladies
+2012-03-31 11:01:12,Pop,295013,5,false,2人のストーリー
+2012-12-08 17:11:50,Pop,213400,9,false,Les Passants
+2012-12-07 17:54:14,Rock,187373,10,false,Here Comes The Sun
+2012-12-07 17:51:07,Rock,201133,11,false,Old Brown Shoe
+2012-08-22 19:22:40,Pop,216293,5,false,Black Jesus + Amen Fashion
+2012-07-03 18:05:40,Rock,183800,9,false,Something
+2012-07-03 18:02:36,Rock,259666,9,false,Come Together
+2012-07-16 05:37:45,Pop,225466,6,false,Scheiße
+2012-08-22 19:19:03,Pop,244760,6,false,Bloody Mary
+2012-07-03 18:08:32,Rock,172333,10,false,Octopus's Garden
+2012-08-22 19:08:19,Pop,246493,8,false,Americano
+2012-08-22 19:13:28,Pop,308053,6,false,Hair
+2012-07-14 07:39:46,Rock,169133,14,false,Magical Mystery Tour
+2012-09-14 05:05:26,Religious,148133,7,false,Ball Of Confusion (That's What The World Is Today)
+2012-12-09 14:20:32,Religious,270533,6,false,His Eye Is On The Sparrow
+2012-09-14 04:58:59,Religious,201293,4,false,Get Up Offa That Thing _ Dancing In The Street
+2012-09-14 05:02:58,Religious,239373,9,false,Oh Happy Day
+2012-12-09 14:24:37,Religious,245360,8,false,A Deeper Love
+never,Soundtrack,243053,0,false,Nathaniel And Pip
+2012-12-08 16:03:31,Soundtrack,228413,21,false,So Close
+2012-06-20 01:19:17,Rock,166760,8,false,Back In The USSR
+2012-03-30 13:14:47,Indie Rock,319360,4,false,Amsterdam
+never,Soundtrack,244706,0,false,I Am Changing
+2012-03-30 12:39:44,Indie Rock,223040,4,false,Green Eyes
+2012-03-30 22:47:04,Indie Rock,331133,5,false,Warning Sign
+2012-03-30 11:11:25,Pop,287386,8,false,ボーイフレンド
+2012-03-31 08:11:05,Indie Rock,351400,3,false,A Rush Of Blood To The Head
+2012-09-03 18:40:56,Soundtrack,212600,5,false,No Good Deed
+2012-03-30 11:18:46,Pop,238480,3,false,えりあし
+2012-03-30 13:59:35,Pop,268053,5,false,桜の時
+2012-03-31 04:40:53,Rock,192026,4,false,アフターダーク
+2012-03-30 12:22:27,Rock,77493,3,false,ワールド ワールド ワールド
+2012-11-05 13:35:36,Rock,169413,5,false,旅立つ君へ
+2012-07-03 11:14:22,Soundtrack,130520,2,false,歌ってお仕事 (日本語歌)
+2012-12-08 15:55:53,Soundtrack,130480,19,false,Happy Working Song
+2012-07-03 11:18:13,Soundtrack,230786,2,false,想いを伝えて (日本語歌)
+never,Soundtrack,191546,0,false,That's Amore
+2012-11-06 16:23:40,Soundtrack,220440,3,false,Listen
+2012-07-03 11:12:12,Soundtrack,192973,2,false,真実の愛のキス (日本語歌)
+2012-12-04 06:31:31,Latin,178400,6,false,Je Sais
+2012-03-30 19:29:36,Dance & House,281053,4,false,Baby cruising Love
+2012-12-04 06:35:44,Latin,253666,6,false,Temps Pour Temps
+2012-03-30 23:38:14,Dance & House,226213,5,false,チョコレイト・ディスコ
+2012-12-04 06:25:40,Latin,216466,7,false,Être Un Femme
+2012-03-30 09:37:04,Dance & House,275946,2,false,plastic smile
+2012-12-04 06:28:32,Latin,171693,7,false,Mwen Te Lew Present
+2012-03-30 20:19:00,Dance & House,306706,5,false,GAME
+2012-11-13 17:04:00,Electronica,243373,2,false,Það Sést Ekki Sætari Mey
+2012-11-13 16:59:57,Electronica,205200,2,false,Litli Tónlistarmaðurinn
+2012-12-04 06:38:32,Latin,167373,6,false,Tudo Pa Bo
+2012-03-31 11:18:56,Dance & House,279440,3,false,マカロニ
+2012-11-17 11:57:03,Electronica,166200,2,false,Ástartöfrar
+2012-11-09 06:17:51,ポップ,249319,5,false,Finally (7" Choice Mix)
+2012-11-18 15:51:26,Rock,236826,7,false,Back At Your Door
+never,Soundtrack,190026,0,false,One Night Only (Disco)
+2012-11-18 15:00:39,Rock,243626,6,false,Not Falling Apart
+2012-11-18 14:56:35,Rock,243320,7,false,Goodnight Goodnight
+2012-11-18 15:07:20,Rock,186306,8,false,Better That We Break
+2012-11-18 15:04:14,Rock,214546,8,false,Kiwi
+2012-07-14 12:59:57,Pop,252866,22,false,I Drove All Night
+2012-07-16 07:25:46,Soundtrack,180866,2,false,Show Me How You Burlesque (Christina Aguilera)
+2012-07-16 07:29:18,Soundtrack,212293,2,false,The Beautiful People (Christina Aguilera)
+2012-08-31 13:44:07,Traditional,266293,6,false,Lume Lume
+2012-04-25 16:00:11,none,56993,6,true,クラブ・ポーリー
+2012-04-25 14:47:48,none,106243,6,true,ポーリー適当
+2012-04-25 14:50:15,none,147696,3,true,13-1 ちょっぴりオツムに、ちょっぴりハートに　１
+2012-08-31 13:31:47,Traditional,232253,5,false,Ma Maren Ma
+2012-08-31 13:27:54,Traditional,264373,5,false,Caravan
+2012-04-11 12:25:43,Soundtrack,170533,1,false,Love You I Do
+2012-08-31 13:35:43,Traditional,236413,5,false,Hora Arabeasca
+2012-03-30 14:55:18,Rock,188533,2,true,Peach Time
+2012-09-08 07:46:40,Rock,258026,3,false,どぉなっちゃってんだよ
+2012-04-20 18:50:44,Pop,284973,5,false,One Less Bell To Answer _ A House Is Not A Home
+2012-03-30 08:01:47,Rock,252000,2,false,あの娘ぼくがロングシュート決めたらどんな顔するだろう
+2012-03-30 10:40:53,Rock,310733,2,false,カルアミルク
+2012-11-05 14:09:12,Rock,209666,13,false,Lucy In The Sky With Diamonds
+2012-03-30 16:40:11,Rock,336706,1,true,ターザン ボーイ
+2012-11-12 17:01:42,Rock,164186,14,false,With A Little Help From My Friends
+2012-08-04 05:35:20,Pop,211333,7,false,Hello_ Goodbye
+2012-04-20 18:45:59,Pop,177173,8,false,A House Is Not A Home
+2012-03-31 10:39:56,Pop,207720,7,false,Hello
+2012-12-09 15:38:16,Traditional,125626,6,false,N'lars Och N'Mas
+2012-12-08 15:39:54,Rock,248880,6,false,むくみ
+2012-12-09 15:40:49,Traditional,152373,5,false,Gammal Halling
+2012-07-16 08:09:48,Pop,223946,5,false,BLACK OUT
+2012-12-09 15:44:00,Traditional,191213,5,false,Den Blomsertid Nu Kommer
+2012-12-09 15:47:22,Traditional,202546,5,false,Värmlandsvisan
+2012-07-16 08:02:40,Pop,255200,4,false,FAKE
+2012-12-09 15:51:04,Traditional,221280,4,false,Polska Efter Dahlgren
+2012-07-16 08:06:04,Pop,203733,2,false,#1
+2012-04-15 15:44:35,Pop,231773,22,false,Hey Now (Girls Just Want To Have Fun)
+2012-07-16 07:54:18,Pop,288653,4,false,Wet'N Wild
+2012-07-16 07:58:25,Pop,247386,6,false,Do or Die
+2012-09-10 16:46:56,Soundtrack,199933,35,false,Dreamgirls
+2012-08-21 17:59:08,Latin,139160,1,false,Don't Even Touch
+2012-07-17 22:40:32,Children's,122106,5,false,プロローグ
+2012-03-31 10:07:12,Rock,303160,4,true,キミノトモダチ
+2012-03-30 19:51:57,Rock,233986,4,true,Letter
+2012-03-30 23:01:11,Rock,279333,3,true,Shine
+2012-03-31 02:20:05,Rock,282840,4,true,春色グラフィティー
+2012-11-13 17:06:41,Electronica,160733,2,false,Bílavísur
+2012-03-31 09:01:05,Rock,338960,3,true,『あ』『い』をあつめて
+2012-12-08 18:45:49,Rock,323240,136,false,MacAuthur Park
+2012-12-08 18:40:26,Rock,153800,192,false,Hot Stuff
+never,none,864284,0,false,Muscles & Mascara with Nick Adams- Episode 8
+2012-12-08 18:37:52,Rock,146560,168,false,Girls Just Want To Have Fun
+2012-12-08 18:35:26,Rock,56760,135,false,A Fine Romance (Reprise)
+2012-08-31 07:33:41,none,82516,3,false,Nick Adams sings Like A Prayer on Seth Rudetskys Show 4_20_11
+2012-09-12 16:50:22,none,203975,5,false,Priscilla Queen of the Desert Tony Award Performance
+never,none,841316,0,false,Muscles & Mascara with Nick Adams- Episode 2
+2012-08-16 07:01:33,Pop,249066,7,false,Judas
+2012-06-02 20:29:25,none,725379,1,false,Muscles & Mascara with Nick Adams- Episode 4
+2012-12-08 18:47:27,Rock,98333,140,false,Always On My Mind_I Say A Little Prayer
+2012-11-17 11:59:43,Electronica,160066,2,false,Bella Símamær
+2012-11-12 17:42:46,Rock,181706,3,false,天国へようこそ
+2012-12-08 18:25:07,Rock,177146,168,false,Color My World
+2012-09-12 16:34:42,Children's,171360,5,false,Flynn Wanted
+2012-11-27 11:14:55,Rock,240626,4,false,『バッハの旋律を夜に聴いたせいです。』
+2012-03-30 10:45:01,Rock,248066,3,false,DocumentaRy
+2012-11-12 17:18:57,Rock,227573,8,false,エンドレス
+2012-03-30 23:20:48,Rock,365733,3,false,流線
+2012-11-27 11:08:49,Rock,215400,6,false,仮面の街
+2012-08-11 07:54:15,Children's,116946,3,false,Horse With No Rider
+2012-11-18 13:39:57,Pop,354186,9,false,Here To Stay
+2012-11-18 13:44:49,Pop,291626,7,false,Voodoo
+2012-11-18 13:50:24,Pop,334853,8,false,君は雨
+2012-11-18 13:56:01,Pop,337733,9,false,Emerald
+2012-11-18 14:00:15,Pop,253946,10,false,Everyday
+2012-12-08 18:19:29,Rock,165706,185,false,True Colors
+2012-12-08 18:34:29,Rock,132173,141,false,Pop Muzik
+2012-08-11 07:59:35,Children's,201666,3,false,Campfire
+2012-12-09 14:49:29,Traditional,461840,10,false,Eu Nao Quero Nem Saber
+2012-08-31 14:03:42,Traditional,241000,6,false,Ibrahim
+never,Soundtrack,178240,0,false,One Night Only (Highlights Version)
+2012-08-31 14:06:28,Traditional,166146,6,false,Rumbada De La Lasi
+2012-08-25 11:08:37,Traditional,246773,5,false,Alili (Radio Version)
+2012-06-02 20:03:23,none,846095,1,false,Muscles & Mascara with Nick Adams- Episode 6
+2012-08-25 11:15:42,Traditional,424933,4,false,Golden Days (Jazztronik Remix)
+2012-03-31 00:21:06,Pop,317666,6,false,カブトムシ
+2012-03-30 11:06:37,Pop,257506,8,false,milk
+2012-03-30 23:29:22,Dance & House,272706,2,false,Puppy love
+2012-03-31 02:57:09,Pop,341266,6,false,赤いランプ
+2012-03-31 03:35:44,Pop,280760,8,false,花火
+2012-09-01 10:29:32,Indie Rock,270280,10,false,A Daughter Or A Son
+2012-12-08 18:16:44,Rock,229453,169,false,I Love The Nightlife
+2012-09-01 10:18:27,Indie Rock,208053,11,false,Is This The End
+2012-09-01 10:14:59,Indie Rock,214333,10,false,Polythene Queen
+2012-09-01 10:25:02,Indie Rock,225213,9,false,Stuck In The Sand
+2012-09-01 10:21:17,Indie Rock,169706,11,false,Dancing The Whole Way Home
+2012-04-30 12:34:26,none,33279,5,true,カーテンコール
+2012-12-08 18:06:41,Rock,157400,221,false,Material Girl
+2012-12-08 18:04:04,Rock,140360,155,false,Don't Leave Me This Way
+2012-12-08 18:01:44,Rock,103986,154,false,What's Love Got To Do With It
+2012-12-08 18:00:00,Rock,184920,164,false,It's Raining Men
+2012-12-08 17:56:55,Rock,68693,126,false,Overture
+never,none,403520,0,false,トラック 01
+2012-04-25 19:34:30,none,136962,23,false,Wellcome to Club Polly!!　序曲〜１番
+2012-08-21 18:03:43,Latin,275173,1,false,Ou Nice
+2012-12-04 07:15:59,Latin,266066,2,false,The Deal Yo
+2012-08-21 17:56:49,Latin,161800,1,false,Bye Bye Baby
+2012-12-08 18:30:54,Rock,142306,148,false,A Fine Romance
+2012-12-08 18:32:17,Rock,82386,147,false,Shake Your Grove Thing
+2012-07-09 09:51:12,Soundtrack,100533,3,false,Something Bad
+2012-12-03 08:27:10,R&B,203066,10,false,Gone Too Soon
+2012-12-08 18:28:32,Rock,204773,179,false,I Will Survive
+2012-07-09 09:45:57,Soundtrack,311346,3,false,The Wizard And I
+2012-12-03 08:17:50,R&B,460640,10,false,Will You Be There
+2012-07-09 09:49:31,Soundtrack,213880,3,false,What Is This Feeling?
+2012-12-03 08:23:47,R&B,357133,10,false,Keep The Faith
+2012-11-05 13:29:44,Soundtrack,401253,5,false,No One Mourns The Wicked
+2012-12-03 08:04:40,R&B,394666,10,false,Who Is It
+2012-07-09 09:40:46,Soundtrack,87680,4,false,Dear Old Shiz
+2012-12-03 08:10:09,R&B,329266,9,false,Give In To Me
+2012-12-08 17:33:13,Pop,211680,11,false,Ni Oui Ni Non
+2012-12-08 17:15:29,Pop,219000,9,false,Je Veux
+2012-12-08 17:19:06,Pop,217226,12,false,Le Long De La Route
+2012-12-08 17:36:09,Pop,176333,10,false,Port Coton
+2012-12-08 17:22:00,Pop,173426,10,false,La Fée
+never,none,534535,0,false,Muscles & Mascara with Nick Adams- Episode 16
+2012-12-08 17:26:00,Pop,239920,10,false,Trop Sensible
+2012-12-08 17:29:41,Pop,221320,10,false,Prends Garde À Tq Langue
+2012-12-08 17:40:00,Pop,230600,11,false,J'aime À Nouveau
+2012-07-03 17:48:47,Rock,215733,9,false,Don't Let Me Down
+2012-07-16 07:22:45,Soundtrack,265093,2,false,Bound To You (Christina Aguilera)
+2012-07-03 17:45:11,Rock,192666,10,false,Get Back
+2012-07-03 17:41:58,Rock,191386,11,false,Ob-La-Di_ Ob-La-Da
+2012-07-03 17:38:47,Rock,286840,9,false,While My Guitar Gently Weeps
+2012-07-16 07:07:43,Soundtrack,150853,3,false,But I Am A Good Girl (Christina Aguilera)
+2012-12-07 08:11:42,Soundtrack,164146,4,false,Guy What Takes His Time (Christina Aguilera)
+2012-07-16 07:14:49,Soundtrack,261800,3,false,Express (Christina Aguilera)
+2012-12-07 17:47:46,Rock,181066,10,false,The Ballad Of John And Yoko
+2012-07-16 07:18:20,Soundtrack,211120,2,false,You Haven't Seen The Last Of Me (Cher)
+never,Soundtrack,101293,0,false,Girls Go Shopping
+2012-09-14 04:55:37,Religious,282733,5,false,Never Should've Let You Go
+2012-08-04 06:00:58,Soundtrack,644066,1,false,Storybook Ending
+never,Soundtrack,93680,0,false,Narissa Arrives
+2012-03-31 09:24:17,Rock,192253,3,true,『あ』『い』をあつめて (Piano Instrumental version)
+2012-03-30 20:10:19,Rock,136746,3,true,Letter (Piano Instrumental version)
+2012-09-14 04:50:55,Religious,243933,6,false,The Greatest Medley Ever Told
+2012-03-31 03:05:04,Rock,197946,2,true,希望の灯 (Piano Instrumental version)
+never,none,596664,0,false,Muscles & Mascara with Nick Adams- Episode 18
+2012-04-06 08:59:34,Pop,308360,9,false,キラキラ
+2012-08-09 10:55:26,Children's,350680,4,false,Realization And Escape
+2012-08-11 08:06:49,Children's,126546,5,false,Return To Mother
+2012-03-30 07:51:46,Indie Rock,327800,3,false,Daylight
+2012-08-11 08:04:43,Children's,167693,6,false,Waiting For The Lights
+2012-09-10 16:53:14,Soundtrack,157626,16,false,Hard To Say Goodbye
+2012-08-11 08:01:55,Children's,140413,5,false,Kingdom Dance
+2012-04-06 08:54:26,Pop,290853,15,false,アンドロメダ
+2012-03-30 13:25:25,Indie Rock,307466,3,false,Clocks
+2012-11-05 07:17:47,Indie Rock,228733,6,false,In My Place
+never,none,756089,0,false,Muscles & Mascara with Nick Adams- Episode 15
+2012-11-05 07:22:44,Indie Rock,297306,6,false,God Put A Smile Upon Your Face
+2012-07-14 05:15:24,Children's,457693,3,false,The Tear Heals
+2012-12-08 17:47:24,Pop,164360,10,false,Éblouie Par La Nuit
+2012-09-08 11:53:59,Pop,254266,10,false,Government Hooker
+2012-03-30 19:48:04,Rock,181600,3,false,ナイトダイビング
+2012-03-30 12:36:01,Rock,212906,4,false,No.9
+2012-03-31 06:59:06,Rock,246680,3,false,トラベログ
+2012-03-30 07:25:12,Rock,283106,4,false,ネオテニー
+2012-03-30 20:27:34,Rock,231666,3,false,ライカ
+2012-08-31 13:39:40,Traditional,237253,6,false,Golden Days
+never,Soundtrack,144346,0,false,Prince Edward's Search
+never,Soundtrack,192026,0,false,I Meant You No Harm _ Jimmy's Rap
+2012-11-18 13:16:36,Electronica,246640,2,false,Ruby Baby
+2012-10-15 00:49:03,Jazz,247733,8,false,Asa Branca
+2012-10-15 00:53:43,Jazz,280626,8,false,Estrada Do Sol
+2012-10-15 00:58:56,Jazz,312666,8,false,Mulher Rendeira
+2012-10-15 01:04:16,Jazz,320466,7,false,Garota De Ipanema
+2012-10-31 14:11:48,Electronica,213266,1,false,Tondeleyo
+2012-12-04 06:22:04,Latin,218400,7,false,Fiona
+2012-12-03 06:46:33,Electronica,185693,3,false,Ég Veit Ei Hvad Skal Segja
+2012-12-03 06:49:01,Electronica,148066,3,false,Í Dansi Með Þér
+2012-11-18 13:12:30,Electronica,170133,2,false,Börnin Vid Tjörnina
+2012-09-01 10:02:22,Indie Rock,169373,12,false,Bourgeois Shangri-La
+2012-08-09 09:47:00,Rock,152800,7,false,Can't Stop
+2012-03-30 23:12:14,Rock,428493,1,true,真夜中のサイクリング
+never,Soundtrack,275746,0,false,Enchanted Suite
+2012-09-01 10:08:10,Indie Rock,182920,13,false,Dirty Old Man
+2012-09-01 10:05:07,Indie Rock,165546,12,false,I Heard Of A Girl
+2012-11-18 14:31:07,Rock,137066,8,false,Little Of Your Time
+2012-09-01 10:11:25,Indie Rock,194480,9,false,True Love Stalker
+2012-11-18 14:34:28,Rock,201306,5,false,Wake Up Call
+2012-11-18 14:38:19,Rock,231173,7,false,Won't Go Home Without You
+2012-11-18 14:41:27,Rock,187920,9,false,Nothing Lasts Forever
+2012-08-31 13:54:55,Traditional,262226,6,false,Hora Evreiasca
+2012-08-31 13:55:14,Traditional,19680,6,false,Time Out
+2012-08-31 13:47:05,Traditional,178600,6,false,Sandala
+2012-08-31 13:50:32,Traditional,207173,6,false,Moldavian Mood
+2012-03-30 10:26:21,Pop,208293,6,false,Gives You Hell
+2012-08-31 13:59:41,Traditional,266426,6,false,Godzila
+2012-04-25 19:59:46,none,347004,4,true,クラブ・ポーリー２番　オケ
+2012-03-31 05:30:07,Jazz,44560,1,false,ワシントンポストマーチ
+2012-03-30 17:07:49,Jazz,405733,1,false,悪漢
+2012-07-10 09:19:35,Rock,122133,9,false,Sgt. Pepper's Lonely Hearts Club Band
+2012-03-30 10:14:56,Jazz,454200,1,false,火男
+2012-03-31 11:14:17,Jazz,580240,3,false,Pチャン
+2012-11-09 06:21:40,ポップ,228653,248,false,I've Never Been to Me (Remixed Single w_Dialogue)
+2012-09-12 15:21:37,Soundtrack,101693,6,false,Finale
+2012-12-01 04:23:36,Soundtrack,309653,9,false,For Good
+2012-03-31 05:29:22,Jazz,441373,1,false,ひこーき
+2012-06-02 17:11:25,Soundtrack,92826,4,false,March Of The Witch Hunters
+2012-07-03 11:29:10,Rock,181600,9,false,Penny Lane
+2012-03-30 20:37:28,Rock,239440,2,true,ラブ タンバリン
+2012-03-31 01:07:28,Rock,226266,1,true,だいすき
+2012-03-30 15:25:39,Rock,461733,2,true,聖書(バイブル)
+2012-03-31 01:12:10,Rock,282733,1,true,Super Girl
+2012-07-03 11:26:08,Rock,248933,9,false,Strawberry Fields Forever
+2012-11-18 13:20:17,Electronica,220800,2,false,I Can't Help Loving That Man
+2012-03-30 09:27:24,Rock,207666,2,true,友人のふり
+2012-10-19 16:47:24,R&B,245346,11,false,Human Nature
+2012-11-30 02:57:57,Soundtrack,181586,6,false,I'm Not That Girl
+2012-10-19 16:52:43,R&B,319720,10,false,We Are The World
+2012-11-30 03:01:02,Soundtrack,184986,6,false,One Short Day
+2012-03-31 07:41:46,R&B,271146,9,false,Heal The World (7''Edit)
+2012-11-30 02:51:10,Soundtrack,457653,4,false,Dancing Through Life
+2012-03-30 11:14:48,R&B,203466,7,false,Rock With You
+2012-11-30 02:54:56,Soundtrack,225600,7,false,Popular
+2012-11-05 14:15:01,Pop,227160,29,false,True Colors
+2012-07-14 12:55:45,Pop,231306,23,false,What's Going On
+2012-11-05 14:05:42,R&B,235600,8,false,Say Say Say
+2012-11-30 03:02:19,Soundtrack,77373,7,false,A Sentimental Man
+2012-08-21 13:20:06,Pop,264173,24,false,Change Of Heart
+2012-07-14 13:04:23,Pop,265666,24,false,The World Is Stone
+2012-04-15 15:40:44,Pop,225826,22,false,Sally's Pigeons
+2012-09-01 09:59:32,Pop,162306,10,false,What Am I To You
+2012-11-27 11:30:18,Soundtrack,234266,2,false,Fake Your Way To The Top
+2012-09-01 09:46:42,Pop,185733,8,false,One Flight Down
+2012-09-01 09:50:54,Pop,252200,11,false,Nightingale
+2012-04-15 15:36:58,Pop,258933,22,false,That's What I Think
+2012-09-01 09:53:39,Pop,164800,12,false,The Long Day Is Over
+2012-09-01 09:56:50,Pop,191226,12,false,The Nearness Of You
+2012-12-08 18:48:39,Rock,71146,155,false,Like A Prayer
+2012-12-09 16:56:01,Rock,248600,8,false,よみがえり
+2012-12-08 18:50:53,Rock,134920,145,false,We Belong
+2012-11-22 22:36:16,Rock,233466,7,false,女の子は誰でも
+2012-12-08 18:55:10,Rock,256586,146,false,Finale
+2012-12-08 18:58:13,Soundtrack,182746,22,false,Seasons Of Love
+2012-12-08 19:02:12,Soundtrack,239306,10,false,Rent
+2012-11-22 22:25:56,Rock,211080,5,false,かつては男と女
+2012-11-30 23:46:14,Rock,202640,16,false,21世紀宇宙の子
+2012-11-22 22:32:23,Rock,156893,4,false,風に肖って行け
+2012-04-30 12:26:10,none,137212,8,true,一番　確定稿
+2012-12-06 10:44:41,Rock,229480,5,false,空が鳴っている
+2012-10-31 13:43:37,Electronica,243400,1,false,Luktar-Gvendur
+2012-12-08 15:35:45,Rock,298213,7,false,毛モーショナル
+2012-12-08 15:44:41,Rock,286426,6,false,ピラミッド
+2012-10-31 13:39:33,Electronica,162160,1,false,Gling Gló
+never,Soundtrack,220906,0,false,It's All Over (Highlights Version)
+2012-12-08 15:30:47,Rock,329706,8,false,はやりやまい
+2012-09-08 11:20:21,Pop,315133,9,false,Eyé Àdabà
+2012-04-25 14:41:35,none,110830,17,true,ポーリー２番　メロディー付き伴奏
+2012-09-08 11:15:06,Pop,280413,10,false,Fire On The Mountain
+2012-10-31 13:49:18,Electronica,162733,1,false,Pabbi Minn
+2012-09-08 11:10:25,Pop,282920,9,false,Subway
+2012-09-08 11:05:42,Pop,255226,9,false,Bi'ban Ké
+2012-09-08 11:01:27,Pop,212706,8,false,360°
+2012-11-12 17:21:56,Electronica,178840,2,false,Kata Rokkar
+2012-07-14 12:43:42,Pop,269600,23,false,All Through The Night
+2012-07-16 08:19:07,Pop,315160,5,false,Luvotomy
+2012-07-16 08:13:52,Pop,243893,10,false,BLACK DIAMOND
+2012-07-16 08:27:23,Pop,189440,4,false,Want Me_ Want Me
+2012-07-16 08:24:13,Pop,306240,3,false,AFTER PARTY
+2012-11-05 13:00:20,Pop,247800,11,false,Jailer
+2012-11-27 11:32:41,Soundtrack,142653,2,false,Cadillac Car

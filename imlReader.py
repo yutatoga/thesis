@@ -81,6 +81,8 @@ countSuccess_trackName = 0
 countFail_trackName = 0
 countSuccess_disabled = 0
 countFail_disabled = 0
+countSuccess_albumName = 0
+countFail_albumName = 0
 for i in tracks_keys:
 		#Total Time
 		try:
@@ -120,9 +122,10 @@ for i in tracks_keys:
 		#Name
 		try:
 			instantTrackName = tracks[i]["Name"]
-			instantTrackName =  instantTrackName.replace(",", '_') 
-			instantTrackName =  instantTrackName.replace("/", '_') 
-			instantTextGenre = instantTextGenre.replace("%", "_")
+			instantTrackName = instantTrackName.replace(",", '_') 
+			instantTrackName = instantTrackName.replace("/", '_') 
+			instantTrackName = instantTrackName.replace("%", "_")
+			instantTrackName = instantTrackName.replace("#", "_")
 			countSuccess_trackName += 1
 		except:
 			instantTrackName = "untitled"
@@ -136,9 +139,18 @@ for i in tracks_keys:
 		except:		
 			instantDisabled = "false"
 			countFail_disabled  += 1
+		try:
+			instantAlbumName = tracks[i]["Album"]
+			instantAlbumName =  instantAlbumName.replace(",", '_') 
+			#シャープ#があると、列がおかしくなったので、変換
+			instantAlbumName =  instantAlbumName.replace("#", '_') 
+			countSuccess_albumName += 1
+		except:
+			instantAlbumName = "album"
+			countFail_albumName += 1
 			
 		#区切り文字をコロンにして行列にしていく。
-		iml = iml + str(instantTextDate) + ',' + str(instantTextGenre) + ',' + str(instantTextTime) + ',' + str(instantTextPlayCount) + ',' + str(instantDisabled) + ',' + str(instantTrackName) + '\n'
+		iml = iml + str(instantTextDate) + ',' + str(instantTextGenre) + ',' + str(instantTextTime) + ',' + str(instantTextPlayCount) + ',' + str(instantDisabled) + ',' + str(instantTrackName)+ ','  + str(instantAlbumName)+ '\n'
 print "\nsuccess-totalTime:%d"% (countSuccess_totalTime)
 print "fail-totalTime:%d"%countFail_totalTime
 print "total-totalTIme:%d"%(countSuccess_totalTime+countFail_totalTime)
@@ -163,6 +175,9 @@ print "\nsuccess-playName:%d"%countSuccess_trackName
 print "fail-name:%d"%countFail_trackName
 print "total-name:%d"%(countSuccess_trackName+countFail_trackName)
 
+print  "\nsuccess-albumName:%d"%countSuccess_albumName
+print "fail-albumName:%d"%countFail_albumName
+print "total-albumName:%d"%(countSuccess_albumName+countFail_albumName)
 
 
 print "\ntotal:%d"%(len(tracks_keys))
@@ -170,6 +185,7 @@ print "\ntotal:%d"%(len(tracks_keys))
 
 #とりあえずこの時点のテキストファイルを書き出す。
 #pythonだけでもできるかもしれないけど、とりあえず、以降はRで1.時間とジャンルを統計で使いやすいようにする。2.t検定、多重比較を行うこととした。2012_06_09
+
 test_file = open('iml.txt', 'w')
 test_file.writelines(iml)
 test_file.flush()

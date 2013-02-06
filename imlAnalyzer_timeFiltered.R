@@ -227,7 +227,7 @@ write.csv(genreNameList, "genreNameList.csv")
 checkedIml = iml[iml[,5]=="false",]
 write.csv(sort(table(checkedIml[,2]), decreasing = T), "checkedImlGenreTable.csv")
 
-#最古お時刻と最新の時刻を書き出す。
+#最終の時刻と最新の時刻を書き出す。
 write.csv(c(as.character(sortedIml[1,1]), as.character(sortedIml[dim(sortedIml)[1],1])), "timeStamp_oldest_newest.csv")
 
 #最後まで完了
