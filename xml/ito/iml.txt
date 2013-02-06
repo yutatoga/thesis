@@ -1,0 +1,1400 @@
+2012-11-25 00:54:29,Alternative,382014,1,false,The Pot,10_000 Days
+never,Alternative,673828,0,false,10_000 Days (Wings Part 2),10_000 Days
+never,Alternative,371513,0,false,Wings For Marie (Part 1),10_000 Days
+2012-11-25 00:47:21,Alternative,448679,1,false,Jambi,10_000 Days
+2012-11-25 00:55:40,Alternative,71131,1,false,Lipan Conjuring,10_000 Days
+never,Metal,405577,0,false,Disappear,Greatest Hit (...And 21 Other Pretty Cool Songs) [Disc 2]
+never,Metal,315898,0,false,The Answer Lies Within,Greatest Hit (...And 21 Other Pretty Cool Songs) [Disc 2]
+never,Metal,268826,0,false,I Walk Beside You,Greatest Hit (...And 21 Other Pretty Cool Songs) [Disc 2]
+never,Metal,250618,0,false,Solitary Shell [Edited Version],Greatest Hit (...And 21 Other Pretty Cool Songs) [Disc 2]
+never,Metal,400013,0,false,The Spirit Carries On,Greatest Hit (...And 21 Other Pretty Cool Songs) [Disc 2]
+never,Reggae,403826,0,false,Turn Off The Heat~Free South Africa~Della Move,The Real Rock Reggae Sunsplash - DJ's Best Performances
+never,Pop,256783,0,false,Stop & ギミーラブ,BEAT EXPRESS Vol. 4 [Disc 2]
+never,Pop,239725,0,false,“聖書”,BEAT EXPRESS Vol. 4 [Disc 2]
+never,Pop,289567,0,false,気付いた時にはせつなくて,BEAT EXPRESS Vol. 4 [Disc 2]
+never,Pop,232411,0,false,CATCH,BEAT EXPRESS Vol. 4 [Disc 2]
+2012-10-20 11:03:29,none,95973,1,false,To my brain directly...!,DTM初心者コンピ/START LINE
+never,none,143934,0,false,無限ブーメラン,DTM初心者コンピ/START LINE
+never,none,234893,0,false,届かない思い～Vocaloid達の心～,DTM初心者コンピ/START LINE
+never,none,109348,0,false,選曲画面A2,DTM初心者コンピ/START LINE
+never,none,265377,0,false,Future Spring Festival (Beginner's Compiration MIX),DTM初心者コンピ/START LINE
+2012-11-30 01:38:02,Pop,270236,1,false,Baby_ Don't Worry,BEAT EXPRESS Vol. 4 [Disc 1]
+2012-11-30 01:24:52,Pop,226560,1,false,眠れない物語,BEAT EXPRESS Vol. 4 [Disc 1]
+2012-11-30 01:21:05,Pop,231575,1,false,素晴らしい僕ら,BEAT EXPRESS Vol. 4 [Disc 1]
+2012-11-30 01:33:31,Pop,220212,2,false,僕はここに立っているよ,BEAT EXPRESS Vol. 4 [Disc 1]
+2012-11-30 01:29:51,Pop,299572,1,false,ROCKIN' OVER THE WORLD,BEAT EXPRESS Vol. 4 [Disc 1]
+never,none,49266,0,false,01 Ｌｏｖｅｃａｌｌ　Ｆｒｏｍ　Ｔｈｅ　Ｗｏｒｌｄ,album
+2012-11-30 00:27:27,Pop,257097,1,false,Burning,2002 FIFA World Cup Official Album -Songs of KOREA/JAPAN- [Disc 2]
+never,none,155573,0,false,03 Ｉｎｖｉｔａｔｉｏｎ,album
+never,none,207893,0,false,02 Ｃｏｌｄ　Ｅｄｇｅ（Ａｌｂｕｍ　ｖｅｒ．）,album
+never,none,196266,0,false,04 ３０３１,album
+2011-08-10 11:17:05,Alternative,175098,1,false,Lying From You,Meteora
+2011-08-10 11:14:10,Alternative,213995,1,false,Somewhere I Belong,Meteora
+2012-06-19 02:19:11,Alternative,188029,34,false,Don't Stay,Meteora
+2011-09-15 08:10:13,Alternative,13923,3,false,Foreword,Meteora
+2011-08-10 11:19:49,Alternative,164205,1,false,Hit The Floor,Meteora
+2012-01-11 19:13:06,none,143830,1,false,What Was It You Said About Luck,album
+never,Soundtrack,116323,0,false,Brazilian Fire,beatmania IIDX 17 SIRIUS ORIGINAL SOUNDTRACK [Disc 1]
+2012-10-11 20:32:45,Soundtrack,115513,1,false,GALGALIM,beatmania IIDX 17 SIRIUS ORIGINAL SOUNDTRACK [Disc 1]
+2012-08-13 10:23:12,Soundtrack,122044,1,false,Sunrise,beatmania IIDX 17 SIRIUS ORIGINAL SOUNDTRACK [Disc 1]
+2012-11-26 21:49:38,Soundtrack,129750,1,false,with me...,beatmania IIDX 17 SIRIUS ORIGINAL SOUNDTRACK [Disc 1]
+never,Soundtrack,114311,0,false,Session 1 -Genesis-,beatmania IIDX 17 SIRIUS ORIGINAL SOUNDTRACK [Disc 1]
+2011-12-20 02:48:49,none,312084,2,false,Voodoo Child,album
+2011-12-20 02:51:10,none,141296,3,false,Little Wing,album
+2012-11-30 00:34:22,none,157178,6,false,Purple Haze (2nd Take),album
+2011-12-28 11:27:42,none,151118,4,false,Life Begins At Eighty piano ver.,album
+2011-12-20 02:15:12,none,481880,3,false,Layla,album
+2012-11-22 01:08:18,Soundtrack,133381,1,false,YAKSHA,beatmania IIDX 19 Resort Anthem ORIGINAL SOUNDTRACK [Disc 2]
+2011-09-15 09:05:42,Soundtrack,247823,1,false,輝いた,銀魂 Best 2
+never,Soundtrack,215275,0,false,Stairway Generation,銀魂 Best 2
+never,none,296349,0,false,2,富嶽祭2012音楽部発表
+never,Soundtrack,241371,0,false,ウォーアイニー,銀魂 Best 2
+2012-07-04 09:06:15,Soundtrack,234553,1,false,Light Infection,銀魂 Best 2
+2011-06-24 15:05:02,Rock,392411,2,false,am3:45,Inspiration is DEAD
+never,none,268534,0,false,5,富嶽祭2012音楽部発表
+2012-10-14 02:18:32,none,366341,32,false,Feel The Moment,album
+2012-05-22 07:15:44,none,240901,28,false,Get Your Cornered,album
+never,none,475428,0,false,サイケな恋人／モーモールルギャバン,album
+never,none,257044,0,false,モーモールルギャバン／ユキちゃんの遺伝子,album
+2012-04-16 02:42:24,none,229224,23,false,ONE OK ROCK 「アンサイズニア」,album
+never,Soundtrack,112692,0,false,Voxane,beatmania IIDX 19 Resort Anthem ORIGINAL SOUNDTRACK [Disc 2]
+2012-11-23 20:36:53,Soundtrack,123820,13,false,Follow Tomorrow,beatmania IIDX 19 Resort Anthem ORIGINAL SOUNDTRACK [Disc 2]
+2012-08-13 09:38:18,Soundtrack,114076,1,false,SA.YO.NA.RA. SUPER STAR,beatmania IIDX 19 Resort Anthem ORIGINAL SOUNDTRACK [Disc 1]
+never,Soundtrack,117028,0,false,DON'T WAKE ME FROM THE DREAM (2010 Summer Edition),beatmania IIDX 19 Resort Anthem ORIGINAL SOUNDTRACK [Disc 2]
+never,Soundtrack,123715,0,false,Release The Music,beatmania IIDX 19 Resort Anthem ORIGINAL SOUNDTRACK [Disc 2]
+2012-11-30 03:17:04,Metal,279902,3,false,Sulfur,All Hope Is Gone
+2012-11-30 03:12:24,Metal,363650,2,false,Gematria (The Killing Name),All Hope Is Gone
+2012-11-30 03:06:21,Metal,110680,2,false,.execute,All Hope Is Gone
+2011-06-21 12:40:27,Rock,284264,2,false,雨のブルース,Walls Is Beginning
+2011-06-21 12:35:42,Rock,296254,3,false,病気,Walls Is Beginning
+never,Indie Rock,223033,0,false,Sulk,The Bends
+never,Indie Rock,254458,0,false,Street Spirit (Fade Out),The Bends
+never,Indie Rock,208796,0,false,Bullet Proof...I Wish I Was,The Bends
+never,Indie Rock,247092,0,false,Black Star,The Bends
+2011-09-22 07:39:10,Indie Rock,284473,3,false,Airbag,OK Computer
+never,none,284943,0,false,【鏡音レン】ココロ・キセキ【手書きPV】,album
+never,none,1521946,0,false,【悪ﾉ×ｺｺﾛ】神PVをMAD風につなげて投ｺﾒしてみた。【改良版】,album
+never,none,262530,0,false,【ドラム】炉心融解とDon't_say__lazy_を混ぜてみた【叩いてみた】,album
+2012-10-13 16:38:41,none,336091,1,false,【鏡音リン】炉心融解【オリジナル】,album
+2012-10-11 16:05:47,none,282697,3,false,【鏡音リン】ココロ【手書きPV】,album
+2012-11-29 20:41:20,Electronica,279092,1,false,approach,[lust]
+never,Indie Rock,304901,0,false,True Love Waits,I Might Be Wrong: Live Recordings
+2012-07-04 09:09:48,none,212636,9,false,【巡音ルカ】secret【勝手にアニメPV】【HD】,album
+2012-07-04 07:40:48,Indie Rock,260048,1,false,Sit Down_ Stand Up (Snakes & Ladders),Hail To The Thief
+2012-07-04 07:45:06,Indie Rock,258429,1,false,Sail To The Moon (Brush The Cobwebs Of The Sky),Hail To The Thief
+2012-07-04 07:50:28,Indie Rock,322664,1,false,Backdrifts (Honeymoon Is Over),Hail To The Thief
+2012-11-29 20:32:14,Electronica,212897,1,false,after joy,[lust]
+never,Soundtrack,277237,0,false,VOLTEXES -Extended Mix-,SYNTHESIZED 4
+never,Soundtrack,313913,0,false,EPIC -Extended Mix-,SYNTHESIZED 4
+never,Soundtrack,288914,0,false,Need Your Love -SF_Dubstep Mix-,SYNTHESIZED 4
+never,Soundtrack,317440,0,false,New Beginning -Extended Mix-,SYNTHESIZED 4
+never,Indie Rock,240404,0,false,Packt Like Sardines In A Crushd Tin Box,Amnesiac
+2012-11-29 20:28:41,Electronica,411402,1,false,come here go there,[lust]
+2012-11-21 22:11:52,Soundtrack,319738,1,false,[E] -Extended Mix-,SYNTHESIZED 4
+never,Alternative,226324,0,false,Lost Keys (Blame Hofmann),10_000 Days
+never,Alternative,671425,0,false,Rosetta Stoned,10_000 Days
+never,Alternative,441312,0,false,Intension,10_000 Days
+never,Alternative,535875,0,false,Right In Two,10_000 Days
+2012-11-24 14:40:09,Alternative,302863,1,false,Viginti Tres,10_000 Days
+never,none,216467,0,false,4,富嶽祭2012音楽部発表
+never,Indie Rock,288809,0,false,Pyramid Song,Amnesiac
+never,Pop,281077,0,false,TONIGHT,BEAT EXPRESS Vol. 4 [Disc 2]
+never,Pop,284891,0,false,目を閉じておいでよ,BEAT EXPRESS Vol. 4 [Disc 2]
+never,Pop,337240,0,false,JUST ONE VICTORY,BEAT EXPRESS Vol. 4 [Disc 2]
+never,Pop,312058,0,false,あなたに会いたくて,BEAT EXPRESS Vol. 4 [Disc 2]
+never,Pop,280737,0,false,Dance If You Want It,BEAT EXPRESS Vol. 4 [Disc 2]
+never,none,210050,0,false,fallen-pm,DTM初心者コンピ/ADVANCE
+never,none,282462,0,false,ベートーヴェンをぶっとばせ,DTM初心者コンピ/ADVANCE
+never,none,181054,0,false,A.N.L. HARDCORE,DTM初心者コンピ/ADVANCE
+never,none,330527,0,false,Respect for・・・,DTM初心者コンピ/ADVANCE
+2012-10-20 11:16:35,none,157152,2,false,speedy chatchy,DTM初心者コンピ/ADVANCE
+2012-11-30 01:50:55,Pop,262556,1,false,For Your Love ～愛を守りたい～,BEAT EXPRESS Vol. 4 [Disc 1]
+2012-11-30 01:55:30,Pop,274912,1,false,I'M A LOSER,BEAT EXPRESS Vol. 4 [Disc 1]
+2012-11-30 01:42:18,Pop,256235,1,false,JET BOY,BEAT EXPRESS Vol. 4 [Disc 1]
+2012-11-30 01:46:33,Pop,254902,1,false,ティーンエイジ ドリーム,BEAT EXPRESS Vol. 4 [Disc 1]
+2012-11-30 02:00:00,Pop,270550,1,false,STAY THERE,BEAT EXPRESS Vol. 4 [Disc 1]
+2012-07-04 08:37:54,none,168306,1,false,09 キャンドルの灯を,album
+never,none,265200,0,false,07 光の雨が降る夜に,album
+never,none,222266,0,false,08 Ｆｉｎｄｅｒ,album
+never,none,208533,0,false,05 Ｂｌａｃｋ　Ｍａｒｋｅｔ　Ｂｌｕｅｓ（Ａｌｂｕｍ　Ｍｉｘ）,album
+2012-07-04 08:35:06,none,320000,1,false,06 命ノゼンマイ（Ａｌｂｕｍ　Ｍｉｘ）,album
+never,none,162690,0,false,darkblue,DTM初心者コンピ/ADVANCE
+2011-08-10 11:23:13,Alternative,204303,1,false,Easier To Run,Meteora
+never,none,521493,0,false,18,富嶽祭2012音楽部発表
+2011-08-10 11:29:13,Alternative,197590,2,false,Figure.09,Meteora
+2011-08-10 10:55:50,Alternative,196179,1,false,Breaking The Habit,Meteora
+never,none,232463,0,false,畔の旋律,DTM初心者コンピ/ADVANCE
+2011-08-10 10:58:45,Alternative,175595,2,false,From The Inside,Meteora
+never,none,153835,0,false,monochrome noise,DTM初心者コンピ/ADVANCE
+2012-11-29 23:38:16,none,160600,1,false,queer ray,DTM初心者コンピ/ADVANCE
+2012-11-30 02:35:19,none,288470,2,false,Springtime of life,DTM初心者コンピ/ADVANCE
+never,Soundtrack,117159,0,false,To the Future,beatmania IIDX 17 SIRIUS ORIGINAL SOUNDTRACK [Disc 1]
+never,Soundtrack,120424,0,false,Bad Maniacs,beatmania IIDX 17 SIRIUS ORIGINAL SOUNDTRACK [Disc 1]
+never,Soundtrack,104933,0,false,Light Shine,beatmania IIDX 17 SIRIUS ORIGINAL SOUNDTRACK [Disc 1]
+never,Soundtrack,117681,0,false,London Affairs Beckoned With Money Loved By Yellow Papers.,beatmania IIDX 17 SIRIUS ORIGINAL SOUNDTRACK [Disc 1]
+never,Soundtrack,114364,0,false,One of A Kind,beatmania IIDX 17 SIRIUS ORIGINAL SOUNDTRACK [Disc 1]
+2011-12-20 01:57:03,none,165276,4,false,復活祭のグレゴリオ聖歌　アレルヤ（Alleluja）　詩編150番,album
+2011-12-20 01:00:40,none,165746,2,false,Captain Beefheart & His Magic Band,album
+2011-12-25 08:09:13,none,209005,6,false,I'm Glad,album
+2011-12-20 02:26:47,none,178729,4,false,Sure 'nuff 'n Yes I do,album
+2011-12-20 00:15:46,none,310334,3,false,Belief,album
+never,none,226951,0,false,rei harakami - nijizou　にじぞう,album
+2011-06-21 15:46:45,none,234135,2,false,初音ミク－恋は戦争－うたってみたァｱアアアアアアｯ!!!【ピコ】,album
+2011-08-01 17:16:53,none,264411,1,false,恋は戦争 Love is war [vocaloid fandub RUS] Emnily,album
+2012-07-01 02:01:55,Metal,206393,1,false,5$ Bitchcore,Bury Me In Vegas [Bonus Track]
+2012-11-24 15:00:07,Metal,255007,1,false,Light The Skyline,Bury Me In Vegas [Bonus Track]
+2012-07-01 02:08:53,Metal,205505,1,false,Muffin Purper-Gurk,Bury Me In Vegas [Bonus Track]
+2012-07-01 02:05:27,Metal,212636,1,false,Transilvanian Cunthunger,Bury Me In Vegas [Bonus Track]
+2011-06-21 15:11:31,none,324963,2,false,《合唱》『炉心融解』を合わせてみました (1),album
+2012-07-01 02:13:05,Metal,251977,1,false,Snow Covered Polaroids,Bury Me In Vegas [Bonus Track]
+2012-11-29 23:42:29,none,252630,1,false,(｡･ｘ･)つ【ワールドイズマイン】を歌ってみた＠うさ【mp3もあるよ】,album
+2012-11-30 01:02:17,none,334524,2,false,炉心融解を歌ってみた　verよっぺい,album
+never,none,197590,0,false,êO¹Æ`Rîg@JIP_pinokiop_201110300314,album
+2012-11-30 03:04:30,none,327314,35,false,jubeat copious-SWEET CUBE _ plazma,album
+never,Soundtrack,103131,0,false,トルコ行進曲,jubeat copious ORIGINAL SOUNDTRACK
+2012-02-25 01:31:43,none,189962,1,false,【ニコカラ】アクアリウム【巡音ルカ】,album
+never,Soundtrack,107284,0,false,FRIENDSHIP,jubeat copious ORIGINAL SOUNDTRACK
+2012-11-30 04:50:26,Soundtrack,122671,2,false,CALL,beatmania IIDX 19 Resort Anthem ORIGINAL SOUNDTRACK [Disc 2]
+never,Soundtrack,116297,0,false,Snake Stick,beatmania IIDX 19 Resort Anthem ORIGINAL SOUNDTRACK [Disc 2]
+never,Soundtrack,120502,0,false,Star Trail,beatmania IIDX 19 Resort Anthem ORIGINAL SOUNDTRACK [Disc 2]
+never,Soundtrack,141583,0,false,Miami Sunset Drive,beatmania IIDX 19 Resort Anthem ORIGINAL SOUNDTRACK [Disc 2]
+never,Soundtrack,120058,0,false,LAX5,beatmania IIDX 19 Resort Anthem ORIGINAL SOUNDTRACK [Disc 2]
+never,Metal,415137,0,false,Gehenna,All Hope Is Gone
+2012-11-30 03:34:53,Metal,270706,3,false,Dead Memories,All Hope Is Gone
+2012-11-30 03:21:50,Metal,285936,3,false,Psychosocial,All Hope Is Gone
+2012-11-30 03:44:27,Metal,256731,1,false,Butcher's Hook,All Hope Is Gone
+2012-11-30 03:40:10,Metal,317622,1,false,Vendetta,All Hope Is Gone
+never,none,288992,0,false,悪ノ召使を歌ってみた　【おほし】,album
+2011-07-22 14:35:10,none,300512,4,false,Just Be Friends -Band Edition-　英語で歌ってみた／なっぱ,album
+2011-06-03 22:35:35,none,190955,1,false,【歌ってみた】　モザイクロール -english ver-　【yuki】,album
+2011-07-02 06:47:58,none,334053,2,false,【歌ってみた】炉心融解【titoce】,album
+2011-06-04 06:09:58,none,199993,2,false,【帰国した子女が】ローリンガールを洋楽っぽく歌ってみた。【ナノ】,album
+2012-07-04 08:12:12,Indie Rock,323657,1,false,There There (The Boney King Of Nowhere),Hail To The Thief
+2012-07-04 08:03:16,Indie Rock,296777,1,false,We Suck Young Blood (Your Time Is Up),Hail To The Thief
+2012-07-04 08:06:48,Indie Rock,212088,1,false,The Gloaming (Softly Open Our Mouths In The Cold),Hail To The Thief
+2012-07-04 07:53:50,Indie Rock,201560,1,false,Go To Sleep (Little Man Being Erased),Hail To The Thief
+2012-07-04 07:58:19,Indie Rock,269348,1,false,Where I End And You Begin (The Sky Is Falling In),Hail To The Thief
+never,Soundtrack,298971,0,false,Fever -2012 Extended Mix-,SYNTHESIZED 4
+never,Soundtrack,285283,0,false,SYNTHESIZED4,SYNTHESIZED 4
+never,Ambient,266448,0,false,August 31,SOUND 4 minute
+never,Hardcore,290977,0,false,With any luck,SOUND 4 minute
+never,Soundtrack,287555,0,false,ELECTRONIC,SYNTHESIZED 4
+2012-11-30 02:57:45,none,220682,1,false,台風17号@日本上陸中,DTM初心者コンピ/START LINE
+2012-10-20 11:23:52,none,149263,1,false,star blind... shooting star,DTM初心者コンピ/ADVANCE
+never,none,181368,0,false,睡眠導入ワルツ,DTM初心者コンピ/START LINE
+2012-11-30 00:50:49,none,108016,1,false,fwfw、わたあめ、恋心。,DTM初心者コンピ/START LINE
+never,none,73743,0,false,kagaribi,DTM初心者コンピ/START LINE
+never,none,297534,0,false,p-model　LIVE "SPEED TUBE" BITMAP(1979-1992),album
+never,none,334341,0,false,Exchange Groove (from the album "Hooray") 蓮沼執太,album
+never,none,278386,0,false,Rubedo（LIVE）,album
+2011-09-21 02:55:36,none,349962,1,false,Susumu Hirasawa -Aurora 3,album
+2012-05-12 07:01:13,none,320104,14,false,「幻想曲」　　中村天平,album
+never,none,543843,0,false,夢みる機械　サイボーグ　Live　【平沢進_Susumu Hirasawa】,album
+2011-09-21 03:05:28,none,127764,1,false,天平「フレイム」,album
+never,none,538462,0,false,Lotus (ロータス) 【LIVE】,album
+2011-09-22 07:31:09,none,298031,4,false,Speed Tube,album
+never,none,308558,0,false,Haldyn Hotel (LIVE1990),album
+never,none,501304,0,false,6,富嶽祭2012音楽部発表
+2012-11-30 00:02:23,Pop,291892,1,false,THE PLAYER'S CREED,2002 FIFA World Cup Official Album -Songs of KOREA/JAPAN- [Disc 2]
+never,Pop,265456,0,false,Go Steady Go!,2002 FIFA WORLD CUP TM OFFICIAL ALBUM ～SONGS OF KOREA / JAPAN～ [Disc 1]
+2011-10-23 13:36:33,Pop,272378,2,false,Fantasista,2002 FIFA WORLD CUP TM OFFICIAL ALBUM ～SONGS OF KOREA / JAPAN～ [Disc 1]
+never,Pop,309342,0,false,UNITED SOUL (World Mix),2002 FIFA WORLD CUP TM OFFICIAL ALBUM ～SONGS OF KOREA / JAPAN～ [Disc 1]
+2012-11-29 23:57:31,Pop,327549,1,false,Last Song,2002 FIFA World Cup Official Album -Songs of KOREA/JAPAN- [Disc 2]
+2012-10-11 14:08:41,none,269531,2,false,04 - Are U reAdy [Full],HARDCORE SENSATIONZ 2012
+2012-10-11 13:58:09,none,295026,2,false,01 - Rush to Summer,HARDCORE SENSATIONZ 2012
+2012-10-11 13:53:14,none,205662,1,false,Idiot Game,PELLMELLIZE VOL.1
+2012-10-11 14:04:11,none,180453,2,false,03 - Drone,HARDCORE SENSATIONZ 2012
+2012-10-11 14:01:11,none,182595,2,false,02 - DISCO DREAM,HARDCORE SENSATIONZ 2012
+2012-11-29 21:21:13,Rock,227683,1,false,Shock HAWAIIAN Shock,GALAXY
+2012-11-29 21:13:31,Rock,17841,1,false,eye catch:銀河の間,GALAXY
+2012-11-29 21:17:26,Rock,234919,1,false,メリメリ,GALAXY
+2012-10-11 14:56:33,Rock,357459,1,false,ハマのアンバサダー,GALAXY
+2012-11-29 21:13:13,Rock,302262,1,false,AMANOGAWA,GALAXY
+2012-11-30 02:38:02,none,162873,1,false,Walking,album
+2012-05-12 07:22:08,none,192287,24,false,Basket Case [Official Music Video],album
+2011-12-25 08:16:08,none,16822,1,false,I'll Play The Blues For You,album
+2011-12-25 08:15:51,none,398367,1,false,I'll Play The Blues For You,album
+2011-12-28 03:24:59,none,225358,1,false,エンヴィキャットウォーク 歌ってみた【りぶ】,album
+never,Soundtrack,121312,0,false,かずあそび,beatmania IIDX 17 SIRIUS ORIGINAL SOUNDTRACK [Disc 1]
+never,Soundtrack,129097,0,false,バビロニア,beatmania IIDX 17 SIRIUS ORIGINAL SOUNDTRACK [Disc 1]
+never,Soundtrack,117707,0,false,フェティッシュペイパー ～脇の汗回転ガール～,beatmania IIDX 17 SIRIUS ORIGINAL SOUNDTRACK [Disc 1]
+never,Soundtrack,124421,0,false,Mysterious Time,beatmania IIDX 17 SIRIUS ORIGINAL SOUNDTRACK [Disc 1]
+never,Soundtrack,121913,0,false,Last Burning,beatmania IIDX 17 SIRIUS ORIGINAL SOUNDTRACK [Disc 1]
+2012-11-29 23:26:21,Indie Rock,240613,1,false,Digital Love,Musique Vol.1 1993-2005 [Bonus Track]
+never,none,321567,0,false,Calling you 【TAKUI】,album
+2012-11-29 23:16:36,Indie Rock,415843,1,false,Ian Pooley - Chord Memory (Daft Punk Remix),Musique Vol.1 1993-2005 [Bonus Track]
+2012-11-29 23:22:20,Indie Rock,343875,1,false,Gabrielle - Forget About The World (Daft Punk Remix),Musique Vol.1 1993-2005 [Bonus Track]
+2011-07-22 13:22:58,none,199758,1,false,CARVE WITH THE SENSE(LIVE TOUR "A beautiful greed" in日本武道...,album
+2012-11-30 02:30:31,none,396460,2,false,炉心融解-piano.ver-を自分で歌ってみた。,album
+2012-11-24 14:55:52,Metal,109479,2,false,Legendary Sleeping Assault,Bury Me In Vegas [Bonus Track]
+never,none,317126,0,false,Rei Harakami - Pone,album
+2012-11-24 14:50:30,Metal,187115,6,false,Is Anyone Up,Bury Me In Vegas [Bonus Track]
+2012-11-24 14:54:02,Metal,212741,5,false,Wonderbra Boulevard,Bury Me In Vegas [Bonus Track]
+2011-08-08 09:10:41,none,295523,2,false,Rei Harakami - bioscope,album
+never,none,308114,0,false,Rei Harakami - After Bonus,album
+2012-01-11 16:45:16,none,243382,1,false,The Party,album
+2012-02-16 14:51:04,none,242050,4,false,D.A.N.C.E,album
+never,none,232907,0,false,Lindisfarne,album
+never,none,315271,0,false,I Only Know (What I Know Now),album
+never,none,187062,0,false,A Case Of You (Joni Mitchell cover),album
+never,Soundtrack,121469,0,false,Session 12 -Esther-,beatmania IIDX 19 Resort Anthem ORIGINAL SOUNDTRACK [Disc 1]
+never,Soundtrack,128052,0,false,君のハートにロックオン,beatmania IIDX 19 Resort Anthem ORIGINAL SOUNDTRACK [Disc 1]
+2012-10-11 20:22:33,Soundtrack,114390,1,false,Quick Silver,beatmania IIDX 19 Resort Anthem ORIGINAL SOUNDTRACK [Disc 1]
+never,Soundtrack,112979,0,false,Several Words,beatmania IIDX 19 Resort Anthem ORIGINAL SOUNDTRACK [Disc 1]
+never,Soundtrack,126693,0,false,24th Century BOY,beatmania IIDX 19 Resort Anthem ORIGINAL SOUNDTRACK [Disc 1]
+never,Metal,278282,0,false,Snuff,All Hope Is Gone
+never,Metal,284865,0,false,All Hope Is Gone,All Hope Is Gone
+never,Metal,282226,0,false,This Cold Black,All Hope Is Gone
+never,Metal,339017,0,false,Wherein Lies Continue,All Hope Is Gone
+2011-07-02 07:55:40,none,23849,2,false,BEAT1,伊藤 隆行 のアルバム
+never,Rock,194507,0,false,lights of vein,FACT
+never,none,314200,0,false,「炉心融解」　をジャズ風にアレンジ,album
+never,none,334132,0,false,「炉心融解」を歌うとこうなりました 【あにま】,album
+never,Soundtrack,318720,0,false,POWDER RAINBOW,銀の旋律、記憶の水音。
+2011-09-11 01:35:08,none,150961,3,false,『RAINBOW GIRL』歌ってみた　Ver.将太,album
+never,none,328463,0,false,【4／4／2／8】合唱「炉心融解」【パート分け多】+MP3,album
+never,Soundtrack,253492,0,false,Cursed Lily,銀の旋律、記憶の水音。
+never,none,257018,0,false,【KAITO】ロリ誘拐【ダメ。絶対】,album
+never,Soundtrack,71784,0,false,Interlude ～aria～,銀の旋律、記憶の水音。
+never,Rock,207438,0,false,reborn,FACT
+never,Soundtrack,311379,0,false,月のメロディー,銀の旋律、記憶の水音。
+never,Rock,184163,0,false,a fact of life,FACT
+never,Rock,24973,0,false,chain,FACT
+never,Soundtrack,209031,0,false,Black cherry,銀の旋律、記憶の水音。
+never,none,198739,0,false,Linkin Park - Breaking the Habit,album
+never,Rock,126955,0,false,purple eyes,FACT
+never,Soundtrack,122671,0,false,Trust -MATERIAL ver- (IIDX Edition),beatmania IIDX 19 Resort Anthem ORIGINAL SOUNDTRACK [Disc 1]
+2012-04-05 07:06:38,none,332564,29,false,Green Day - 21 Guns [Official Music Video],album
+never,none,114364,0,false,Armored Core Original Best Track - Dooryard,album
+2012-07-04 08:29:46,Indie Rock,203389,1,false,A Wolf At The Door (It Girl. Rag Doll),Hail To The Thief
+2012-07-04 08:26:23,Indie Rock,201769,1,false,Scatterbrain (As Dead As Leaves),Hail To The Thief
+2012-07-04 08:23:01,Indie Rock,232594,1,false,Myxomatosis (Judge_ Jury & Executioner),Hail To The Thief
+2012-07-04 08:19:08,Indie Rock,297404,1,false,A Punch Up At A Wedding (No No No No No No No No),Hail To The Thief
+2012-10-11 16:08:21,Indie Rock,119536,2,false,I Will (No Man's Land),Hail To The Thief
+never,Dubstep,267206,0,false,Bloom in Blood,SOUND 4 minute
+2012-11-04 17:03:14,Other,259918,1,false,RanaArpa,SOUND 4 minute
+never,Extratone,235389,0,false,MinimalExtra,SOUND 4 minute
+never,Goa Trance,181002,0,false,gray howl,SOUND 4 minute
+never,Electronic,228153,0,false,CABIN,SOUND 4 minute
+never,none,318902,0,false,JEFF BECK LIVE Cause We've Ended As Lovers,album
+2011-09-21 03:28:30,none,368404,1,false,Goodbye Pork Pie Hat _ Brush With the Blues,album
+2011-09-21 03:03:21,none,214595,1,false,Fulu he he he 2005 LIVE,album
+never,none,320679,0,false,JEFF BECK LIVE IN JAPAN 1986 STARCYCLE　軽井沢プリンス特設会場,album
+2011-09-22 07:34:25,none,196153,2,false,Art Mania (美術館で会った人だろ),album
+never,none,505756,0,false,Parade LIVE,album
+never,none,617221,0,false,Tobirajima (LIVE),album
+2011-09-22 06:45:08,none,238236,2,false,夢みる機械,album
+2011-09-21 02:59:46,none,250200,2,false,Forces 1.5 LIVE,album
+2011-09-21 03:38:59,none,188839,1,false,Another Day (LIVE),album
+2012-11-30 00:23:10,Pop,228414,1,false,Dream,2002 FIFA World Cup Official Album -Songs of KOREA/JAPAN- [Disc 2]
+2012-11-30 00:09:44,Pop,227030,1,false,GOTTA GET LOVE,2002 FIFA World Cup Official Album -Songs of KOREA/JAPAN- [Disc 2]
+2012-11-30 00:05:57,Pop,213786,1,false,Ready,2002 FIFA World Cup Official Album -Songs of KOREA/JAPAN- [Disc 2]
+2012-11-30 00:19:22,Pop,298684,1,false,Glorious,2002 FIFA World Cup Official Album -Songs of KOREA/JAPAN- [Disc 2]
+2012-11-30 00:14:23,Pop,279928,1,false,Friend,2002 FIFA World Cup Official Album -Songs of KOREA/JAPAN- [Disc 2]
+2012-11-29 21:08:11,Rock,79934,1,false,Intro:Galaxy,GALAXY
+never,Other,242364,0,false,America_ What Time Is Love?,Juliana's Tokyo D.J. Megamix
+never,Other,135497,0,false,Rave The Planet,Juliana's Tokyo D.J. Megamix
+never,Other,128809,0,false,Fetish,Juliana's Tokyo D.J. Megamix
+never,Other,144169,0,false,Destiny [C.I.S.'92],Juliana's Tokyo D.J. Megamix
+never,none,309002,0,false,Sweet Little Angel (Live),album
+never,none,322507,0,false,B.B King "Blues Man",album
+never,none,193227,0,false,Blues Boys Tune,album
+never,none,395937,0,false,Same Ol'Blues _Fusa(近藤房之助),album
+never,none,520594,0,false,Blues Power,album
+never,none,126537,0,false,Sudden inspiration,DTM初心者コンピ/START LINE
+2012-11-29 23:05:40,Indie Rock,319399,1,false,Human After All,Musique Vol.1 1993-2005 [Bonus Track]
+never,none,155559,0,false,P,DTM初心者コンピ/START LINE
+2012-11-29 23:00:21,Indie Rock,166791,1,false,Technologic,Musique Vol.1 1993-2005 [Bonus Track]
+never,none,208718,0,false,Starlight Night,DTM初心者コンピ/START LINE
+2012-11-29 22:57:34,Indie Rock,184424,1,false,Robot Rock,Musique Vol.1 1993-2005 [Bonus Track]
+never,none,68075,0,false,明後日,DTM初心者コンピ/START LINE
+2012-11-29 22:54:30,Indie Rock,231706,2,false,Something About Us,Musique Vol.1 1993-2005 [Bonus Track]
+2012-11-24 10:43:48,none,100075,2,false,High_Blue,DTM初心者コンピ/START LINE
+2012-11-29 23:09:41,Indie Rock,240666,1,false,Scott Grooves - Mothership Reconnection (Daft Punk Remix),Musique Vol.1 1993-2005 [Bonus Track]
+2012-08-13 09:48:30,Soundtrack,110524,1,false,愛と勇気の三度笠ポン太,jubeat knit APPEND SOUNDTRACK
+2011-06-21 16:26:26,none,211591,2,false,【MAD】　エヴァ・綾波×鬼束ちひろ‐Smells Like Teen Spirit,album
+2012-11-30 00:56:43,none,353645,3,false,U2 - Sunday Bloody Sunday,album
+2012-11-28 03:41:43,none,220891,2,false,U2 - I Will Follow (Live At Red Rocks),album
+2012-11-28 03:28:55,none,279066,1,false,U2 - I Still Haven't Found What I'm Looking (Rattle and Hum),album
+2011-07-23 10:48:00,none,258142,1,false,U2 - Pride (In The Name Of Love) - Chicago (Sub. español) [HQ],album
+never,none,288548,0,false,Nirvana - Smells Like Teen Spirit,album
+2012-11-28 03:38:03,none,257332,2,false,U2 - New Years Day,album
+never,Indie Rock,254928,0,false,Knives Out,Amnesiac
+2012-01-11 17:12:09,none,262765,1,false,Phantom,album
+2011-06-04 06:32:22,Indie Rock,293851,1,false,I Might Be Wrong,Amnesiac
+2012-10-11 20:05:36,Rock,236068,4,false,COOL J,Inspiration is DEAD
+2012-01-11 16:49:12,none,235885,1,false,DVNO,album
+2012-01-20 03:57:54,none,234945,2,false,Genesis,album
+2012-01-11 17:21:33,none,298422,1,false,Stress,album
+2012-01-11 17:16:35,none,265665,1,false,Waters of nazereth,album
+2011-10-02 11:03:27,none,365844,1,false,Slipknot - People  Shit - Live At Download 2009 (HQ),album
+2012-08-13 09:34:51,Soundtrack,97253,1,false,yellow head joe,beatmania IIDX 19 Resort Anthem ORIGINAL SOUNDTRACK [Disc 1]
+2011-09-21 04:24:27,none,259186,1,false,Slipknot - Sulfur - Live At Download 2009 (HQ),album
+2011-07-02 04:03:06,Rock,189779,3,false,nakano kill you,Inspiration is DEAD
+never,none,483526,0,false,Slipknot - Surfacing - Live At Download 2009 (HQ),album
+2012-08-18 04:51:53,Soundtrack,115722,1,false,Phoenix,beatmania IIDX 19 Resort Anthem ORIGINAL SOUNDTRACK [Disc 1]
+never,none,417724,0,false,Slipknot - Vermillion - Live At Download 2009 (HQ),album
+2012-08-18 04:49:57,Soundtrack,127164,1,false,WONDER WALKER,beatmania IIDX 19 Resort Anthem ORIGINAL SOUNDTRACK [Disc 1]
+2011-07-22 14:37:43,none,153129,1,false,Slipknot - Wait And Bleed - Live At Download 2009 (HQ),album
+never,Soundtrack,104907,0,false,GIGANT,beatmania IIDX 19 Resort Anthem ORIGINAL SOUNDTRACK [Disc 1]
+never,Soundtrack,269374,0,false,朝ANSWER,銀魂 Best 2
+never,Rock,170866,0,false,We are Innocent,VAMPIRE
+never,Rock,230217,0,false,次の駅まで,VAMPIRE
+never,Rock,160835,0,false,Living Dying Message,VAMPIRE
+never,Rock,259709,0,false,IGGY POP FAN CLUB,OMOIDE IN MY HEAD 1～BEST & B-SIDES～ [Disc 1]
+2011-08-13 03:18:49,Rock,363128,1,false,DRUNKEN HEARTED,OMOIDE IN MY HEAD 1～BEST & B-SIDES～ [Disc 1]
+2012-04-15 14:58:51,Rock,269191,9,false,DISCO FLIGHT,Inspiration is DEAD
+2012-01-11 19:10:42,none,277629,1,false,The Wilhelm Scream,album
+never,Rock,158928,0,false,los angels,FACT
+never,Soundtrack,250932,0,false,Amazing Kiss,銀の旋律、記憶の水音。
+never,Soundtrack,69067,0,false,Interlude ～aqua～,銀の旋律、記憶の水音。
+never,Soundtrack,269609,0,false,宵待ちの花,銀の旋律、記憶の水音。
+never,Soundtrack,260937,0,false,恋せよ女の子,銀の旋律、記憶の水音。
+never,Punk,313077,0,false,Da Hui,Greatest Hits
+never,Eurobeat,240117,0,false,DANCING 4 U (ORIGINAL MIX),SOUND 4 minute
+never,Techno Rock,267676,0,false,Finders Test,SOUND 4 minute
+never,Techno,252029,0,false,曲名なんてなかった,SOUND 4 minute
+never,none,85916,0,false,after_noon,DTM初心者コンピ/START LINE
+never,none,111333,0,false,Entrance,DTM初心者コンピ/START LINE
+2011-06-24 15:09:49,Rock,287268,1,false,赤い誘惑,Inspiration is DEAD
+never,Rock,270106,0,false,Surfer King,SINGLES 2004-2009
+never,none,268016,0,false,10_Burning In The Skies_09_11_11_LP_LIVE_Tokyo,09_11_11_LP_LIVE_Tokyo
+2012-11-30 00:39:29,none,306860,2,false,Cyborg _ P-MODEL,album
+2012-11-24 14:45:31,none,195526,8,false,2D OR NOT 2D,album
+2011-09-21 02:49:46,none,237008,1,false,けいおん！！YMO ｢RYDEEN in Budokan｣,album
+never,none,289436,0,false,Rydeen (Budokan 1980),album
+2011-10-02 11:10:40,none,295758,2,false,RIDE THE BLUE LIMBO TYPE 2,album
+never,Alternative,420571,0,false,letter to... (AYASHIGE_WRENCH REMIX),NIVAN RUNDER SOUNDRUGS [Disc 2]
+never,Alternative,216555,0,false,los angeles (MSTRKRFT Al-P Remix),NIVAN RUNDER SOUNDRUGS [Disc 2]
+never,Alternative,241266,0,false,rise (Steve Aoki Remix),NIVAN RUNDER SOUNDRUGS [Disc 1]
+never,Alternative,276558,0,false,propaganda (Takkyu Ishino Remix),NIVAN RUNDER SOUNDRUGS [Disc 2]
+never,Alternative,156551,0,false,chain (Co3 RMX),NIVAN RUNDER SOUNDRUGS [Disc 2]
+2012-11-29 21:49:15,Rock,158302,1,false,ドクロ町ツイスト,GALAXY
+2012-11-29 21:38:29,Rock,15490,1,false,eye catch:How Zit?,GALAXY
+2012-11-29 21:38:14,Rock,211957,1,false,HONOLULU BBQ,GALAXY
+2012-11-29 21:46:37,Rock,240561,1,false,黒い傷跡のブルース,GALAXY
+2012-11-29 21:42:36,Rock,246831,1,false,秋になっちゃった,GALAXY
+2012-01-01 11:57:43,none,277812,6,false,The Band- Don't Do It,album
+2011-12-20 01:41:28,none,144901,4,false,The Band- Don't Do It,album
+2011-12-20 01:54:17,none,369162,3,false,君が代,album
+2011-12-20 02:07:10,none,295471,4,false,The HANNYAPOWER,album
+2011-12-20 03:04:02,none,307696,5,false,トランス君が代～TRANCE KIMIGAYO～,album
+2011-07-14 10:27:23,none,346226,2,false,【hemlock】ブルーローズ【LIVE】,album
+2011-11-01 04:15:08,none,309263,4,false,NICO Touches the Walls - 行方 (060217),album
+2011-07-22 13:32:11,none,289071,2,false,サカナクション／アルクアラウンド,album
+2012-11-29 23:43:51,none,81998,1,false,無題,DTM初心者コンピ/START LINE
+2011-07-22 13:27:22,none,263575,3,false,サカナクション _ ネイティブダンサー,album
+never,none,113345,0,false,Bad Dream,DTM初心者コンピ/START LINE
+never,none,332382,0,false,【ニコカラ】　鏡音リン 炉心融解 off vocal コーラス有り 【H.264】,album
+never,none,171493,0,false,first challenge,DTM初心者コンピ/START LINE
+never,none,136698,0,false,Meteor Crash,DTM初心者コンピ/START LINE
+never,none,77165,0,false,Blazing Sun,DTM初心者コンピ/START LINE
+never,Alternative,328907,0,false,力の唄,Aurora
+never,Alternative,275853,0,false,舵をとれ,Aurora
+2011-08-18 13:46:58,Alternative,423000,1,false,LOVE SONG,Aurora
+never,Alternative,259996,0,false,オーロラ,Aurora
+never,Alternative,400953,0,false,スノーブラインド,Aurora
+never,Pop,216058,0,false,DEVIL,2002 FIFA WORLD CUP TM OFFICIAL ALBUM ～SONGS OF KOREA / JAPAN～ [Disc 1]
+never,none,432352,0,false,U2 - Where The Streets Have No Name,album
+never,none,259552,0,false,U2 - Wire,album
+2012-11-30 00:45:55,none,273580,4,false,U2 - Vertigo (Live In Milan 2005),album
+never,none,293067,0,false,U2 - Walk On,album
+2012-11-28 03:33:45,none,290089,1,false,U2 - With Or Without You,album
+2012-08-17 01:41:32,Soundtrack,111464,2,false,Jailbreak,jubeat knit APPEND SOUNDTRACK
+2012-08-12 14:23:55,none,152163,2,false,dawn,album
+never,Metal,252342,0,false,Is Anyone Up (The Green Man's Basswerk Spooky Dubstep Rmx),Bury Me In Vegas [Bonus Track]
+2012-08-17 01:39:41,Soundtrack,118439,2,false,Theory of Eternity,jubeat knit APPEND SOUNDTRACK
+2012-11-24 10:48:48,Soundtrack,124786,1,false,FLOWER,jubeat knit APPEND SOUNDTRACK
+2012-10-11 15:30:19,none,287294,2,false,WEAVER 「Hard to say I love you ～言い出せなくて～」,album
+never,none,462811,0,false,Slipknot - Spit it Out (Live in London Arena 2002) HQ,album
+never,none,176561,0,false,Slipknot - Get This - Live At Download 2009 (HQ),album
+never,Soundtrack,131813,0,false,Mermaid girl -秋葉工房 MIX-,beatmania IIDX 19 Resort Anthem ORIGINAL SOUNDTRACK [Disc 1]
+never,none,259918,0,false,Slipknot - Eyeless - Live At Download 2009 (HQ),album
+never,Soundtrack,124995,0,false,ユミル,beatmania IIDX 19 Resort Anthem ORIGINAL SOUNDTRACK [Disc 1]
+2012-10-11 16:19:42,Soundtrack,125074,1,false,Lucky Days,beatmania IIDX 19 Resort Anthem ORIGINAL SOUNDTRACK [Disc 1]
+never,none,202814,0,false,Slipknot - Left Behind - Live At Download 2009 (HQ),album
+never,Soundtrack,126928,0,false,prompt,beatmania IIDX 19 Resort Anthem ORIGINAL SOUNDTRACK [Disc 1]
+never,Soundtrack,126850,0,false,ЁVOLUTIΦN,beatmania IIDX 19 Resort Anthem ORIGINAL SOUNDTRACK [Disc 1]
+2011-08-12 04:27:25,Rock,302132,1,false,タッチ,OMOIDE IN MY HEAD 1～BEST & B-SIDES～ [Disc 1]
+2011-08-12 04:22:23,Rock,202762,1,false,透明少女,OMOIDE IN MY HEAD 1～BEST & B-SIDES～ [Disc 1]
+never,Rock,188290,0,false,SAMURAI,OMOIDE IN MY HEAD 1～BEST & B-SIDES～ [Disc 1]
+never,Rock,244897,0,false,EIGHT BEATER,OMOIDE IN MY HEAD 1～BEST & B-SIDES～ [Disc 1]
+never,Rock,140617,0,false,裸足の季節,OMOIDE IN MY HEAD 1～BEST & B-SIDES～ [Disc 1]
+never,Alternative,273371,0,false,救済の技法,救済の技法
+never,Alternative,328359,0,false,橋大工,救済の技法
+never,Alternative,277368,0,false,MOTHER,救済の技法
+2012-01-11 19:06:04,none,494210,1,false,Jalal Malekidoost,album
+2012-01-11 18:29:43,none,169482,1,false,Palm Springs,album
+never,Soundtrack,280006,0,false,デイジー・ブルー,銀の旋律、記憶の水音。
+never,Rock,117368,0,false,1-2,FACT
+2012-01-11 18:52:11,none,254223,1,false,Robert Johnson,album
+never,Rock,203833,0,false,why...,FACT
+never,Soundtrack,36702,0,false,Overture ～bloom～,銀の旋律、記憶の水音。
+never,Rock,213864,0,false,rise,FACT
+2012-01-11 18:57:50,none,339226,1,false,Alex Duwe,album
+2012-11-28 02:51:13,Soundtrack,125492,1,false,流砂の嵐,jubeat copious ORIGINAL SOUNDTRACK
+2012-11-26 21:51:37,Soundtrack,118622,27,false,polygon,jubeat copious ORIGINAL SOUNDTRACK
+2012-07-04 07:24:24,Soundtrack,122488,1,false,electro peaceful,jubeat copious ORIGINAL SOUNDTRACK
+never,Soundtrack,117446,0,false,Starlight Parade,jubeat copious ORIGINAL SOUNDTRACK
+2012-08-13 10:02:54,Soundtrack,113711,2,false,瞬,jubeat copious ORIGINAL SOUNDTRACK
+2012-11-21 22:04:18,Soundtrack,93988,1,false,High Lighter,SYNTHESIZED 4 [Bonus Disc]
+never,Soundtrack,253831,0,false,Face 2 Face,SYNTHESIZED 4 [Bonus Disc]
+never,Soundtrack,224679,0,false,Skippin' Step,SYNTHESIZED 4 [Bonus Disc]
+never,Soundtrack,231862,0,false,Can't Stop Playin',SYNTHESIZED 4 [Bonus Disc]
+2012-11-21 22:02:44,Soundtrack,115382,1,false,The Slapper,SYNTHESIZED 4 [Bonus Disc]
+2011-09-12 03:37:58,none,186200,1,false,Linkin Park - Numb,album
+never,none,372871,0,false,Linkin Park - Step Up _ Nobody's Listening _ It's Going Down,album
+2012-09-08 14:58:42,Soundtrack,248842,2,false,I'm so Happy (Extended Mix),jubeat knit APPEND SOUNDTRACK
+2012-11-23 01:37:26,none,27006,1,false,tyuunibyou,album
+never,none,107518,0,false,Destruction02,album
+never,Soundtrack,130481,0,false,Missin' You,SYNTHESIZED 4 [Bonus Disc]
+2012-09-08 14:54:33,Soundtrack,344946,1,false,Shine On Me(Extended Vocal Mix),jubeat knit APPEND SOUNDTRACK
+never,Soundtrack,180401,0,false,No Lookin' Back,SYNTHESIZED 4 [Bonus Disc]
+never,none,302000,0,false,kamisama_music_itomix（Apple TV）,album
+2012-11-28 03:06:43,none,220395,1,false,Gloria,album
+2011-10-02 08:35:49,none,294191,8,false,Inner Universe (full song),album
+2011-10-01 20:25:55,none,369031,5,false,攻殻機動隊　トルキア,album
+2011-10-01 20:19:46,none,324545,3,false,Origa,album
+never,none,166687,0,false,Word Up,album
+2012-08-13 10:39:24,Soundtrack,118987,1,false,DESIRE,beatmania IIDX 17 SIRIUS ORIGINAL SOUNDTRACK [Disc 1]
+2012-08-13 10:37:25,Soundtrack,124499,1,false,DOMINION,beatmania IIDX 17 SIRIUS ORIGINAL SOUNDTRACK [Disc 1]
+2012-08-13 10:35:20,Soundtrack,104176,1,false,bloomin' feeling,beatmania IIDX 17 SIRIUS ORIGINAL SOUNDTRACK [Disc 1]
+never,Soundtrack,128731,0,false,Programmed Sun,beatmania IIDX 17 SIRIUS ORIGINAL SOUNDTRACK [Disc 1]
+never,Soundtrack,126432,0,false,Elisha,beatmania IIDX 17 SIRIUS ORIGINAL SOUNDTRACK [Disc 1]
+never,Alternative,294556,0,false,hate induces hate (Dexpistols Remix),NIVAN RUNDER SOUNDRUGS [Disc 2]
+2012-02-23 05:11:08,Alternative,420571,1,false,a fact of life (BOOM BOOM SATELLITES Remix),NIVAN RUNDER SOUNDRUGS [Disc 2]
+never,none,242938,0,false,16,富嶽祭2012音楽部発表
+never,Alternative,241554,0,false,purple eyes (Space Cowboy Remix),NIVAN RUNDER SOUNDRUGS [Disc 2]
+never,Alternative,156551,0,false,stretch my arms (COCKPITS rmx 4 N.R.),NIVAN RUNDER SOUNDRUGS [Disc 2]
+never,none,239725,0,false,14,富嶽祭2012音楽部発表
+never,none,235023,0,false,15,富嶽祭2012音楽部発表
+never,none,256261,0,false,12,富嶽祭2012音楽部発表
+never,Alternative,273266,0,false,reborn (Anoraak remix),NIVAN RUNDER SOUNDRUGS [Disc 2]
+never,none,333949,0,false,13,富嶽祭2012音楽部発表
+2012-10-11 15:05:34,Rock,333505,1,false,アイワナゲチョラ,GALAXY
+2012-11-29 21:31:39,Rock,297221,1,false,ゆっくり跳ねる音楽,GALAXY
+2012-11-29 21:25:21,Rock,247457,1,false,混沌料理,GALAXY
+2012-11-29 21:26:42,Rock,81502,1,false,Growl:魂の唸り,GALAXY
+2012-11-29 21:34:42,Rock,183092,2,false,俺たち海坊主,GALAXY
+2011-12-20 00:48:16,none,215327,3,false,The Band_ Up On Cripple Creek,album
+2012-07-04 08:58:53,none,400561,4,false,Long Black Veil 1970,album
+2012-10-11 15:35:04,none,284708,4,false,It Makes No Difference,album
+2011-12-20 00:39:24,none,783542,4,false,グレゴリオ聖歌　「死者のためのミサ曲（レクイエム）」　Ⅰ,album
+2011-12-20 01:39:03,none,99343,3,false,グレゴリオ聖歌「Agnus Dei（平和の賛歌第9番）」,album
+never,none,470648,0,false,NICO Touches the Walls - そのTAXI_160km_h (060909),album
+2011-07-14 10:21:37,none,327706,1,false,NICO Touches the Walls - image training (060909),album
+never,none,361038,0,false,NICO Touches the Walls - そのTAXI_160km_h (060217),album
+2011-07-02 03:26:33,none,350406,1,false,Jeff Buckley - Calling You,album
+2012-04-11 14:21:30,none,439248,54,false,Life Begins At Eighty - 80kidz,album
+never,Alternative,266997,0,false,WORLD CELL,救済の技法
+never,Pop,266919,0,false,エスコート,2002 FIFA WORLD CUP TM OFFICIAL ALBUM ～SONGS OF KOREA / JAPAN～ [Disc 1]
+never,Pop,293120,0,false,One Love Wonderful World,2002 FIFA WORLD CUP TM OFFICIAL ALBUM ～SONGS OF KOREA / JAPAN～ [Disc 1]
+never,Pop,553691,0,false,I'll be,2002 FIFA WORLD CUP TM OFFICIAL ALBUM ～SONGS OF KOREA / JAPAN～ [Disc 1]
+never,Pop,286798,0,false,I will follow,2002 FIFA WORLD CUP TM OFFICIAL ALBUM ～SONGS OF KOREA / JAPAN～ [Disc 1]
+2011-08-18 13:39:55,Alternative,364016,1,false,石の庭,Aurora
+never,Soundtrack,128052,0,false,恋する☆宇宙戦争っ!!,beatmania IIDX 19 Resort Anthem ORIGINAL SOUNDTRACK [Disc 1]
+never,Soundtrack,121469,0,false,F,beatmania IIDX 19 Resort Anthem ORIGINAL SOUNDTRACK [Disc 1]
+never,none,207438,0,false,Linkin Park - What I've Done,album
+never,none,327915,0,false,Morning glow by  Kota Hoshino,album
+2011-08-16 00:24:44,none,276793,16,false,Nirvana - Smells Like Teen Spirit,album
+never,Soundtrack,119405,0,false,Drive Me Crazy,beatmania IIDX 19 Resort Anthem ORIGINAL SOUNDTRACK [Disc 1]
+never,Dance & House,581328,0,false,Pearls Girl,1992 - 2012 The Anthology [Disc 2]
+never,Dance & House,552933,0,false,Jumbo,1992 - 2012 The Anthology [Disc 2]
+never,Dance & House,347376,0,false,JAL To Tokyo,1992 - 2012 The Anthology [Disc 3]
+never,Dance & House,456542,0,false,Born Slippy (Nuxx),1992 - 2012 The Anthology [Disc 2]
+never,Pop,247484,0,false,always,2002 FIFA WORLD CUP TM OFFICIAL ALBUM ～SONGS OF KOREA / JAPAN～ [Disc 1]
+never,Dance & House,538148,0,false,8 Ball,1992 - 2012 The Anthology [Disc 2]
+2012-11-22 00:55:55,Soundtrack,117707,1,false,LOVE B.B.B,beatmania IIDX 19 Resort Anthem ORIGINAL SOUNDTRACK [Disc 1]
+never,Soundtrack,124160,0,false,A MINSTREL ～ver. short-scape～,beatmania IIDX 19 Resort Anthem ORIGINAL SOUNDTRACK [Disc 1]
+never,Soundtrack,106736,0,false,Almace,beatmania IIDX 19 Resort Anthem ORIGINAL SOUNDTRACK [Disc 1]
+never,Soundtrack,126902,0,false,Into The Sunlight,beatmania IIDX 19 Resort Anthem ORIGINAL SOUNDTRACK [Disc 1]
+never,Soundtrack,123480,0,false,Yellow Sunrise,beatmania IIDX 19 Resort Anthem ORIGINAL SOUNDTRACK [Disc 1]
+never,Rock,142915,0,false,SASU-YOU,OMOIDE IN MY HEAD 1～BEST & B-SIDES～ [Disc 1]
+never,Rock,167549,0,false,ZEGEN VS UNDERCOVER,OMOIDE IN MY HEAD 1～BEST & B-SIDES～ [Disc 1]
+never,Rock,272901,0,false,URBAN GUITAR SAYONARA (Single Mix),OMOIDE IN MY HEAD 1～BEST & B-SIDES～ [Disc 1]
+2012-10-11 15:47:36,Rock,196858,1,false,DESTRUCTION BABY,OMOIDE IN MY HEAD 1～BEST & B-SIDES～ [Disc 1]
+never,Rock,391784,0,false,OMOIDE IN MY HEAD,OMOIDE IN MY HEAD 1～BEST & B-SIDES～ [Disc 1]
+never,Rock,171075,0,false,snow,FACT
+never,Rock,239986,0,false,stretch my arms,FACT
+never,Rock,199653,0,false,merry christmas mr. lawrence,FACT
+never,Rock,123872,0,false,co-3,FACT
+never,Rock,261067,0,false,45days,FACT
+never,none,239516,0,false,magnet【初音ミク・巡音ルカオリジナル】,album
+never,none,3965361,0,false,【作業用BGM】神々の戯れ,album
+never,ポップ,2614961,0,false,My Last Fight,Love Psychedelico Ⅲ
+never,none,240039,0,false,magnet 歌ってみた 【ひと里＆che：櫻井】,album
+never,none,225724,0,false,【重音テト／鏡音リン】Nothing【オリジナル】,album
+2012-07-04 07:36:28,Indie Rock,199418,1,false,2+2=5 (The Lukewarm),Hail To The Thief
+2012-11-30 04:09:07,Soundtrack,120398,27,false,[E],jubeat copious ORIGINAL SOUNDTRACK
+never,Soundtrack,120973,0,false,HEAVENLY MOON,jubeat copious ORIGINAL SOUNDTRACK
+2012-08-13 10:06:58,Soundtrack,125570,1,false,アルストロメリア,jubeat copious ORIGINAL SOUNDTRACK
+2012-08-13 10:04:39,Soundtrack,104960,1,false,Devil Fish Dumpling,jubeat copious ORIGINAL SOUNDTRACK
+never,Soundtrack,118386,0,false,THIS NIGHT (jubeat EDITION),jubeat copious ORIGINAL SOUNDTRACK
+never,Rock,140068,0,false,壊れかけたレコード,album
+never,none,284107,0,false,Dragon Ash - FANTASISTA,album
+2012-11-29 23:31:36,Rock,128992,2,false,赤子,album
+never,none,133903,0,false,φ,album
+2011-06-07 07:07:21,none,250462,1,false,ONE OK ROCK 完全感覚Dreamer PV (Full),album
+never,Soundtrack,380160,0,false,Net Funk Jam,SYNTHESIZED 4 [Bonus Disc]
+never,Soundtrack,243853,0,false,Direct Motion,SYNTHESIZED 4 [Bonus Disc]
+never,Soundtrack,321697,0,false,Feel The Vibe,SYNTHESIZED 4 [Bonus Disc]
+never,Soundtrack,292623,0,false,Online Funk Jam,SYNTHESIZED 4 [Bonus Disc]
+never,Soundtrack,304509,0,false,Urban City,SYNTHESIZED 4 [Bonus Disc]
+never,Jazz,234057,0,false,小フーガ ト短調 BWV 578,First Best [Disc 1]
+never,Jazz,194533,0,false,交響曲 第9番 ニ短調 作品125 「合唱」第4楽章,First Best [Disc 1]
+never,Jazz,236460,0,false,うさぎDASH,First Best [Disc 1]
+never,Jazz,376058,0,false,組曲『　』,First Best [Disc 1]
+never,Jazz,324440,0,false,台風,First Best [Disc 1]
+never,Dance & House,425508,0,false,Scribble,1992 - 2012 The Anthology [Disc 2]
+never,Dance & House,623203,0,false,Moaner,1992 - 2012 The Anthology [Disc 2]
+never,Dance & House,551523,0,false,Two Months Off,1992 - 2012 The Anthology [Disc 2]
+never,Dance & House,155820,0,false,To Heal,1992 - 2012 The Anthology [Disc 2]
+never,Dance & House,391706,0,false,Crocodile,1992 - 2012 The Anthology [Disc 2]
+never,none,238236,0,false,11,富嶽祭2012音楽部発表
+never,none,303124,0,false,10,富嶽祭2012音楽部発表
+never,none,542563,0,false,9,富嶽祭2012音楽部発表
+never,none,284290,0,false,8,富嶽祭2012音楽部発表
+never,none,317988,0,false,7,富嶽祭2012音楽部発表
+2012-11-29 22:06:43,Rock,236434,1,false,12月17日,GALAXY
+2012-11-29 22:06:52,Rock,8907,1,false,eye catch:Oriental Souvenir,GALAXY
+2012-11-29 22:10:06,Rock,194063,1,false,OMAKE!:肉食系,GALAXY
+never,R&B,194560,0,false,If I Ain't Got U (Black Eyed Peas Mix),Remixed
+never,R&B,226795,0,false,If I Ain't Got U (Kanye West Remix),Remixed
+never,Soundtrack,93074,0,false,A Virus,The Matrix
+never,Soundtrack,83147,0,false,Exit Mr. Hat,The Matrix
+never,Soundtrack,323239,0,false,The Hotel Ambush,The Matrix
+never,Soundtrack,148035,0,false,Welcome To The Real World,The Matrix
+never,Soundtrack,70635,0,false,Bullet-Time,The Matrix
+2012-01-11 17:29:42,none,205615,1,false,The_lodging_house,album
+2012-05-22 07:49:02,none,258429,8,false,Nori P,album
+2012-10-11 14:42:23,none,123115,47,false,【jubeat copious】 [E]　高音質,album
+2012-11-15 06:43:53,none,104698,8,false,【立体音響】　Evans　jubeat,album
+2012-06-19 00:02:13,none,124290,42,false,DJ YOSHITAKA,album
+2012-06-19 02:26:42,none,187219,29,false,Arctic Monkeys -- Don't Sit Down 'Cause I've Moved Your Chair,album
+never,Classical,296045,0,false,Saariaho: Notes On Light - 1. Translucent_ Secret,Saariaho: Works For Orchestra [Disc 4]
+2012-10-11 20:54:07,none,196545,9,false,平沢進　P-MODEL　論理空軍,album
+2012-04-16 02:23:10,none,254275,61,false,Armored Core for Answer - Remember*,album
+never,Classical,336378,0,false,Saariaho: Orion - 3. Hunter,Saariaho: Works For Orchestra [Disc 4]
+2012-07-04 08:42:16,none,262138,3,false,Fade - One Reason (Deadman Wonderland OP_Opening FULL),album
+2011-07-11 08:46:38,none,485877,1,false,P-MODEL 平沢進,album
+2011-07-11 08:51:40,none,301348,1,false,バンディリア旅行団／平沢進,album
+2011-10-02 11:05:46,none,139546,13,false,ナインボールのテーマ曲_「９」_アーマードコア,album
+2011-08-15 14:42:22,none,2150008,1,false,【AC4】 BGM音楽会 Vol.2 【ACfA】,【AC4】 BGM音楽会 Vol.2 【ACfA】
+never,none,304091,0,false,a day in the life,album
+never,Classical,567875,0,false,Saariaho: Orion - 2. Winter Sky,Saariaho: Works For Orchestra [Disc 4]
+2011-08-20 13:08:49,none,106996,2,false,My Song 5,TiaRungray
+2011-09-21 03:22:22,none,289358,1,false,Blue Wind,album
+never,Traditional,180062,0,false,HIT SONG,Yoshida Brothers
+never,Traditional,109975,0,false,Tsugaru Jinku,Yoshida Brothers
+never,Traditional,340088,0,false,MORRICONE,Yoshida Brothers
+never,Traditional,157335,0,false,OH MY LOVE,Yoshida Brothers
+never,Traditional,211461,0,false,Kokoro ni Dakarete,Yoshida Brothers
+2012-10-11 16:24:02,Soundtrack,260623,2,false,Prophet Vibe (Long Version),jubeat knit APPEND SOUNDTRACK
+never,Soundtrack,331415,0,false,Shining Wizard (Long Version),jubeat knit APPEND SOUNDTRACK
+2012-10-11 20:42:57,Soundtrack,226298,1,false,Ready Go!! (Long Version),jubeat knit APPEND SOUNDTRACK
+2012-11-30 04:45:42,Soundtrack,278569,5,false,Far east nightbird (Long Version),jubeat knit APPEND SOUNDTRACK
+2012-09-08 14:48:48,Soundtrack,195631,1,false,Green Green Dance (Long Version),jubeat knit APPEND SOUNDTRACK
+2012-11-28 03:01:52,none,242390,2,false,U2 - Elevation,album
+never,Dance & House,212610,0,false,Parc [Live],1992 - 2012 The Anthology [Disc 3]
+never,Dance & House,544626,0,false,Second Hand,1992 - 2012 The Anthology [Disc 3]
+never,Dance & House,514403,0,false,Oich Oich,1992 - 2012 The Anthology [Disc 3]
+never,Dance & House,736417,0,false,Why Why Why,1992 - 2012 The Anthology [Disc 3]
+2012-10-11 20:50:51,Dance & House,274416,1,false,Simple Peal,1992 - 2012 The Anthology [Disc 3]
+never,Pop,376894,0,false,Let's Get Together Now,2002 FIFA WORLD CUP TM OFFICIAL ALBUM ～SONGS OF KOREA / JAPAN～ [Disc 1]
+never,Rock,287190,0,false,CIBICCOさん,OMOIDE IN MY HEAD 1～BEST & B-SIDES～ [Disc 1]
+never,Rock,207882,0,false,TATTOOあり,OMOIDE IN MY HEAD 1～BEST & B-SIDES～ [Disc 1]
+2011-09-15 09:36:51,Rock,178285,13,false,鉄風 鋭くなって,OMOIDE IN MY HEAD 1～BEST & B-SIDES～ [Disc 1]
+2011-07-02 07:09:00,Rock,201377,1,false,I Don't Know,OMOIDE IN MY HEAD 1～BEST & B-SIDES～ [Disc 1]
+never,Rock,283428,0,false,NUM-HEAVYMETALLIC,OMOIDE IN MY HEAD 1～BEST & B-SIDES～ [Disc 1]
+never,none,304979,0,false,11_Numb_09_11_11_LP_LIVE_Tokyo,09_11_11_LP_LIVE_Tokyo
+never,none,320078,0,false,よっぺいの炉心融解を Hard-R.K.mix 版にしてみた【mp3】,album
+never,none,312450,0,false,12_Iridescent_09_11_11_LP_LIVE_Tokyo,09_11_11_LP_LIVE_Tokyo
+never,none,358060,0,false,悪ノ召使 -Classical version-【ミニ合唱】Project Edition,album
+never,none,102400,0,false,13_Fallout_09_11_11_LP_LIVE_Tokyo,09_11_11_LP_LIVE_Tokyo
+2012-09-08 15:02:56,none,254040,4,false,ハンマーソングがしょぼんのテーマにしか聞こえない,album
+never,none,347010,0,false,14_Catalyst_09_11_11_LP_LIVE_Tokyo,09_11_11_LP_LIVE_Tokyo
+2012-11-30 00:31:45,none,257280,1,false,メルト　ラップで歌ってみた（full ver.）,album
+2012-10-11 20:11:07,none,331363,1,false,15_Shadow Of The Day_09_11_11_LP_LIVE_Tokyo,09_11_11_LP_LIVE_Tokyo
+never,Punk,207020,0,false,Can't Repeat,Greatest Hits
+never,Rock,257097,0,false,パッション・フルーツ,SINGLES 2004-2009
+2011-06-07 07:13:41,none,180897,1,false,初音ミク - コイハセンソウ,album
+never,Rock,296751,0,false,若者のすべて,SINGLES 2004-2009
+never,Classical,1005844,0,false,Saariaho: Du Cristal,Saariaho: Works For Orchestra Disc 1 [Disc 1]
+never,Classical,1004094,0,false,Saariaho: Lichtbogen,Saariaho: Works For Orchestra Disc 1 [Disc 1]
+never,Classical,881815,0,false,Saariaho: Grammaire Des Reves,Saariaho: Works For Orchestra Disc 1 [Disc 1]
+2012-04-18 13:17:51,none,179670,18,false,紅い眼鏡　エンディングタイトル,album
+2012-05-12 07:45:19,none,242442,20,false,スカイ・クロラ　メインテーマ(The Sky Crawlers main theme)【&fmt=18】,album
+never,none,273972,0,false,凛として時雨「DISCO FLIGHT」アコギでロックしてみた,album
+never,none,268016,0,false,右肩の蝶レンver.歌ってみたver.バルシェ,album
+2011-09-15 09:29:51,none,243356,1,false,【低画質】ロンリーガールにローリンガールまぜた【バグ対策】,album
+2011-09-15 09:25:48,none,190981,1,false,【GUMI】モザイクロール【オリジナル曲PV付】,album
+never,none,195160,0,false,タイツォンがローリンガールを歌うとこうなる,album
+never,Jazz,282096,0,false,Time Limit,First Best [Disc 1]
+never,Jazz,387813,0,false,花火 ～HANABI～,First Best [Disc 1]
+never,Jazz,272692,0,false,交響曲 第9番 ホ短調 作品95「新世界より」第4楽章 (First Best Ver.),First Best [Disc 1]
+never,Jazz,297848,0,false,美しく青きドナウ,First Best [Disc 1]
+never,Jazz,177867,0,false,残月,First Best [Disc 1]
+2012-11-21 22:49:48,Soundtrack,73822,1,false,OMOIDE,SYNTHESIZED 4
+2012-11-21 22:48:34,Soundtrack,332538,1,false,In Heaven -Extended Mix-,SYNTHESIZED 4
+2012-11-21 22:43:02,Soundtrack,208483,1,false,Deep Blue Sky,SYNTHESIZED 4
+2012-11-30 04:39:28,Soundtrack,224026,2,false,polygon -Extended Mix-,SYNTHESIZED 4
+never,Soundtrack,269688,0,false,Look Ahead,SYNTHESIZED 4 [Bonus Disc]
+2012-10-11 13:49:48,none,129671,1,false,Canon,PELLMELLIZE VOL.1
+never,Rock,282200,0,false,Jealousy,2001
+never,none,102097,0,false,High_Blue_complete,album
+2012-10-11 14:14:12,Electronic,331337,2,false,Angel of Hell (Extended Mix),PELLMELLIZE VOL.1
+2012-10-11 14:19:07,none,294765,2,false,boom boom booster,PELLMELLIZE VOL.1
+2012-11-29 21:54:24,Rock,185312,1,false,ミニスカハコスカヨコハマヨコスカ,GALAXY
+2012-11-29 21:51:19,Rock,124186,1,false,プレイボーイ・ツイスト,GALAXY
+2012-11-29 21:58:20,Rock,24659,1,false,eye catch:Galaxy 4 Fantasy,GALAXY
+2012-11-29 21:57:56,Rock,211408,1,false,B.B.B.B.B.,GALAXY
+2012-11-29 22:02:47,Rock,266475,1,false,ボタンのかけ違い,GALAXY
+never,Soundtrack,479085,0,false,The Way Of The Sword,The Last Samurai
+never,Soundtrack,479764,0,false,A Small Measure Of Peace,The Last Samurai
+never,Soundtrack,235441,0,false,Main Title - Trinity Infinity,The Matrix
+never,Soundtrack,75023,0,false,Unable To Speak,The Matrix
+never,Soundtrack,161906,0,false,The Power Plant,The Matrix
+never,Soundtrack,111568,0,false,Dazzlin' Darlin -秋葉工房mix-,beatmania IIDX 17 SIRIUS ORIGINAL SOUNDTRACK [Disc 2]
+never,Soundtrack,117472,0,false,SPARK! -essential RMX-,beatmania IIDX 17 SIRIUS ORIGINAL SOUNDTRACK [Disc 2]
+2012-08-15 02:13:15,none,337632,7,false,炉心融解 【Ryu☆ Remix】,album
+never,Soundtrack,120502,0,false,spiral galaxy -L.E.D. STYLE SPREADING PARTICLE BEAM MIX-,beatmania IIDX 17 SIRIUS ORIGINAL SOUNDTRACK [Disc 2]
+2012-11-26 21:55:34,Soundtrack,118987,2,false,DENJIN AKATSUKINI TAORERU -SF PureAnalogSynth Mix-,beatmania IIDX 17 SIRIUS ORIGINAL SOUNDTRACK [Disc 2]
+never,Soundtrack,134739,0,false,CaptivAte ～裁き～ (SUBLIME TECHNO MIX),beatmania IIDX 17 SIRIUS ORIGINAL SOUNDTRACK [Disc 2]
+2012-11-30 04:14:55,none,348342,11,false,Rise'n Beauty -Extended Mix-,album
+never,none,4623,0,false,Life Never Ever Like Before,album
+2012-11-30 04:24:40,none,118569,54,false,Cyber Force,album
+2012-05-22 07:33:38,none,254772,12,false,Shining Star -Extended Mix-,album
+never,none,149015,0,false,無題（iPhone と iPod）,album
+never,none,288992,0,false,悪ノ召使を歌ってみた　【おほし】 2,album
+never,none,190955,0,false,【歌ってみた】　モザイクロール -english ver-　【yuki】 2,album
+2011-07-02 03:59:42,none,199993,1,false,【帰国した子女が】ローリンガールを洋楽っぽく歌ってみた。【ナノ】 2,album
+never,none,300512,0,false,Just Be Friends -Band Edition-　英語で歌ってみた／なっぱ 2,album
+never,Soundtrack,120894,0,false,キルト,jubeat knit APPEND SOUNDTRACK
+2011-08-15 14:01:00,none,2114742,1,false,【AC4】 BGM音楽会 Vol.1 【ACfA】,【AC4】 BGM音楽会 Vol.1 【ACfA】
+never,Alternative,814027,0,false,トビラ島,Aurora
+never,Alternative,177502,0,false,呼んでるベル,Aurora
+never,Alternative,291395,0,false,風の分身,Aurora
+never,Alternative,277968,0,false,広場で,Aurora
+2011-11-03 14:55:15,Alternative,301035,1,false,Siren *セイレーン*,SIREN
+2011-11-03 14:50:15,Alternative,286302,1,false,On Line Malaysia,SIREN
+2011-11-03 14:45:28,Alternative,328254,1,false,サイレン *Siren*,SIREN
+never,Alternative,73012,0,false,電光浴-1,SIREN
+never,Soundtrack,117263,0,false,うらもからだも落花微塵,jubeat knit APPEND SOUNDTRACK
+never,Alternative,241371,0,false,Nurse Cafe,SIREN
+never,Soundtrack,105404,0,false,陽炎,beatmania IIDX 19 Resort Anthem ORIGINAL SOUNDTRACK [Disc 1]
+never,Soundtrack,106031,0,false,concon,jubeat knit APPEND SOUNDTRACK
+2011-07-23 11:44:21,none,255451,2,false,Linkin Park - Burning In The Skies (International Video),album
+never,Soundtrack,124551,0,false,Change the World,beatmania IIDX 19 Resort Anthem ORIGINAL SOUNDTRACK [Disc 1]
+2011-07-23 11:32:58,none,217103,1,false,Linkin Park -  "In The End",album
+never,Soundtrack,123219,0,false,KYAMISAMA ONEGAI!,beatmania IIDX 19 Resort Anthem ORIGINAL SOUNDTRACK [Disc 1]
+never,Soundtrack,125022,0,false,Liquid Crystal Girl,beatmania IIDX 19 Resort Anthem ORIGINAL SOUNDTRACK [Disc 1]
+never,Dance & House,653583,0,false,Dark And Long (Dark Train),1992 - 2012 The Anthology [Disc 1]
+never,Dance & House,600920,0,false,Dirty Epic,1992 - 2012 The Anthology [Disc 1]
+never,Dance & House,548466,0,false,Big Meat Show,1992 - 2012 The Anthology [Disc 3]
+never,Dance & House,535640,0,false,The Hump,1992 - 2012 The Anthology [Disc 3]
+never,Dance & House,605988,0,false,Minneapolis,1992 - 2012 The Anthology [Disc 3]
+never,none,267258,0,false,07_From The Inside_09_11_11_LP_LIVE_Tokyo,09_11_11_LP_LIVE_Tokyo
+never,none,308610,0,false,06_No More Sorrow_09_11_11_LP_LIVE_Tokyo,09_11_11_LP_LIVE_Tokyo
+never,none,252160,0,false,09_Waiting For The End_09_11_11_LP_LIVE_Tokyo,09_11_11_LP_LIVE_Tokyo
+never,none,113502,0,false,08_Jornada_09_11_11_LP_LIVE_Tokyo,09_11_11_LP_LIVE_Tokyo
+never,Rock,403696,0,false,蒼い鳥,SINGLES 2004-2009
+never,Rock,341394,0,false,茜色の夕日,SINGLES 2004-2009
+never,Rock,285074,0,false,虹,SINGLES 2004-2009
+never,Rock,304274,0,false,銀河,SINGLES 2004-2009
+never,Rock,323369,0,false,Faust,VAMPIRE
+never,Rock,216737,0,false,Supernova,VAMPIRE
+2012-10-11 16:01:04,Rock,184189,1,false,The Revenge of Surf Queen,VAMPIRE
+never,Rock,137377,0,false,Hide & Seek,VAMPIRE
+never,Rock,201586,0,false,悪いクスリ,VAMPIRE
+never,Indie Rock,276480,0,false,My Iron Lung,The Bends
+never,Indie Rock,290768,0,false,Fake Plastic Trees,The Bends
+never,Indie Rock,189074,0,false,Bones,The Bends
+never,Indie Rock,233299,0,false,(Nice Dream),The Bends
+never,Indie Rock,234161,0,false,Just,The Bends
+never,Classical,688117,0,false,Saariaho: Graal Theatre - 2. Impetuoso,Saariaho: Works For Orchestra [Disc 2]
+never,Classical,1104744,0,false,Saariaho: Graal Theatre - 1. Delicato,Saariaho: Works For Orchestra [Disc 2]
+never,Classical,1030582,0,false,Saariaho: Solar,Saariaho: Works For Orchestra [Disc 2]
+never,Classical,222484,0,false,Saariaho: Caliban's Dream,Saariaho: Works For Orchestra [Disc 2]
+never,Classical,1273129,0,false,Saariaho: …A La Fumee,Saariaho: Works For Orchestra Disc 1 [Disc 1]
+2011-06-21 14:35:49,none,303360,2,false,初音ミクの消失 DEAD END,album
+never,none,312215,0,false,Slipknot - Psychosocial - Live At Download 2009 (HQ),album
+never,Soundtrack,125884,0,false,Thunderbolt,beatmania IIDX 19 Resort Anthem ORIGINAL SOUNDTRACK [Disc 1]
+never,none,247693,0,false,【天晴！】 ぼくらの16bit戦争 -Our 16bit Wars- 【てん×バルシェ】,album
+never,none,217835,0,false,初音ミク・巡音ルカ オリジナル曲 「ワールズエンド・ダンスホール」,album
+2011-06-04 06:48:26,none,297299,1,false,Slipknot - Duality Live @ Download 2009 (HQ),album
+never,Indie Rock,285257,0,false,Climbing Up The Walls,OK Computer
+never,Indie Rock,228597,0,false,No Surprises,OK Computer
+2011-06-20 16:07:18,Indie Rock,117394,1,false,Fitter Happier,OK Computer
+2011-06-20 17:22:22,Indie Rock,230687,1,false,Electioneering,OK Computer
+never,Indie Rock,259709,0,false,Lucky,OK Computer
+never,Jazz,264698,0,false,Jack 2011,First Best [Disc 1]
+never,Jazz,144927,0,false,熊蜂の飛行,First Best [Disc 1]
+never,Jazz,281129,0,false,ジ・エンターテイナー,First Best [Disc 1]
+never,Jazz,160104,0,false,The Last Resort,First Best [Disc 1]
+never,Jazz,219559,0,false,輪舞曲 ～Rondo～,First Best [Disc 1]
+2012-11-21 22:16:22,Soundtrack,270053,1,false,Mother Ship -Extended Mix-,SYNTHESIZED 4
+2012-11-21 22:21:37,Soundtrack,314566,1,false,Give Me MORE!! -Extended Mix-,SYNTHESIZED 4
+2012-11-30 04:29:52,Soundtrack,237322,5,false,Bangin' Breaks -Extended Mix-,SYNTHESIZED 4
+2012-11-30 04:33:24,Soundtrack,212088,3,false,Lucky Days -Analog Synth Mix-,SYNTHESIZED 4
+2012-11-30 04:35:44,Soundtrack,140146,2,false,Road 2 London,SYNTHESIZED 4
+never,none,256705,0,false,初音ミク　が　オリジナル曲を歌ってくれたよ「メルト」,album
+never,none,204617,0,false,for you,album
+never,none,586000,0,false,the uterus(amnion mix),album
+never,none,292075,0,false,初音ミクがオリジナルを歌ってくれたよ「ブラック★ロックシューター」,album
+never,Pop,259056,0,false,地図をください,BEAT EXPRESS Vol. 4 [Disc 2]
+never,none,116177,0,false,Emotions,album
+never,none,385733,0,false,Her_rusted_rondo,album
+never,none,175542,0,false,17,富嶽祭2012音楽部発表
+never,none,521560,0,false,18,富嶽祭2012音楽部発表
+2012-11-30 02:03:58,Pop,237740,1,false,Again!,BEAT EXPRESS Vol. 4 [Disc 1]
+2012-11-30 02:08:37,Pop,279405,1,false,Answer and Question,BEAT EXPRESS Vol. 4 [Disc 1]
+2012-11-30 02:14:17,Pop,339382,1,false,ONE MORE KISS,BEAT EXPRESS Vol. 4 [Disc 1]
+never,none,199459,0,false,call_me_04,album
+never,Pop,280555,0,false,冒険クラブ,BEAT EXPRESS Vol. 4 [Disc 2]
+2012-06-19 02:21:53,Alternative,162194,51,false,Faint,Meteora
+never,Traditional,406465,0,false,大獅子　（沖縄残波太鼓）,邦楽全曲集　太鼓
+never,Traditional,452231,0,false,諏訪御柱木遣〜飛竜三段返し　（御諏訪太鼓）,邦楽全曲集　太鼓
+never,Traditional,343980,0,false,安摩　（雅楽大太鼓）,邦楽全曲集　太鼓
+never,Traditional,607320,0,false,ボレロ　（鼓童）,邦楽全曲集　太鼓
+never,R&B,379898,0,false,Teenage Love Affair (Wideboys Miami Club Mix),Remixed
+never,Soundtrack,236120,0,false,Red Warrior,The Last Samurai
+never,Soundtrack,296855,0,false,Safe Passage,The Last Samurai
+never,Soundtrack,113136,0,false,Ronin,The Last Samurai
+never,Soundtrack,288888,0,false,To Know My Enemy,The Last Samurai
+never,Soundtrack,400848,0,false,Idyll's End,The Last Samurai
+never,Traditional,247640,0,false,BY THIS RIVER,Yoshida Brothers
+never,Soundtrack,146024,0,false,eRAseRmOToRpHAntOM,beatmania IIDX 17 SIRIUS ORIGINAL SOUNDTRACK [Disc 2]
+never,Traditional,272300,0,false,OVERLAND BLUES,Yoshida Brothers
+2012-11-26 01:31:22,Soundtrack,122932,1,false,水上の提督 (Short mix from "幻想水滸伝V"),beatmania IIDX 17 SIRIUS ORIGINAL SOUNDTRACK [Disc 2]
+never,Traditional,261093,0,false,PASSION,Yoshida Brothers
+2012-11-30 04:48:24,Soundtrack,124969,4,false,サヨナラ・ヘヴン,beatmania IIDX 17 SIRIUS ORIGINAL SOUNDTRACK [Disc 2]
+never,Traditional,212401,0,false,Tosa no Sunayama,Yoshida Brothers
+never,Soundtrack,151745,0,false,DAWN -THE NEXT ENDEAVOUR,beatmania IIDX 17 SIRIUS ORIGINAL SOUNDTRACK [Disc 2]
+never,Soundtrack,130690,0,false,quell ～the seventh slave～,beatmania IIDX 17 SIRIUS ORIGINAL SOUNDTRACK [Disc 2]
+2011-11-03 14:32:45,Traditional,195056,1,false,CANON,Yoshida Brothers
+2012-10-14 02:26:29,none,256574,48,false,スカイクロラ イノセンテイセス ラスボスＢＧＭ,album
+2011-12-22 10:18:20,none,242782,3,false,Linkin Park [Faint]  ～Live ver～,album
+never,none,242128,0,false,BERSERK ~Forces~  by Susumu Hirasawa,album
+2012-05-12 07:53:49,none,292101,35,false,白虎野の娘 by Susumu Hirasawa,album
+2012-11-28 02:49:08,none,234919,7,false,Susumu Hirasawa ~ Sekai Turbine,album
+2011-10-02 10:39:04,Dance & House,245995,1,false,Eternity,FLASH BEST
+2011-10-02 10:22:48,Dance & House,249364,1,false,FRUITS CLiPPER,FLASH BEST
+2011-10-02 10:26:10,Dance & House,201952,1,false,レトロメモリー,FLASH BEST
+2012-02-23 04:12:46,Dance & House,251402,2,false,more more more,FLASH BEST
+2011-10-02 10:34:58,Dance & House,277237,1,false,dreamin dreamin,FLASH BEST
+never,Alternative,325877,0,false,Gemini,SIREN
+never,Alternative,323657,0,false,Holy Delay,SIREN
+never,Alternative,342883,0,false,Siam Lights,SIREN
+never,Alternative,219271,0,false,Day Scanner,SIREN
+never,Alternative,85315,0,false,電光浴-2,SIREN
+2012-07-04 08:45:53,none,217182,3,false,Linkin Park - In The End (Video),album
+never,Soundtrack,140251,0,false,ANAGRAMS Ito Y,beatmania IIDX 19 Resort Anthem ORIGINAL SOUNDTRACK [Disc 1]
+never,Soundtrack,116218,0,false,衰色小町メランコリア,beatmania IIDX 19 Resort Anthem ORIGINAL SOUNDTRACK [Disc 1]
+2011-07-23 11:47:18,none,177293,2,false,Linkin Park - From The Inside (Video),album
+never,Soundtrack,126302,0,false,Round and Round,beatmania IIDX 19 Resort Anthem ORIGINAL SOUNDTRACK [Disc 1]
+never,Soundtrack,123454,0,false,Express Emotion,beatmania IIDX 19 Resort Anthem ORIGINAL SOUNDTRACK [Disc 1]
+never,Dance & House,751934,0,false,Spikee,1992 - 2012 The Anthology [Disc 1]
+never,Dance & House,599275,0,false,Rez,1992 - 2012 The Anthology [Disc 1]
+never,Dance & House,512104,0,false,Cowgirl,1992 - 2012 The Anthology [Disc 1]
+never,Dance & House,609515,0,false,Bigmouth,1992 - 2012 The Anthology [Disc 1]
+never,Dance & House,796891,0,false,Mmm Skyscraper I Love You,1992 - 2012 The Anthology [Disc 1]
+never,Electronica,300826,0,false,lust,[lust]
+2012-10-11 20:01:40,Electronica,453093,1,false,grief & loss,[lust]
+2012-11-29 20:17:57,Electronica,67657,1,false,long time,[lust]
+never,Electronica,600293,0,false,joy,[lust]
+2012-05-10 02:31:57,Classical,236120,1,false,Saariaho: Nymphea Reflection - 5. Furioso,Saariaho: Works For Orchestra [Disc 3]
+2012-11-30 04:06:33,Electronica,199262,47,false,owari no kisetsu,[lust]
+2011-12-25 09:18:57,none,214700,1,false,Takagi Masakatsu aqua,album
+never,Classical,384261,0,false,Saariaho: 5 Reflets De L'Amour De Loin - 1. Outremer,Saariaho: Works For Orchestra [Disc 3]
+never,Punk,228336,0,false,Defy You,Greatest Hits
+never,none,234605,0,false,05_What Ive Done_09_11_11_LP_LIVE_Tokyo,09_11_11_LP_LIVE_Tokyo
+never,Punk,179931,0,false,The Kids Aren't Alright,Greatest Hits
+never,Punk,168986,0,false,Why Don't You Get A Job?,Greatest Hits
+2012-03-17 10:24:05,none,220342,1,false,02_Faint_09_11_11_LP_LIVE_Tokyo,09_11_11_LP_LIVE_Tokyo
+2012-03-17 10:20:15,none,185861,1,false,01_Requiem_09_11_11_LP_LIVE_Tokyo,09_11_11_LP_LIVE_Tokyo
+never,Rock,155820,0,false,Punishment,VAMPIRE
+never,Rock,147513,0,false,Wanderland,VAMPIRE
+never,Rock,193880,0,false,Vampiregirl,VAMPIRE
+never,Punk,134478,0,false,(Can't Get My) Head Around You,Greatest Hits
+never,Rock,208143,0,false,Keyword,VAMPIRE
+never,Indie Rock,257593,0,false,High And Dry,The Bends
+never,Indie Rock,276767,0,false,Life In A Glass House,Amnesiac
+never,Indie Rock,237531,0,false,Like Spinning Plates,Amnesiac
+never,Indie Rock,246256,0,false,The Bends,The Bends
+never,Rock,164649,0,false,paradox,FACT
+never,none,217782,0,false,Linkin Park - Crawling,album
+never,Soundtrack,244166,0,false,エアシューター,銀の旋律、記憶の水音。
+never,Classical,219480,0,false,Saariaho: Oltra Mar - 4. Temps,Saariaho: Works For Orchestra [Disc 3]
+never,Soundtrack,113920,0,false,突撃! ガラスのニーソ姫!,beatmania IIDX 19 Resort Anthem ORIGINAL SOUNDTRACK [Disc 1]
+2012-05-10 02:39:48,Classical,278413,1,false,Saariaho: Oltra Mar - 1. Depart,Saariaho: Works For Orchestra [Disc 3]
+never,Classical,282723,0,false,Saariaho: Miranda's Lament,Saariaho: Works For Orchestra [Disc 2]
+2012-05-10 02:45:10,Classical,137743,1,false,Saariaho: Oltra Mar - 3. Vagues,Saariaho: Works For Orchestra [Disc 3]
+2012-05-10 02:42:53,Classical,185025,1,false,Saariaho: Oltra Mar - 2. Amour,Saariaho: Works For Orchestra [Disc 3]
+2011-07-23 11:35:56,none,178729,1,false,Linkin Park - From the Inside,album
+2012-10-11 20:30:50,none,192496,1,false,you ひぐらし 詩音,album
+never,none,190928,0,false,【KATE】巡音ルカ／アクアリウム【歌ってみた】,album
+2011-07-23 11:50:29,none,190537,2,false,Linkin Park - Given Up (OFFICIAL Video),album
+never,none,245185,0,false,【PV】 シギ - 輝いた 【fmt35推奨】,album
+2012-11-29 23:52:04,none,249965,1,false,403 Forbiddena - Northern Lights,album
+never,Indie Rock,351764,0,false,The National Anthem,Kid A
+never,Indie Rock,284577,0,false,Kid A,Kid A
+never,Indie Rock,251480,0,false,Everything In Its Right Place,Kid A
+never,Indie Rock,326608,0,false,The Tourist,OK Computer
+never,Indie Rock,356388,0,false,How To Disappear Completely,Kid A
+never,Jazz,384339,0,false,Pulse of the earth,First Best [Disc 2]
+never,Jazz,219219,0,false,メインストリート・エレクトリカルパレード,First Best [Disc 2]
+never,Jazz,231758,0,false,ミッキーマウス・マーチ & 星に願いを,First Best [Disc 2]
+never,Jazz,225671,0,false,さらば愛しきストレンジャー,First Best [Disc 2]
+never,Jazz,399281,0,false,Typhoon (DAISHI DANCE Remix),First Best [Disc 2]
+2012-04-11 14:26:25,none,294844,36,false,Girls [HD],album
+never,none,41299,0,false,KEI YAMAMOTO  「Lonley one」(short),album
+2012-05-22 06:54:03,none,505103,5,false,Reversus _ ELECTROCUTICA,album
+2012-05-22 07:00:54,none,304509,39,false,DYE_Re:flection_AVTechNO!×Treow,album
+never,Soundtrack,121364,0,false,Sorrows,beatmania IIDX 17 SIRIUS ORIGINAL SOUNDTRACK [Disc 2]
+2012-11-30 03:57:58,Soundtrack,124055,5,false,AIR RAID FROM THA UNDAGROUND,beatmania IIDX 17 SIRIUS ORIGINAL SOUNDTRACK [Disc 2]
+never,Pop,321410,0,false,DATA NO. 6,BEAT EXPRESS Vol. 4 [Disc 2]
+2012-08-18 03:40:05,Soundtrack,101485,3,false,bass 2 bass,beatmania IIDX 17 SIRIUS ORIGINAL SOUNDTRACK [Disc 2]
+2012-08-18 03:41:53,Soundtrack,108068,1,false,IN THE NAME OF LOVE,beatmania IIDX 17 SIRIUS ORIGINAL SOUNDTRACK [Disc 2]
+2012-10-13 16:21:14,Soundtrack,99552,2,false,Special One,beatmania IIDX 17 SIRIUS ORIGINAL SOUNDTRACK [Disc 2]
+2012-10-11 20:20:38,Pop,323735,1,false,サンデーバザール,BEAT EXPRESS Vol. 4 [Disc 2]
+never,Pop,339565,0,false,せいいっぱい,BEAT EXPRESS Vol. 4 [Disc 2]
+never,Pop,213577,0,false,MY LOVER,BEAT EXPRESS Vol. 4 [Disc 2]
+never,Pop,269897,0,false,ゲンキ力爆弾,BEAT EXPRESS Vol. 4 [Disc 2]
+never,R&B,230948,0,false,No One (Jony Rockstar Mix),Remixed
+never,R&B,212453,0,false,Karma (Reggaeton Mix),Remixed
+2012-10-13 16:28:08,R&B,231079,1,false,Like You'll Never See Me Again (Jony Rockstar Mix),Remixed
+never,R&B,224417,0,false,Like You'll Never See Me Again (Seiji Mix),Remixed
+never,R&B,292989,0,false,No One (Salaam Remi Mix),Remixed
+never,Soundtrack,344528,0,false,A Hard Teacher,The Last Samurai
+never,Soundtrack,216058,0,false,Taken,The Last Samurai
+never,Soundtrack,247562,0,false,Spectres In The Fog,The Last Samurai
+never,Soundtrack,483761,0,false,A Way Of Life,The Last Samurai
+never,Reggae,144953,0,false,Going To Fair,The Real Rock Reggae Sunsplash - DJ's Best Performances
+2011-11-03 14:35:33,Traditional,154383,1,false,ERGHEN DIADO(SONG OF SCHOPSKO),Yoshida Brothers
+never,Traditional,138736,0,false,津軽じょっぱり太鼓　（津軽大太鼓）,邦楽全曲集　太鼓
+never,Traditional,459833,0,false,秩父太鼓　（秩父太鼓）,邦楽全曲集　太鼓
+never,Traditional,188238,0,false,春雷　（大江戸助六太鼓）,邦楽全曲集　太鼓
+2012-10-11 20:27:14,Traditional,280973,1,false,Fuyu no Sakura,Yoshida Brothers
+2011-07-11 08:59:37,none,280555,2,false,平沢進－確率の丘,album
+never,none,343196,0,false,Parade,album
+never,none,328333,0,false,Check_This,DTM初心者コンピ/ADVANCE
+never,none,230896,0,false,Susumu Hirasawa - TOWN-0 PHASE-5,album
+never,none,266788,0,false,Susumu Hirasawa - 賢者のプロペラ,album
+never,none,368822,0,false,Ghost Dancing in Styx,DTM初心者コンピ/ADVANCE
+2011-09-22 07:26:11,none,296359,1,false,平沢進  - RIDE THE BLUE LIMBO,album
+2012-10-20 11:07:18,none,87510,1,false,戦闘潮流,DTM初心者コンピ/ADVANCE
+never,none,165616,0,false,Fear to 「Nostalgia...」,DTM初心者コンピ/ADVANCE
+never,none,342099,0,false,雨ヶ崎　～Rain of the Fantasy,DTM初心者コンピ/ADVANCE
+2011-10-02 10:18:39,Dance & House,336404,1,false,Starry Sky,FLASH BEST
+never,Dance & House,413570,0,false,JUMPER (Live mix),FLASH BEST
+never,Dance & House,316943,0,false,jelly (rmx ver.),FLASH BEST
+2011-10-02 10:13:02,Dance & House,367151,1,false,FLASH BACK (Extended-Live mix),FLASH BEST
+never,Dance & House,412551,0,false,グライダー (rmx ver. _ Live edit),FLASH BEST
+never,none,184268,0,false,幻想,album
+never,Alternative,329639,0,false,サイレン *Siren* オリジナル・カラオケ,SIREN
+never,none,197590,0,false,腐れ外道とチョコレイトêO¹Æ`Rîg@JIP_pinokiop_201110300314,album
+never,Alternative,423523,0,false,Mermaid Song,SIREN
+never,Alternative,167967,0,false,電光浴 (default vesion),SIREN
+never,Alternative,495072,0,false,Bleed It Out [Live],Road To Revolution: Live At Milton Keynes
+never,none,201090,0,false,等身大ver3,album
+never,Alternative,198844,0,false,Pushing Me Away [Live],Road To Revolution: Live At Milton Keynes
+never,Alternative,301818,0,false,What I've Done [Live],Road To Revolution: Live At Milton Keynes
+2012-10-11 14:45:25,Alternative,181942,1,false,Numb _ Encore [Live],Road To Revolution: Live At Milton Keynes
+2012-10-11 14:50:35,Alternative,310595,1,false,Jigga What _ Faint [Live],Road To Revolution: Live At Milton Keynes
+2012-10-13 16:42:23,none,215118,2,false,バビロン 歌ってみた【りぶ】,album
+2012-11-29 20:36:41,Electronica,266788,1,false,last night,[lust]
+never,none,651311,0,false,KmtKsk_西田修大 8StepCuttingSequencer for bass and improvisation,album
+2012-10-11 15:20:56,none,513149,1,false,Ultravisitor,album
+2012-05-22 07:11:44,none,406465,7,false,「Drain」_ELECTROCUTICA,album
+2012-11-29 20:47:24,Electronica,363937,1,false,first period,[lust]
+2011-06-03 22:21:37,Instrumental,92290,1,false,孤独～音列技法～,album
+2011-12-22 10:23:47,none,327079,1,false,JCJC,album
+never,Soundtrack,113684,0,false,Hydrogen Blueback,beatmania IIDX 17 SIRIUS ORIGINAL SOUNDTRACK [Disc 1]
+2012-11-24 14:32:37,Soundtrack,129906,1,false,Raison d'etre ～交差する宿命～,beatmania IIDX 17 SIRIUS ORIGINAL SOUNDTRACK [Disc 1]
+never,Soundtrack,111098,0,false,Chocolate Dancing,beatmania IIDX 17 SIRIUS ORIGINAL SOUNDTRACK [Disc 1]
+2011-06-21 14:42:19,none,195160,2,false,【MAD】修羅－full－【戦国無双】,album
+never,Soundtrack,102164,0,false,Do Back Burn,beatmania IIDX 17 SIRIUS ORIGINAL SOUNDTRACK [Disc 1]
+never,Soundtrack,127242,0,false,MIRACLE MEETS,beatmania IIDX 17 SIRIUS ORIGINAL SOUNDTRACK [Disc 1]
+2012-11-28 03:11:27,none,283924,1,false,U2 Still Haven't Found (with lyrics),album
+never,none,324963,0,false,《合唱》『炉心融解』を合わせてみました,album
+2012-11-29 22:26:27,Indie Rock,239386,1,false,Around The World,Musique Vol.1 1993-2005 [Bonus Track]
+never,Punk,112613,0,false,All I Want,Greatest Hits
+never,Punk,267781,0,false,Gone Away,Greatest Hits
+never,Punk,257828,0,false,Self Esteem,Greatest Hits
+never,Punk,231888,0,false,Gotta Get Away,Greatest Hits
+2012-10-11 20:27:37,none,23849,3,false,BEAT2,伊藤 隆行 のアルバム
+2012-11-30 02:46:52,none,530285,2,false,U2 11 O'Clock Tick Tock _ Won't Get Fooled Again,album
+2011-06-08 09:28:05,none,23849,1,false,BEAT3,伊藤 隆行 のアルバム
+2012-11-29 22:16:59,Indie Rock,413492,1,false,Musique,Musique Vol.1 1993-2005 [Bonus Track]
+never,Punk,188734,0,false,Pretty Fly (For A White Guy),Greatest Hits
+2012-11-29 22:22:28,Indie Rock,328751,1,false,Da Funk,Musique Vol.1 1993-2005 [Bonus Track]
+never,none,127602,0,false,Memories_in_hands,album
+2011-08-18 04:04:42,none,405786,2,false,U2 October & New Year's Day Live,album
+never,Soundtrack,207542,0,false,Spiritual Garden,銀の旋律、記憶の水音。
+never,Soundtrack,251062,0,false,fancy baby doll,銀の旋律、記憶の水音。
+never,Soundtrack,359523,0,false,優しい夜に。,銀の旋律、記憶の水音。
+2012-02-28 11:12:51,none,105539,2,false,西より来たりて,album
+never,Rock,237505,0,false,The World [Album ver.],VAMPIRE
+never,Rock,180323,0,false,Butterfly Effect,VAMPIRE
+never,Rock,230635,0,false,Termination,VAMPIRE
+never,Rock,220368,0,false,Sundome,VAMPIRE
+never,Rock,227892,0,false,Battle March,VAMPIRE
+never,Classical,214726,0,false,Saariaho: Oltra Mar - 7. Arrivee,Saariaho: Works For Orchestra [Disc 3]
+2012-05-10 02:16:52,Classical,211983,1,false,Saariaho: Nymphea Reflection - 1. Sostenuto,Saariaho: Works For Orchestra [Disc 3]
+never,Classical,70191,0,false,Saariaho: Oltra Mar - 5. Souvenir De Vagues,Saariaho: Works For Orchestra [Disc 3]
+never,Classical,217913,0,false,Saariaho: Oltra Mar - 6. Mort,Saariaho: Works For Orchestra [Disc 3]
+2012-05-10 02:20:30,Classical,218462,1,false,Saariaho: Nymphea Reflection - 2. Feroce,Saariaho: Works For Orchestra [Disc 3]
+never,none,261642,0,false,初音ミクのちょっとアレな曲14 脱げばいいってモンじゃない！ -Full ver.-,album
+2011-06-21 15:21:06,none,287947,2,false,「ブラック★ロックシューター」を歌ってみた（halyosy ver.）,album
+2011-06-21 15:00:41,none,257724,2,false,「メルト」を歌ってみた（男性キー上げVer.）,album
+2011-06-03 22:10:59,none,285675,1,false,【PV】DISCO FLIGHT ／ 凛として時雨,album
+2011-09-15 09:18:37,none,252577,3,false,もってけセーラー服full.ver,album
+never,Indie Rock,316029,0,false,Optimistic,Kid A
+never,Indie Rock,222667,0,false,Treefingers,Kid A
+never,Indie Rock,309159,0,false,Idioteque,Kid A
+never,Indie Rock,211069,0,false,In Limbo,Kid A
+never,Indie Rock,275853,0,false,Morning Bell,Kid A
+never,Indie Rock,291787,0,false,Dollars & Cents,Amnesiac
+never,Indie Rock,194324,0,false,Morning Bell_Amnesiac,Amnesiac
+never,none,4163761,0,false,交響組曲AKIRA　～Full～,album
+2012-11-30 00:49:01,none,185861,1,false,【Vin】バイビーベイビーサヨウナラ【吐いてみた】,album
+2012-10-11 20:58:25,none,258324,3,false,凛として時雨　DISCO FLIGHT (Piano Cover),album
+never,Indie Rock,121260,0,false,Hunting Bears,Amnesiac
+2012-11-26 00:04:26,Metal,502517,1,false,Take The Time (2007 Remix),Greatest Hit (...And 21 Other Pretty Cool Songs) [Disc 1]
+never,Jazz,263418,0,false,クロノ・トリガー [風の憧憬],First Best [Disc 2]
+never,Jazz,224626,0,false,夜想曲第2番変ホ長調Op.9-2,First Best [Disc 2]
+2012-11-25 23:56:03,Metal,493688,1,false,Pull Me Under (2007 Remix),Greatest Hit (...And 21 Other Pretty Cool Songs) [Disc 1]
+never,Jazz,324911,0,false,FINAL FANTASY [ビッグブリッヂの死闘～妖星乱舞～片翼の天使],First Best [Disc 2]
+2011-07-02 04:15:32,Rock,241449,3,false,knife vacation,Inspiration is DEAD
+never,none,230530,0,false,04_Given Up_09_11_11_LP_LIVE_Tokyo,09_11_11_LP_LIVE_Tokyo
+never,none,179931,0,false,03_Lying From You_09_11_11_LP_LIVE_Tokyo,09_11_11_LP_LIVE_Tokyo
+never,none,259882,0,false,3,富嶽祭2012音楽部発表
+2011-08-18 04:36:00,none,317596,4,false,U2 Until The End Of The World,album
+never,Punk,202240,0,false,Want You Bad,Greatest Hits
+never,Punk,221100,0,false,Original Prankster,Greatest Hits
+2012-10-11 15:25:32,Soundtrack,122305,1,false,GOLDEN CROSS,beatmania IIDX 17 SIRIUS ORIGINAL SOUNDTRACK [Disc 2]
+2012-11-22 00:49:55,Soundtrack,136437,1,false,SOLID STATE SQUAD,beatmania IIDX 17 SIRIUS ORIGINAL SOUNDTRACK [Disc 2]
+never,Soundtrack,122984,0,false,BEAUTIFUL ANGEL,beatmania IIDX 17 SIRIUS ORIGINAL SOUNDTRACK [Disc 2]
+never,Soundtrack,134138,0,false,The Story Begins,beatmania IIDX 17 SIRIUS ORIGINAL SOUNDTRACK [Disc 2]
+never,Soundtrack,130168,0,false,THE LAST STRIKER,beatmania IIDX 17 SIRIUS ORIGINAL SOUNDTRACK [Disc 2]
+never,Reggae,138684,0,false,Dibby Dibby,The Real Rock Reggae Sunsplash - DJ's Best Performances
+never,Reggae,159477,0,false,Count Out,The Real Rock Reggae Sunsplash - DJ's Best Performances
+never,Reggae,151170,0,false,DJ Directory,The Real Rock Reggae Sunsplash - DJ's Best Performances
+never,Reggae,174419,0,false,History Of Jamaica,The Real Rock Reggae Sunsplash - DJ's Best Performances
+never,Reggae,242337,0,false,Strong Dollars~Turn Off The Pipe,The Real Rock Reggae Sunsplash - DJ's Best Performances
+never,none,195813,0,false,Armored Core Original Best Track - Ambiguity,album
+never,none,178181,0,false,竹取飛翔　～Osara Compilations～,DTM初心者コンピ/ADVANCE
+never,none,303516,0,false,aphex twin - vordhosbn,album
+never,none,303751,0,false,TRY to IMAGINE,DTM初心者コンピ/ADVANCE
+never,none,343405,0,false,Aphex Twin - Window Licker,album
+never,none,174968,0,false,moonlight monster,DTM初心者コンピ/ADVANCE
+never,none,350197,0,false,aphex twin - come to daddy,album
+never,none,129933,0,false,dolphin,DTM初心者コンピ/ADVANCE
+never,none,235964,0,false,Aphex Twin - Donkey Rhubarb,album
+never,none,345939,0,false,Autumn sky,DTM初心者コンピ/ADVANCE
+never,Alternative,384496,0,false,ナーシサス次元から来た人,救済の技法
+never,Alternative,343092,0,false,GHOST BRIDGE,救済の技法
+never,Alternative,280737,0,false,庭師KING,救済の技法
+never,Alternative,379820,0,false,MOON TIME,救済の技法
+never,Alternative,416182,0,false,万象の奇夜,救済の技法
+2011-11-30 08:04:24,none,205616,36,false,A_lodging_house2 2,album
+2012-10-13 16:47:10,none,287216,1,false,Face to your heart10,album
+never,none,110053,0,false,Jailbreak,knit APPEND
+never,Rock,209136,0,false,Trigger,VAMPIRE
+never,none,312726,0,false,悪の召使,album
+2011-11-25 04:22:03,none,289306,1,false,からくりピエロ（inst．ver）[マスタリング済]_pianica_201110292222,album
+never,Alternative,230478,0,false,In The End [Live],Road To Revolution: Live At Milton Keynes
+never,Alternative,264698,0,false,Breaking The Habit [Live],Road To Revolution: Live At Milton Keynes
+never,Alternative,439640,0,false,The Little Things Give You Away [Live],Road To Revolution: Live At Milton Keynes
+never,Alternative,297900,0,false,Crawling [Live],Road To Revolution: Live At Milton Keynes
+never,Alternative,257123,0,false,Shadow Of The Day [Live],Road To Revolution: Live At Milton Keynes
+never,Soundtrack,253622,0,false,サヨナラの空,銀魂 Best 2
+2012-10-11 20:15:15,Soundtrack,247823,1,false,ワンダフルデイズ,銀魂 Best 2
+never,Soundtrack,249600,0,false,WAVE,銀魂 Best 2
+never,Soundtrack,227526,0,false,風のごとく,銀魂 Best 2
+never,Soundtrack,281495,0,false,可能性ガール,銀魂 Best 2
+never,Soundtrack,122331,0,false,D,beatmania IIDX 17 SIRIUS ORIGINAL SOUNDTRACK [Disc 1]
+never,Soundtrack,128444,0,false,EXUSIA,beatmania IIDX 17 SIRIUS ORIGINAL SOUNDTRACK [Disc 1]
+never,Soundtrack,106762,0,false,mosaic,beatmania IIDX 17 SIRIUS ORIGINAL SOUNDTRACK [Disc 1]
+never,Soundtrack,130533,0,false,G59,beatmania IIDX 17 SIRIUS ORIGINAL SOUNDTRACK [Disc 1]
+2012-08-13 10:32:54,Soundtrack,138448,1,false,ワルツ第17番 ト短調 "大犬のワルツ",beatmania IIDX 17 SIRIUS ORIGINAL SOUNDTRACK [Disc 1]
+2012-02-28 00:52:53,Soundtrack,13740,1,false,Theme from jubeat copious,jubeat copious ORIGINAL SOUNDTRACK
+never,Soundtrack,69877,0,false,glitter,jubeat copious ORIGINAL SOUNDTRACK
+2012-11-29 22:50:38,Indie Rock,225619,2,false,Harder_ Better_ Faster_ Stronger,Musique Vol.1 1993-2005 [Bonus Track]
+never,Soundtrack,44251,0,false,companion,jubeat copious ORIGINAL SOUNDTRACK
+never,Soundtrack,67343,0,false,comet,jubeat copious ORIGINAL SOUNDTRACK
+never,Soundtrack,38817,0,false,satellite,jubeat copious ORIGINAL SOUNDTRACK
+2012-11-29 22:35:28,Indie Rock,316316,1,false,Alive,Musique Vol.1 1993-2005 [Bonus Track]
+2012-11-29 22:30:11,Indie Rock,224235,1,false,Revolution 909,Musique Vol.1 1993-2005 [Bonus Track]
+2012-11-29 22:46:53,Indie Rock,236408,3,false,One More Time,Musique Vol.1 1993-2005 [Bonus Track]
+2012-11-29 22:42:56,Indie Rock,448705,1,false,Rollin' & Scratchin',Musique Vol.1 1993-2005 [Bonus Track]
+never,Indie Rock,259265,0,false,Planet Telex,The Bends
+never,Rock,231549,0,false,Heart-Shaped Gear,VAMPIRE
+never,Rock,176352,0,false,砂の惑星,VAMPIRE
+2012-10-11 15:58:00,Rock,207516,2,false,Sleepwalk,VAMPIRE
+2011-10-23 13:46:00,Rock,168071,1,false,Heat-Island [Album ver.],VAMPIRE
+2011-10-23 13:43:12,Rock,193436,19,false,Discommunication,VAMPIRE
+2012-05-10 02:24:45,Classical,255007,1,false,Saariaho: Nymphea Reflection - 3. Dolcissimo,Saariaho: Works For Orchestra [Disc 3]
+2012-05-10 02:28:01,Classical,196597,1,false,Saariaho: Nymphea Reflection - 4. Lento Espressivo,Saariaho: Works For Orchestra [Disc 3]
+2012-11-28 02:36:36,none,288287,3,false,サカナクション／アルクアラウンド,album
+2012-05-10 02:35:09,Classical,191973,1,false,Saariaho: Nymphea Reflection - 6. Misterioso,Saariaho: Works For Orchestra [Disc 3]
+2012-01-11 17:46:51,none,252107,2,false,Extork,album
+2012-04-07 13:12:37,none,243304,23,false,サカナクション／『バッハの旋律を夜に聴いたせいです。』,album
+2012-01-11 17:52:15,none,324310,1,false,Kortisin,album
+2012-01-11 15:24:13,none,250383,1,false,All is full of love,album
+2012-11-22 00:59:38,Soundtrack,121155,1,false,聖人の塔,beatmania IIDX 19 Resort Anthem ORIGINAL SOUNDTRACK [Disc 2]
+never,Soundtrack,117133,0,false,In the Blackest Den,beatmania IIDX 19 Resort Anthem ORIGINAL SOUNDTRACK [Disc 2]
+2012-11-24 14:37:52,Soundtrack,125257,2,false,Scharfrichter,beatmania IIDX 19 Resort Anthem ORIGINAL SOUNDTRACK [Disc 2]
+never,Soundtrack,118935,0,false,The Sampling Paradise,beatmania IIDX 19 Resort Anthem ORIGINAL SOUNDTRACK [Disc 2]
+2012-11-22 01:01:48,Soundtrack,129906,1,false,Todestrieb,beatmania IIDX 19 Resort Anthem ORIGINAL SOUNDTRACK [Disc 2]
+2011-06-21 16:49:56,none,300382,3,false,「Just Be Friends」を歌ってみた（halyosy ver.）,album
+never,none,215208,0,false,110528_010,album
+2012-09-08 15:06:12,none,195761,1,false,rollin_inst,album
+2011-06-03 21:23:29,none,195813,1,false,ローリンガール,album
+never,none,195761,0,false,rollin_inst 2,album
+2011-06-20 15:08:49,Indie Rock,325694,1,false,Stop Whispering,Pablo Honey
+2011-06-20 15:01:12,Indie Rock,235728,1,false,Creep,Pablo Honey
+2011-06-20 15:03:24,Indie Rock,132231,1,false,How Do You?,Pablo Honey
+never,Indie Rock,421537,0,false,Motion Picture Soundtrack,Kid A
+2011-10-23 14:03:22,Indie Rock,208744,1,false,You,Pablo Honey
+2012-10-11 15:12:23,none,200542,1,false,Sunrize 【星野康太】,album
+never,none,240744,0,false,22_One Step Closer_09_11_11_LP_LIVE_Tokyo,09_11_11_LP_LIVE_Tokyo
+never,none,189048,0,false,110523_001,album
+never,none,216372,0,false,21_Crawling_09_11_11_LP_LIVE_Tokyo,09_11_11_LP_LIVE_Tokyo
+2012-11-26 01:20:13,none,211487,1,false,歩けない猫,album
+2012-10-14 02:47:24,none,266736,21,false,Oasis (Higashi no Eden OP),album
+2012-11-29 23:29:27,Rock,186305,2,false,幻想インサニティ,album
+never,Indie Rock,247327,0,false,Pulk_Pull Revolving Doors,Amnesiac
+never,Indie Rock,191059,0,false,You And Whose Army?,Amnesiac
+2012-04-07 12:13:26,none,218566,16,false,紅い眼鏡_エンディングタイトル,album
+2011-06-24 15:14:33,Rock,284630,1,false,1_fの感触,Inspiration is DEAD
+2011-06-03 22:39:48,none,253074,2,false,【歌ってみた】ワールドイズマイン【titoce】,album
+2012-11-28 03:53:23,none,250070,1,false,U2 - Beautiful Day,album
+never,Soundtrack,127503,0,false,Kickin' Heavy Jam,SYNTHESIZED 4 [Bonus Disc]
+never,Punk,168306,0,false,Hit That,Greatest Hits
+2011-06-24 15:19:14,Rock,280502,1,false,i not crazy am you are,Inspiration is DEAD
+never,Soundtrack,71444,0,false,Breakin' -Demo-,SYNTHESIZED 4 [Bonus Disc]
+never,Soundtrack,139441,0,false,Comin' Up Next,SYNTHESIZED 4 [Bonus Disc]
+never,Soundtrack,139520,0,false,Reaktronika Division,SYNTHESIZED 4 [Bonus Disc]
+never,Soundtrack,94484,0,false,Breakin',SYNTHESIZED 4 [Bonus Disc]
+never,none,232280,0,false,【初音ミク】ワロングフル・ディテンション【オリジナル曲】,album
+2012-11-26 00:27:04,Metal,314827,1,false,Misunderstood (Edited Version),Greatest Hit (...And 21 Other Pretty Cool Songs) [Disc 1]
+2012-11-26 00:21:49,Metal,338703,1,false,Home (Edited Version),Greatest Hit (...And 21 Other Pretty Cool Songs) [Disc 1]
+never,Rock,370390,0,false,夕景の記憶,Inspiration is DEAD
+2012-11-26 00:16:10,Metal,402964,1,false,Peruvian Skies,Greatest Hit (...And 21 Other Pretty Cool Songs) [Disc 1]
+2012-11-26 00:09:27,Metal,301871,1,false,Lie (Edited Version),Greatest Hit (...And 21 Other Pretty Cool Songs) [Disc 1]
+2012-11-26 00:32:04,Metal,300747,1,false,The Test That Stumped Them All,Greatest Hit (...And 21 Other Pretty Cool Songs) [Disc 1]
+never,none,501368,0,false,6,富嶽祭2012音楽部発表
+never,none,268591,0,false,5,富嶽祭2012音楽部発表
+never,none,216528,0,false,4,富嶽祭2012音楽部発表
+never,none,259944,0,false,3,富嶽祭2012音楽部発表
+never,none,296411,0,false,2,富嶽祭2012音楽部発表
+never,Reggae,81449,0,false,Rumour Rhythm,The Real Rock Reggae Sunsplash - DJ's Best Performances
+never,Reggae,181733,0,false,Rule The Nation,The Real Rock Reggae Sunsplash - DJ's Best Performances
+never,Reggae,124499,0,false,Listen To The Don,The Real Rock Reggae Sunsplash - DJ's Best Performances
+never,Reggae,178155,0,false,Take Time To Know~Love Me,The Real Rock Reggae Sunsplash - DJ's Best Performances
+never,Reggae,159660,0,false,In The Ghetto,The Real Rock Reggae Sunsplash - DJ's Best Performances
+never,none,133982,0,false,ボーカルはオルガン,DTM初心者コンピ/ADVANCE
+2012-07-04 07:29:33,none,309214,1,false,PrintMusic 2010J,album
+never,none,151170,0,false,Mindsets_Tour,DTM初心者コンピ/ADVANCE
+2011-08-15 23:15:11,none,276662,13,false,少女革命ウテナ OP「輪舞-revoiution」（奥井雅美）,album
+2012-10-20 10:56:28,none,224444,1,false,ADVANCE,DTM初心者コンピ/ADVANCE
+never,none,270027,0,false,少女革命ウテナ OP 輪舞revolution(FULL),album
+never,none,300982,0,false,Altocumulus,DTM初心者コンピ/ADVANCE
+2012-05-12 07:57:52,none,242128,55,false,BERSERK ~Forces~  by Susumu Hirasawa,album
+2012-11-30 01:04:38,none,141374,1,false,PAINT IT BRIGHT,DTM初心者コンピ/ADVANCE
+2012-04-18 13:24:49,none,417410,29,false,The Sky Crawlers Music' Adler Tag,album
+2011-10-02 10:44:08,Dance & House,304013,1,false,I'm Feeling You,FLASH BEST
+2011-10-02 10:49:17,Dance & House,308819,1,false,空飛ぶ都市計画,FLASH BEST
+2011-10-02 10:53:11,Dance & House,234710,1,false,人類の進歩と調和,FLASH BEST
+2011-10-02 10:57:21,Dance & House,249704,1,false,Sugarless GiRL,FLASH BEST
+never,Alternative,275826,0,false,TOWN-0 PHASE-5,救済の技法
+2011-12-25 09:15:23,none,316630,4,false,メルトダウン　タイマーズ,album
+2011-12-20 01:20:01,none,61306,4,false,ホワイトノイズ,album
+2011-12-20 00:23:44,none,193000,3,false,音之川(Stereo mix),album
+2012-11-29 20:59:25,none,720953,4,false,イモ,album
+never,none,5043171,0,false,5TH_GMF_ENSEMBLE_MIXT_DVD,album
+never,Alternative,203937,0,false,Leave Out All the Rest [Live],Road To Revolution: Live At Milton Keynes
+never,Alternative,86648,0,false,Hands Held High [Live],Road To Revolution: Live At Milton Keynes
+never,Alternative,199497,0,false,Living From You [Live],Road To Revolution: Live At Milton Keynes
+never,Alternative,195657,0,false,Given Up [Live],Road To Revolution: Live At Milton Keynes
+never,Alternative,226194,0,false,Numb [Live],Road To Revolution: Live At Milton Keynes
+2011-10-02 08:39:24,Soundtrack,174080,2,false,バクチ・ダンサー,銀魂 Best 2
+2012-04-16 02:03:35,none,264594,47,false,remember -on your memories- by Kota Hoshino,album
+never,Soundtrack,244767,0,false,桜音,銀魂 Best 2
+never,Soundtrack,218148,0,false,僕たちの季節,銀魂 Best 2
+2012-11-29 23:47:54,Soundtrack,243226,1,false,IN MY LIFE,銀魂 Best 2
+never,Soundtrack,255346,0,false,カートニアゴ,銀魂 Best 2
+2012-11-29 21:06:51,Soundtrack,137142,1,false,たからもの,beatmania IIDX 17 SIRIUS ORIGINAL SOUNDTRACK [Disc 2]
+never,Soundtrack,100519,0,false,Almagest,beatmania IIDX 17 SIRIUS ORIGINAL SOUNDTRACK [Disc 1]
+never,Soundtrack,125440,0,false,DROP,beatmania IIDX 17 SIRIUS ORIGINAL SOUNDTRACK [Disc 2]
+never,Soundtrack,133564,0,false,Roots of my way!,beatmania IIDX 17 SIRIUS ORIGINAL SOUNDTRACK [Disc 2]
+never,Soundtrack,115043,0,false,未来のプリズム,beatmania IIDX 17 SIRIUS ORIGINAL SOUNDTRACK [Disc 2]
+2012-11-28 03:49:13,none,176640,2,false,U2 - "DESIRE" Live from Slane Castle - 2001,album
+never,Soundtrack,125100,0,false,Red Goose,jubeat copious ORIGINAL SOUNDTRACK
+2012-11-30 00:41:22,Soundtrack,113162,3,false,量子の海のリントヴルム,jubeat copious ORIGINAL SOUNDTRACK
+never,Soundtrack,214595,0,false,Jailbreak (Long Version),jubeat copious ORIGINAL SOUNDTRACK
+never,Soundtrack,105142,0,false,陽炎,jubeat copious ORIGINAL SOUNDTRACK
+never,Soundtrack,224365,0,false,うらもからだも落花微塵 (Long Version),jubeat copious ORIGINAL SOUNDTRACK
+2011-10-23 13:39:59,Rock,169456,2,false,Psychopolis,VAMPIRE
+never,Rock,248006,0,false,seacret cm,just A moment
+2012-02-23 04:43:01,Rock,270001,12,false,Telecastic fake show,just A moment
+2012-02-23 04:48:23,Rock,322298,12,false,mib126,just A moment
+never,Rock,438804,0,false,moment A rhythm (short ver.),just A moment
+never,none,284232,0,false,8,富嶽祭2012音楽部発表
+never,none,542499,0,false,9,富嶽祭2012音楽部発表
+never,Classical,444813,0,false,Saariaho: 5 Reflets De L'Amour De Loin - 3. L'Amour De Loin,Saariaho: Works For Orchestra [Disc 3]
+never,Classical,305266,0,false,Saariaho: 5 Reflets De L'Amour De Loin - 2. Songe,Saariaho: Works For Orchestra [Disc 3]
+never,Classical,301113,0,false,Saariaho: 5 Reflets De L'Amour De Loin - 5. Vers Toi Qui Es Si Loin,Saariaho: Works For Orchestra [Disc 3]
+never,Classical,332512,0,false,Saariaho: 5 Reflets De L'Amour De Loin - 4. Si La Mort Pouvait Attendre,Saariaho: Works For Orchestra [Disc 3]
+never,none,199079,0,false,Limit To Your Love,album
+never,Classical,418168,0,false,Saariaho: Orion - 1. Memento Mori,Saariaho: Works For Orchestra [Disc 4]
+2012-10-14 02:39:15,none,211382,27,false,LAMA,album
+2012-04-16 01:55:06,none,227291,29,false,サカナクション ／ エンドレス,album
+never,none,282435,0,false,ロミオとシンデレラを歌ってみた　verよっぺい,album
+2012-11-22 01:04:01,Soundtrack,133067,1,false,NNRT,beatmania IIDX 19 Resort Anthem ORIGINAL SOUNDTRACK [Disc 2]
+never,none,241136,0,false,ローリンガールをギターロックにアレンジしてみた,album
+2012-11-22 01:06:05,Soundtrack,124055,1,false,The Limbo,beatmania IIDX 19 Resort Anthem ORIGINAL SOUNDTRACK [Disc 2]
+2011-09-15 09:22:20,none,196101,1,false,【エコノミー回避】『ローリンガール』を英語で歌ってみた【みつむし】,album
+2012-07-04 08:52:12,none,378853,1,false,くるり - ばらの花 ～ Rei Harakami remix,album
+never,none,161071,0,false,「サイハテ」歌ってみた,album
+2012-11-22 01:10:31,Soundtrack,132780,1,false,天空の夜明け,beatmania IIDX 19 Resort Anthem ORIGINAL SOUNDTRACK [Disc 2]
+never,Soundtrack,197302,0,false,Express Emotion (Extended ver.),beatmania IIDX 19 Resort Anthem ORIGINAL SOUNDTRACK [Disc 2]
+never,none,91062,0,false,リア充が「リア充爆発しろ！」を歌ってみた【まなたんとここたん】,album
+2011-06-20 15:23:57,Indie Rock,145449,1,false,Prove Yourself,Pablo Honey
+2011-06-20 15:11:31,Indie Rock,161593,1,false,Thinking About You,Pablo Honey
+2011-06-20 15:15:09,Indie Rock,217861,1,false,Anyone Can Play Guitar,Pablo Honey
+2011-06-20 15:18:18,Indie Rock,189805,1,false,Ripcord,Pablo Honey
+2011-06-20 15:21:31,Indie Rock,192731,1,false,Vegetable,Pablo Honey
+never,none,387709,0,false,Slipknot - Before I Forget - Live At Download 2009 (HQ),album
+never,none,403931,0,false,Slipknot-Sic (Live @ Download Festival 2009) [HQ],album
+never,none,388284,0,false,Slipknot - Everything Ends - Live At Download 2009 (HQ),album
+never,none,289227,0,false,20_New Divide_09_11_11_LP_LIVE_Tokyo,09_11_11_LP_LIVE_Tokyo
+never,none,305737,0,false,Slipknot - Disasterpiece - Live At Download 2009 (HQ),album
+never,none,335725,0,false,18_When They Come For Me_09_11_11_LP_LIVE_Tokyo,09_11_11_LP_LIVE_Tokyo
+never,none,339356,0,false,NICO Touches the Walls Broken Youth live_flv,album
+never,none,189100,0,false,19_Papercut_09_11_11_LP_LIVE_Tokyo,09_11_11_LP_LIVE_Tokyo
+never,none,213289,0,false,16_In The End_09_11_11_LP_LIVE_Tokyo,09_11_11_LP_LIVE_Tokyo
+never,none,588669,0,false,17_Bleed It Out_09_11_11_LP_LIVE_Tokyo,09_11_11_LP_LIVE_Tokyo
+never,Soundtrack,238994,0,false,Dig It Like This,SYNTHESIZED 4 [Bonus Disc]
+never,Soundtrack,120032,0,false,High Boost,SYNTHESIZED 4 [Bonus Disc]
+never,Soundtrack,196388,0,false,Engage,SYNTHESIZED 4 [Bonus Disc]
+never,Soundtrack,243043,0,false,Protocontrol,SYNTHESIZED 4 [Bonus Disc]
+never,Soundtrack,93466,0,false,Scream,SYNTHESIZED 4 [Bonus Disc]
+never,Rock,219846,0,false,Lady Writer,Communique
+2012-11-24 16:05:21,Rock,316160,1,false,Once Upon A Time In The West,Communique
+never,Rock,253962,0,false,News,Communique
+never,Rock,225671,0,false,Where Do You Think You're Going?,Communique
+never,Rock,343196,0,false,Communique,Communique
+2012-11-26 00:39:19,Metal,434991,1,false,As I Am,Greatest Hit (...And 21 Other Pretty Cool Songs) [Disc 1]
+never,Metal,683676,0,false,Endless Sacrifice,Greatest Hit (...And 21 Other Pretty Cool Songs) [Disc 1]
+never,Metal,436271,0,false,The Root Of All Evil,Greatest Hit (...And 21 Other Pretty Cool Songs) [Disc 1]
+never,Metal,581616,0,false,Sacrificed Sons,Greatest Hit (...And 21 Other Pretty Cool Songs) [Disc 1]
+never,Metal,265221,0,false,Another Day (2007 Remix),Greatest Hit (...And 21 Other Pretty Cool Songs) [Disc 2]
+never,none,218514,0,false,1,富嶽祭2012音楽部発表
+2012-08-18 03:45:23,Soundtrack,110497,2,false,Evans,beatmania IIDX 17 SIRIUS ORIGINAL SOUNDTRACK [Disc 2]
+never,Soundtrack,255059,0,false,Last Burning (Extended Mix),beatmania IIDX 17 SIRIUS ORIGINAL SOUNDTRACK [Disc 2]
+2012-10-11 15:00:01,Soundtrack,208300,1,false,Programmed Sun (xac Antarctic Ocean mix),beatmania IIDX 17 SIRIUS ORIGINAL SOUNDTRACK [Disc 2]
+never,none,171818,0,false,Asami,album
+never,Reggae,111333,0,false,Sorry,The Real Rock Reggae Sunsplash - DJ's Best Performances
+never,Reggae,189152,0,false,Relationship,The Real Rock Reggae Sunsplash - DJ's Best Performances
+never,Reggae,199915,0,false,Lazy Body,The Real Rock Reggae Sunsplash - DJ's Best Performances
+never,Reggae,173479,0,false,No Bother Vex,The Real Rock Reggae Sunsplash - DJ's Best Performances
+never,Reggae,125596,0,false,Hide And Seek,The Real Rock Reggae Sunsplash - DJ's Best Performances
+never,Punk,197694,0,false,Come Out And Play (Keep 'Em Separated),Greatest Hits
+never,none,208404,0,false,fractale,DTM初心者コンピ/ADVANCE
+never,none,315245,0,false,紅狂愛惨殺劇,DTM初心者コンピ/ADVANCE
+never,none,274808,0,false,Emerald noise,DTM初心者コンピ/ADVANCE
+never,none,76773,0,false,first,DTM初心者コンピ/ADVANCE
+2011-09-22 07:59:25,Indie Rock,299337,3,false,Let Down,OK Computer
+2012-10-20 11:01:08,none,136803,1,false,broken hard moon,DTM初心者コンピ/ADVANCE
+never,Rock,251010,0,false,Sugar!!,SINGLES 2004-2009
+never,Other,200150,0,false,Respect,Juliana's Tokyo D.J. Megamix
+never,Other,109191,0,false,Too Legit To Quit,Juliana's Tokyo D.J. Megamix
+never,Other,86987,0,false,Found Love,Juliana's Tokyo D.J. Megamix
+never,Other,181838,0,false,Please Don't Go,Juliana's Tokyo D.J. Megamix
+never,Other,242416,0,false,Deliver Me Up,Juliana's Tokyo D.J. Megamix
+never,Soundtrack,122174,0,false,STELLAR WIND,jubeat knit APPEND SOUNDTRACK
+2012-07-04 09:13:58,none,249835,2,false,bakudan kowai,album
+2012-11-28 04:02:36,none,198687,1,false,U2 and Green Day "The Saints Are Coming" video,album
+never,none,248058,0,false,Nobody knows,album
+2012-11-28 04:06:13,none,217182,1,false,I will follow,album
+never,none,277812,0,false,Until The End Of The World (music video),album
+2012-10-11 15:38:36,Other,212636,3,false,Last Train To Trancentral,Juliana's Tokyo D.J. Megamix
+2012-10-11 15:42:05,Other,209057,2,false,Seesaw,Juliana's Tokyo D.J. Megamix
+2012-07-04 09:02:21,none,208013,1,false,10 Ｔｈｅ　Ｒｅｖｏｌｕｔｉｏｎａｒｙ,album
+2011-10-25 00:30:27,DJMix,0,2,false,yDJ MixzPolyphonicLoungeHighwayyProgressive Housez,album
+2012-08-17 01:52:16,Other,166191,1,false,Can You Handle It,Juliana's Tokyo D.J. Megamix
+never,Soundtrack,261433,0,false,Round and Round (Original Mix),beatmania IIDX 19 Resort Anthem ORIGINAL SOUNDTRACK [Disc 2]
+2012-11-22 01:16:23,Soundtrack,187559,1,false,Follow Tomorrow (for future mix),beatmania IIDX 19 Resort Anthem ORIGINAL SOUNDTRACK [Disc 2]
+never,Alternative,247327,0,false,One Step Closer [Live],Road To Revolution: Live At Milton Keynes
+never,Alternative,204643,0,false,From The Inside [Live],Road To Revolution: Live At Milton Keynes
+never,Alternative,306494,0,false,No More Sorrow [Live],Road To Revolution: Live At Milton Keynes
+2012-04-05 09:37:45,Alternative,404062,36,false,lights of vein (Junkie XL Break Out Remix),NIVAN RUNDER SOUNDRUGS [Disc 1]
+2012-01-11 18:47:57,none,322115,1,false,Jenny Neuroth,album
+2011-08-10 11:01:44,Alternative,178964,1,false,Nobody's Listening,Meteora
+2011-08-10 11:04:08,Alternative,144457,1,false,Session,Meteora
+2011-08-10 11:07:14,Alternative,185861,1,false,Numb,Meteora
+2012-04-07 15:59:29,Alternative,272561,42,false,paradox (autoKratz a mother fxxker mix),NIVAN RUNDER SOUNDRUGS [Disc 1]
+never,Soundtrack,107232,0,false,NoN-Fiction Story!,beatmania IIDX 17 SIRIUS ORIGINAL SOUNDTRACK [Disc 2]
+2012-10-11 15:54:33,Soundtrack,124421,1,false,NEW SENSATION -もう、あなたしか見えない-,beatmania IIDX 17 SIRIUS ORIGINAL SOUNDTRACK [Disc 2]
+never,Soundtrack,108146,0,false,コスモス,beatmania IIDX 17 SIRIUS ORIGINAL SOUNDTRACK [Disc 2]
+never,Soundtrack,110942,0,false,MIRU key way,beatmania IIDX 17 SIRIUS ORIGINAL SOUNDTRACK [Disc 2]
+never,Soundtrack,121913,0,false,beatchic☆仮面 ～好き、でいさせて～,beatmania IIDX 17 SIRIUS ORIGINAL SOUNDTRACK [Disc 2]
+2011-12-20 00:10:36,none,196048,4,false,吾妻光良＆The Swinging Boppers "最後まで楽しもう",album
+2011-12-20 02:43:36,none,315533,3,false,150～300,album
+2011-12-20 01:06:59,none,379324,4,false,RCサクセション _ サマータイム・ブルース ('88.12.31-'89.1.1),album
+2011-12-20 01:29:36,none,320653,3,false,覚せい剤音頭　タイマーズ,album
+2011-12-20 02:33:43,none,416104,3,false,Iambic 9 Poetry,album
+never,Rock,238915,0,false,赤黄色の金木犀,SINGLES 2004-2009
+never,Rock,296855,0,false,陽炎,SINGLES 2004-2009
+never,Rock,311875,0,false,桜の季節,SINGLES 2004-2009
+2012-10-13 16:38:48,Soundtrack,7131,1,false,thank you copious,jubeat copious ORIGINAL SOUNDTRACK
+never,Soundtrack,74213,0,false,astro,jubeat copious ORIGINAL SOUNDTRACK
+2012-10-13 16:33:05,Rock,243069,2,false,JPOP Xfile,just A moment
+never,Rock,281626,0,false,a 7days wonder,just A moment
+never,Rock,217521,0,false,Hysteric phase show,just A moment
+never,Rock,238132,0,false,Tremolo + A,just A moment
+never,Rock,234657,0,false,a over die,just A moment
+2012-01-11 18:22:06,none,180218,1,false,The Hellcat Spangled Shalalala,album
+never,Classical,471588,0,false,Saariaho: Notes On Light - 3. Awakening,Saariaho: Works For Orchestra [Disc 4]
+never,Classical,191764,0,false,Saariaho: Notes On Light - 2. On Fire,Saariaho: Works For Orchestra [Disc 4]
+2012-01-11 18:04:03,none,186853,1,false,Brianstorm,album
+2012-01-11 18:15:46,none,237296,1,false,Leave Before The Lights Come On,album
+2012-01-11 18:19:05,none,199601,1,false,Brick By Brick,album
+never,none,292101,0,false,萌作様とＤ様の「もってけ！セーラーふく」,album
+never,none,271281,0,false,凛として時雨－telecastic fake　show,album
+2012-11-24 14:34:42,Soundtrack,125570,1,false,蛇神,beatmania IIDX 19 Resort Anthem ORIGINAL SOUNDTRACK [Disc 2]
+2012-11-30 02:50:03,none,190955,1,false,[良音質] 曇天　DOES　銀魂　[FULL],album
+2011-06-07 07:10:40,none,198844,1,false,ローリンガールを歌ってみた　verよっぺい,album
+never,Soundtrack,345547,0,false,SHADE,beatmania IIDX 19 Resort Anthem ORIGINAL SOUNDTRACK [Disc 2]
+never,none,145240,0,false,【初音ミク】 ボカラン詐欺 【オリジナル曲】,album
+never,Soundtrack,118413,0,false,DIAVOLO_,beatmania IIDX 19 Resort Anthem ORIGINAL SOUNDTRACK [Disc 2]
+never,Soundtrack,118595,0,false,BLACK. by X-Cross Fade,beatmania IIDX 19 Resort Anthem ORIGINAL SOUNDTRACK [Disc 2]
+never,Pop,314880,0,false,ANTHEM (takkyu ishino remix),2002 FIFA WORLD CUP TM OFFICIAL ALBUM ～SONGS OF KOREA / JAPAN～ [Disc 1]
+never,Soundtrack,122409,0,false,Electric Super Highway,beatmania IIDX 19 Resort Anthem ORIGINAL SOUNDTRACK [Disc 2]
+never,Soundtrack,408764,0,false,Anything Is Possible,The Matrix
+never,Indie Rock,292205,0,false,I Might Be Wrong,I Might Be Wrong: Live Recordings
+2011-11-01 04:18:41,Soundtrack,212924,1,false,Ontological Shock,The Matrix
+2011-06-20 15:31:17,Indie Rock,187924,1,false,Lurgee,Pablo Honey
+2011-06-20 15:28:10,Indie Rock,253152,1,false,I Can't,Pablo Honey
+never,Indie Rock,297586,0,false,The National Anthem,I Might Be Wrong: Live Recordings
+2011-06-20 15:35:59,Indie Rock,282122,1,false,Blow Out,Pablo Honey
+2012-11-29 23:35:36,Rock,239595,2,false,提供者,album
+2011-08-17 09:21:55,none,346200,3,false,【hemlock】ブルーローズ【LIVE】,album
+2011-06-03 22:26:04,none,267911,2,false,DISCO FLIGHT 【LIVE】,album
+2011-06-21 14:52:05,none,293224,2,false,高橋 優「ほんとのきもち」PV,album
+2011-07-02 06:42:24,none,316029,2,false,高橋 優「素晴らしき日常」PV！,album
+never,none,303052,0,false,10,富嶽祭2012音楽部発表
+never,none,238160,0,false,11,富嶽祭2012音楽部発表
+2012-07-04 07:13:07,none,106926,1,false,FANTASY,FANTASY
+never,none,218458,0,false,1,富嶽祭2012音楽部発表
+never,none,256186,0,false,12,富嶽祭2012音楽部発表
+never,Alternative,426736,0,false,Vicarious,10_000 Days
+never,Rock,265168,0,false,Portobello Belle,Communique
+never,Rock,270080,0,false,Angel Of Mercy,Communique
+never,Rock,346331,0,false,Follow Me Home,Communique
+never,Rock,280502,0,false,Single Handed Sailor,Communique
+never,Metal,363284,0,false,Through Her Eyes (Alternate Album Mix),Greatest Hit (...And 21 Other Pretty Cool Songs) [Disc 2]
+never,Metal,227787,0,false,The Silent Man,Greatest Hit (...And 21 Other Pretty Cool Songs) [Disc 2]
+never,Metal,355552,0,false,Hollow Years,Greatest Hit (...And 21 Other Pretty Cool Songs) [Disc 2]
+never,Metal,296437,0,false,To Live Forever,Greatest Hit (...And 21 Other Pretty Cool Songs) [Disc 2]
+never,Metal,369632,0,false,Lifting Shadows Off A Dream,Greatest Hit (...And 21 Other Pretty Cool Songs) [Disc 2]
+never,Reggae,156238,0,false,Fit In A Body,The Real Rock Reggae Sunsplash - DJ's Best Performances
+never,Reggae,191242,0,false,The Real Rock,The Real Rock Reggae Sunsplash - DJ's Best Performances
+never,Reggae,147487,0,false,Reggae Champion~Nuh Trouble Me,The Real Rock Reggae Sunsplash - DJ's Best Performances
+never,Reggae,98220,0,false,DJ Find Me,The Real Rock Reggae Sunsplash - DJ's Best Performances
+2012-10-11 20:39:11,Reggae,323082,1,false,Something In My Heart~Lyrics Garden,The Real Rock Reggae Sunsplash - DJ's Best Performances
+never,none,136071,0,false,N.F.C.,DTM初心者コンピ/START LINE
+never,none,243278,0,false,ヒキコモリの唄,DTM初心者コンピ/START LINE
+never,none,191320,0,false,Homicide impulse,DTM初心者コンピ/START LINE
+never,none,116244,0,false,ある夕方に,DTM初心者コンピ/START LINE
+never,none,248868,0,false,streamlet,DTM初心者コンピ/START LINE
+2011-09-21 04:27:47,none,199340,1,false,【ＭＡＤ】けいおん！「翼をください」,album
+2011-09-22 07:45:33,Indie Rock,383582,3,false,Paranoid Android,OK Computer
+never,Other,119170,0,false,Wicked,Juliana's Tokyo D.J. Megamix
+never,Other,155611,0,false,Wiggle It,Juliana's Tokyo D.J. Megamix
+never,Other,201665,0,false,Stella,Juliana's Tokyo D.J. Megamix
+never,Other,139937,0,false,Capital Of Pain,Juliana's Tokyo D.J. Megamix
+2012-10-11 20:33:48,Other,62850,1,false,Cybex,Juliana's Tokyo D.J. Megamix
+never,none,292048,0,false,【トゥライ】「ブラック★ロックシューター」歌ってみた,album
+2012-11-30 01:17:14,Pop,206733,1,false,POP IS MY LIFE,BEAT EXPRESS Vol. 4 [Disc 1]
+2012-11-30 01:13:47,Pop,286223,1,false,Runner,BEAT EXPRESS Vol. 4 [Disc 1]
+2012-11-30 01:09:01,Pop,262739,2,false,10 years,BEAT EXPRESS Vol. 4 [Disc 1]
+2012-11-29 21:04:34,none,309228,1,false,PrintMusic 2010J 1,album
+never,none,212009,0,false,heiten,album
+2012-08-13 10:18:52,Other,164702,1,false,Is There Anybody Out There?,Juliana's Tokyo D.J. Megamix
+never,Other,237296,0,false,That's The Way Love Goes,Juliana's Tokyo D.J. Megamix
+never,Other,138004,0,false,It Should've Been Me,Juliana's Tokyo D.J. Megamix
+never,Other,115121,0,false,Independant Woman,Juliana's Tokyo D.J. Megamix
+never,Other,143098,0,false,Hey DJ I Can't Dance To That Music You're Playing,Juliana's Tokyo D.J. Megamix
+2012-01-11 18:34:25,none,281495,1,false,Berlin,album
+2012-01-11 18:38:31,none,246282,1,false,Manchester,album
+2012-01-11 17:26:17,none,283742,1,false,Rough Seas Make Better Sailors feat Terrence Kline l Powered By NCMOFFICIAL,album
+never,none,232803,0,false,Roads That Don't End And Views That Never Cease OFFICIAL MUSIC VIDEO,album
+2012-01-11 18:42:35,none,243826,1,false,Milan,album
+never,Alternative,316551,0,false,45days (Marc Mac's 808 mix),NIVAN RUNDER SOUNDRUGS [Disc 1]
+never,Alternative,244558,0,false,start from here (feadz Rmx),NIVAN RUNDER SOUNDRUGS [Disc 1]
+never,Alternative,183562,0,false,fog (Bloody Beetroots Rmx),NIVAN RUNDER SOUNDRUGS [Disc 1]
+never,Alternative,384052,0,false,why... (80kidz Remix),NIVAN RUNDER SOUNDRUGS [Disc 1]
+never,Alternative,222563,0,false,snow (29 Remix),NIVAN RUNDER SOUNDRUGS [Disc 1]
+2012-09-08 14:39:24,Soundtrack,123637,2,false,Red. by Full Metal Jacket,beatmania IIDX 17 SIRIUS ORIGINAL SOUNDTRACK [Disc 1]
+never,Soundtrack,113763,0,false,Keep it -秋葉工房mix-,beatmania IIDX 17 SIRIUS ORIGINAL SOUNDTRACK [Disc 1]
+2012-08-13 10:14:02,Soundtrack,116453,1,false,She is my wife,beatmania IIDX 17 SIRIUS ORIGINAL SOUNDTRACK [Disc 1]
+never,Soundtrack,142106,0,false,being torn the sky,beatmania IIDX 17 SIRIUS ORIGINAL SOUNDTRACK [Disc 1]
+never,Soundtrack,117498,0,false,Empire State Glory,beatmania IIDX 17 SIRIUS ORIGINAL SOUNDTRACK [Disc 1]
+2011-12-20 00:07:20,none,384653,3,false,Squarepusher- Squarepusher Theme,album
+2012-11-30 02:23:54,none,282592,5,false,Analogue Bubblebath 1,album
+2012-11-30 02:19:12,none,295418,7,false,Xtal,album
+2012-10-14 02:33:43,none,316055,46,false,Alt A,album
+2012-02-28 09:36:06,none,254798,11,false,おしゃれ番長 (80kidz Remix),album
+2012-08-12 12:28:31,Metal,200437,1,false,The Kerosene Dance,Bury Me In Vegas [Bonus Track]
+never,Soundtrack,24346,0,false,alpha star,jubeat copious ORIGINAL SOUNDTRACK
+never,Soundtrack,74109,0,false,nebula,jubeat copious ORIGINAL SOUNDTRACK
+never,Soundtrack,44930,0,false,horoscope,jubeat copious ORIGINAL SOUNDTRACK
+never,Soundtrack,24659,0,false,cluster,jubeat copious ORIGINAL SOUNDTRACK
+never,Soundtrack,27480,0,false,star chart,jubeat copious ORIGINAL SOUNDTRACK
+2012-11-30 02:54:05,Soundtrack,241371,2,false,アナタMAGIC,銀魂 Best 2
+2011-09-12 04:02:23,none,271647,22,false,魔法少女まどか★マギカOP　コネクト_ClariS【高音質】,album
+2011-09-21 04:15:51,none,315010,12,false,まどかマギカED　Magia　Full,album
+never,none,317923,0,false,7,富嶽祭2012音楽部発表
+2012-02-23 04:34:28,Rock,279013,2,false,ハカイヨノユメ,just A moment
+2012-08-12 12:25:11,Metal,202448,2,false,Bury Me In Vegas,Bury Me In Vegas [Bonus Track]
+never,Soundtrack,238053,0,false,I、愛、会い,銀魂 Best 2
+2012-08-13 09:53:06,Metal,41351,7,false,Internude,Bury Me In Vegas [Bonus Track]
+2012-11-28 02:44:51,none,494262,2,false,The Shrine _ An Argument,album
+2012-05-12 07:26:46,none,278386,23,false,Lilith,album
+2012-01-11 18:11:49,none,231131,1,false,Suck It And See (Clean Edit),album
+2012-01-11 18:07:58,none,234187,1,false,Crying Lightning (official video) (2009),album
+2012-01-11 17:42:39,none,362187,1,false,Rakimou,album
+2012-10-14 02:42:55,none,101328,9,false,532nm_Ryu☆　音源,album
+never,Classical,262295,0,false,Saariaho: Notes On Light - 4. Eclipse,Saariaho: Works For Orchestra [Disc 4]
+never,Classical,433162,0,false,Saariaho: Notes On Light - 5. Heart Of Light,Saariaho: Works For Orchestra [Disc 4]
+2012-05-10 02:13:20,Classical,811180,1,false,Saariaho: Mirage,Saariaho: Works For Orchestra [Disc 4]
+2012-08-15 02:17:01,none,106997,8,false,【jubeat copious APPEND】 The Wind of Gold 音源,album
+never,Soundtrack,127947,0,false,LETHEBOLG ～双神威に斬り咲けり～,beatmania IIDX 19 Resort Anthem ORIGINAL SOUNDTRACK [Disc 2]
+2012-08-13 09:32:58,Soundtrack,119640,1,false,RESISTANCE,beatmania IIDX 19 Resort Anthem ORIGINAL SOUNDTRACK [Disc 2]
+2012-11-26 01:16:42,Soundtrack,118674,4,false,Far east nightbird,beatmania IIDX 19 Resort Anthem ORIGINAL SOUNDTRACK [Disc 2]
+never,Soundtrack,101982,0,false,Snow Goose,beatmania IIDX 19 Resort Anthem ORIGINAL SOUNDTRACK [Disc 2]
+2012-08-13 09:42:38,Soundtrack,100362,1,false,I'm so Happy,beatmania IIDX 19 Resort Anthem ORIGINAL SOUNDTRACK [Disc 2]
+2012-10-11 15:52:28,Rock,292519,5,false,Image training,Walls Is Beginning
+2012-01-20 07:15:13,Rock,335986,26,false,行方,Walls Is Beginning
+2011-09-15 08:31:52,Rock,429348,5,false,プレイヤ,Walls Is Beginning
+never,Rock,193567,0,false,NUM-AMI-DABUTZ,OMOIDE IN MY HEAD 1～BEST & B-SIDES～ [Disc 1]
+2011-12-22 10:28:46,Rock,299650,7,false,そのTAXI_160km_h,Walls Is Beginning
+2011-06-21 16:07:51,none,332538,2,false,【トゥライ】「炉心融解」歌ってみた,album
+2011-06-21 14:25:01,Indie Rock,261694,2,false,Karma Police,OK Computer
+2011-09-22 07:50:01,Indie Rock,267755,3,false,Subterranean Homesick Alien,OK Computer
+2011-09-21 04:20:08,none,257358,1,false,【ryo feat. 初音ミク with halyosy】メルト - デュエット！ver 【㍍⊃】,album
+never,none,397635,0,false,【ココロ】今更ながらココロ＋ココロ・キセキPV風MADを作った【キセキ】,album
+2011-09-22 07:54:26,Indie Rock,264855,3,false,Exit Music (For A Film),OK Computer
+never,Indie Rock,462863,0,false,Everything In Its Right Place,I Might Be Wrong: Live Recordings
+never,none,242882,0,false,16,富嶽祭2012音楽部発表
+never,Indie Rock,264907,0,false,Idioteque,I Might Be Wrong: Live Recordings
+never,none,234953,0,false,15,富嶽祭2012音楽部発表
+never,Indie Rock,227500,0,false,Like Spinning Plates,I Might Be Wrong: Live Recordings
+never,none,239666,0,false,14,富嶽祭2012音楽部発表
+never,Indie Rock,254119,0,false,Morning Bell,I Might Be Wrong: Live Recordings
+never,none,333888,0,false,13,富嶽祭2012音楽部発表
+never,Indie Rock,313077,0,false,Dollars And Cents,I Might Be Wrong: Live Recordings
+never,none,175469,0,false,17,富嶽祭2012音楽部発表

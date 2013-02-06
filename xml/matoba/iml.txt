@@ -1,0 +1,1120 @@
+never,New Age,61200,0,false,90歳の少女,ハウルの動く城 サウンドトラック
+2012-07-28 08:20:56,Soundtrack,106040,1,false,ポケウッド,PokemonB2W2 SuperMusicCollection [Disc1]
+2012-11-16 10:18:37,New Age,410466,2,false,-エンディング- 世界の約束 ～人生のメリーゴーランド,ハウルの動く城 サウンドトラック
+never,Rock,363906,0,false,Mon Rebis (CD bonus track),Viva Boma
+never,Rock,203000,0,false,Boehme,Viva Boma
+never,Soundtrack,114386,0,false,vamo' alla flamenco,Distant Worlds music from FINAL FANTASY Returning home
+never,Sound Track,213054,0,false,白い石壁,洞窟物語　サウンドトラック
+2012-07-28 08:03:26,Soundtrack,165373,1,false,ヒオウギシティ,PokemonB2W2 SuperMusicCollection [Disc1]
+never,Sound Track,7549,0,false,ボス撃破,洞窟物語　サウンドトラック
+never,Sound Track,8542,0,false,ライフカプセル入手,洞窟物語　サウンドトラック
+never,Sound Track,96052,0,false,トロ子のテーマ,洞窟物語　サウンドトラック
+2012-09-09 00:07:43,Sound Track,20062,1,false,ゲームオーバー,洞窟物語　サウンドトラック
+2012-09-18 12:06:19,Traditional,281000,2,false,Tomato Groove(Roby Lakatos),VIRTUOSO VIOLIN PIECES
+never,Classical,197400,0,false,カンタービレ・ニ長調,愛の悲しみ
+2012-12-08 14:06:11,Classical,306773,1,false,前奏曲とアレグロ～プニャーニの様式による,愛の悲しみ
+never,Classical,184666,0,false,シチリアーノ,愛の悲しみ
+2012-09-18 11:55:46,Traditional,178533,1,false,Trisch-Tratsch Polka_op.214(Johann Strauss Ⅱ),VIRTUOSO VIOLIN PIECES
+never,Soundtrack,79800,0,false,ポケウッド・浄化のテーマ,PokemonB2W2 SuperMusicCollection [Disc1]
+2012-09-18 11:32:23,Traditional,162560,3,false,だんご3兄弟（内野真澄・堀江由朗）,VIRTUOSO VIOLIN PIECES
+2012-11-07 05:40:23,Classical,267266,1,false,ラ・カンパネラ,愛の悲しみ
+2012-09-18 11:52:47,Traditional,544066,2,false,Hungarian Rhapsody_S.244 No.2(Franz Liszt),VIRTUOSO VIOLIN PIECES
+2012-11-18 08:07:59,Soundtrack,4280,1,false,決定 - 半熟英雄(1988),SQUARE ENIX 効果音集
+2012-09-10 09:46:43,Soundtrack,88013,2,false,戦闘! ミュウ,PokemonB2W2 SuperMusicCollection [Disc4]
+never,Classical,359266,0,false,狩人よ、前へ,モンスターハンター5周年記念オーケストラコンサート ～狩猟音楽祭～
+never,Classical,205440,0,false,可愛いアイルー,モンスターハンター5周年記念オーケストラコンサート ～狩猟音楽祭～
+2012-07-09 10:07:10,Soundtrack,5386,1,false,わざマシンを手に入れた!,Nintendo DS Pokémon Black・White Super Music Collection [Disc 1]
+2012-10-25 03:54:29,Classical,187933,1,false,生命ある者へ,モンスターハンター5周年記念オーケストラコンサート ～狩猟音楽祭～
+2012-07-28 08:00:41,Soundtrack,33413,1,false,はじまりのきざし,PokemonB2W2 SuperMusicCollection [Disc1]
+never,Classical,289373,0,false,英雄の証,モンスターハンター5周年記念オーケストラコンサート ～狩猟音楽祭～
+never,Soundtrack,4160,0,false,剣攻撃 - 半熟英雄(1988),SQUARE ENIX 効果音集
+never,Classical,201573,0,false,牙を剥く轟竜 _ ティガレックス ～ 闇に走る赤い残光 _ ナルガクルガ,モンスターハンター5周年記念オーケストラコンサート ～狩猟音楽祭～
+never,Classical,150746,0,false,Orff: Carmina Burana - In Taberna: Estuans Interius,Orff: Carmina Burana
+2012-11-18 08:09:20,Soundtrack,81000,2,false,不思議なおくりもの,Nintendo DS Pokémon Black・White Super Music Collection [Disc 4]
+never,Soundtrack,245253,0,false,親愛なる友へ,Distant Worlds music from FINAL FANTASY Returning home
+2012-07-09 10:07:05,Soundtrack,6800,1,false,リーグバッジをもらった!,Nintendo DS Pokémon Black・White Super Music Collection [Disc 1]
+2012-09-18 00:36:45,Soundtrack,115960,13,false,ダイビング,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 2]
+2012-07-30 06:20:28,Soundtrack,86000,2,false,ロケット団!?,Nintendo DS Pokémon Black・White Super Music Collection [Disc 4]
+never,New Age,128426,0,false,死と生のアダージョ,もののけ姫 サウンドトラック
+2012-09-19 07:27:06,Soundtrack,4533,4,false,わざ忘れ,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 2]
+2012-08-01 14:26:10,Soundtrack,31880,2,false,吸収,PokemonB2W2 SuperMusicCollection [Disc3]
+2012-08-01 14:26:46,Soundtrack,36426,2,false,合体,PokemonB2W2 SuperMusicCollection [Disc3]
+never,Soundtrack,49026,0,false,ポケウッド・悲愴のテーマ,PokemonB2W2 SuperMusicCollection [Disc1]
+2012-08-01 14:33:12,Soundtrack,150813,5,false,戦闘! ゲーチス,PokemonB2W2 SuperMusicCollection [Disc3]
+2012-09-19 07:22:42,Soundtrack,52333,6,false,サファリゾーン,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 2]
+never,New Age,87506,0,false,黄泉の世界,もののけ姫 サウンドトラック
+2012-09-19 07:23:24,Soundtrack,42733,6,false,視線! ジェントルマン,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 2]
+2012-10-10 06:25:22,R&B,279733,2,false,Babel,Babel
+2012-09-19 07:24:51,Soundtrack,87200,5,false,ミナモシティ,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 2]
+never,Rock,158866,0,false,Fanfan La Tulipe (Vocal Improv) (CD bonus track),Viva Boma
+2012-09-19 07:27:01,Soundtrack,129560,3,false,美術館,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 2]
+never,Rock,442306,0,false,Nog Verder (Demo Version) (CD bonus track),Viva Boma
+never,Classical,60266,0,false,Orff: Carmina Burana - Uf Dem Anger: Were Diu Werlt Alle Min,Orff: Carmina Burana
+2012-08-28 15:06:44,Soundtrack,109120,3,false,戦闘! 伝説のポケモン (シンオウ),PokemonB2W2 SuperMusicCollection [Disc2]
+2012-11-22 15:08:09,Electronica,170906,27,false,積み木の人形,アンハッピーリフレイン [Disc 1]
+2012-08-28 15:04:55,Soundtrack,196880,2,false,ストレンジャーハウス,PokemonB2W2 SuperMusicCollection [Disc2]
+2012-11-22 10:04:08,Electronica,189866,36,false,ローリンガール,アンハッピーリフレイン [Disc 1]
+2012-08-28 15:01:39,Soundtrack,119920,2,false,リバースマウンテン (ホワイト),PokemonB2W2 SuperMusicCollection [Disc2]
+2012-11-22 15:21:23,Electronica,225906,22,false,アンハッピーリフレイン,アンハッピーリフレイン [Disc 1]
+2012-08-28 14:59:39,Soundtrack,171000,3,false,リバースマウンテン (ブラック),PokemonB2W2 SuperMusicCollection [Disc2]
+2012-11-12 18:36:00,Other,222480,5,false,ライア,IA/1.0.0
+2012-09-02 06:23:45,Soundtrack,63960,21,false,リバースマウンテンへの道,PokemonB2W2 SuperMusicCollection [Disc2]
+2012-11-12 18:32:18,Other,318173,5,false,アスノヒカリ,IA/1.0.0
+never,Pop,355840,0,false,目が覚めて,空創クリップ
+2012-07-04 14:24:01,Soundtrack,70733,1,false,カラクリ屋敷,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 2]
+2012-10-04 10:13:53,Pop,257506,1,false,アーセンの憂鬱,夕風ブレンド
+never,Pop,286600,0,false,アカツキの詩 (album ver.),夕風ブレンド
+2012-10-04 09:31:55,Pop,267226,1,false,ガラナ (album ver.),夕風ブレンド
+never,Soundtrack,243133,0,false,-Opera "Maria & Draco" - The Wedding Waltz ~Deul~ - [From Final Fantasy VI],More Friends ~Music From Final Fantasy Original Soundtrack~
+2012-10-04 09:37:12,Pop,282373,2,false,スフィアの羽根 (album ver.),夕風ブレンド
+2012-07-11 06:34:05,Soundtrack,37373,3,false,結果発表,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 2]
+2012-07-04 14:20:17,Soundtrack,32866,1,false,コンテスト優勝,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 2]
+2012-07-04 14:21:22,Soundtrack,64560,2,false,おふれのせきしつ,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 2]
+2012-07-04 14:08:28,Soundtrack,64866,4,false,アジト,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 2]
+2012-07-04 14:22:51,Soundtrack,88640,2,false,戦闘! レジロック・レジアイス・レジスチル,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 2]
+2012-11-12 18:39:52,Other,231880,6,false,Melting Glacier,IA/1.0.0
+2012-11-12 18:44:32,Other,279613,7,false,カフェラッテ,IA/1.0.0
+2012-11-12 18:48:02,Other,210306,7,false,少年は教室がきらいだったのだ,IA/1.0.0
+2012-11-12 18:51:38,Other,216400,19,false,ヘッドフォンアクター,IA/1.0.0
+2012-11-12 18:56:47,Other,308653,7,false,tale of the tree,IA/1.0.0
+never,Classical,465000,0,false,Biber: Mystery Sonata _4_ "The Presentation",Biber: Rosenkranz Sonatas [Disc 1]
+2012-11-23 05:13:07,Soundtrack,8240,1,false,バトルシンボルゲット!,PokemonB2W2 SuperMusicCollection [Disc4]
+never,Soundtrack,4586,0,false,援護射撃 - ファイナルファンタジーIII(1990),SQUARE ENIX 効果音集
+never,Soundtrack,94000,0,false,ホワイトフォレスト,Nintendo DS Pokémon Black・White Super Music Collection [Disc 3]
+never,R&B,817013,0,false,Greeneldo,Babel
+2012-12-03 11:47:47,Indie Rock,556826,3,false,Mastoul Alaefak・Mastoul_ one year later (live),①偏頭痛の為の11のﾀﾞﾝｽ療法 Onze Danses Pour Combattre La Migraine ('77)
+2012-12-03 11:23:15,Indie Rock,173693,3,false,Mastoul Alakefak Improv (bonus track),①偏頭痛の為の11のﾀﾞﾝｽ療法 Onze Danses Pour Combattre La Migraine ('77)
+never,Classical,109306,0,false,Suite_ Op. 14_ Sz. 62_ II. Scherzo,Kocsis Plays Bartok
+never,Soundtrack,4013,0,false,グッズを手に入れた!,Nintendo DS Pokémon Black・White Super Music Collection [Disc 3]
+never,Classical,253400,0,false,Suite_ Op. 14_ Sz. 62_ II. Sostenuto e pesante,Kocsis Plays Bartok
+never,Classical,496306,0,false,X The Crucifixion,Biber: Rosenkranz-Sonaten [Disc 2]
+never,Rock,339213,0,false,はじまりの歌 <backing track>,はじまりの歌
+never,Classical,393093,0,false,XI The Resurrection,Biber: Rosenkranz-Sonaten [Disc 2]
+never,Rock,415106,0,false,少年と空,はじまりの歌
+never,Soundtrack,213493,0,false,戦闘! サブウェイトレーナー,Nintendo DS Pokémon Black・White Super Music Collection [Disc 3]
+2012-09-19 07:07:53,Soundtrack,104266,3,false,ゲームコーナー,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 1]
+2012-07-09 10:35:17,Soundtrack,33506,1,false,バトルサブウェイ,Nintendo DS Pokémon Black・White Super Music Collection [Disc 3]
+2012-09-19 07:07:58,Soundtrack,4506,4,false,当たり!,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 1]
+never,Soundtrack,93506,0,false,ミュージカルホール,Nintendo DS Pokémon Black・White Super Music Collection [Disc 3]
+never,Classical,129360,0,false,Suite_ Op. 14_ Sz. 62_ III. Allegro molto,Kocsis Plays Bartok
+2012-07-09 14:34:56,Soundtrack,6386,2,false,BPをもらった!,Nintendo DS Pokémon Black・White Super Music Collection [Disc 3]
+2012-09-19 07:06:09,Soundtrack,85266,4,false,サイクリング,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 1]
+never,Soundtrack,153986,0,false,夢の跡地,Nintendo DS Pokémon Black・White Super Music Collection [Disc 1]
+2012-10-07 08:08:32,Soundtrack,147906,1,false,Cruel Dilemme III (Guit_A),Shiro SAGISU Music from "EVANGELION: 1.0 YOU ARE (NOT) ALONE"
+never,Soundtrack,82506,0,false,プラズマ団あらわる!,Nintendo DS Pokémon Black・White Super Music Collection [Disc 1]
+never,Soundtrack,53600,0,false,視線! スキンヘッズ,Nintendo DS Pokémon Black・White Super Music Collection [Disc 2]
+never,Soundtrack,70986,0,false,サンヨウシティ,Nintendo DS Pokémon Black・White Super Music Collection [Disc 1]
+2012-07-30 06:15:50,Soundtrack,174000,2,false,ビレッジブリッジ,Nintendo DS Pokémon Black・White Super Music Collection [Disc 4]
+never,Soundtrack,4840,0,false,図鑑評価…まだまだ,Nintendo DS Pokémon Black・White Super Music Collection [Disc 1]
+2012-11-27 11:34:08,Soundtrack,98666,5,false,Crepuscule-Tokyo III (EM06),Shiro SAGISU Music from "EVANGELION: 1.0 YOU ARE (NOT) ALONE"
+never,Soundtrack,4226,0,false,ボスを倒す - 聖剣伝説～ファイナルファンタジー外伝～(1991),SQUARE ENIX 効果音集
+2012-10-07 07:50:33,Soundtrack,121986,2,false,Contre Les Agressions (EM04_A),Shiro SAGISU Music from "EVANGELION: 1.0 YOU ARE (NOT) ALONE"
+never,Soundtrack,72000,0,false,ブラックシティ,Nintendo DS Pokémon Black・White Super Music Collection [Disc 3]
+2012-10-07 07:58:34,Soundtrack,194506,2,false,Cruel Dilemme II (EM16),Shiro SAGISU Music from "EVANGELION: 1.0 YOU ARE (NOT) ALONE"
+never,Soundtrack,188493,0,false,戦闘! プラズマ団,Nintendo DS Pokémon Black・White Super Music Collection [Disc 1]
+2012-10-07 07:45:32,Soundtrack,166720,3,false,Cruel Dilemme (EM09),Shiro SAGISU Music from "EVANGELION: 1.0 YOU ARE (NOT) ALONE"
+never,Soundtrack,290066,0,false,-Opera "Maria & Draco" - Overture - [From Final Fantasy VI],More Friends ~Music From Final Fantasy Original Soundtrack~
+never,Soundtrack,4226,0,false,攻撃失敗 - Sa・Ga2 秘宝伝説(1990),SQUARE ENIX 効果音集
+2012-07-28 08:19:10,Soundtrack,91120,1,false,プラズマ団、再び,PokemonB2W2 SuperMusicCollection [Disc1]
+never,Soundtrack,238773,0,false,-Opera "Maria & Draco" - Aria Di Mezzo Carattere - [From Final Fantasy VI],More Friends ~Music From Final Fantasy Original Soundtrack~
+never,Soundtrack,4240,0,false,フレア - Sa・Ga2 秘宝伝説(1990),SQUARE ENIX 効果音集
+2012-07-28 08:17:39,Soundtrack,78160,1,false,タチワキジム (演奏・DOGARS),PokemonB2W2 SuperMusicCollection [Disc1]
+never,Classical,168586,0,false,Orff: Carmina Burana - Primo Vere: Ecce Gratum,Orff: Carmina Burana
+2012-07-28 20:03:05,Soundtrack,4666,1,false,バトルルーレットでBPゲット!,PokemonB2W2 SuperMusicCollection [Disc4]
+never,Classical,140866,0,false,Orff: Carmina Burana - Primo Vere: Omnia Sol Temperat,Orff: Carmina Burana
+never,Classical,208253,0,false,Orff: Carmina Burana - Uf Dem Anger: Floret Silva Nobilis,Orff: Carmina Burana
+never,Classical,107506,0,false,Orff: Carmina Burana - Uf Dem Anger: Tanz,Orff: Carmina Burana
+2012-11-23 05:14:54,Soundtrack,106893,1,false,別荘・ミナモでボサノバ!,PokemonB2W2 SuperMusicCollection [Disc4]
+never,Soundtrack,4200,0,false,メガスマッシュ - Sa・Ga2 秘宝伝説(1990),SQUARE ENIX 効果音集
+never,Soundtrack,39026,0,false,別荘・フタバでオルゴール!,PokemonB2W2 SuperMusicCollection [Disc4]
+never,Classical,199653,0,false,Orff: Carmina Burana - Uf Dem Anger: Chramer_ Gip Die Varwe Mir,Orff: Carmina Burana
+2012-07-28 20:03:01,Soundtrack,163093,1,false,バトルルーレット,PokemonB2W2 SuperMusicCollection [Disc4]
+2012-07-28 20:00:18,Soundtrack,126013,1,false,ファイトエリア (バトルフロンティア),PokemonB2W2 SuperMusicCollection [Disc4]
+never,Soundtrack,4360,0,false,アイテム - 魔界塔士 Sa・Ga(1989),SQUARE ENIX 効果音集
+never,Classical,858026,0,false,悪魔のトリル,Ave Maria
+2012-07-28 08:00:08,Soundtrack,113973,1,false,タイトル,PokemonB2W2 SuperMusicCollection [Disc1]
+never,Classical,151533,0,false,タンゴ,Ave Maria
+2012-09-15 02:32:54,Soundtrack,274000,1,false,戦闘! ゲーチス,Nintendo DS Pokémon Black・White Super Music Collection [Disc 2]
+never,Classical,207773,0,false,ラルゴ,Ave Maria
+never,Soundtrack,4240,0,false,ぼうえいシステム砲台 - Sa・Ga2 秘宝伝説(1990),SQUARE ENIX 効果音集
+never,Classical,171600,0,false,エストレリータ,Ave Maria
+2012-10-07 08:19:45,Soundtrack,284973,7,false,Battaille Decisive (EM20),Shiro SAGISU Music from "EVANGELION: 1.0 YOU ARE (NOT) ALONE"
+never,Classical,181733,0,false,夢のあとに,Ave Maria
+2012-10-07 08:23:35,Soundtrack,230733,3,false,Angel of Doom (EM21),Shiro SAGISU Music from "EVANGELION: 1.0 YOU ARE (NOT) ALONE"
+2012-09-02 18:30:14,Soundtrack,55400,1,false,プレリュード,Distant Worlds music from FINAL FANTASY Returning home
+never,New Age,301493,0,false,アシタカせっ記 エンディング,もののけ姫 サウンドトラック
+2012-09-04 16:26:11,Soundtrack,441613,3,false,片翼の天使,Distant Worlds music from FINAL FANTASY Returning home
+never,New Age,83173,0,false,もののけ姫 ～ヴォーカルエンディング～,もののけ姫 サウンドトラック
+2012-09-20 04:34:44,Soundtrack,138200,26,false,戦闘! ライバル,PokemonB2W2 SuperMusicCollection [Disc1]
+never,New Age,192493,0,false,アシタカとサン,もののけ姫 サウンドトラック
+2012-11-15 07:19:04,Soundtrack,9600,1,false,バイオリン・チューニング,耳をすませば サウンドトラック
+2012-12-08 13:58:56,Classical,187626,1,false,メロディ変ホ長調,愛の悲しみ
+never,Electronica,290893,0,false,ワールズエンド・ダンスホール,アンハッピーリフレイン [Disc 2]
+2012-12-08 14:17:03,Classical,199706,1,false,愛の悲しみ,愛の悲しみ
+never,Electronica,325160,0,false,積み木の人形,アンハッピーリフレイン [Disc 2]
+2012-10-12 14:41:10,Soundtrack,179373,2,false,閃光,Distant Worlds music from FINAL FANTASY Returning home
+never,Electronica,159573,0,false,ずれていく,アンハッピーリフレイン [Disc 2]
+never,Soundtrack,122466,0,false,エンゲルス・ツィマー (天使の部屋),耳をすませば サウンドトラック
+2012-10-10 00:25:55,Sound Track,150073,2,false,生きた水路,洞窟物語　サウンドトラック
+2012-11-16 10:10:44,Sound Track,99056,41,false,圧迫するチカラ,洞窟物語　サウンドトラック
+never,Sound Track,144039,0,false,地熱,洞窟物語　サウンドトラック
+never,Sound Track,132048,0,false,迷宮ファイト,洞窟物語　サウンドトラック
+2012-09-09 00:14:11,Sound Track,110053,1,false,じえんか２,洞窟物語　サウンドトラック
+never,Classical,408640,0,false,Saint-Saëns: Danse Macabre_ Op. 40,Saint-Saëns: Le Carnaval Des Animaux; Organ Symphony [Disc 1]
+never,Classical,145813,0,false,Saint-Saëns: Le Carnaval Des Animaux - 1. Introduction Et Marche Royale Du Lion,Saint-Saëns: Le Carnaval Des Animaux; Organ Symphony [Disc 2]
+never,Classical,352026,0,false,Saint-Saëns: Piano Concerto _2 In G Minor_ Op. 22 - 2. Allegro Scherzando,Saint-Saëns: Le Carnaval Des Animaux; Organ Symphony [Disc 1]
+2012-12-08 14:13:43,Classical,213000,1,false,スペイン舞曲,愛の悲しみ
+never,Classical,42373,0,false,Saint-Saëns: Le Carnaval Des Animaux - 2. Poules Et Coqs,Saint-Saëns: Le Carnaval Des Animaux; Organ Symphony [Disc 2]
+2012-07-09 10:47:00,Soundtrack,191000,1,false,サヨナラ,Nintendo DS Pokémon Black・White Super Music Collection [Disc 2]
+2012-11-08 08:54:14,Soundtrack,169733,2,false,Don't Be Afraid [From Final Fantasy VIII],More Friends ~Music From Final Fantasy Original Soundtrack~
+2012-11-23 05:24:53,Soundtrack,115026,1,false,バトルチューブ,PokemonB2W2 SuperMusicCollection [Disc4]
+2012-11-26 09:08:53,Soundtrack,6066,6,false,メダルラリーでゴールイン!,PokemonB2W2 SuperMusicCollection [Disc2]
+2012-11-23 04:42:50,Soundtrack,78640,2,false,Matoya's Cave (Final Fantasy),Dear Friends - Music From Final Fantasy Original Soundtrack
+2012-10-30 01:15:23,Soundtrack,84973,1,false,水の巫女エリア,Distant Worlds music from FINAL FANTASY Returning home
+2012-11-08 09:07:22,Soundtrack,336360,2,false,Maybe I'm A Lion [From Final Fantasy VIII],More Friends ~Music From Final Fantasy Original Soundtrack~
+never,Soundtrack,201000,0,false,戦闘! 伝説のポケモン,Nintendo DS Pokémon Black・White Super Music Collection [Disc 3]
+2012-11-08 08:58:44,Soundtrack,36160,1,false,Chocobo Theme [From Final Fantasy II],More Friends ~Music From Final Fantasy Original Soundtrack~
+never,Soundtrack,4200,0,false,扉が閉まる - 聖剣伝説～ファイナルファンタジー外伝～(1991),SQUARE ENIX 効果音集
+2012-09-20 03:46:21,Soundtrack,142986,7,false,戦闘! チャンピオン (カントー),PokemonB2W2 SuperMusicCollection [Disc2]
+2012-09-20 03:43:59,Soundtrack,112080,8,false,戦闘! ジムリーダー (カントー),PokemonB2W2 SuperMusicCollection [Disc2]
+2012-11-23 04:41:31,Soundtrack,65933,26,false,Main Theme (Final Fantasy),Dear Friends - Music From Final Fantasy Original Soundtrack
+2012-09-20 03:50:46,Soundtrack,121173,7,false,戦闘! チャンピオン (ジョウト),PokemonB2W2 SuperMusicCollection [Disc2]
+2012-09-20 03:48:45,Soundtrack,143146,7,false,戦闘! ジムリーダー (ジョウト),PokemonB2W2 SuperMusicCollection [Disc2]
+never,Soundtrack,4360,0,false,卵にヒビが入る - 半熟英雄(1988),SQUARE ENIX 効果音集
+2012-10-07 04:28:46,Soundtrack,176773,7,false,閃光,FINAL FANTASY 25th ANNIVERSARY SQUARE ENIX MUSIC COMPOSERS' SELECTION CD
+2012-09-20 03:53:16,Soundtrack,150026,16,false,戦闘! ジムリーダー (ホウエン),PokemonB2W2 SuperMusicCollection [Disc2]
+2012-07-11 04:59:34,Soundtrack,143666,1,false,ENDING ～それぞれの未来へ～,Nintendo DS Pokémon Black・White Super Music Collection [Disc 2]
+2012-11-08 08:51:24,Soundtrack,185093,2,false,Zanarkand [From Final Fantasy X],More Friends ~Music From Final Fantasy Original Soundtrack~
+2012-09-18 12:30:59,Traditional,276306,2,false,Sunrise_sunset(Jerry Boch_Sheldon Harnick),VIRTUOSO VIOLIN PIECES
+2012-12-08 13:54:52,Soundtrack,180000,4,false,海底遺跡,Nintendo DS Pokémon Black・White Super Music Collection [Disc 4]
+2012-11-15 13:34:31,New Age,51200,1,false,陽気な軽騎兵,ハウルの動く城 サウンドトラック
+never,Soundtrack,297200,0,false,Ronfaure (Final Fantasy XI),Dear Friends - Music From Final Fantasy Original Soundtrack
+never,none,198960,0,false,トラック 11,album
+never,none,171933,0,false,トラック 12,album
+never,Pop,227666,0,false,君の話～エヴォリューションMix～,夏雲ノイズ
+never,none,162680,0,false,トラック 13,album
+never,none,149360,0,false,トラック 14,album
+never,Pop,297960,0,false,ドーシタトースター,夏雲ノイズ
+never,none,165320,0,false,トラック 15,album
+never,Pop,242826,0,false,ふれて未来を,夏雲ノイズ
+never,Pop,229200,0,false,きみがいいなら,夏雲ノイズ
+never,Soundtrack,5480,0,false,図鑑評価…なかなか,Nintendo DS Pokémon Black・White Super Music Collection [Disc 2]
+never,Pop,203266,0,false,キミドリ色の世界,夏雲ノイズ
+never,Soundtrack,4533,0,false,ブリザド系 - ファイナルファンタジーIII(1990),SQUARE ENIX 効果音集
+2012-11-16 02:52:42,Soundtrack,193026,1,false,丘の町,耳をすませば サウンドトラック
+never,New Age,92706,0,false,脱出,ハウルの動く城 サウンドトラック
+2012-11-25 12:51:33,Soundtrack,264266,1,false,カントリー・ロード,耳をすませば サウンドトラック
+never,Soundtrack,64493,0,false,アララギパパ,Nintendo DS Pokémon Black・White Super Music Collection [Disc 2]
+never,Soundtrack,107000,0,false,ワンダーブリッジ,Nintendo DS Pokémon Black・White Super Music Collection [Disc 3]
+never,Soundtrack,82000,0,false,ポケモンリーグ,Nintendo DS Pokémon Black・White Super Music Collection [Disc 2]
+never,Soundtrack,4613,0,false,バイオ - ファイナルファンタジーIII(1990),SQUARE ENIX 効果音集
+never,Soundtrack,122506,0,false,戦闘! 野生ポケモン,Nintendo DS Pokémon Black・White Super Music Collection [Disc 1]
+2012-09-19 07:17:04,Soundtrack,133066,6,false,なみのり,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 1]
+2012-12-03 11:23:51,Indie Rock,36373,5,false,Animaux Velpeau,①偏頭痛の為の11のﾀﾞﾝｽ療法 Onze Danses Pour Combattre La Migraine ('77)
+2012-09-19 07:18:53,Soundtrack,108866,4,false,119番道路,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 2]
+never,R&B,177653,0,false,Nacht in Hanover,Babel
+2012-09-19 07:19:48,Soundtrack,55533,5,false,ヒワマキシティ,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 2]
+2012-12-03 11:59:34,Indie Rock,22066,57,false,Mercredi matin,①偏頭痛の為の11のﾀﾞﾝｽ療法 Onze Danses Pour Combattre La Migraine ('77)
+2012-09-19 07:21:21,Soundtrack,92933,3,false,120番道路,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 2]
+never,Soundtrack,100000,0,false,ポケモン研究所,Nintendo DS Pokémon Black・White Super Music Collection [Disc 1]
+2012-09-19 07:21:49,Soundtrack,28200,3,false,インタビュアー,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 2]
+never,Soundtrack,4346,0,false,たいせつな道具をもらった!,Nintendo DS Pokémon Black・White Super Music Collection [Disc 1]
+never,Soundtrack,189493,0,false,Liberi Fatali (Final Fantasy VIII),Dear Friends - Music From Final Fantasy Original Soundtrack
+never,Soundtrack,94986,0,false,いっしょに行こう!,Nintendo DS Pokémon Black・White Super Music Collection [Disc 1]
+2012-09-20 03:35:02,Soundtrack,151186,9,false,ビッグブリッジの死闘,Distant Worlds music from FINAL FANTASY Returning home
+never,Soundtrack,82000,0,false,1番道路,Nintendo DS Pokémon Black・White Super Music Collection [Disc 1]
+2012-09-05 13:52:40,Soundtrack,237760,11,false,ティナのテーマ,Distant Worlds music from FINAL FANTASY Returning home
+2012-10-09 03:40:45,Soundtrack,16800,7,false,覚醒,PokemonB2W2 SuperMusicCollection [Disc3]
+2012-10-09 03:40:36,Soundtrack,229360,9,false,戦闘! アクロマ,PokemonB2W2 SuperMusicCollection [Disc3]
+2012-08-01 14:20:54,Soundtrack,121173,2,false,プラズマフリゲートに潜入!,PokemonB2W2 SuperMusicCollection [Disc3]
+never,Soundtrack,78426,0,false,ミュージカル「ポケモンセンターDEオシャレ♪」,PokemonB2W2 SuperMusicCollection [Disc3]
+2012-08-01 14:18:53,Soundtrack,36253,2,false,プラズマフリーゲート出撃,PokemonB2W2 SuperMusicCollection [Disc2]
+never,Soundtrack,72066,0,false,ミュージカル「ポケモンパーティ!」,PokemonB2W2 SuperMusicCollection [Disc3]
+never,Soundtrack,51493,0,false,ミュージカル「メロメロ★ムンナ」,PokemonB2W2 SuperMusicCollection [Disc3]
+never,Soundtrack,103040,0,false,THE END,PokemonB2W2 SuperMusicCollection [Disc3]
+never,Soundtrack,48960,0,false,バトルピラミッド頂上,PokemonB2W2 SuperMusicCollection [Disc4]
+never,Soundtrack,320880,0,false,スタッフロール,PokemonB2W2 SuperMusicCollection [Disc3]
+2012-08-01 14:25:38,Soundtrack,38226,2,false,対峙,PokemonB2W2 SuperMusicCollection [Disc3]
+never,Soundtrack,78733,0,false,タイトル,Nintendo DS Pokémon Black・White Super Music Collection [Disc 1]
+never,Soundtrack,21000,0,false,視線! バックパッカー,Nintendo DS Pokémon Black・White Super Music Collection [Disc 1]
+never,Soundtrack,14106,0,false,A New Adventure!,Nintendo DS Pokémon Black・White Super Music Collection [Disc 1]
+never,Pop,325866,0,false,SL9,ナユタとフカシギ
+never,Soundtrack,47066,0,false,王になった日,Nintendo DS Pokémon Black・White Super Music Collection [Disc 1]
+never,Jazz,344426,0,false,Rolem,Fly With The Wind
+never,Soundtrack,6240,0,false,どんどんソーナンスをクリア!,PokemonB2W2 SuperMusicCollection [Disc4]
+never,Pop,239333,0,false,藍,夕風ブレンド
+never,Pop,249026,0,false,糸ノ意図,夕風ブレンド
+never,Pop,191146,0,false,1 + 1,夕風ブレンド
+never,Soundtrack,22040,0,false,いざ、冒険へ!,Nintendo DS Pokémon Black・White Super Music Collection [Disc 1]
+2012-10-04 09:42:25,Pop,312760,3,false,惑星タイマー (album ver.),夕風ブレンド
+2012-07-31 12:34:51,Soundtrack,115773,1,false,カイナシティ,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 1]
+2012-11-23 05:12:59,Soundtrack,189933,39,false,戦闘! フロンティアブレーン (ホウエン),PokemonB2W2 SuperMusicCollection [Disc4]
+never,Sound Track,180062,0,false,クサムラを行け,洞窟物語　サウンドトラック
+never,R&B,170600,0,false,Oostend_ Oostend,Babel
+2012-09-09 00:03:09,Sound Track,126066,1,false,鼓動,洞窟物語　サウンドトラック
+never,Sound Track,127059,0,false,わんぱくロボ,洞窟物語　サウンドトラック
+2012-08-28 14:36:07,Sound Track,162063,1,false,安全の唄,洞窟物語　サウンドトラック
+2012-07-31 12:32:55,Soundtrack,32093,1,false,視線! うきわガール,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 1]
+2012-08-28 14:33:30,Sound Track,97071,1,false,セメタリー,洞窟物語　サウンドトラック
+never,Soundtrack,4666,0,false,サンダー - ファイナルファンタジーII(1988),SQUARE ENIX 効果音集
+2012-09-18 01:30:28,Soundtrack,107000,1,false,揺れぬ想い,Nintendo DS Pokémon Black・White Super Music Collection [Disc 1]
+2012-07-29 16:00:19,Soundtrack,43506,1,false,数式に囚われた者,Nintendo DS Pokémon Black・White Super Music Collection [Disc 1]
+never,Soundtrack,4333,0,false,決定 - Sa・Ga2 秘宝伝説(1990),SQUARE ENIX 効果音集
+never,Soundtrack,119000,0,false,ライモンシティ,Nintendo DS Pokémon Black・White Super Music Collection [Disc 1]
+never,Soundtrack,58000,0,false,ベルのテーマ,Nintendo DS Pokémon Black・White Super Music Collection [Disc 1]
+2012-07-31 12:06:47,Soundtrack,102333,1,false,タイトル ～メインテーマ～,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 1]
+never,Soundtrack,4253,0,false,マップに入る - 聖剣伝説～ファイナルファンタジー外伝～(1991),SQUARE ENIX 効果音集
+2012-07-31 12:05:05,Soundtrack,15906,1,false,タイトルデモ2 ～ダブルバトル～,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 1]
+2012-07-31 12:04:49,Soundtrack,34826,1,false,タイトルデモ ～ ホウエン地方の旅立ち～,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 1]
+2012-07-09 10:10:50,Soundtrack,136493,2,false,戦闘! N,Nintendo DS Pokémon Black・White Super Music Collection [Disc 1]
+never,Classical,153400,0,false,Orff: Carmina Burana - Fortuna Imperatrix Mundi: O Fortuna,Orff: Carmina Burana
+2012-11-16 02:55:54,Soundtrack,191706,1,false,猫を追いかけて,耳をすませば サウンドトラック
+never,Classical,120226,0,false,Orff: Carmina Burana - Blanziflor Et Helena: Ave Formosissima,Orff: Carmina Burana
+2012-09-18 08:13:29,Soundtrack,89120,6,false,ライバルのテーマ,PokemonB2W2 SuperMusicCollection [Disc1]
+never,Soundtrack,92000,0,false,サザナミタウン (夏),Nintendo DS Pokémon Black・White Super Music Collection [Disc 3]
+never,Soundtrack,51120,0,false,ポケウッド・衝撃のテーマ,PokemonB2W2 SuperMusicCollection [Disc1]
+never,Soundtrack,145000,0,false,サザナミタウン (秋～春),Nintendo DS Pokémon Black・White Super Music Collection [Disc 3]
+never,Classical,214626,0,false,エクアーロ,THE BEST　～Narimichi Kawabata～-10th Anniversary-
+2012-07-31 12:30:32,Soundtrack,55933,1,false,海を越えて,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 1]
+2012-11-23 04:32:20,Soundtrack,185066,12,false,Zanarkand (Final Fantasy X),Dear Friends - Music From Final Fantasy Original Soundtrack
+2012-08-01 12:42:37,Soundtrack,83493,5,false,シロナのテーマ,Nintendo DS Pokémon Black・White Super Music Collection [Disc 3]
+never,Classical,76666,0,false,熊蜂の飛行,THE BEST　～Narimichi Kawabata～-10th Anniversary-
+never,Classical,254000,0,false,ロンドンデリー,THE BEST　～Narimichi Kawabata～-10th Anniversary-
+2012-08-01 12:47:32,Soundtrack,128000,4,false,迷いの森,Nintendo DS Pokémon Black・White Super Music Collection [Disc 3]
+never,Classical,101000,0,false,マーチ～歌劇「3つのオレンジへの恋」,THE BEST　～Narimichi Kawabata～-10th Anniversary-
+never,Classical,339866,0,false,ヴォカリーズ,THE BEST　～Narimichi Kawabata～-10th Anniversary-
+2012-07-30 06:18:02,Soundtrack,51000,1,false,4番道路 (冬),Nintendo DS Pokémon Black・White Super Music Collection [Disc 4]
+never,Soundtrack,35000,0,false,視線! ミニスカート,Nintendo DS Pokémon Black・White Super Music Collection [Disc 1]
+never,Soundtrack,30000,0,false,視線! けんきゅういん,Nintendo DS Pokémon Black・White Super Music Collection [Disc 2]
+never,Soundtrack,90000,0,false,冷凍コンテナ,Nintendo DS Pokémon Black・White Super Music Collection [Disc 2]
+never,R&B,134373,0,false,Nog Verder,Babel
+never,Soundtrack,82000,0,false,6番道路 (春～夏),Nintendo DS Pokémon Black・White Super Music Collection [Disc 2]
+2012-09-04 16:18:42,Soundtrack,4586,2,false,ケアル系 - ファイナルファンタジーIII(1990),SQUARE ENIX 効果音集
+2012-12-03 11:52:42,Indie Rock,198840,5,false,Milano per caso,①偏頭痛の為の11のﾀﾞﾝｽ療法 Onze Danses Pour Combattre La Migraine ('77)
+never,Soundtrack,4280,0,false,マシンガン - 魔界塔士 Sa・Ga(1989),SQUARE ENIX 効果音集
+2012-07-30 06:19:02,Soundtrack,60000,2,false,バトル大会への挑戦,Nintendo DS Pokémon Black・White Super Music Collection [Disc 4]
+never,Soundtrack,32000,0,false,トレーナーに勝利!,Nintendo DS Pokémon Black・White Super Music Collection [Disc 1]
+never,Soundtrack,41133,0,false,ギラティナ出現!,PokemonB2W2 SuperMusicCollection [Disc4]
+never,Soundtrack,137226,0,false,Prologue de Refrain,～refrain～The songs were inspired by "EVANGELION"
+never,Soundtrack,324066,0,false,Forbidden Gene,～refrain～The songs were inspired by "EVANGELION"
+never,Soundtrack,295426,0,false,LOVE ANTIQUE,～refrain～The songs were inspired by "EVANGELION"
+2012-10-13 11:11:53,Soundtrack,88906,2,false,FLY ME TO THE MOON (On the Street),～refrain～The songs were inspired by "EVANGELION"
+never,Soundtrack,238440,0,false,FLY MY TO THE MOON (Touched by the Muse Mix),～refrain～The songs were inspired by "EVANGELION"
+2012-11-18 08:31:55,Soundtrack,74160,1,false,スーパーコンテスト・かっこよさ部門,PokemonB2W2 SuperMusicCollection [Disc4]
+2012-11-18 08:30:41,Soundtrack,66173,1,false,スーパーコンテスト・かわいさ部門,PokemonB2W2 SuperMusicCollection [Disc4]
+never,Soundtrack,18493,0,false,視線! たんぱんこぞう,Nintendo DS Pokémon Black・White Super Music Collection [Disc 1]
+never,Soundtrack,36000,0,false,視線! だいすきクラブ,Nintendo DS Pokémon Black・White Super Music Collection [Disc 3]
+never,Soundtrack,4026,0,false,わざわすれ,Nintendo DS Pokémon Black・White Super Music Collection [Disc 2]
+never,Soundtrack,37506,0,false,進化,Nintendo DS Pokémon Black・White Super Music Collection [Disc 1]
+2012-09-12 10:04:12,Soundtrack,129693,9,false,A Place To Call Home [From Final Fantasy IX],More Friends ~Music From Final Fantasy Original Soundtrack~
+never,Soundtrack,75040,0,false,スーパーコンテスト・かしこさ部門,PokemonB2W2 SuperMusicCollection [Disc4]
+never,New Age,134506,0,false,レクイエム II,もののけ姫 サウンドトラック
+never,Soundtrack,4266,0,false,メビウス砲 - 時空の覇者 Sa・Ga3【完結編】(1991),SQUARE ENIX 効果音集
+never,New Age,128360,0,false,もののけ姫 ～インストゥルメンタルバージョン～,もののけ姫 サウンドトラック
+never,Soundtrack,4253,0,false,よみのはどう - 時空の覇者 Sa・Ga3【完結編】(1991),SQUARE ENIX 効果音集
+never,New Age,99306,0,false,シシ神の森の二人,もののけ姫 サウンドトラック
+never,Soundtrack,4320,0,false,剣攻撃 - 時空の覇者 Sa・Ga3【完結編】(1991),SQUARE ENIX 効果音集
+2012-05-30 04:47:44,New Age,31600,1,false,生きろ,もののけ姫 サウンドトラック
+never,Soundtrack,246000,0,false,ソウリュウシティ (ブラック),Nintendo DS Pokémon Black・White Super Music Collection [Disc 2]
+never,Classical,59600,0,false,Orff: Carmina Burana - Cour D'Amours: Veni_ Veni_ Venias,Orff: Carmina Burana
+never,Classical,59360,0,false,Orff: Carmina Burana - Cour D'Amours: Si Puer Cum Puellula,Orff: Carmina Burana
+never,Classical,153800,0,false,Orff: Carmina Burana - Cour D'Amours: Tempus Est Iocundum,Orff: Carmina Burana
+never,Soundtrack,4560,0,false,キャラチェンジ - 時空の覇者 Sa・Ga3【完結編】(1991),SQUARE ENIX 効果音集
+2012-09-18 11:27:57,New Age,212093,1,false,もののけ姫 ヴォーカル,もののけ姫 サウンドトラック
+never,Classical,429840,0,false,Biber: Mystery Sonata _6_ "The Agony In The Garden",Biber: Rosenkranz Sonatas [Disc 1]
+never,Soundtrack,210000,0,false,ソウリュウシティ (ホワイト),Nintendo DS Pokémon Black・White Super Music Collection [Disc 2]
+never,New Age,176560,0,false,戦火の恋,ハウルの動く城 サウンドトラック
+2012-07-09 11:30:29,Soundtrack,139000,1,false,10番道路,Nintendo DS Pokémon Black・White Super Music Collection [Disc 2]
+2012-10-07 04:10:44,Soundtrack,191320,1,false,The Federation of Windurst,FINAL FANTASY 25th ANNIVERSARY SQUARE ENIX MUSIC COMPOSERS' SELECTION CD
+never,Soundtrack,173253,0,false,The Republic of Bastok,FINAL FANTASY 25th ANNIVERSARY SQUARE ENIX MUSIC COMPOSERS' SELECTION CD
+never,Sound Track,187036,0,false,帰り路,洞窟物語　サウンドトラック
+2012-11-24 15:17:34,New Age,71800,1,false,恋だね,ハウルの動く城 サウンドトラック
+2012-09-08 23:22:51,Soundtrack,355853,1,false,召還獣バトル,FINAL FANTASY 25th ANNIVERSARY SQUARE ENIX MUSIC COMPOSERS' SELECTION CD
+never,Soundtrack,110000,0,false,チャンピオンロード,Nintendo DS Pokémon Black・White Super Music Collection [Disc 2]
+2012-11-23 23:56:32,Soundtrack,244546,4,false,東ダルマスカ砂漠,FINAL FANTASY 25th ANNIVERSARY SQUARE ENIX MUSIC COMPOSERS' SELECTION CD
+never,Soundtrack,6133,0,false,バトルポイントをもらった! (ホウエン),PokemonB2W2 SuperMusicCollection [Disc4]
+2012-08-28 10:25:08,Soundtrack,235026,7,false,戦闘! ブラックキュレム・ホワイトキュレム,PokemonB2W2 SuperMusicCollection [Disc3]
+2012-12-03 11:20:21,Indie Rock,208213,3,false,DBB(Double BIind Baby),①偏頭痛の為の11のﾀﾞﾝｽ療法 Onze Danses Pour Combattre La Migraine ('77)
+never,R&B,251266,0,false,Cha Cha Cha,Babel
+2012-08-10 15:24:52,New Age,179840,1,false,穢土,もののけ姫 サウンドトラック
+never,Classical,434000,0,false,Ravel: Pavane Pour Une Infante Défunte,Debussy: La Mer_ Prélude A L'Apres Mini D' Un Faune; Ravel: Daphnis Et Chloé_ Etc
+2012-11-19 14:56:18,Soundtrack,139066,33,false,23番道路,PokemonB2W2 SuperMusicCollection [Disc3]
+2012-09-21 23:43:14,Classical,495373,1,false,Debussy: La Mer_ L 109 - 3. Dialogue Du Vent Et De La Mer,Debussy: La Mer_ Prélude A L'Apres Mini D' Un Faune; Ravel: Daphnis Et Chloé_ Etc
+never,Soundtrack,130066,0,false,満天の夜空,耳をすませば サウンドトラック
+2012-09-18 08:46:34,New Age,231040,2,false,タタリ神,もののけ姫 サウンドトラック
+2012-08-10 15:21:17,New Age,152960,1,false,旅立ち ～西へ～,もののけ姫 サウンドトラック
+2012-08-10 15:21:53,New Age,36000,1,false,呪われた力,もののけ姫 サウンドトラック
+never,Classical,260533,0,false,ポッケ村のテーマ,モンスターハンター5周年記念オーケストラコンサート ～狩猟音楽祭～
+never,Soundtrack,55826,0,false,迷いの森,耳をすませば サウンドトラック
+never,Classical,238893,0,false,嵐に舞う黒い影 ～クシャルダオラ～ 炎国の王妃 ～テオ・テスカトル & ナナ・テスカトリ～,モンスターハンター5周年記念オーケストラコンサート ～狩猟音楽祭～
+never,Classical,211546,0,false,精霊へ歌う唄,モンスターハンター5周年記念オーケストラコンサート ～狩猟音楽祭～
+never,Classical,282000,0,false,動く霊峰 ～ 勇者のためのマーチ,モンスターハンター5周年記念オーケストラコンサート ～狩猟音楽祭～
+never,Classical,196906,0,false,恵み深い人々の村,モンスターハンター5周年記念オーケストラコンサート ～狩猟音楽祭～
+never,New Age,89373,0,false,タタラ踏む女達 ～エボシ タタラうた～,もののけ姫 サウンドトラック
+2012-08-10 15:33:16,New Age,168293,1,false,エボシ御前,もののけ姫 サウンドトラック
+never,New Age,85133,0,false,東から来た少年,もののけ姫 サウンドトラック
+never,New Age,88466,0,false,修羅,もののけ姫 サウンドトラック
+never,New Age,141626,0,false,レクイエム,もののけ姫 サウンドトラック
+2012-09-18 12:21:47,Traditional,417440,1,false,Deux guitares(Russian Traditional),VIRTUOSO VIOLIN PIECES
+never,Soundtrack,32000,0,false,視線! ふたごちゃん,Nintendo DS Pokémon Black・White Super Music Collection [Disc 1]
+2012-09-18 11:43:43,Traditional,213760,1,false,Hungarian Dance No_5 in G minor(Johannes Brahms),VIRTUOSO VIOLIN PIECES
+2012-12-03 11:16:53,Indie Rock,200906,3,false,Son of l'idiot,①偏頭痛の為の11のﾀﾞﾝｽ療法 Onze Danses Pour Combattre La Migraine ('77)
+never,Soundtrack,55560,0,false,Secret Track,モンスターハンター 狩猟音楽集II ～咆哮の章～ [Disc 2]
+never,Soundtrack,291813,0,false,目覚めの章 ～魂を宿す唄,モンスターハンター 狩猟音楽集II ～咆哮の章～ [Disc 2]
+never,New Age,149666,0,false,呪われた力 II,もののけ姫 サウンドトラック
+never,Rock,255293,0,false,In Lulu,Viva Boma
+2012-07-29 17:14:19,Soundtrack,36973,3,false,イッシュリンク,PokemonB2W2 SuperMusicCollection [Disc3]
+never,Rock,302600,0,false,Ixelles,Viva Boma
+never,Classical,362000,0,false,Biber: Mystery Sonata _8_ "The Crowing Of Jesus With Thorns",Biber: Rosenkranz Sonatas [Disc 1]
+2012-09-18 11:36:32,Traditional,249266,1,false,Csardas(Vittorio Monti),VIRTUOSO VIOLIN PIECES
+2012-08-28 14:55:44,Soundtrack,101066,4,false,ヤマジタウン,PokemonB2W2 SuperMusicCollection [Disc2]
+never,Soundtrack,64466,0,false,メイン・テーマ,Distant Worlds music from FINAL FANTASY Returning home
+2012-09-18 01:22:13,Soundtrack,81000,2,false,スカイアローブリッジ,Nintendo DS Pokémon Black・White Super Music Collection [Disc 1]
+2012-08-28 14:53:51,Soundtrack,76946,4,false,フキヨセジム,PokemonB2W2 SuperMusicCollection [Disc2]
+2012-08-28 14:52:34,Soundtrack,62053,4,false,チェレンのテーマ,PokemonB2W2 SuperMusicCollection [Disc2]
+2012-08-28 14:54:03,Soundtrack,5400,5,false,メダルボックスリニューアル!,PokemonB2W2 SuperMusicCollection [Disc2]
+never,Soundtrack,127000,0,false,グローバルターミナル,Nintendo DS Pokémon Black・White Super Music Collection [Disc 3]
+2012-10-04 10:24:57,Pop,273226,1,false,全力少年,空創クリップ
+never,Soundtrack,47400,0,false,四天王登場,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 2]
+2012-10-04 23:54:25,Pop,239773,2,false,水色のスカート,空創クリップ
+2012-10-04 23:55:43,Pop,78173,1,false,君に告げる,空創クリップ
+never,Pop,403800,0,false,雨待ち風 (Album Ver.),空創クリップ
+2012-07-04 14:26:23,Soundtrack,70333,1,false,バトルタワー,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 2]
+never,Soundtrack,4280,0,false,フリノテキ - 半熟英雄(1988),SQUARE ENIX 効果音集
+2012-08-02 09:05:21,Soundtrack,71466,3,false,すてられぶね,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 2]
+never,Soundtrack,351600,0,false,Melodies Of Life [From Final Fantasy IX],More Friends ~Music From Final Fantasy Original Soundtrack~
+never,Soundtrack,49493,0,false,視線! エリートトレーナー,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 2]
+never,Soundtrack,4640,0,false,エンカウント - ファイナルファンタジーIII(1990),SQUARE ENIX 効果音集
+never,Soundtrack,81466,0,false,チャンピオンロード,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 2]
+2012-10-04 10:34:24,Pop,327000,1,false,冬の口笛 (feat Takuya Ver.),空創クリップ
+2012-11-23 04:40:18,Soundtrack,243466,2,false,Dear Friends (Final Fantasy V),Dear Friends - Music From Final Fantasy Original Soundtrack
+2012-07-09 10:05:37,Soundtrack,100506,1,false,勝利は目の前!,Nintendo DS Pokémon Black・White Super Music Collection [Disc 1]
+2012-10-05 17:24:54,Soundtrack,4653,1,false,魔法 - ファイナルファンタジー(1987),SQUARE ENIX 効果音集
+never,Soundtrack,105986,0,false,遊覧船ロイヤルイッシュ号,Nintendo DS Pokémon Black・White Super Music Collection [Disc 3]
+never,Soundtrack,4560,0,false,剣攻撃 - ファイナルファンタジーIII(1990),SQUARE ENIX 効果音集
+2012-07-09 10:08:34,Soundtrack,84000,1,false,4番道路 (春),Nintendo DS Pokémon Black・White Super Music Collection [Disc 1]
+never,Soundtrack,165000,0,false,フキヨセシティ,Nintendo DS Pokémon Black・White Super Music Collection [Disc 2]
+2012-10-05 17:24:49,Soundtrack,4640,1,false,敵の攻撃 - ファイナルファンタジー(1987),SQUARE ENIX 効果音集
+2012-11-08 09:01:46,Soundtrack,89266,10,false,Battle 1 ~The Rocking Grounds~ [From Final Fantasy III],More Friends ~Music From Final Fantasy Original Soundtrack~
+never,Soundtrack,143000,0,false,カナワタウン,Nintendo DS Pokémon Black・White Super Music Collection [Disc 3]
+never,Soundtrack,5093,0,false,図鑑評価…これから!,Nintendo DS Pokémon Black・White Super Music Collection [Disc 1]
+never,Soundtrack,85000,0,false,Wi-Fi 接続,Nintendo DS Pokémon Black・White Super Music Collection [Disc 3]
+2012-09-08 00:56:08,Soundtrack,258773,1,false,Aerith's Theme (Final Fantasy VII),Dear Friends - Music From Final Fantasy Original Soundtrack
+never,Soundtrack,81986,0,false,6番道路 (秋～冬),Nintendo DS Pokémon Black・White Super Music Collection [Disc 3]
+2012-11-08 09:00:16,Soundtrack,92106,1,false,Final Fantasy [From Final Fantasy],More Friends ~Music From Final Fantasy Original Soundtrack~
+never,Soundtrack,4146,0,false,フィーリングはいまいち?,Nintendo DS Pokémon Black・White Super Music Collection [Disc 3]
+2012-10-05 17:24:44,Soundtrack,4333,2,false,味方攻撃 - ファイナルファンタジー(1987),SQUARE ENIX 効果音集
+never,Soundtrack,336306,0,false,Suteki DA NE (Isn't It Wonderful?) [From Final Fantasy X],More Friends ~Music From Final Fantasy Original Soundtrack~
+never,Classical,152053,0,false,Orff: Carmina Burana - Cour D'Amours: Dies_ Nox Et Omnia,Orff: Carmina Burana
+never,Rock,339546,0,false,はじまりの歌,はじまりの歌
+2012-09-12 09:51:43,Soundtrack,94106,1,false,Final Fantasy (Final Fantasy),Dear Friends - Music From Final Fantasy Original Soundtrack
+2012-11-24 15:21:15,Soundtrack,107760,15,false,海の科学博物館,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 1]
+2012-11-08 08:58:08,Soundtrack,234173,1,false,Terra's Theme [From Final Fantasy VI],More Friends ~Music From Final Fantasy Original Soundtrack~
+never,Soundtrack,322600,0,false,無限抱擁 (Return to Dew Mix),～refrain～The songs were inspired by "EVANGELION"
+2012-12-03 12:05:08,Indie Rock,75106,4,false,Comme on a dit,①偏頭痛の為の11のﾀﾞﾝｽ療法 Onze Danses Pour Combattre La Migraine ('77)
+2012-10-06 17:30:07,Soundtrack,295560,1,false,予感 (Sounds of Reverie Mix),～refrain～The songs were inspired by "EVANGELION"
+never,Soundtrack,4586,0,false,ポケモンのタマゴをもらった!,Nintendo DS Pokémon Black・White Super Music Collection [Disc 3]
+never,Soundtrack,303866,0,false,眩惑の海から,～refrain～The songs were inspired by "EVANGELION"
+2012-12-03 11:57:07,Indie Rock,139733,3,false,Three Epileptic Folk Dances,①偏頭痛の為の11のﾀﾞﾝｽ療法 Onze Danses Pour Combattre La Migraine ('77)
+never,Rock,247906,0,false,そろそろいかなくちゃ,はじまりの歌
+2012-07-28 08:16:20,Soundtrack,109093,1,false,タチワキシティ,PokemonB2W2 SuperMusicCollection [Disc1]
+never,Pop,197546,0,false,雫,ナユタとフカシギ
+2012-11-16 10:08:41,Soundtrack,192920,7,false,I'll Go On Lovin'Someone Else (EM02),Shiro SAGISU Music from "EVANGELION: 1.0 YOU ARE (NOT) ALONE"
+never,Pop,259453,0,false,双星プロローグ,ナユタとフカシギ
+never,Pop,191173,0,false,ムーンライトで行こう,ナユタとフカシギ
+never,Soundtrack,4266,0,false,アタクロス - 半熟英雄(1988),SQUARE ENIX 効果音集
+2012-10-04 09:26:22,Pop,372826,1,false,ゴールデンタイムラバー (album ver.),ナユタとフカシギ
+never,New Age,84533,0,false,ファミリー,ハウルの動く城 サウンドトラック
+2012-10-07 08:36:04,Soundtrack,113133,4,false,Cruel Dilemme IV (Guit_C),Shiro SAGISU Music from "EVANGELION: 1.0 YOU ARE (NOT) ALONE"
+never,Pop,176493,0,false,病院にいく,ナユタとフカシギ
+2012-10-07 08:15:00,Soundtrack,108360,2,false,Danse des Lucioles (EM19),Shiro SAGISU Music from "EVANGELION: 1.0 YOU ARE (NOT) ALONE"
+never,New Age,57373,0,false,走れ！,ハウルの動く城 サウンドトラック
+2012-10-07 08:30:33,Soundtrack,127386,5,false,EM17_Demo,Shiro SAGISU Music from "EVANGELION: 1.0 YOU ARE (NOT) ALONE"
+never,Soundtrack,4080,0,false,道具を手に入れた!,Nintendo DS Pokémon Black・White Super Music Collection [Disc 1]
+2012-10-07 08:34:10,Soundtrack,216986,4,false,EM21_Demo,Shiro SAGISU Music from "EVANGELION: 1.0 YOU ARE (NOT) ALONE"
+2012-09-09 00:16:29,Sound Track,70060,1,false,バルログのテーマ,洞窟物語　サウンドトラック
+never,Sound Track,99030,0,false,プラント,洞窟物語　サウンドトラック
+never,Sound Track,153051,0,false,ミミガーの村,洞窟物語　サウンドトラック
+2012-11-27 11:40:37,Sound Track,152058,1,false,胎生,洞窟物語　サウンドトラック
+2012-07-04 14:05:29,Soundtrack,30666,3,false,視線! サイキッカー,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 2]
+2012-07-28 08:10:44,Soundtrack,69146,1,false,サンギ牧場,PokemonB2W2 SuperMusicCollection [Disc1]
+2012-09-08 23:57:15,Sound Track,113815,2,false,グラビティ,洞窟物語　サウンドトラック
+2012-07-31 12:20:08,Soundtrack,139466,1,false,戦闘! トレーナー,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 1]
+2012-07-31 12:17:48,Soundtrack,27733,1,false,視線! ミニスカート,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 1]
+2012-07-31 12:17:20,Soundtrack,29373,1,false,視線! たんぱんこぞう,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 1]
+2012-07-04 14:04:58,Soundtrack,98133,1,false,おくりびやま,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 2]
+2012-07-31 12:16:51,Soundtrack,5026,1,false,回復,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 1]
+2012-07-30 06:25:06,Soundtrack,9093,1,false,図鑑評価…完璧!,Nintendo DS Pokémon Black・White Super Music Collection [Disc 4]
+never,Soundtrack,4640,0,false,魔法詠唱 - ファイナルファンタジーIII(1990),SQUARE ENIX 効果音集
+2012-07-31 12:20:39,Soundtrack,31266,1,false,トレーナーに勝利!,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 1]
+never,Classical,488266,0,false,XIV The Assumption of our Lady,Biber: Rosenkranz-Sonaten [Disc 2]
+never,Classical,199426,0,false,ポエム,Ave Maria
+never,Classical,196373,0,false,ハンガリー舞曲 第1番,Ave Maria
+never,Classical,181266,0,false,精霊の踊り,Ave Maria
+2012-12-03 11:13:32,Indie Rock,68360,5,false,Fausto Coppi arrive!,①偏頭痛の為の11のﾀﾞﾝｽ療法 Onze Danses Pour Combattre La Migraine ('77)
+never,Classical,563360,0,false,夏の名残りのバラ (庭の千草),Ave Maria
+never,Soundtrack,4226,0,false,スターバスター発射 - Sa・Ga2 秘宝伝説(1990),SQUARE ENIX 効果音集
+2012-08-01 13:02:03,Soundtrack,58000,1,false,殿堂入りおめでとう!,Nintendo DS Pokémon Black・White Super Music Collection [Disc 4]
+never,Soundtrack,4360,0,false,決定 - 聖剣伝説～ファイナルファンタジー外伝～(1991),SQUARE ENIX 効果音集
+never,Classical,127373,0,false,感傷的なワルツ,Ave Maria
+never,Soundtrack,4213,0,false,剣で斬る - 聖剣伝説～ファイナルファンタジー外伝～(1991),SQUARE ENIX 効果音集
+2012-09-16 23:48:42,R&B,200293,1,false,Good Wind,Babel
+never,Soundtrack,4613,0,false,アルテマ - ファイナルファンタジーII(1988),SQUARE ENIX 効果音集
+2012-08-01 13:00:15,Soundtrack,135506,1,false,戦闘! チャンピオン,Nintendo DS Pokémon Black・White Super Music Collection [Disc 4]
+never,Soundtrack,4106,0,false,剣で突く - 聖剣伝説～ファイナルファンタジー外伝～(1991),SQUARE ENIX 効果音集
+2012-09-09 00:12:21,Sound Track,279040,1,false,洞窟物語（大農園）,洞窟物語　サウンドトラック
+2012-10-10 00:27:56,Sound Track,121025,3,false,静かなる,洞窟物語　サウンドトラック
+never,Soundtrack,4173,0,false,ダメージを受ける - 聖剣伝説～ファイナルファンタジー外伝～(1991),SQUARE ENIX 効果音集
+2012-10-10 00:30:09,Sound Track,133041,3,false,灼熱の背中,洞窟物語　サウンドトラック
+2012-11-19 11:44:11,Sound Track,157048,26,false,つきのうた,洞窟物語　サウンドトラック
+2012-08-28 14:29:44,Sound Track,135758,1,false,末路,洞窟物語　サウンドトラック
+never,Classical,155400,0,false,Saint-Saëns: Le Carnaval Des Animaux - 7. Aquarium,Saint-Saëns: Le Carnaval Des Animaux; Organ Symphony [Disc 2]
+2012-09-10 12:59:02,Soundtrack,4253,2,false,召喚獣登場 - 半熟英雄(1988),SQUARE ENIX 効果音集
+never,Soundtrack,4226,0,false,スターバスターHIT - Sa・Ga2 秘宝伝説(1990),SQUARE ENIX 効果音集
+2012-10-05 17:24:40,Soundtrack,4306,1,false,エンカウント - ファイナルファンタジー(1987),SQUARE ENIX 効果音集
+never,Soundtrack,4373,0,false,弓HIT - ファイナルファンタジーII(1988),SQUARE ENIX 効果音集
+never,Classical,34200,0,false,Saint-Saëns: Le Carnaval Des Animaux - 3. Hémiones,Saint-Saëns: Le Carnaval Des Animaux; Organ Symphony [Disc 2]
+never,Soundtrack,137706,0,false,丘の上、微風あり,耳をすませば サウンドトラック
+2012-06-26 09:05:29,Classical,176413,1,false,Saint-Saëns: Le Carnaval Des Animaux - 4. Tortues,Saint-Saëns: Le Carnaval Des Animaux; Organ Symphony [Disc 2]
+never,Classical,95866,0,false,Saint-Saëns: Le Carnaval Des Animaux - 5. L'Eléphant,Saint-Saëns: Le Carnaval Des Animaux; Organ Symphony [Disc 2]
+never,Classical,63733,0,false,Saint-Saëns: Le Carnaval Des Animaux - 6. Kangourous,Saint-Saëns: Le Carnaval Des Animaux; Organ Symphony [Disc 2]
+2012-10-05 17:24:36,Soundtrack,4360,2,false,マップから出る - ファイナルファンタジー(1987),SQUARE ENIX 効果音集
+never,Soundtrack,4613,0,false,フレア等の強魔法 - ファイナルファンタジーII(1988),SQUARE ENIX 効果音集
+never,Soundtrack,4653,0,false,サンダー系 - ファイナルファンタジーIII(1990),SQUARE ENIX 効果音集
+never,Soundtrack,4680,0,false,ファイア - ファイナルファンタジーII(1988),SQUARE ENIX 効果音集
+never,Soundtrack,4440,0,false,ブリザド - ファイナルファンタジーII(1988),SQUARE ENIX 効果音集
+never,Soundtrack,4226,0,false,ビープ - 聖剣伝説～ファイナルファンタジー外伝～(1991),SQUARE ENIX 効果音集
+2012-10-05 17:24:31,Soundtrack,4293,2,false,ドア開ける - ファイナルファンタジー(1987),SQUARE ENIX 効果音集
+2012-07-09 14:46:17,Soundtrack,46773,2,false,ドラゴン覚醒,Nintendo DS Pokémon Black・White Super Music Collection [Disc 2]
+never,Classical,116253,0,false,Saint-Saëns: Le Carnaval Des Animaux - 14. Finale,Saint-Saëns: Le Carnaval Des Animaux; Organ Symphony [Disc 2]
+never,Classical,190493,0,false,Saint-Saëns: Le Carnaval Des Animaux - 13. Le Cygne,Saint-Saëns: Le Carnaval Des Animaux; Organ Symphony [Disc 2]
+never,Soundtrack,4626,0,false,敵死亡 - ファイナルファンタジーIII(1990),SQUARE ENIX 効果音集
+never,Classical,543520,0,false,Saint-Saëns: Introduction Et Rondo Capriccioso_ Op. 28,Saint-Saëns: Le Carnaval Des Animaux; Organ Symphony [Disc 2]
+never,Classical,583040,0,false,Saint-Saëns: Havanaise_ Op. 83,Saint-Saëns: Le Carnaval Des Animaux; Organ Symphony [Disc 2]
+2012-10-05 17:24:27,Soundtrack,4346,2,false,マップに出る - ファイナルファンタジー(1987),SQUARE ENIX 効果音集
+never,Classical,438453,0,false,Saint-Saëns: Samson Et Dalila - Act 3: Bacchanale,Saint-Saëns: Le Carnaval Des Animaux; Organ Symphony [Disc 2]
+2012-09-02 21:04:56,Soundtrack,4533,1,false,キャラチェンジ - ファイナルファンタジーIII(1990),SQUARE ENIX 効果音集
+2012-10-05 17:24:23,Soundtrack,4613,2,false,メッセージ消える - ファイナルファンタジー(1987),SQUARE ENIX 効果音集
+never,Soundtrack,12333,0,false,エンタープライズ - ファイナルファンタジーIII(1990),SQUARE ENIX 効果音集
+2012-10-30 01:18:09,Soundtrack,77400,8,false,反乱軍のテーマ,Distant Worlds music from FINAL FANTASY Returning home
+2012-10-05 17:24:18,Soundtrack,4360,2,false,メッセージ出る - ファイナルファンタジー(1987),SQUARE ENIX 効果音集
+2012-07-28 08:51:00,Soundtrack,55080,1,false,PWT会場,PokemonB2W2 SuperMusicCollection [Disc2]
+2012-07-28 08:50:05,Soundtrack,153866,1,false,ポケモンワールドトーナメント (PWT),PokemonB2W2 SuperMusicCollection [Disc2]
+2012-07-28 08:47:31,Soundtrack,88080,1,false,ホドモエジム,PokemonB2W2 SuperMusicCollection [Disc2]
+2012-12-08 14:10:10,Classical,239173,1,false,ベスよ、お前は俺のもの,愛の悲しみ
+2012-07-28 08:44:22,Soundtrack,173240,1,false,戦闘! ジムリーダー,PokemonB2W2 SuperMusicCollection [Disc1]
+never,Electronica,251866,0,false,裏表ラバーズ,アンハッピーリフレイン [Disc 2]
+2012-11-22 10:13:50,Electronica,200720,19,false,プリズムキューブ,アンハッピーリフレイン [Disc 1]
+never,Electronica,179813,0,false,ローリンガール,アンハッピーリフレイン [Disc 2]
+never,Electronica,206720,0,false,とおせんぼ,アンハッピーリフレイン [Disc 2]
+never,Electronica,369653,0,false,僕のサイノウ,アンハッピーリフレイン [Disc 2]
+never,Soundtrack,83933,0,false,Elia_ The Maiden Of Water (Final Fantasy III),Dear Friends - Music From Final Fantasy Original Soundtrack
+2012-09-02 01:21:20,Soundtrack,167000,9,false,戦闘! シロナ,Nintendo DS Pokémon Black・White Super Music Collection [Disc 3]
+never,Soundtrack,157626,0,false,毒湿地の蟹将軍 _ ショウグンギザミ,モンスターハンター 狩猟音楽集II ～咆哮の章～ [Disc 2]
+never,Soundtrack,44480,0,false,炎河の溶岩竜,モンスターハンター 狩猟音楽集II ～咆哮の章～ [Disc 2]
+never,Soundtrack,202440,0,false,密林の大食漢 _ ババコンガ,モンスターハンター 狩猟音楽集II ～咆哮の章～ [Disc 2]
+never,Soundtrack,177840,0,false,双角猛る砂漠の暴君 _ ディアブロス,モンスターハンター 狩猟音楽集II ～咆哮の章～ [Disc 2]
+never,Rock,88000,0,false,Perhaps Next Record,Viva Boma
+never,Soundtrack,4200,0,false,大きなお肉が落ちてくる - 時空の覇者 Sa・Ga3【完結編】(1991),SQUARE ENIX 効果音集
+never,Soundtrack,179413,0,false,マグマを纏う炎魔 _ ヴォルガノス,モンスターハンター 狩猟音楽集II ～咆哮の章～ [Disc 2]
+never,Soundtrack,4280,0,false,チェーンソー - 魔界塔士 Sa・Ga(1989),SQUARE ENIX 効果音集
+never,Soundtrack,82933,0,false,ポケウッド・恐怖のテーマ,PokemonB2W2 SuperMusicCollection [Disc1]
+never,Soundtrack,212506,0,false,戦闘! トレーナー,Nintendo DS Pokémon Black・White Super Music Collection [Disc 1]
+never,Soundtrack,80853,0,false,ポケウッド・戦慄のテーマ,PokemonB2W2 SuperMusicCollection [Disc1]
+2012-07-30 06:24:57,Soundtrack,269000,1,false,戦闘! キュレム,Nintendo DS Pokémon Black・White Super Music Collection [Disc 4]
+never,Soundtrack,35000,0,false,視線! エリートトレーナー,Nintendo DS Pokémon Black・White Super Music Collection [Disc 2]
+never,Soundtrack,4653,0,false,味方攻撃HIT - ファイナルファンタジーII(1988),SQUARE ENIX 効果音集
+2012-09-19 07:13:26,Soundtrack,106293,4,false,戦闘! ジムリーダー,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 1]
+2012-09-02 18:39:23,Soundtrack,154973,1,false,J-E-N-O-V-A,Distant Worlds music from FINAL FANTASY Returning home
+2012-08-02 09:21:40,Soundtrack,59573,3,false,ジム,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 1]
+never,R&B,255200,0,false,Boehme,Babel
+2012-09-19 07:14:45,Soundtrack,7266,3,false,バッジゲット,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 1]
+never,R&B,427760,0,false,Babel Live,Babel
+2012-09-19 07:14:38,Soundtrack,72266,3,false,ジムリーダーに勝利!,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 1]
+never,R&B,327013,0,false,Amafam,Babel
+2012-09-12 09:50:09,Soundtrack,111626,13,false,Theme Of Love (Final Fantasy IV),Dear Friends - Music From Final Fantasy Original Soundtrack
+never,Soundtrack,80866,0,false,ポケウッド・絶望のテーマ,PokemonB2W2 SuperMusicCollection [Disc1]
+2012-09-19 07:14:51,Soundtrack,5240,3,false,わざマシンゲット,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 1]
+never,Soundtrack,113640,0,false,Vamo' Alla Flamenco (Final Fantasy IX),Dear Friends - Music From Final Fantasy Original Soundtrack
+never,Soundtrack,298520,0,false,Ronfaure,Distant Worlds music from FINAL FANTASY Returning home
+2012-09-08 01:10:26,Soundtrack,271026,1,false,Love Grows (Final Fantasy VIII),Dear Friends - Music From Final Fantasy Original Soundtrack
+2012-08-01 14:09:45,Soundtrack,57053,5,false,ダークトリニティのテーマ,PokemonB2W2 SuperMusicCollection [Disc2]
+2012-09-18 08:40:24,Soundtrack,147093,4,false,マリンチューブ,PokemonB2W2 SuperMusicCollection [Disc2]
+2012-09-10 09:45:15,Soundtrack,4066,3,false,エントリーコール,PokemonB2W2 SuperMusicCollection [Disc4]
+2012-08-01 14:15:02,Soundtrack,170240,2,false,セイガイハシティ,PokemonB2W2 SuperMusicCollection [Disc2]
+2012-06-05 04:39:28,Classical,167466,1,false,ブルースのテンポで,愛の悲しみ
+2012-08-01 14:16:50,Soundtrack,107813,2,false,セイガイハジム,PokemonB2W2 SuperMusicCollection [Disc2]
+2012-08-01 14:18:16,Soundtrack,86106,2,false,22番道路 (春～夏),PokemonB2W2 SuperMusicCollection [Disc2]
+2012-07-28 19:46:20,Soundtrack,160093,1,false,決勝! ポケモンワールドチャンピオンシップス,PokemonB2W2 SuperMusicCollection [Disc3]
+never,Soundtrack,61173,0,false,ミュージカル「MELOETTAAA!!!」,PokemonB2W2 SuperMusicCollection [Disc3]
+2012-09-10 09:50:11,Soundtrack,101853,2,false,タイトル (エメラルド),PokemonB2W2 SuperMusicCollection [Disc4]
+2012-07-28 19:47:00,Soundtrack,40120,1,false,いにしえのうた,PokemonB2W2 SuperMusicCollection [Disc3]
+2012-12-03 11:33:54,Indie Rock,189266,4,false,Chanter est sain,①偏頭痛の為の11のﾀﾞﾝｽ療法 Onze Danses Pour Combattre La Migraine ('77)
+2012-07-11 03:03:04,Soundtrack,51240,2,false,チャンピオンダイゴ,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 2]
+never,Soundtrack,116000,0,false,ゲート,Nintendo DS Pokémon Black・White Super Music Collection [Disc 1]
+2012-09-10 09:08:50,Soundtrack,107000,2,false,戦闘! 四天王,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 2]
+never,Soundtrack,53906,0,false,ダイゴに勝利!,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 2]
+never,Classical,233906,0,false,チャルダッシュ,THE BEST　～Narimichi Kawabata～-10th Anniversary-
+2012-09-10 09:11:31,Soundtrack,111626,2,false,決戦! ダイゴ,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 2]
+never,Classical,242626,0,false,カンタービレ,THE BEST　～Narimichi Kawabata～-10th Anniversary-
+2012-09-18 08:52:48,Classical,136840,1,false,ハンガリー舞曲第五番,THE BEST　～Narimichi Kawabata～-10th Anniversary-
+never,Soundtrack,59333,0,false,栄光の部屋,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 2]
+2012-09-18 08:50:31,Classical,221133,1,false,歌の翼に,THE BEST　～Narimichi Kawabata～-10th Anniversary-
+never,Classical,286200,0,false,アヴェ・マリア,Ave Maria
+never,Soundtrack,4186,0,false,剣攻撃 - Sa・Ga2 秘宝伝説(1990),SQUARE ENIX 効果音集
+never,Soundtrack,4213,0,false,回復 - Sa・Ga2 秘宝伝説(1990),SQUARE ENIX 効果音集
+never,Soundtrack,4200,0,false,ビープ - Sa・Ga2 秘宝伝説(1990),SQUARE ENIX 効果音集
+2012-08-01 13:01:05,Soundtrack,50000,1,false,チャンピオンに勝利!,Nintendo DS Pokémon Black・White Super Music Collection [Disc 4]
+never,Soundtrack,4213,0,false,エンカウント - Sa・Ga2 秘宝伝説(1990),SQUARE ENIX 効果音集
+2012-11-07 05:35:20,Soundtrack,4266,1,false,弓攻撃 - ファイナルファンタジーII(1988),SQUARE ENIX 効果音集
+never,Soundtrack,4280,0,false,アイテム - Sa・Ga2 秘宝伝説(1990),SQUARE ENIX 効果音集
+never,Classical,308333,0,false,アヴェ・マリア,THE BEST　～Narimichi Kawabata～-10th Anniversary-
+never,Classical,676520,0,false,カルメン幻想曲,THE BEST　～Narimichi Kawabata～-10th Anniversary-
+never,Classical,244893,0,false,目覚め,モンスターハンター5周年記念オーケストラコンサート ～狩猟音楽祭～
+never,Classical,217693,0,false,Monster Hunter,モンスターハンター5周年記念オーケストラコンサート ～狩猟音楽祭～
+2012-11-25 12:54:23,Soundtrack,170000,6,false,カントリー・ロード [ヴァイオリン・バージョン],耳をすませば サウンドトラック
+never,Classical,262653,0,false,眼光 -Hunted- ～Lioleus _ 咆哮 ～Monoblos _ 真紅の角,モンスターハンター5周年記念オーケストラコンサート ～狩猟音楽祭～
+never,Classical,353066,0,false,IX Jesus Carries His Cross,Biber: Rosenkranz-Sonaten [Disc 2]
+2012-07-28 08:24:24,Soundtrack,208573,1,false,ポケウッドで撮影中!,PokemonB2W2 SuperMusicCollection [Disc1]
+never,Classical,149400,0,false,Three Rondos On Folk Tunes_ Sz. 84_ II. Vivacissimo,Kocsis Plays Bartok
+never,Classical,187226,0,false,Three Rondos On Folk Tunes_ Sz. 84_ I. Andante,Kocsis Plays Bartok
+never,Soundtrack,32000,0,false,視線! ジェントルマン,Nintendo DS Pokémon Black・White Super Music Collection [Disc 3]
+never,Pop,256173,0,false,View,夏雲ノイズ
+never,Classical,163333,0,false,Three Rondos On Folk Tunes_ Sz. 84_ III. Allegro molto,Kocsis Plays Bartok
+never,Soundtrack,6520,0,false,ミッション成功!,Nintendo DS Pokémon Black・White Super Music Collection [Disc 3]
+2012-09-08 00:42:46,Soundtrack,93200,1,false,Prelude (Final Fantasy),Dear Friends - Music From Final Fantasy Original Soundtrack
+2012-07-11 02:50:32,Soundtrack,5533,1,false,ミッション失敗…,Nintendo DS Pokémon Black・White Super Music Collection [Disc 3]
+never,Pop,304533,0,false,えんぴつケシゴム～Overture～,夏雲ノイズ
+never,Soundtrack,7093,0,false,ハイリンクでミッション開始!,Nintendo DS Pokémon Black・White Super Music Collection [Disc 3]
+2012-09-08 00:58:45,Soundtrack,157493,1,false,Not Alone (Final Fantasy IX),Dear Friends - Music From Final Fantasy Original Soundtrack
+2012-11-27 11:34:02,Soundtrack,71506,1,false,誰かのハイリンク,Nintendo DS Pokémon Black・White Super Music Collection [Disc 3]
+2012-09-19 07:08:02,Soundtrack,4400,6,false,残念,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 1]
+never,Soundtrack,26200,0,false,アクア・マグマ団に勝利!,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 1]
+2012-09-16 08:45:57,Soundtrack,261986,7,false,ザナラーンの黄昏,Distant Worlds music from FINAL FANTASY Returning home
+never,Soundtrack,102093,0,false,カナズミシティ,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 1]
+2012-11-23 05:22:59,Soundtrack,92946,1,false,バトルドーム,PokemonB2W2 SuperMusicCollection [Disc4]
+2012-07-31 12:25:36,Soundtrack,45240,2,false,マグマ団登場!,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 1]
+never,New Age,158760,0,false,ソフィーの城,ハウルの動く城 サウンドトラック
+2012-07-31 12:28:09,Soundtrack,153600,3,false,戦闘! アクア・マグマ団,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 1]
+never,New Age,449840,0,false,星をのんだ少年,ハウルの動く城 サウンドトラック
+2012-07-31 12:29:36,Soundtrack,63333,1,false,トレーナーズスクール,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 1]
+never,Soundtrack,324280,0,false,潮風の集う町　～リムサ・ロミンサのテーマ～,Distant Worlds music from FINAL FANTASY Returning home
+never,Soundtrack,41986,0,false,視線! サイキッカー,Nintendo DS Pokémon Black・White Super Music Collection [Disc 2]
+never,Soundtrack,89000,0,false,電気石の洞窟,Nintendo DS Pokémon Black・White Super Music Collection [Disc 2]
+never,Classical,461640,0,false,XII The Ascension,Biber: Rosenkranz-Sonaten [Disc 2]
+2012-11-08 08:48:19,Soundtrack,258773,1,false,Aerith's Theme [From Final Fantasy VII],More Friends ~Music From Final Fantasy Original Soundtrack~
+never,Soundtrack,328173,0,false,原始の審判,Distant Worlds music from FINAL FANTASY Returning home
+never,Soundtrack,140973,0,false,バトルパレス,PokemonB2W2 SuperMusicCollection [Disc4]
+never,Classical,460160,0,false,Biber: Mystery Sonata _5_ "The Finding In The Temple",Biber: Rosenkranz Sonatas [Disc 1]
+never,New Age,153893,0,false,秘密の洞穴,ハウルの動く城 サウンドトラック
+2012-11-08 08:44:01,Soundtrack,241093,2,false,Opening - Bombing Mission [From Final Fantasy VII],More Friends ~Music From Final Fantasy Original Soundtrack~
+2012-11-18 08:29:34,Soundtrack,49226,1,false,ふしぎなおくりもの (プラチナ),PokemonB2W2 SuperMusicCollection [Disc4]
+never,Soundtrack,429960,0,false,Answers,Distant Worlds music from FINAL FANTASY Returning home
+2012-11-24 15:25:53,Soundtrack,234826,26,false,戦闘! ギラティナ,PokemonB2W2 SuperMusicCollection [Disc4]
+2012-11-18 08:28:45,Soundtrack,43053,1,false,ぐるぐるこうかん,PokemonB2W2 SuperMusicCollection [Disc4]
+2012-07-29 17:29:55,Soundtrack,6213,1,false,メダルを全部あつめた!,PokemonB2W2 SuperMusicCollection [Disc3]
+never,Soundtrack,11173,0,false,ギラティナ出現! その2,PokemonB2W2 SuperMusicCollection [Disc4]
+never,Soundtrack,223906,0,false,やぶれたせかい,PokemonB2W2 SuperMusicCollection [Disc4]
+2012-09-19 07:04:44,Soundtrack,63266,4,false,110番道路,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 1]
+never,Soundtrack,4266,0,false,アイテム - 時空の覇者 Sa・Ga3【完結編】(1991),SQUARE ENIX 効果音集
+never,Classical,129186,0,false,Orff: Carmina Burana - Cour D'Amours: Circa Mea Pectora,Orff: Carmina Burana
+never,Soundtrack,4253,0,false,ジャンプ - 時空の覇者 Sa・Ga3【完結編】(1991),SQUARE ENIX 効果音集
+never,New Age,55240,0,false,レクイエム III,もののけ姫 サウンドトラック
+never,Soundtrack,4213,0,false,ケアル - 聖剣伝説～ファイナルファンタジー外伝～(1991),SQUARE ENIX 効果音集
+never,New Age,167173,0,false,戦いの太鼓,もののけ姫 サウンドトラック
+never,Soundtrack,4226,0,false,呪文詠唱 - 聖剣伝説～ファイナルファンタジー外伝～(1991),SQUARE ENIX 効果音集
+never,New Age,85960,0,false,タタラ場所の闘い,もののけ姫 サウンドトラック
+2012-11-16 02:41:49,New Age,134800,2,false,空中散歩,ハウルの動く城 サウンドトラック
+never,Classical,182120,0,false,Orff: Carmina Burana - In Taberna: In Taberna Quando Sumus,Orff: Carmina Burana
+never,Classical,216560,0,false,Orff: Carmina Burana - Cour D'Amours: Amor Volat Undique,Orff: Carmina Burana
+never,New Age,90560,0,false,敗走,もののけ姫 サウンドトラック
+never,Soundtrack,4253,0,false,エリクサー - 時空の覇者 Sa・Ga3【完結編】(1991),SQUARE ENIX 効果音集
+never,Classical,146773,0,false,Orff: Carmina Burana - Cour D'Amours: Stetit Puella,Orff: Carmina Burana
+2012-11-22 06:37:01,Electronica,211306,20,false,ワールズエンド・ダンスホール,アンハッピーリフレイン [Disc 1]
+never,New Age,322800,0,false,サリマンの魔法陣 ～城への帰還,ハウルの動く城 サウンドトラック
+2012-11-22 06:02:55,Electronica,160213,34,false,グレーゾーンにて。,アンハッピーリフレイン [Disc 1]
+never,Classical,520160,0,false,Biber: Mystery Sonata _7_ "The Scourging Of Jesus",Biber: Rosenkranz Sonatas [Disc 1]
+2012-11-22 10:07:12,Electronica,183386,25,false,裏表ラバーズ,アンハッピーリフレイン [Disc 1]
+2012-11-22 06:00:15,Electronica,218293,19,false,リバシブルドール,アンハッピーリフレイン [Disc 1]
+2012-11-22 15:14:19,Electronica,146146,26,false,ずれていく,アンハッピーリフレイン [Disc 1]
+2012-09-09 00:19:31,Sound Track,181603,1,false,最後の洞窟,洞窟物語　サウンドトラック
+2012-09-14 11:08:44,Sound Track,79856,1,false,バルコニー,洞窟物語　サウンドトラック
+2012-09-08 23:58:15,Sound Track,37041,3,false,襲撃,洞窟物語　サウンドトラック
+2012-09-08 23:59:12,Sound Track,56920,1,false,ゾンビー,洞窟物語　サウンドトラック
+2012-11-16 10:15:18,Sound Track,136045,14,false,ラストバトル,洞窟物語　サウンドトラック
+never,Soundtrack,19373,0,false,はじまりの日,Nintendo DS Pokémon Black・White Super Music Collection [Disc 1]
+never,Soundtrack,175880,0,false,Don't be Afraid,Distant Worlds music from FINAL FANTASY Returning home
+never,New Age,185906,0,false,引越し,ハウルの動く城 サウンドトラック
+never,Classical,760000,0,false,Brahms: Symphony _1 In C Minor_ Op. 68 - 1. Un Poco Sostenuto_ Allegro,Brahms: Symphony _1_ Academic Festival Overture
+never,Classical,913760,0,false,Ravel: Daphnis Et Chloé - Symphonic Fragments,Debussy: La Mer_ Prélude A L'Apres Mini D' Un Faune; Ravel: Daphnis Et Chloé_ Etc
+never,Classical,273000,0,false,Brahms: Symphony _1 In C Minor_ Op. 68 - 3. Un Poco Allegretto E Grazioso,Brahms: Symphony _1_ Academic Festival Overture
+never,Classical,571000,0,false,Brahms: Symphony _1 In C Minor_ Op. 68 - 2. Andante Sostenuto,Brahms: Symphony _1_ Academic Festival Overture
+never,Classical,998000,0,false,Brahms: Symphony _1 In C Minor_ Op. 68 - 4. Adagio_ Piu Andante_ Allegro Non Troppo_ Ma Con Brio,Brahms: Symphony _1_ Academic Festival Overture
+never,Classical,336666,0,false,Biber: Mystery Sonata _3_ "The Nativity",Biber: Rosenkranz Sonatas [Disc 1]
+never,Soundtrack,86000,0,false,シリンダーブリッジ,Nintendo DS Pokémon Black・White Super Music Collection [Disc 2]
+2012-12-03 12:03:53,Indie Rock,259786,4,false,Cuic Steppe,①偏頭痛の為の11のﾀﾞﾝｽ療法 Onze Danses Pour Combattre La Migraine ('77)
+never,Soundtrack,31000,0,false,視線! パラソルおねえさん,Nintendo DS Pokémon Black・White Super Music Collection [Disc 2]
+never,Classical,278840,0,false,アリア,愛の悲しみ
+never,Classical,226226,0,false,チャールダーシュ,愛の悲しみ
+never,Classical,258666,0,false,スラヴ舞曲,愛の悲しみ
+never,Classical,347866,0,false,バスク奇想曲,愛の悲しみ
+2012-12-08 14:20:11,Classical,188506,1,false,愛の喜び,愛の悲しみ
+never,R&B,272866,0,false,Sors ton pétard_ Johnny,Babel
+2012-11-24 15:16:22,New Age,178493,1,false,花園,ハウルの動く城 サウンドトラック
+never,Soundtrack,113506,0,false,古代の城,Nintendo DS Pokémon Black・White Super Music Collection [Disc 2]
+never,Soundtrack,51000,0,false,4番道路 (秋),Nintendo DS Pokémon Black・White Super Music Collection [Disc 3]
+2012-09-16 23:40:22,R&B,533266,2,false,Mein Maschine ist schön,Babel
+2012-08-10 15:25:44,New Age,52000,1,false,出会い,もののけ姫 サウンドトラック
+2012-08-10 15:28:12,New Age,147226,1,false,コダマ達,もののけ姫 サウンドトラック
+2012-08-10 15:28:52,New Age,40466,1,false,神の森,もののけ姫 サウンドトラック
+2012-08-10 15:29:31,New Age,39266,1,false,夕暮れのタタラ場,もののけ姫 サウンドトラック
+2012-08-10 15:30:28,New Age,56573,1,false,タタリ神II ～うばわれた山～,もののけ姫 サウンドトラック
+2012-10-05 17:25:22,Soundtrack,27880,1,false,船 - ファイナルファンタジー(1987),SQUARE ENIX 効果音集
+never,Soundtrack,121840,0,false,スーパーコンテスト・うつくしさ部門,PokemonB2W2 SuperMusicCollection [Disc4]
+2012-08-28 14:48:32,Soundtrack,91160,4,false,戦闘! レジロック・レジアイス・レジスチル,PokemonB2W2 SuperMusicCollection [Disc2]
+never,Soundtrack,23280,0,false,深き木々の大海 ～夜,モンスターハンター 狩猟音楽集II ～咆哮の章～ [Disc 2]
+2012-08-28 14:50:12,Soundtrack,99973,4,false,プラズマフリゲート・甲板,PokemonB2W2 SuperMusicCollection [Disc2]
+2012-07-02 08:50:35,Soundtrack,44080,1,false,黒き迅竜,モンスターハンター 狩猟音楽集II ～咆哮の章～ [Disc 2]
+2012-08-28 14:45:35,Soundtrack,49160,7,false,PWTで優勝!,PokemonB2W2 SuperMusicCollection [Disc2]
+never,Soundtrack,183093,0,false,秘境の伝説,モンスターハンター 狩猟音楽集II ～咆哮の章～ [Disc 2]
+2012-08-28 14:47:01,Soundtrack,86013,5,false,地底遺跡,PokemonB2W2 SuperMusicCollection [Disc2]
+2012-11-25 02:03:09,Soundtrack,165346,1,false,水上の戦慄,モンスターハンター 狩猟音楽集II ～咆哮の章～ [Disc 2]
+2012-07-29 17:17:23,Soundtrack,88880,1,false,19番道路 (秋～冬),PokemonB2W2 SuperMusicCollection [Disc3]
+2012-07-29 17:15:54,Soundtrack,4546,2,false,ライブキャスター・ゲームで優勝!,PokemonB2W2 SuperMusicCollection [Disc3]
+2012-08-28 14:51:32,Soundtrack,79986,4,false,ヴィオのテーマ,PokemonB2W2 SuperMusicCollection [Disc2]
+2012-11-25 02:00:24,Soundtrack,197560,1,false,闇に走る赤い残光 _ ナルガクルガ,モンスターハンター 狩猟音楽集II ～咆哮の章～ [Disc 2]
+2012-07-29 17:15:45,Soundtrack,86026,2,false,ライブキャスターでミニゲーム!,PokemonB2W2 SuperMusicCollection [Disc3]
+2012-07-29 17:29:43,Soundtrack,86000,1,false,22番道路 (秋～冬),PokemonB2W2 SuperMusicCollection [Disc3]
+2012-11-24 15:13:24,New Age,153560,2,false,-オープニング- 人生のメリーゴーランド,ハウルの動く城 サウンドトラック
+2012-10-04 23:59:22,Pop,219133,1,false,飲みに来ないか,空創クリップ
+never,Soundtrack,4280,0,false,召喚獣ダメージを受ける - 半熟英雄(1988),SQUARE ENIX 効果音集
+never,Soundtrack,5360,0,false,図鑑評価…あと一歩!,Nintendo DS Pokémon Black・White Super Music Collection [Disc 3]
+never,Pop,228106,0,false,キレイだ,空創クリップ
+never,Pop,233693,0,false,かけら ほのか,空創クリップ
+never,Soundtrack,203160,0,false,流れる雲、輝く丘,耳をすませば サウンドトラック
+never,Pop,271066,0,false,フィクション,空創クリップ
+never,New Age,238066,0,false,虚栄と友情,ハウルの動く城 サウンドトラック
+never,Pop,426026,0,false,さみしくとも明日を待つ (Album Ver.),空創クリップ
+2012-09-05 13:04:49,Soundtrack,39240,11,false,チョコボのテーマ,Distant Worlds music from FINAL FANTASY Returning home
+never,Soundtrack,241666,0,false,オープニング ～爆破ミッション,Distant Worlds music from FINAL FANTASY Returning home
+2012-10-12 14:17:38,Soundtrack,186973,2,false,ザナルカンドにて,Distant Worlds music from FINAL FANTASY Returning home
+2012-10-12 14:20:28,Soundtrack,169880,1,false,闘う者達,Distant Worlds music from FINAL FANTASY Returning home
+2012-09-18 08:10:20,Soundtrack,72506,2,false,ポケモンセンター,Nintendo DS Pokémon Black・White Super Music Collection [Disc 1]
+never,Soundtrack,62933,0,false,ミュージカル「じょうねつのライモン」,Nintendo DS Pokémon Black・White Super Music Collection [Disc 3]
+2012-07-11 02:46:58,Soundtrack,41000,2,false,ゲーチスの野望,Nintendo DS Pokémon Black・White Super Music Collection [Disc 2]
+never,Soundtrack,88000,0,false,ふたりで観覧車,Nintendo DS Pokémon Black・White Super Music Collection [Disc 3]
+2012-07-28 08:30:54,Soundtrack,80040,1,false,フェスミッション開催中!,PokemonB2W2 SuperMusicCollection [Disc1]
+2012-07-09 11:31:01,Soundtrack,4213,1,false,フィーリングチェック!,Nintendo DS Pokémon Black・White Super Music Collection [Disc 3]
+never,Soundtrack,153346,0,false,ドレッドノート大爆進!,Distant Worlds music from FINAL FANTASY Returning home
+never,Soundtrack,5800,0,false,フィーリングは最高!,Nintendo DS Pokémon Black・White Super Music Collection [Disc 3]
+never,Soundtrack,161920,0,false,ファブラ・ノヴァ・クリスタリス,Distant Worlds music from FINAL FANTASY Returning home
+never,Soundtrack,5040,0,false,フィーリングはなかなか,Nintendo DS Pokémon Black・White Super Music Collection [Disc 3]
+2012-07-28 08:26:04,Soundtrack,79133,1,false,ヒウン下水道,PokemonB2W2 SuperMusicCollection [Disc1]
+never,Soundtrack,10813,0,false,ポケウッドに銅像が建った!,PokemonB2W2 SuperMusicCollection [Disc1]
+never,Classical,37853,0,false,Orff: Carmina Burana - Cour D'Amours: Dulcissime,Orff: Carmina Burana
+2012-07-28 08:28:54,Soundtrack,170866,1,false,ヒウンジム,PokemonB2W2 SuperMusicCollection [Disc1]
+never,none,195493,0,false,トラック 06,album
+never,New Age,253026,0,false,星の湖へ,ハウルの動く城 サウンドトラック
+never,none,198493,0,false,トラック 07,album
+2012-08-02 09:20:41,Soundtrack,73466,2,false,111番道路,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 1]
+never,none,141720,0,false,トラック 08,album
+never,none,227026,0,false,トラック 09,album
+never,Soundtrack,348173,0,false,心よ原始に戻れ (Sublimation Mix),～refrain～The songs were inspired by "EVANGELION"
+never,none,177413,0,false,トラック 10,album
+2012-10-07 03:44:29,Soundtrack,243506,4,false,残酷な天使のテーゼ (Ambivalence Mix),～refrain～The songs were inspired by "EVANGELION"
+2012-12-03 11:49:23,Indie Rock,95973,3,false,The Mooche,①偏頭痛の為の11のﾀﾞﾝｽ療法 Onze Danses Pour Combattre La Migraine ('77)
+2012-10-07 03:50:28,Soundtrack,329533,3,false,魂のルフラン (Tabris Mix),～refrain～The songs were inspired by "EVANGELION"
+2012-12-03 11:03:29,Indie Rock,23666,3,false,Ciobane,①偏頭痛の為の11のﾀﾞﾝｽ療法 Onze Danses Pour Combattre La Migraine ('77)
+2012-10-06 17:34:36,Soundtrack,269533,1,false,幸せは罪の匂い (Alter Ego Mix),～refrain～The songs were inspired by "EVANGELION"
+2012-12-03 11:06:43,Indie Rock,118693,3,false,Tous Les trucs qu'il y a la dehors,①偏頭痛の為の11のﾀﾞﾝｽ療法 Onze Danses Pour Combattre La Migraine ('77)
+2012-10-06 17:25:11,Soundtrack,290733,1,false,希望の空へ,～refrain～The songs were inspired by "EVANGELION"
+never,Pop,153000,0,false,デザイナーズマンション,ナユタとフカシギ
+2012-07-09 10:40:44,Soundtrack,107000,1,false,Nの城,Nintendo DS Pokémon Black・White Super Music Collection [Disc 2]
+never,Pop,413000,0,false,8ミリメートル,ナユタとフカシギ
+2012-10-07 08:13:11,Soundtrack,134213,2,false,The Longest Day III (Em10_C),Shiro SAGISU Music from "EVANGELION: 1.0 YOU ARE (NOT) ALONE"
+never,Pop,216506,0,false,レモネード,ナユタとフカシギ
+never,Pop,473600,0,false,虹のレシピ (album ver.),ナユタとフカシギ
+2012-10-07 07:48:31,Soundtrack,179813,2,false,The Longest Day (Em10_A),Shiro SAGISU Music from "EVANGELION: 1.0 YOU ARE (NOT) ALONE"
+never,Pop,277200,0,false,光る,ナユタとフカシギ
+2012-10-07 08:03:17,Soundtrack,139586,2,false,The Longest Day II (Em10_B),Shiro SAGISU Music from "EVANGELION: 1.0 YOU ARE (NOT) ALONE"
+never,Soundtrack,5026,0,false,ライブキャスター,Nintendo DS Pokémon Black・White Super Music Collection [Disc 1]
+2012-11-16 10:05:34,Soundtrack,153693,11,false,L'Attaque des Anges (EM01),Shiro SAGISU Music from "EVANGELION: 1.0 YOU ARE (NOT) ALONE"
+never,New Age,259573,0,false,さすらいのソフィー,ハウルの動く城 サウンドトラック
+2012-10-07 07:41:06,Soundtrack,130693,4,false,Les Betes (EM05_B),Shiro SAGISU Music from "EVANGELION: 1.0 YOU ARE (NOT) ALONE"
+never,New Age,327426,0,false,魔法の扉,ハウルの動く城 サウンドトラック
+2012-11-04 10:43:32,Soundtrack,186093,23,false,戦闘!フロンティアブレーン (シンオウ),PokemonB2W2 SuperMusicCollection [Disc4]
+2012-09-18 01:02:40,Soundtrack,66000,2,false,ハンサムのテーマ,Nintendo DS Pokémon Black・White Super Music Collection [Disc 3]
+2012-07-28 20:14:21,Soundtrack,26666,1,false,フロンティアブレーンに勝利! (シンオウ),PokemonB2W2 SuperMusicCollection [Disc4]
+never,Soundtrack,4213,0,false,なぞなぞ - 魔界塔士 Sa・Ga(1989),SQUARE ENIX 効果音集
+2012-10-09 03:46:55,Soundtrack,208840,18,false,戦闘! チャンピオンアイリス,PokemonB2W2 SuperMusicCollection [Disc3]
+never,New Age,27533,0,false,静かな想い,ハウルの動く城 サウンドトラック
+2012-09-10 09:23:40,Pop,207546,13,false,インサート,1st demo
+2012-08-01 14:04:38,Soundtrack,122760,2,false,凍った街,PokemonB2W2 SuperMusicCollection [Disc2]
+2012-09-14 11:09:28,Sound Track,44042,1,false,アクセス,洞窟物語　サウンドトラック
+2012-11-07 05:35:25,Soundtrack,4600,1,false,魔法詠唱 - ファイナルファンタジーII(1988),SQUARE ENIX 効果音集
+never,Soundtrack,110000,0,false,ヒウンシティ,Nintendo DS Pokémon Black・White Super Music Collection [Disc 1]
+never,Soundtrack,4280,0,false,サンダー - 魔界塔士 Sa・Ga(1989),SQUARE ENIX 効果音集
+2012-07-31 12:14:37,Soundtrack,59600,1,false,101番道路,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 1]
+2012-07-31 12:15:43,Soundtrack,65133,1,false,コトキタウン,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 1]
+2012-07-31 12:13:14,Soundtrack,89733,1,false,戦闘! 野生ポケモン,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 1]
+2012-07-31 12:13:38,Soundtrack,23640,1,false,野生ポケモンに勝利!,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 1]
+2012-11-23 04:46:37,Soundtrack,101106,2,false,勝利は目の前!,PokemonB2W2 SuperMusicCollection [Disc1]
+2012-07-29 17:19:24,Soundtrack,120773,2,false,心の空洞,PokemonB2W2 SuperMusicCollection [Disc3]
+2012-07-31 12:16:46,Soundtrack,63466,1,false,ポケモンセンター,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 1]
+never,New Age,82506,0,false,大掃除,ハウルの動く城 サウンドトラック
+2012-08-05 07:51:23,Soundtrack,78000,6,false,めざめのほこら,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 2]
+never,Soundtrack,4280,0,false,スターバスター準備 - Sa・Ga2 秘宝伝説(1990),SQUARE ENIX 効果音集
+2012-11-19 11:21:42,Soundtrack,92773,65,false,ルネシティ,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 2]
+2012-07-28 07:58:14,Soundtrack,43760,1,false,オープニング,PokemonB2W2 SuperMusicCollection [Disc1]
+never,Classical,140346,0,false,Orff: Carmina Burana - Cour D'Amours: In Trutina,Orff: Carmina Burana
+2012-07-02 09:10:21,Soundtrack,55373,1,false,大雨,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 2]
+2012-08-01 13:11:39,Soundtrack,197480,2,false,Last Battle -N^n Mix-,Nintendo DS Pokémon Black・White Super Music Collection [Disc 4]
+2012-08-01 13:14:55,Soundtrack,196000,2,false,Sayonara -Refrain-,Nintendo DS Pokémon Black・White Super Music Collection [Disc 4]
+never,Soundtrack,4280,0,false,エンカウント - ファイナルファンタジーII(1988),SQUARE ENIX 効果音集
+2012-08-05 07:10:18,Soundtrack,105040,3,false,Summer In Kagome,Nintendo DS Pokémon Black・White Super Music Collection [Disc 4]
+never,Soundtrack,113506,0,false,ハイリンク,Nintendo DS Pokémon Black・White Super Music Collection [Disc 3]
+2012-08-01 13:08:22,Soundtrack,273413,2,false,Lullaby For Trains,Nintendo DS Pokémon Black・White Super Music Collection [Disc 4]
+2012-08-05 07:52:53,Soundtrack,89933,3,false,戦闘! 超古代ポケモン,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 2]
+2012-11-23 04:36:14,Soundtrack,234173,2,false,Terra's Theme (Final Fantasy VI),Dear Friends - Music From Final Fantasy Original Soundtrack
+never,Soundtrack,4520,0,false,敵の攻撃 - ファイナルファンタジーIII(1990),SQUARE ENIX 効果音集
+2012-09-11 03:50:48,Soundtrack,4240,3,false,ライブキャスター・ゲームスタート!,PokemonB2W2 SuperMusicCollection [Disc3]
+never,Soundtrack,29000,0,false,視線! ビジネスマン,Nintendo DS Pokémon Black・White Super Music Collection [Disc 1]
+2012-07-04 14:08:32,Soundtrack,4266,3,false,どうぐゲット,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 2]
+never,Soundtrack,66000,0,false,プラズマ団に勝利!,Nintendo DS Pokémon Black・White Super Music Collection [Disc 1]
+never,Soundtrack,105973,0,false,Wi-Fiひろば・パレード,PokemonB2W2 SuperMusicCollection [Disc4]
+never,Soundtrack,149880,0,false,Wi-Fiひろば,PokemonB2W2 SuperMusicCollection [Disc4]
+never,Classical,76266,0,false,Saint-Saëns: Le Carnaval Des Animaux - 12. Fossiles,Saint-Saëns: Le Carnaval Des Animaux; Organ Symphony [Disc 2]
+never,Rock,257093,0,false,Reine de La Vallée (CD bonus track),Viva Boma
+never,Classical,86546,0,false,Saint-Saëns: Le Carnaval Des Animaux - 11. Pianistes,Saint-Saëns: Le Carnaval Des Animaux; Organ Symphony [Disc 2]
+2012-11-17 03:35:25,New Age,88440,1,false,雨の中で,ハウルの動く城 サウンドトラック
+never,Classical,75293,0,false,Saint-Saëns: Le Carnaval Des Animaux - 10. Volières,Saint-Saëns: Le Carnaval Des Animaux; Organ Symphony [Disc 2]
+never,Classical,138813,0,false,Saint-Saëns: Le Carnaval Des Animaux - 9. Le Coucou Au Fond Des Bois,Saint-Saëns: Le Carnaval Des Animaux; Organ Symphony [Disc 2]
+never,Classical,49706,0,false,Saint-Saëns: Le Carnaval Des Animaux - 8. Personnages À Longues Oreilles,Saint-Saëns: Le Carnaval Des Animaux; Organ Symphony [Disc 2]
+never,Soundtrack,4186,0,false,剣攻撃 - 魔界塔士 Sa・Ga(1989),SQUARE ENIX 効果音集
+never,Soundtrack,4213,0,false,エンカウント - 魔界塔士 Sa・Ga(1989),SQUARE ENIX 効果音集
+2012-09-03 14:30:18,Soundtrack,11706,5,false,飛空艇 - ファイナルファンタジーII(1988),SQUARE ENIX 効果音集
+never,Soundtrack,4626,0,false,敵志望 - ファイナルファンタジーII(1988),SQUARE ENIX 効果音集
+2012-09-10 09:14:14,Soundtrack,4266,1,false,イベントの大砲 - 半熟英雄(1988),SQUARE ENIX 効果音集
+never,Soundtrack,6106,0,false,進化おめでとう!,Nintendo DS Pokémon Black・White Super Music Collection [Disc 1]
+2012-09-07 16:09:34,Sound Track,140068,2,false,メルトダウン２,洞窟物語　サウンドトラック
+never,Soundtrack,4213,0,false,弓攻撃 - 魔界塔士 Sa・Ga(1989),SQUARE ENIX 効果音集
+never,Classical,336653,0,false,Saint-Saëns: Samson Et Dalila - Act 2: Mon Coeur S'Ouvre À Ta Voix,Saint-Saëns: Le Carnaval Des Animaux; Organ Symphony [Disc 2]
+never,Classical,562613,0,false,Saint-Saëns: Le Rouet D'Omphale_ Op. 31,Saint-Saëns: Le Carnaval Des Animaux; Organ Symphony [Disc 2]
+never,Classical,143466,0,false,Orff: Carmina Burana - Fortuna Imperatrix Mundi: O Fortuna,Orff: Carmina Burana
+never,Classical,162920,0,false,Orff: Carmina Burana - Fortuna Imperatrix Mundi: Fortune Plango Vulnera,Orff: Carmina Burana
+never,Classical,310920,0,false,Orff: Carmina Burana - Primo Vere: Veris Leta Facies,Orff: Carmina Burana
+2012-09-05 14:46:46,Soundtrack,109293,22,false,おくりびやま外壁,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 2]
+2012-07-02 09:09:26,Soundtrack,65600,1,false,日照り,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 2]
+2012-09-18 01:28:10,Soundtrack,59000,5,false,チェレンのテーマ,Nintendo DS Pokémon Black・White Super Music Collection [Disc 1]
+never,Classical,355000,0,false,Biber: Mystery Sonata _2_ "The Visitation",Biber: Rosenkranz Sonatas [Disc 1]
+never,Soundtrack,43933,0,false,ポケウッド・滑稽のテーマ,PokemonB2W2 SuperMusicCollection [Disc1]
+never,Soundtrack,4626,0,false,エアロ系 - ファイナルファンタジーIII(1990),SQUARE ENIX 効果音集
+2012-07-28 08:41:29,Soundtrack,87173,1,false,ライモンジム・ステージ,PokemonB2W2 SuperMusicCollection [Disc1]
+2012-07-09 14:45:31,Soundtrack,43253,2,false,Nのドラゴン,Nintendo DS Pokémon Black・White Super Music Collection [Disc 2]
+2012-07-28 08:37:41,Soundtrack,7306,1,false,ジョインアベニューでレベルアップ2,PokemonB2W2 SuperMusicCollection [Disc1]
+never,Soundtrack,43000,0,false,ぐるぐる交換,Nintendo DS Pokémon Black・White Super Music Collection [Disc 3]
+2012-07-28 08:38:37,Soundtrack,54026,1,false,ジョインアベニューであいさつ!,PokemonB2W2 SuperMusicCollection [Disc1]
+never,Soundtrack,4266,0,false,マップから出る - 聖剣伝説～ファイナルファンタジー外伝～(1991),SQUARE ENIX 効果音集
+2012-07-28 08:39:18,Soundtrack,41186,1,false,ライモンジム・ランウェイ,PokemonB2W2 SuperMusicCollection [Disc1]
+2012-08-01 12:50:59,Soundtrack,84000,4,false,なみのり,Nintendo DS Pokémon Black・White Super Music Collection [Disc 4]
+2012-07-28 08:40:02,Soundtrack,43066,1,false,視線! おとなのおねえさん,PokemonB2W2 SuperMusicCollection [Disc1]
+2012-12-08 14:01:05,Classical,128760,1,false,そんなことはどうでもいいさ,愛の悲しみ
+2012-09-18 11:40:10,Traditional,217306,1,false,La Boheme(Charles Aznavour),VIRTUOSO VIOLIN PIECES
+never,Classical,185133,0,false,あの人は行ってしまった,愛の悲しみ
+2012-09-02 19:01:35,Soundtrack,40773,1,false,勝利,Distant Worlds music from FINAL FANTASY Returning home
+never,Classical,196960,0,false,サマータイム、女は気まぐれ,愛の悲しみ
+2012-10-05 17:24:10,Soundtrack,4320,2,false,決定 - ファイナルファンタジー(1987),SQUARE ENIX 効果音集
+2012-09-18 12:08:27,Traditional,127573,1,false,Sabre Dance(Aram Khachaturian),VIRTUOSO VIOLIN PIECES
+2012-10-25 03:49:22,Soundtrack,234066,12,false,ティナのテーマ,FINAL FANTASY 25th ANNIVERSARY SQUARE ENIX MUSIC COMPOSERS' SELECTION CD
+2012-09-18 12:14:50,Traditional,383093,1,false,L'alouette(Grigoras Dinicu),VIRTUOSO VIOLIN PIECES
+2012-09-18 12:01:39,Traditional,352800,1,false,Theme of "Schindler's List"(John Williams),VIRTUOSO VIOLIN PIECES
+2012-09-18 12:26:23,Traditional,275626,1,false,Ochi Chornyje(Russian Traditional),VIRTUOSO VIOLIN PIECES
+never,Soundtrack,150040,0,false,バトルピラミッド,PokemonB2W2 SuperMusicCollection [Disc4]
+never,Soundtrack,176026,0,false,怒れる雪獅子 _ ドドブランゴ,モンスターハンター 狩猟音楽集II ～咆哮の章～ [Disc 2]
+never,Soundtrack,50400,0,false,視線! オカルトマニア,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 2]
+2012-11-25 02:03:33,Soundtrack,23213,1,false,深き木々の大海 ～昼,モンスターハンター 狩猟音楽集II ～咆哮の章～ [Disc 2]
+never,Soundtrack,159733,0,false,Monster Hunter Portable 2nd G,モンスターハンター 狩猟音楽集II ～咆哮の章～ [Disc 2]
+never,Soundtrack,191280,0,false,樹海の眠鳥 _ ヒプノック,モンスターハンター 狩猟音楽集II ～咆哮の章～ [Disc 2]
+never,Soundtrack,40826,0,false,眠りへの誘い,モンスターハンター 狩猟音楽集II ～咆哮の章～ [Disc 2]
+2012-10-05 17:24:05,Soundtrack,4386,2,false,カーソル - ファイナルファンタジー(1987),SQUARE ENIX 効果音集
+2012-11-23 05:17:42,Soundtrack,89213,1,false,バトルフロンティア (ホウエン),PokemonB2W2 SuperMusicCollection [Disc4]
+2012-07-29 16:04:55,Soundtrack,39493,2,false,ポケシフター: ポケモンを選ぼう!,Nintendo DS Pokémon Black・White Super Music Collection [Disc 3]
+never,Soundtrack,102106,0,false,バトルタワー (ホウエン),PokemonB2W2 SuperMusicCollection [Disc4]
+2012-11-23 05:16:13,Soundtrack,78586,1,false,異常気象,PokemonB2W2 SuperMusicCollection [Disc4]
+2012-09-10 10:04:52,Soundtrack,27800,3,false,レックウザ光臨!,PokemonB2W2 SuperMusicCollection [Disc4]
+2012-09-19 07:31:39,Soundtrack,76400,4,false,フレンドリィショップ,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 2]
+2012-09-09 00:01:03,Sound Track,111046,3,false,燃える目玉,洞窟物語　サウンドトラック
+2012-09-19 07:30:22,Soundtrack,5333,4,false,進化おめでとう,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 2]
+never,R&B,209533,0,false,Ouverture for Dance,Babel
+2012-09-19 07:30:17,Soundtrack,33933,2,false,進化,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 2]
+2012-11-23 05:19:57,Soundtrack,135226,1,false,バトルファクトリー (ホウエン),PokemonB2W2 SuperMusicCollection [Disc4]
+2012-09-19 07:29:44,Soundtrack,104173,3,false,戦闘! ユウキ・ハルカ,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 2]
+2012-09-19 07:27:59,Soundtrack,53400,2,false,ユウキ,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 2]
+2012-11-12 18:27:00,Other,300213,5,false,And around you,IA/1.0.0
+never,Rock,157493,0,false,Viva Boma,Viva Boma
+2012-11-18 18:26:14,Soundtrack,111106,25,false,ムロタウン,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 1]
+2012-09-18 08:20:20,Soundtrack,198093,11,false,戦闘! プラズマ団,PokemonB2W2 SuperMusicCollection [Disc2]
+2012-11-12 19:00:32,Other,224226,7,false,塵塵呪詛,IA/1.0.0
+never,Soundtrack,26000,0,false,視線! サイクリング,Nintendo DS Pokémon Black・White Super Music Collection [Disc 3]
+2012-11-12 19:05:02,Other,270586,7,false,alphabet,IA/1.0.0
+2012-08-28 14:37:35,Soundtrack,52000,8,false,視線! プラズマ団,PokemonB2W2 SuperMusicCollection [Disc2]
+2012-11-12 18:17:49,Other,457773,6,false,Falling Apart,IA/1.0.0
+2012-08-01 14:01:43,Soundtrack,103960,2,false,ソウリュウジム,PokemonB2W2 SuperMusicCollection [Disc2]
+2012-11-12 18:22:00,Other,250666,6,false,SUPER WORLD,IA/1.0.0
+2012-08-01 14:02:35,Soundtrack,52706,2,false,強襲! ソウリュウシティ,PokemonB2W2 SuperMusicCollection [Disc2]
+2012-07-04 13:56:16,Soundtrack,132133,1,false,戦闘! アクア・マグマ団のリーダー,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 2]
+2012-07-04 13:56:29,Soundtrack,13426,2,false,目覚める超古代ポケモン,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 2]
+never,Soundtrack,211093,0,false,SLATEPORT CITY,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 2]
+never,Classical,218000,0,false,スペイン舞曲第一番,THE BEST　～Narimichi Kawabata～-10th Anniversary-
+never,Soundtrack,50573,0,false,アクア団登場!,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 2]
+never,Soundtrack,143493,0,false,The END,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 2]
+never,Classical,549640,0,false,ツィゴイネルワイゼン,THE BEST　～Narimichi Kawabata～-10th Anniversary-
+never,Soundtrack,143440,0,false,TRICK MASTER,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 2]
+never,Classical,229000,0,false,ノクターン,THE BEST　～Narimichi Kawabata～-10th Anniversary-
+never,Soundtrack,69600,0,false,殿堂入り,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 2]
+never,Classical,318693,0,false,オブリビオン,THE BEST　～Narimichi Kawabata～-10th Anniversary-
+never,Soundtrack,176733,0,false,エンディング,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 2]
+never,Classical,303000,0,false,タイスの瞑想曲,THE BEST　～Narimichi Kawabata～-10th Anniversary-
+never,Soundtrack,70493,0,false,スーパーコンテスト・たくましさ部門,PokemonB2W2 SuperMusicCollection [Disc4]
+2012-11-16 02:49:29,Soundtrack,80240,6,false,夜明け,耳をすませば サウンドトラック
+2012-12-03 11:10:04,Indie Rock,178586,3,false,Quasi Bou Jeloud (bonus track),①偏頭痛の為の11のﾀﾞﾝｽ療法 Onze Danses Pour Combattre La Migraine ('77)
+never,Rock,277506,0,false,Nog Verder,Viva Boma
+never,Soundtrack,55186,0,false,ポケウッド・敗退のテーマ,PokemonB2W2 SuperMusicCollection [Disc1]
+2012-11-16 02:48:09,Soundtrack,162800,3,false,バロンの歌,耳をすませば サウンドトラック
+never,Soundtrack,80026,0,false,ポケウッド・対決のテーマ,PokemonB2W2 SuperMusicCollection [Disc1]
+never,Soundtrack,69093,0,false,ポケウッド・栄光のテーマ,PokemonB2W2 SuperMusicCollection [Disc1]
+2012-09-20 04:06:06,Soundtrack,77133,1,false,ポケウッド・奇妙のテーマ,PokemonB2W2 SuperMusicCollection [Disc1]
+never,Soundtrack,71000,0,false,ポケウッド・敗北のテーマ,PokemonB2W2 SuperMusicCollection [Disc1]
+2012-07-28 08:09:35,Soundtrack,93146,1,false,サンギタウン,PokemonB2W2 SuperMusicCollection [Disc1]
+never,Soundtrack,37026,0,false,ポケウッド・襲来のテーマ,PokemonB2W2 SuperMusicCollection [Disc1]
+never,Soundtrack,40053,0,false,ポケウッド・成功のテーマ,PokemonB2W2 SuperMusicCollection [Disc1]
+never,Soundtrack,248733,0,false,追憶,耳をすませば サウンドトラック
+never,Soundtrack,148440,0,false,きめた! わたし物語を書く,耳をすませば サウンドトラック
+2012-11-15 07:20:44,Soundtrack,95933,1,false,飛ぼう! 上昇気流をつかむのだ!,耳をすませば サウンドトラック
+2012-11-15 07:20:59,Soundtrack,15600,1,false,古い木版画,耳をすませば サウンドトラック
+never,Soundtrack,58160,0,false,ポケウッド・愛情のテーマ,PokemonB2W2 SuperMusicCollection [Disc1]
+never,Classical,65360,0,false,Three Hungarian Folk Tunes_ Sz. 66_ II. Allegro non troppo un poco rubato,Kocsis Plays Bartok
+never,Soundtrack,64640,0,false,ミュージカル「イブニングパーティ」,Nintendo DS Pokémon Black・White Super Music Collection [Disc 3]
+never,Classical,56040,0,false,Three Hungarian Folk Tunes_ Sz. 66_ I. Andante tranquillo rubato,Kocsis Plays Bartok
+never,Classical,586666,0,false,XV The Crowning of the Blessed Virgin Mary,Biber: Rosenkranz-Sonaten [Disc 2]
+never,Classical,181400,0,false,Suite_ Op. 14_ Sz. 62_ IV. Sostenuto,Kocsis Plays Bartok
+2012-10-30 01:13:58,Soundtrack,75613,29,false,マトーヤの洞窟,Distant Worlds music from FINAL FANTASY Returning home
+2012-06-22 03:55:10,Classical,204333,1,false,Suite_ Op. 14_ Sz. 62_ III. Allegro molto,Kocsis Plays Bartok
+never,Classical,427000,0,false,XIII The Descent of the Holy Ghost,Biber: Rosenkranz-Sonaten [Disc 2]
+never,Soundtrack,113000,0,false,ショッピングモール R9,Nintendo DS Pokémon Black・White Super Music Collection [Disc 2]
+never,Soundtrack,45986,0,false,グッズでドレスアップ!,Nintendo DS Pokémon Black・White Super Music Collection [Disc 3]
+2012-11-23 04:44:48,Soundtrack,81933,2,false,The Rebel Army (Final Fantasy II),Dear Friends - Music From Final Fantasy Original Soundtrack
+never,Soundtrack,21000,0,false,ミュージカル開幕!,Nintendo DS Pokémon Black・White Super Music Collection [Disc 3]
+2012-11-23 04:43:26,Soundtrack,36160,2,false,Chocobo Theme (Final Fantasy II),Dear Friends - Music From Final Fantasy Original Soundtrack
+never,Soundtrack,70733,0,false,ミュージカル「Stardom!」,Nintendo DS Pokémon Black・White Super Music Collection [Disc 3]
+never,Classical,103773,0,false,Three Hungarian Folk Tunes_ Sz. 66_ III. Maestoso,Kocsis Plays Bartok
+never,Soundtrack,66586,0,false,ミュージカル「もりでおさんぽ!」,Nintendo DS Pokémon Black・White Super Music Collection [Disc 3]
+never,Soundtrack,124066,0,false,打ち明け話,耳をすませば サウンドトラック
+never,Soundtrack,128000,0,false,リュウラセンの塔,Nintendo DS Pokémon Black・White Super Music Collection [Disc 2]
+2012-11-16 02:58:58,Soundtrack,56373,1,false,夏の終わり,耳をすませば サウンドトラック
+2012-07-31 12:24:50,Soundtrack,64426,2,false,トウカの森,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 1]
+2012-11-16 02:58:02,Soundtrack,60466,1,false,エルフの女王,耳をすませば サウンドトラック
+never,Soundtrack,49000,0,false,リュウラセンの塔最上階,Nintendo DS Pokémon Black・White Super Music Collection [Disc 2]
+2012-11-16 02:57:01,Soundtrack,67426,1,false,地球屋,耳をすませば サウンドトラック
+never,Soundtrack,54000,0,false,視線! プラズマ団,Nintendo DS Pokémon Black・White Super Music Collection [Disc 2]
+2012-07-31 12:21:48,Soundtrack,64573,2,false,トウカシティ,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 1]
+2012-07-31 12:20:43,Soundtrack,4293,1,false,レベルアップ,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 1]
+2012-07-31 12:23:46,Soundtrack,70733,2,false,104番道路,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 1]
+2012-11-15 07:25:00,Soundtrack,83893,1,false,電車に揺られて,耳をすませば サウンドトラック
+2012-07-31 12:22:35,Soundtrack,47533,2,false,連れて行く,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 1]
+2012-10-12 14:38:10,Soundtrack,1062426,2,false,妖星乱舞,Distant Worlds music from FINAL FANTASY Returning home
+2012-07-28 08:08:02,Soundtrack,123013,1,false,戦闘! 野生ポケモン,PokemonB2W2 SuperMusicCollection [Disc1]
+never,Classical,402960,0,false,Passacaglia,Biber: Rosenkranz-Sonaten [Disc 2]
+2012-07-28 20:05:42,Soundtrack,156200,1,false,バトルステージ,PokemonB2W2 SuperMusicCollection [Disc4]
+2012-07-28 20:08:31,Soundtrack,169146,1,false,バトルファクトリー (シンオウ),PokemonB2W2 SuperMusicCollection [Disc4]
+2012-07-28 20:10:37,Soundtrack,125986,1,false,バトルキャッスル,PokemonB2W2 SuperMusicCollection [Disc4]
+2012-07-28 20:10:42,Soundtrack,5306,1,false,キャッスルポイントをもらった!,PokemonB2W2 SuperMusicCollection [Disc4]
+never,New Age,67000,0,false,死と生のアダージョ II,もののけ姫 サウンドトラック
+never,Soundtrack,92000,0,false,ジム,Nintendo DS Pokémon Black・White Super Music Collection [Disc 1]
+2012-09-02 21:04:47,Soundtrack,4653,1,false,リバイアサンの津波 - ファイナルファンタジーIII(1990),SQUARE ENIX 効果音集
+never,Soundtrack,5680,0,false,図鑑評価…がんばって!,Nintendo DS Pokémon Black・White Super Music Collection [Disc 1]
+never,Classical,118706,0,false,Orff: Carmina Burana - In Taberna: Ego Sum Abbas,Orff: Carmina Burana
+never,Soundtrack,193000,0,false,シッポウシティ,Nintendo DS Pokémon Black・White Super Music Collection [Disc 1]
+never,Soundtrack,148493,0,false,ギアステーション,Nintendo DS Pokémon Black・White Super Music Collection [Disc 3]
+2012-07-09 10:36:11,Soundtrack,54000,1,false,トラブル発生!,Nintendo DS Pokémon Black・White Super Music Collection [Disc 1]
+never,New Age,74840,0,false,タタリ神 III,もののけ姫 サウンドトラック
+never,Classical,225000,0,false,Orff: Carmina Burana - In Taberna: Olim Lacus Colueram,Orff: Carmina Burana
+2012-10-31 04:25:34,Soundtrack,272160,2,false,Love Grows,Distant Worlds music from FINAL FANTASY Returning home
+never,Classical,284960,0,false,Orff: Carmina Burana - Uf Dem Anger: Reie; Swaz Hie Gat Umbe; Chume_ Chum_ Geselle Min!,Orff: Carmina Burana
+2012-07-28 08:05:59,Soundtrack,89146,1,false,19番道路 (春～夏),PokemonB2W2 SuperMusicCollection [Disc1]
+never,New Age,92866,0,false,黄泉の世界 II,もののけ姫 サウンドトラック
+2012-07-09 10:03:57,Soundtrack,172493,1,false,戦闘! ジムリーダー,Nintendo DS Pokémon Black・White Super Music Collection [Disc 1]
+2012-11-22 15:17:37,Electronica,197400,18,false,ラインアート,アンハッピーリフレイン [Disc 1]
+never,Soundtrack,312693,0,false,Dear Friends -Arranged Version- (Final Fantasy V),Dear Friends - Music From Final Fantasy Original Soundtrack
+never,Soundtrack,4466,0,false,コンフュ - ファイナルファンタジーIII(1990),SQUARE ENIX 効果音集
+2012-11-22 10:22:17,Electronica,283240,30,false,僕のサイノウ,アンハッピーリフレイン [Disc 1]
+2012-11-22 15:11:53,Electronica,223840,23,false,日常と地球の額縁,アンハッピーリフレイン [Disc 1]
+2012-10-17 00:15:16,Electronica,297666,15,false,テノヒラ,アンハッピーリフレイン [Disc 1]
+never,New Age,45133,0,false,消えない呪い,ハウルの動く城 サウンドトラック
+2012-11-22 10:00:35,Electronica,208773,22,false,とおせんぼ,アンハッピーリフレイン [Disc 1]
+never,Sound Track,146050,0,false,ランニングヘル,洞窟物語　サウンドトラック
+2012-09-18 08:42:43,New Age,99626,3,false,アシタカせっ記,もののけ姫 サウンドトラック
+2012-09-09 00:15:19,Sound Track,67892,1,false,break down..,洞窟物語　サウンドトラック
+never,Soundtrack,211600,0,false,ファングのテーマ,Distant Worlds music from FINAL FANTASY Returning home
+2012-07-09 10:06:58,Soundtrack,80493,1,false,ジムリーダーに勝利!,Nintendo DS Pokémon Black・White Super Music Collection [Disc 1]
+never,Sound Track,61048,0,false,封印の間,洞窟物語　サウンドトラック
+never,Sound Track,8071,0,false,アイテム入手,洞窟物語　サウンドトラック
+never,Classical,601000,0,false,Debussy: Prélude À L'Après-Midi D'Un Faune_ L 86,Debussy: La Mer_ Prélude A L'Apres Mini D' Un Faune; Ravel: Daphnis Et Chloé_ Etc
+never,Soundtrack,4266,0,false,セーブ - 魔界塔士 Sa・Ga(1989),SQUARE ENIX 効果音集
+never,Classical,450666,0,false,Saint-Saëns: Symphony _3 In C Minor_ Op. 78_ "Organ" - 2b. Maestoso_ Allegro,Saint-Saëns: Le Carnaval Des Animaux; Organ Symphony [Disc 1]
+never,Classical,446760,0,false,Saint-Saëns: Symphony _3 In C Minor_ Op. 78_ "Organ" - 2a. Allegro Moderato_ Presto_ Etc.,Saint-Saëns: Le Carnaval Des Animaux; Organ Symphony [Disc 1]
+never,Classical,1171240,0,false,Saint-Saëns: Symphony _3 In C Minor_ Op. 78_ "Organ" - 1. Adagio_ Allegretto Maestoso_ Poco Adagio,Saint-Saëns: Le Carnaval Des Animaux; Organ Symphony [Disc 1]
+never,Classical,818000,0,false,Brahms: Academic Festival Overture_ Op. 80,Brahms: Symphony _1_ Academic Festival Overture
+2012-09-21 23:28:06,Classical,538866,1,false,Debussy: La Mer_ L 109 - 1. De L'Aube À Midi Sur La Mer,Debussy: La Mer_ Prélude A L'Apres Mini D' Un Faune; Ravel: Daphnis Et Chloé_ Etc
+never,Rock,465400,0,false,Flamboya,Viva Boma
+never,Classical,415973,0,false,Saint-Saëns: Piano Concerto _2 In G Minor_ Op. 22 - 3. Presto,Saint-Saëns: Le Carnaval Des Animaux; Organ Symphony [Disc 1]
+2012-10-30 01:16:51,Soundtrack,87813,2,false,オープニング・テーマ,Distant Worlds music from FINAL FANTASY Returning home
+never,Classical,690333,0,false,Saint-Saëns: Piano Concerto _2 In G Minor_ Op. 22 - 1. Andante Sostenuto,Saint-Saëns: Le Carnaval Des Animaux; Organ Symphony [Disc 1]
+never,Soundtrack,5293,0,false,ライトストーン・ダークストーン,Nintendo DS Pokémon Black・White Super Music Collection [Disc 2]
+2012-09-21 23:34:59,Classical,412760,1,false,Debussy: La Mer_ L 109 - 2. Jeux De Vagues,Debussy: La Mer_ Prélude A L'Apres Mini D' Un Faune; Ravel: Daphnis Et Chloé_ Etc
+never,Soundtrack,196826,0,false,ブレイズエッジ,Distant Worlds music from FINAL FANTASY Returning home
+never,Classical,284173,0,false,Biber: Mystery Sonata _1_ "The Annunciation",Biber: Rosenkranz Sonatas [Disc 1]
+2012-12-03 11:12:24,Indie Rock,140440,5,false,(mit 1)Saure Gurke(aus 1 urwald gelockt),①偏頭痛の為の11のﾀﾞﾝｽ療法 Onze Danses Pour Combattre La Migraine ('77)
+2012-09-02 21:04:41,Soundtrack,4853,1,false,召喚獣詠唱と登場 - ファイナルファンタジーIII(1990),SQUARE ENIX 効果音集
+2012-12-03 11:59:12,Indie Rock,124840,4,false,Likembes In Space (bonus track),①偏頭痛の為の11のﾀﾞﾝｽ療法 Onze Danses Pour Combattre La Migraine ('77)
+never,Soundtrack,50080,0,false,Wi-Fiひろば・ひろばゲーム,PokemonB2W2 SuperMusicCollection [Disc4]
+2012-07-28 08:29:34,Soundtrack,39026,1,false,視線! クラウン,PokemonB2W2 SuperMusicCollection [Disc1]
+never,Soundtrack,106000,0,false,セッカシティ,Nintendo DS Pokémon Black・White Super Music Collection [Disc 2]
+never,Soundtrack,86000,0,false,GTS,Nintendo DS Pokémon Black・White Super Music Collection [Disc 3]
+2012-08-01 12:49:35,Soundtrack,123920,4,false,戦闘! 強い野生ポケモン,Nintendo DS Pokémon Black・White Super Music Collection [Disc 3]
+2012-09-11 03:49:35,Soundtrack,117013,2,false,白の樹洞,PokemonB2W2 SuperMusicCollection [Disc3]
+2012-09-20 03:55:25,Soundtrack,129186,7,false,戦闘! チャンピオン (ホウエン),PokemonB2W2 SuperMusicCollection [Disc2]
+2012-09-02 05:55:49,Soundtrack,176426,12,false,戦闘! ジムリーダー (シンオウ),PokemonB2W2 SuperMusicCollection [Disc2]
+2012-11-23 05:00:58,Soundtrack,167213,29,false,戦闘! チャンピオン (シンオウ),PokemonB2W2 SuperMusicCollection [Disc2]
+2012-11-23 05:04:11,Soundtrack,193013,10,false,PWT決勝戦!,PokemonB2W2 SuperMusicCollection [Disc2]
+2012-07-29 17:22:50,Soundtrack,206106,2,false,戦闘! ユクシー・エムリット・アグノム,PokemonB2W2 SuperMusicCollection [Disc3]
+2012-11-23 05:04:45,Soundtrack,38146,9,false,PWTで勝利!,PokemonB2W2 SuperMusicCollection [Disc2]
+2012-10-09 03:41:34,Soundtrack,45813,6,false,黒の摩天楼・入り口,PokemonB2W2 SuperMusicCollection [Disc3]
+2012-10-09 03:43:04,Soundtrack,89853,14,false,黒の摩天楼,PokemonB2W2 SuperMusicCollection [Disc3]
+2012-09-11 03:50:44,Soundtrack,68826,2,false,白の樹洞・入り口,PokemonB2W2 SuperMusicCollection [Disc3]
+never,Soundtrack,12600,0,false,航空艇 - ファイナルファンタジー(1987),SQUARE ENIX 効果音集
+2012-11-23 05:21:26,Soundtrack,88066,1,false,バトルアリーナ,PokemonB2W2 SuperMusicCollection [Disc4]
+2012-11-15 07:23:34,Soundtrack,155666,1,false,カノン,耳をすませば サウンドトラック
+never,Soundtrack,4533,0,false,防御 - ファイナルファンタジーIII(1990),SQUARE ENIX 効果音集
+never,none,184493,0,false,トラック 17,album
+never,Pop,307240,0,false,螺旋 (らせん),夏雲ノイズ
+never,none,178746,0,false,トラック 16,album
+never,Soundtrack,51000,0,false,4番道路 (夏),Nintendo DS Pokémon Black・White Super Music Collection [Disc 2]
+never,none,111933,0,false,トラック 19,album
+2012-12-03 11:38:31,Indie Rock,276466,3,false,Glympz,①偏頭痛の為の11のﾀﾞﾝｽ療法 Onze Danses Pour Combattre La Migraine ('77)
+never,none,227666,0,false,トラック 18,album
+never,R&B,287040,0,false,Considering a Movement,Babel
+never,Pop,285933,0,false,桜夜風,夏雲ノイズ
+never,none,168040,0,false,トラック 20,album
+never,Pop,257333,0,false,種を蒔く人,夏雲ノイズ
+2012-11-04 10:23:20,Pop,328626,2,false,奏 (かなで),夏雲ノイズ
+never,Pop,234706,0,false,僕の話,夏雲ノイズ
+2012-07-28 08:36:52,Soundtrack,214146,1,false,戦闘! トレーナー,PokemonB2W2 SuperMusicCollection [Disc1]
+2012-12-03 11:30:45,Indie Rock,414293,3,false,Vapona_Not Glue,①偏頭痛の為の11のﾀﾞﾝｽ療法 Onze Danses Pour Combattre La Migraine ('77)
+never,Soundtrack,92960,0,false,ジョインアベニュー,PokemonB2W2 SuperMusicCollection [Disc1]
+2012-07-28 08:32:12,Soundtrack,78093,1,false,ユナイテッドタワー,PokemonB2W2 SuperMusicCollection [Disc1]
+2012-07-28 08:33:18,Soundtrack,66080,1,false,アクロマのテーマ,PokemonB2W2 SuperMusicCollection [Disc1]
+2012-08-08 08:15:03,Soundtrack,14466,4,false,ロープウェイ,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 1]
+never,Soundtrack,262173,0,false,エアリスのテーマ,Distant Worlds music from FINAL FANTASY Returning home
+never,Soundtrack,5200,0,false,ジョインアベニューでレベルアップ1,PokemonB2W2 SuperMusicCollection [Disc1]
+2012-07-09 11:32:01,Soundtrack,57506,1,false,シフトファクトリー,Nintendo DS Pokémon Black・White Super Music Collection [Disc 3]
+2012-09-19 07:09:46,Soundtrack,75866,4,false,シダケタウン!,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 1]
+never,Soundtrack,74000,0,false,ゲームシンク,Nintendo DS Pokémon Black・White Super Music Collection [Disc 3]
+2012-09-19 07:11:24,Soundtrack,98173,4,false,113道路,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 1]
+2012-08-02 09:16:47,Soundtrack,85800,3,false,ハジツゲタウン,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 1]
+2012-09-19 07:08:24,Soundtrack,22333,4,false,BDタイム,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 1]
+2012-09-19 07:08:30,Soundtrack,5960,4,false,大当たり!,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 1]
+never,Soundtrack,75960,0,false,アララギ博士,Nintendo DS Pokémon Black・White Super Music Collection [Disc 1]
+never,Soundtrack,21000,0,false,連れて行く 1,Nintendo DS Pokémon Black・White Super Music Collection [Disc 1]
+never,Soundtrack,171666,0,false,The Man with the Machine Gun,Distant Worlds music from FINAL FANTASY Returning home
+never,Soundtrack,99000,0,false,戦闘! チェレン・ベル,Nintendo DS Pokémon Black・White Super Music Collection [Disc 1]
+2012-08-02 09:15:21,Soundtrack,25066,3,false,ふたごちゃん,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 1]
+2012-09-18 01:19:23,Soundtrack,100040,10,false,カノコタウン,Nintendo DS Pokémon Black・White Super Music Collection [Disc 1]
+2012-08-02 09:19:28,Soundtrack,35760,3,false,視線! やまおとこ,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 1]
+never,none,169706,0,false,トラック 04,album
+never,none,203413,0,false,トラック 03,album
+never,none,179040,0,false,トラック 02,album
+2012-08-09 03:09:08,none,104533,1,false,トラック 01,album
+2012-08-01 12:55:56,Soundtrack,117000,3,false,12番道路 (秋～冬),Nintendo DS Pokémon Black・White Super Music Collection [Disc 4]
+2012-08-02 09:18:52,Soundtrack,110666,4,false,えんとつやま,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 1]
+2012-10-09 03:43:23,Soundtrack,6000,2,false,オタマロ合唱隊,PokemonB2W2 SuperMusicCollection [Disc3]
+never,none,127200,0,false,トラック 05,album
+2012-10-04 10:19:06,Pop,313160,1,false,願い言,夕風ブレンド
+2012-10-20 22:25:32,Jazz,734226,4,false,Salvadore De Samba,Fly With The Wind
+2012-10-04 10:01:40,Pop,91373,2,false,空創トリップ,夕風ブレンド
+2012-10-20 22:31:05,Jazz,333506,6,false,Beyond the Sun,Fly With The Wind
+never,Pop,319373,0,false,ズラチナルーカ,夕風ブレンド
+never,Soundtrack,196040,0,false,STEVEN STONE,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 2]
+2012-10-04 10:07:20,Pop,339626,3,false,ボクノート,夕風ブレンド
+2012-10-20 22:13:18,Jazz,508933,9,false,Fly With The Wind,Fly With The Wind
+never,Soundtrack,76986,0,false,カラクサタウン,Nintendo DS Pokémon Black・White Super Music Collection [Disc 1]
+never,Soundtrack,52000,0,false,連れて行く 2,Nintendo DS Pokémon Black・White Super Music Collection [Disc 1]
+2012-07-29 17:29:48,Soundtrack,5080,1,false,図鑑生息地が埋まった!,PokemonB2W2 SuperMusicCollection [Disc3]
+2012-10-04 10:00:09,Pop,164333,2,false,月見ヶ丘,夕風ブレンド
+2012-07-05 06:19:17,Jazz,415066,1,false,You Stepped Out Of A Dream,Fly With The Wind
+never,Soundtrack,4040,0,false,レベルアップ!,Nintendo DS Pokémon Black・White Super Music Collection [Disc 1]
+never,Soundtrack,4080,0,false,回復,Nintendo DS Pokémon Black・White Super Music Collection [Disc 1]
+never,Sound Track,99056,0,false,じえんか１,洞窟物語　サウンドトラック
+never,Sound Track,100048,0,false,暴君,洞窟物語　サウンドトラック
+never,Sound Track,65044,0,false,逃げろ,洞窟物語　サウンドトラック
+2012-08-01 12:57:52,Soundtrack,116000,3,false,カゴメタウン,Nintendo DS Pokémon Black・White Super Music Collection [Disc 4]
+never,Soundtrack,92000,0,false,2番道路 (春～夏),Nintendo DS Pokémon Black・White Super Music Collection [Disc 1]
+2012-07-31 12:11:44,Soundtrack,22933,2,false,たすけてくれ!,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 1]
+never,Soundtrack,4253,0,false,モーニングスター - 聖剣伝説～ファイナルファンタジー外伝～(1991),SQUARE ENIX 効果音集
+never,Soundtrack,4293,0,false,くさりがま - 聖剣伝説～ファイナルファンタジー外伝～(1991),SQUARE ENIX 効果音集
+never,Soundtrack,4253,0,false,落ちた時 - 聖剣伝説～ファイナルファンタジー外伝～(1991),SQUARE ENIX 効果音集
+2012-09-08 00:37:15,Soundtrack,269186,2,false,戦闘! ゼクロム・レシラム,Nintendo DS Pokémon Black・White Super Music Collection [Disc 2]
+2012-07-31 12:08:00,Soundtrack,73360,1,false,オープニングセレクト,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 1]
+2012-07-31 12:09:29,Soundtrack,88440,1,false,ミシロタウン,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 1]
+never,Soundtrack,47000,0,false,暗躍、プラズマ団,Nintendo DS Pokémon Black・White Super Music Collection [Disc 1]
+2012-07-31 12:10:21,Soundtrack,52066,1,false,オダマキ研究所,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 1]
+2012-07-31 12:11:22,Soundtrack,60826,1,false,ハルカ,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 1]
+never,Soundtrack,4213,0,false,破壊不可 - 聖剣伝説～ファイナルファンタジー外伝～(1991),SQUARE ENIX 効果音集
+2012-08-05 07:53:24,Soundtrack,31026,2,false,視線! ビキニのおねえさん,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 2]
+2012-09-15 02:24:53,Soundtrack,171000,2,false,戦闘! 四天王,Nintendo DS Pokémon Black・White Super Music Collection [Disc 2]
+2012-08-05 07:54:59,Soundtrack,94800,2,false,サイユウシティ,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 2]
+never,Soundtrack,91000,0,false,ホドモエシティ,Nintendo DS Pokémon Black・White Super Music Collection [Disc 2]
+2012-08-05 07:55:03,Soundtrack,4106,2,false,きのみゲット,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 2]
+2012-07-11 06:32:19,Soundtrack,55960,3,false,コンテストロビー,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 2]
+2012-11-16 02:42:10,New Age,20640,1,false,ときめき,ハウルの動く城 サウンドトラック
+2012-07-11 06:33:28,Soundtrack,68600,3,false,コンテスト!,GBA ポケモン ルビー & サファイア ミュージック・スーパーコンプリート [Disc 2]
+never,Soundtrack,115000,0,false,じてんしゃ,Nintendo DS Pokémon Black・White Super Music Collection [Disc 1]
+2012-10-05 17:24:14,Soundtrack,4266,2,false,ビープ - ファイナルファンタジー(1987),SQUARE ENIX 効果音集
+never,Soundtrack,42000,0,false,戦闘でピンチ!,Nintendo DS Pokémon Black・White Super Music Collection [Disc 1]
+2012-09-04 16:18:47,Soundtrack,4773,1,false,ファイア系 - ファイナルファンタジーIII(1990),SQUARE ENIX 効果音集
+never,Soundtrack,237000,0,false,ホドモエの跳ね橋,Nintendo DS Pokémon Black・White Super Music Collection [Disc 2]
+2012-07-09 11:33:40,Soundtrack,59000,1,false,ポケシフター: ポケモンを捕まえろ!,Nintendo DS Pokémon Black・White Super Music Collection [Disc 3]
+never,Soundtrack,67693,0,false,チャンピオン アデク,Nintendo DS Pokémon Black・White Super Music Collection [Disc 1]
+2012-07-30 08:14:27,Soundtrack,61133,4,false,Nの部屋,PokemonB2W2 SuperMusicCollection [Disc3]
+never,New Age,59493,0,false,荒地の魔女,ハウルの動く城 サウンドトラック
+2012-07-28 20:10:48,Soundtrack,6426,1,false,バトルポイントをもらった! (シンオウ),PokemonB2W2 SuperMusicCollection [Disc4]
+2012-07-09 14:43:05,Soundtrack,114000,2,false,使命を抱いて,Nintendo DS Pokémon Black・White Super Music Collection [Disc 2]
+2012-07-09 10:41:38,Soundtrack,54000,1,false,ポケモンの子、N,Nintendo DS Pokémon Black・White Super Music Collection [Disc 2]
+2012-07-30 08:13:26,Soundtrack,111146,4,false,Nの城,PokemonB2W2 SuperMusicCollection [Disc3]
+never,Soundtrack,92000,0,false,2番道路 (秋～冬),Nintendo DS Pokémon Black・White Super Music Collection [Disc 3]
+never,Soundtrack,56840,0,false,ポケモンリーグ、包囲,Nintendo DS Pokémon Black・White Super Music Collection [Disc 2]
+2012-10-07 03:57:01,Soundtrack,393693,1,false,Epilogue de These,～refrain～The songs were inspired by "EVANGELION"
+never,Soundtrack,118000,0,false,12番道路 (春～夏),Nintendo DS Pokémon Black・White Super Music Collection [Disc 3]
+2012-10-09 03:36:13,Soundtrack,110893,10,false,Trailer Eva Special (EMF02),Shiro SAGISU Music from "EVANGELION: 1.0 YOU ARE (NOT) ALONE"
+2012-08-28 10:30:09,Soundtrack,139080,6,false,戦闘! N,PokemonB2W2 SuperMusicCollection [Disc3]
+2012-10-07 08:10:57,Soundtrack,145466,2,false,Strategie "Yashima" (EM18_Rhythm03),Shiro SAGISU Music from "EVANGELION: 1.0 YOU ARE (NOT) ALONE"
+2012-10-07 07:38:55,Soundtrack,120933,5,false,Staggering Yet (EM11),Shiro SAGISU Music from "EVANGELION: 1.0 YOU ARE (NOT) ALONE"
+2012-10-07 07:52:35,Soundtrack,122000,3,false,Showdown (EM05_A),Shiro SAGISU Music from "EVANGELION: 1.0 YOU ARE (NOT) ALONE"
+2012-07-28 19:50:50,Soundtrack,66093,1,false,ハンサムのテーマ,PokemonB2W2 SuperMusicCollection [Disc4]
+never,Soundtrack,24693,0,false,特別番組「ナナカマド博士に聞く」,PokemonB2W2 SuperMusicCollection [Disc4]
+2012-11-07 05:35:08,Soundtrack,4373,3,false,剣攻撃 - ファイナルファンタジーII(1988),SQUARE ENIX 効果音集
+2012-07-28 19:49:35,Soundtrack,26800,1,false,press start,PokemonB2W2 SuperMusicCollection [Disc4]
+2012-07-30 08:15:32,Soundtrack,64253,4,false,Nのテーマ,PokemonB2W2 SuperMusicCollection [Disc3]
+2012-09-10 09:48:29,Soundtrack,105573,3,false,タイトル (プラチナ),PokemonB2W2 SuperMusicCollection [Disc4]
+2012-07-28 08:04:30,Soundtrack,63173,1,false,ベルのテーマ,PokemonB2W2 SuperMusicCollection [Disc1]
+never,Soundtrack,30000,0,false,野生ポケモンに勝利!,Nintendo DS Pokémon Black・White Super Music Collection [Disc 1]
+never,Soundtrack,144013,0,false,グローバルターミナル,PokemonB2W2 SuperMusicCollection [Disc4]
+2012-10-07 07:55:19,Soundtrack,164360,2,false,Mecanisme de Defense (EM13),Shiro SAGISU Music from "EVANGELION: 1.0 YOU ARE (NOT) ALONE"
+never,Soundtrack,4693,0,false,回復、補助魔法 - ファイナルファンタジーII(1988),SQUARE ENIX 効果音集
+2012-10-07 08:06:04,Soundtrack,166733,2,false,Lucifer's Cry (EM17),Shiro SAGISU Music from "EVANGELION: 1.0 YOU ARE (NOT) ALONE"
+2012-10-07 08:00:58,Soundtrack,143786,2,false,Rei-Opus IV (EMA13_B),Shiro SAGISU Music from "EVANGELION: 1.0 YOU ARE (NOT) ALONE"
+2012-10-07 07:36:54,Soundtrack,173973,4,false,Premiere Manoeuvre (EM03),Shiro SAGISU Music from "EVANGELION: 1.0 YOU ARE (NOT) ALONE"
+2012-09-10 09:20:12,Pop,340960,5,false,虹彩,1st demo
+2012-10-07 08:26:35,Soundtrack,179920,3,false,Rei-Opus V (EMA01),Shiro SAGISU Music from "EVANGELION: 1.0 YOU ARE (NOT) ALONE"
+never,Rock,658400,0,false,L'Idiot Léon,Viva Boma
+2012-11-27 11:38:04,Soundtrack,201000,3,false,決戦! N,Nintendo DS Pokémon Black・White Super Music Collection [Disc 2]
