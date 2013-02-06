@@ -1,0 +1,203 @@
+never,Classical,134000,0,false,Brahms: Hungarian Dance _3_ WoO 1_3,Brahms: Symphony _1_ Hungarian Dances
+never,Classical,172000,0,false,Brahms: Hungarian Dance _1_ WoO 1_1,Brahms: Symphony _1_ Hungarian Dances
+2012-12-06 06:10:56,Classical,144840,1,false,Mompou: 12 Preludes - Prelude _4,Mompou: 12 Preludes_ Suburbis_ Cants Magics
+never,Classical,304933,0,false,Mompou: Chanson De Berceau,Mompou: 12 Preludes_ Suburbis_ Cants Magics
+never,Classical,155493,0,false,Brahms: Hungarian Dance _5_ WoO 1_5,Brahms: Symphony _1_ Hungarian Dances
+never,none,51533,0,false,27 Audio Track,6003 animals&birds
+never,none,58706,0,false,24 Audio Track,6003 animals&birds
+2012-11-19 00:55:30,none,7760,1,false,26 Audio Track,6003 animals&birds
+2012-11-18 04:40:12,none,12640,1,false,22 Audio Track,6003 animals&birds
+never,none,18026,0,false,23 Audio Track,6003 animals&birds
+never,Classical,301506,0,false,Mompou: 12 Preludes - Prelude _6_ "Pour La Main Gauche",Mompou: 12 Preludes_ Suburbis_ Cants Magics
+never,Classical,126640,0,false,Mompou: Suburbis - Gitanes 2,Mompou: 12 Preludes_ Suburbis_ Cants Magics
+never,Classical,113333,0,false,Mompou: Fetes Lointaines - 1. Calme,Mompou: 12 Preludes_ Suburbis_ Cants Magics
+2012-12-06 06:05:32,Classical,244173,1,false,Mompou: 12 Preludes - Prelude _2,Mompou: 12 Preludes_ Suburbis_ Cants Magics
+2012-11-24 11:47:47,Soundtrack,166666,2,false,Overture,Phantom Of The Opera
+2012-11-08 19:34:23,Soundtrack,259533,1,false,The Woman In White:Act Two:You Can Get Away With Anything,Woman In White [Disc 2]
+2012-11-29 01:59:32,Other,143573,2,false,Act2 Scene29 電車が近づく音,効果音大全集
+2012-11-08 20:11:03,Soundtrack,350586,1,false,The Woman In White:Act Two:You Can Get Away With Anything,Woman In White [Disc 2]
+2012-11-15 04:49:37,Other,105160,1,false,Act2  Scene29　　汽笛,効果音大全集
+2012-11-08 19:07:40,Soundtrack,130746,1,false,The Woman In White:Act Two:The Nightmare,Woman In White [Disc 2]
+never,Other,70800,0,false,3 Act1 Prologue　　信号ボックス,効果音大全集 [Disc 2]
+2012-11-08 19:43:48,Soundtrack,565746,1,false,The Woman In White:Act Two:The Seduction,Woman In White [Disc 2]
+never,Soundtrack,141493,0,false,Learn To Be Lonely,Phantom Of The Opera
+2012-11-29 22:59:14,Soundtrack,331653,1,false,Masquerade,Phantom Of The Opera
+never,Jazz,404707,0,false,Embraceable You,At the Montreux Jazz Festival
+2012-11-24 11:56:12,Soundtrack,119373,1,false,The Mirror (Angel Of Music),Phantom Of The Opera
+2012-11-27 08:00:00,none,20181,4,false,Act1 Scene1 Vn,album
+2012-11-08 00:18:49,Soundtrack,342000,1,false,The Music Of The Night,Phantom Of The Opera
+never,none,70293,0,false,06. Birds_ Various_ General Ambience_ Outdoors_ Brook In BG_ Animal_ Country_ Residential,album
+never,Classical,172960,0,false,Mompou: Suburbis - La Cegueta,Mompou: 12 Preludes_ Suburbis_ Cants Magics
+2012-11-06 07:17:11,none,16689,1,false,The_Nutcracker_63_12Hz,album
+2012-11-06 07:16:54,none,16689,1,false,The_Nutcracker_63_12     6   -12Hz,album
+2012-11-06 07:35:04,none,16689,1,false,The_Nutcracker_1000_12Hz,album
+never,Classical,94426,0,false,Mompou: 12 Preludes - Prelude _1,Mompou: 12 Preludes_ Suburbis_ Cants Magics
+2012-11-06 07:17:30,none,16689,1,false,The_Nutcracker_1000_12     6   -12Hz,album
+2012-11-06 07:35:21,none,16689,1,false,The_Nutcracker_6dB_2000Hz,album
+never,Classical,147733,0,false,Mompou: Suburbis - L' Home De L' Aristo,Mompou: 12 Preludes_ Suburbis_ Cants Magics
+never,Classical,165933,0,false,Mompou: 12 Preludes - Prelude _7_ "Palmier D" Etoiles",Mompou: 12 Preludes_ Suburbis_ Cants Magics
+never,Classical,67773,0,false,Mompou: Fetes Lointaines - 2. Vif,Mompou: 12 Preludes_ Suburbis_ Cants Magics
+never,none,70813,0,false,9 Act1 Scene15  Last,野田 麻奈美 のアルバム
+2012-11-14 05:04:23,none,16689,1,false,The_Nutcracker_-12dB_2000Hz,album
+2012-11-15 09:28:38,none,13133,2,false,03. Footsteps_ Concrete_ One Person Walking On Concrete_ Up Stairs,album
+never,Jazz,502440,0,false,Nardis,At the Montreux Jazz Festival
+never,none,18226,0,false,04. Footsteps_ Corridor_ One Person Walking,album
+2012-12-03 00:59:49,Jazz,215067,1,false,Walkin' Up,At the Montreux Jazz Festival
+never,none,18333,0,false,01. Footsteps_ Concrete_ One Person Walking On Concrete_ Hollow Room,album
+never,none,47554,0,false,10  Act2 Scene29  汽笛＋衝撃音,Misaki のアルバム
+never,Soundtrack,222946,0,false,Wishing You Were Somehow Here Again,Phantom Of The Opera
+2012-11-22 12:09:30,none,72613,1,false,Act1 prologue 馬車,album
+2012-11-24 11:51:28,Soundtrack,220693,3,false,Think Of Me,Phantom Of The Opera
+2012-11-19 00:55:22,none,27066,1,false,25 Audio Track,6003 animals&birds
+never,Soundtrack,209800,0,false,Prima Donna,Phantom Of The Opera
+2012-11-27 10:39:01,none,27066,1,false,7 Act1 Scene4　鳥の羽ばたき,6003 animals&birds
+never,Soundtrack,480960,0,false,The Point Of No Return,Phantom Of The Opera
+2012-11-29 22:49:09,none,108505,11,false,6 Act2 Scene18 鐘＋コーラス,野田 麻奈美 のアルバム
+2012-11-08 00:30:18,Soundtrack,216066,3,false,The Phantom Of The Opera,Phantom Of The Opera
+2012-11-08 18:31:46,Soundtrack,439946,1,false,The Woman In White:Act One:The Holly & The Ivy,The Woman In White [Disc 1]
+2012-11-08 17:53:33,Soundtrack,387200,1,false,The Woman In White:Act One:Perspective,The Woman In White [Disc 1]
+2012-11-08 18:03:00,Soundtrack,170093,1,false,The Woman In White:Act One:Lammastide,The Woman In White [Disc 1]
+2012-11-08 18:40:37,Soundtrack,216826,1,false,The Woman In White:Act One:The Document,The Woman In White [Disc 1]
+2012-11-17 03:43:55,Soundtrack,377320,3,false,The Woman In White:Act One:Prologue,The Woman In White [Disc 1]
+never,Other,44760,0,false,Act1 Scene15  近雷,効果音大全集
+2012-11-06 07:35:37,none,16689,1,false,The_Nutcracker_12dB_8000Hz,album
+2012-11-29 07:56:24,Other,84333,2,false,4 Act2 Scene17  雨,効果音大全集
+never,Soundtrack,294226,0,false,All I Ask Of You,Phantom Of The Opera
+2012-11-20 12:11:35,Other,82706,1,false,Act1 Prologue　　嵐の音,効果音大全集
+never,Soundtrack,136306,0,false,All I Ask Of You (Reprise),Phantom Of The Opera
+2012-11-26 01:08:22,Other,57706,2,false,Act1 scene15   遠雷,効果音大全集
+2012-11-24 11:54:11,Soundtrack,163666,3,false,Angel Of Music,Phantom Of The Opera
+never,Soundtrack,768640,0,false,Down Once More_Track Down This Murderer,Phantom Of The Opera
+never,Other,97226,0,false,Act1 Prologue   電信,効果音大全集 [Disc 2]
+never,Jazz,368267,0,false,Someday My Prince Will Come,At the Montreux Jazz Festival
+never,Classical,96266,0,false,Mompou: Fetes Lointaines - 3. Rythme,Mompou: 12 Preludes_ Suburbis_ Cants Magics
+2012-12-06 06:23:11,none,75912,1,false,4011-tl_piano,album
+never,none,66333,0,false,08. Traffic_ City_ Heavy Traffic_ Taken From 30th Floor Balcony_ Ambience,album
+never,none,70819,0,false,Act1 Last,野田 麻奈美 のアルバム
+never,none,70819,0,false,9 Act1 Scene15 Last,野田 麻奈美 のアルバム
+never,none,33373,0,false,トラック 27.1.R,album
+never,none,8009,0,false,10 Act1 Scene15 ホルン,Misaki のアルバム
+2012-11-15 09:29:36,none,53466,1,false,06. Footsteps_ Corridor_ Several People Walking,album
+2012-11-22 12:08:17,none,64933,1,false,Act1 prologue ウマの蹄,album
+never,none,34493,0,false,07. Footsteps_ Corridor_ Several People Walking_ Traffic In BG,album
+never,none,50773,0,false,Act2 Scene26 footsteps5,6017 Foley2 Footsteps
+never,none,40440,0,false,08. Footsteps_ Corridor_ Several People Walking_ Traffic In BG,album
+2012-11-14 00:09:50,none,54600,1,false,Act2 Scene26 フォスコ,6016 Foley1 Footsteps
+never,none,99333,0,false,07. Traffic_ City_ Heavy Traffic_ Cars_ Buses_ Voices And Footsteps_ Ambience,album
+2012-11-19 09:36:46,none,49333,1,false,Act2 Scene26 footsteps3,6016 Foley1 Footsteps
+2012-11-08 17:47:06,Soundtrack,297360,1,false,The Woman In White:Act One:I Hope You Like It Here,The Woman In White [Disc 1]
+never,none,152200,0,false,06 Bach_ Flute Sonata In E Flat_ BWV 1031 - 2. Siciliano,album
+never,Classical,227666,0,false,Ravel: Sonatine - 1. Modéré,Play Piano Play (Disc 2)
+2012-11-08 18:24:26,Soundtrack,599266,1,false,The Woman In White:Act One:A Gift For Living Well,The Woman In White [Disc 1]
+never,Classical,152200,0,false,Bach: Flute Sonata In E Flat_ BWV 1031 - 2. Siciliano,Bach Recital
+2012-11-08 18:37:01,Soundtrack,314320,1,false,The Woman In White:Act One:All For Laura,The Woman In White [Disc 1]
+2012-12-03 00:45:54,Jazz,333973,1,false,The Great Pumpkin Waltz,Happy Anniversary_ Charlie Brown!
+2012-11-08 18:45:57,Soundtrack,319306,1,false,The Woman In White:Act One:Finale,The Woman In White [Disc 1]
+never,none,194333,0,false,09 歌の翼にのせて,album
+2012-11-08 18:00:09,Soundtrack,234280,1,false,The Woman In White:Act One:I Believe My Heart,The Woman In White [Disc 1]
+2012-11-06 06:47:49,none,16689,2,false,The_Nutcracker_8000Hz,album
+2012-11-26 04:58:58,none,16368,7,false,Act2 Scene10 教会の鐘,野田 麻奈美 のアルバム
+2012-11-06 06:46:07,none,16689,1,false,The_Nutcracker_125Hz,album
+2012-11-14 21:38:27,none,122106,1,false,05. Crowd Indoor Medium Museum,album
+2012-11-06 06:45:44,none,16689,2,false,The_Nutcracker_63Hz,album
+2012-11-14 21:40:29,none,122226,1,false,06. Crowd Indoor Medium Museum,album
+2012-11-06 06:46:58,none,16689,2,false,The_Nutcracker_1000Hz,album
+2012-11-15 03:35:31,Other,8000,2,false,Act1 Prologue  電線の不気味な音,こうかおん
+never,Other,83933,0,false, Act2 Scene17　　雨１,効果音大全集
+2012-11-06 06:46:25,none,16689,1,false,The_Nutcracker_250Hz,album
+never,Classical,110733,0,false,Mompou: Cants Magics - Obscur,Mompou: 12 Preludes_ Suburbis_ Cants Magics
+never,Classical,95093,0,false,Mompou: Fetes Lointaines - 4. Vif,Mompou: 12 Preludes_ Suburbis_ Cants Magics
+never,Classical,123773,0,false,Mompou: Cants Magics - Misterios,Mompou: 12 Preludes_ Suburbis_ Cants Magics
+never,none,29440,0,false,05. Footsteps_ Corridor_ Several People Passing By,album
+never,none,123346,0,false,06. Track 6,album
+2012-12-03 01:25:25,Jazz,359773,1,false,I Loves You Porgy,At the Montreux Jazz Festival
+never,Classical,194333,0,false,歌の翼にのせて,エリーゼのために
+never,none,20773,0,false,33 Audio Track,6003 animals&birds
+never,none,121666,0,false,06. Crowd_ Indoor Medium Crowd Indoor Market Heavy Crowd Walla_ Footsteps_ Distant Church Bell To,album
+never,none,9466,0,false,34 Audio Track,6003 animals&birds
+never,none,123413,0,false,04. Crowd_ Indoor Medium Crowd Reverberant Corridor_ Heavy Footsteps And Scuffing_ Close Perspect,album
+never,none,33600,0,false,35 Audio Track,6003 animals&birds
+never,none,78493,0,false,03. Traffic_ Highway_ Two Lane_ 40-50 MPH_ Passing By,album
+2012-11-19 14:48:14,none,244166,1,false,なんでもない　SE,album
+never,none,94440,0,false,04. Traffic_ Highway_ Two Lane_ 40-50 MPH_ Passing By,album
+never,none,68333,0,false,08. Children_ Playing Baseball_ General Ambience,album
+2012-11-08 19:48:27,Soundtrack,278906,1,false,The Woman In White:Act Two:The Asylum,Woman In White [Disc 2]
+2012-11-08 19:30:03,Soundtrack,402586,1,false,The Woman In White:Act Two:If Not For Me For Her,Woman In White [Disc 2]
+never,none,227666,0,false,2-01 Ravel_ Sonatine - 1. Modéré,album
+2012-11-08 19:23:20,Soundtrack,370786,1,false,The Woman In White:Act Two:Lost Souls,Woman In White [Disc 2]
+2012-11-17 11:39:20,none,333973,1,false,04 The Great Pumpkin Waltz,album
+2012-11-08 19:13:05,Soundtrack,324720,1,false,The Woman In White:Act Two:Fosco Tells Of Laura's Death_The Funeral_London,Woman In White [Disc 2]
+never,none,303160,0,false,イパネマの娘-01,album
+2012-11-11 10:18:01,Soundtrack,531613,2,false,The Woman In White:Act Two:If I Could Dream This World Away,Woman In White [Disc 2]
+never,none,303160,0,false,イパネマの娘-04,album
+2012-11-06 06:48:22,none,16689,1,false,The_Nutcracker,album
+2012-11-06 06:47:15,none,16689,1,false,The_Nutcracker_2000Hz,album
+2012-11-06 06:46:41,none,16689,1,false,The_Nutcracker_500Hz,album
+2012-11-06 06:48:06,none,16689,1,false,The_Nutcracker_16000Hz,album
+2012-11-06 06:47:32,none,16689,1,false,The_Nutcracker_4000Hz,album
+2012-11-22 12:10:34,none,3086,14,false,Act1 Scene15 銃声,album
+never,Classical,189493,0,false,Mompou: Cants Magics - Profound_ Lent,Mompou: 12 Preludes_ Suburbis_ Cants Magics
+never,Jazz,365133,0,false,A Sleeping Bee,At the Montreux Jazz Festival
+never,Classical,99440,0,false,Mompou: 12 Preludes - Prelude _10,Mompou: 12 Preludes_ Suburbis_ Cants Magics
+never,Classical,151906,0,false,Mompou: Fetes Lointaines - 5. Lentement,Mompou: 12 Preludes_ Suburbis_ Cants Magics
+2012-12-03 01:00:47,Jazz,57427,1,false,Spoken Introduction and Warmup _5,At the Montreux Jazz Festival
+2012-12-06 06:05:32,Classical,244173,1,false,Mompou: 12 Preludes - Prelude _2,Mompou: 12 Preludes_ Suburbis_ Cants Magics
+never,none,32933,0,false,32 Audio Track,6003 animals&birds
+never,none,25000,0,false,31 Audio Track,6003 animals&birds
+never,none,33360,0,false,30 Audio Track,6003 animals&birds
+never,none,63506,0,false,29 Audio Track,6003 animals&birds
+2012-11-18 04:40:36,none,10800,1,false,28 Audio Track,6003 animals&birds
+never,none,88866,0,false,10 Audio Track,6003 animals&birds
+never,none,19266,0,false,8 Audio Track,6003 animals&birds
+never,none,27733,0,false,9 Audio Track,6003 animals&birds
+never,Jazz,263933,0,false,One for Helen,At the Montreux Jazz Festival
+never,none,158173,0,false,03. Crowd Indoor Medium University,album
+never,none,119253,0,false,02. Crowd Indoor Medium University,album
+never,Classical,108293,0,false,Mompou: 12 Preludes - Prelude _11,Mompou: 12 Preludes_ Suburbis_ Cants Magics
+never,Classical,152000,0,false,Brahms: Hungarian Dance _20_ WoO 1_20,Brahms: Symphony _1_ Hungarian Dances
+2012-11-05 17:52:00,Classical,130173,1,false,Brahms: Hungarian Dance _19_ WoO 1_19,Brahms: Symphony _1_ Hungarian Dances
+never,Classical,71693,0,false,Brahms: Hungarian Dance _18_ WoO 1_18,Brahms: Symphony _1_ Hungarian Dances
+never,Classical,201000,0,false,Brahms: Hungarian Dance _17_ WoO 1_17,Brahms: Symphony _1_ Hungarian Dances
+never,Jazz,315333,0,false,Mother of Earl,At the Montreux Jazz Festival
+never,Classical,221000,0,false,Brahms: Hungarian Dance _6_ WoO 1_6,Brahms: Symphony _1_ Hungarian Dances
+never,Classical,166533,0,false,Mompou: Dialogues - Dialogue 1,Mompou: 12 Preludes_ Suburbis_ Cants Magics
+never,Classical,103800,0,false,Mompou: Cants Magics - Energic,Mompou: 12 Preludes_ Suburbis_ Cants Magics
+never,none,87226,0,false,01. Airplane_ Single Prop Ext Start Engine_ Taxi,album
+2012-12-06 06:08:31,Classical,178493,1,false,Mompou: 12 Preludes - Prelude _3,Mompou: 12 Preludes_ Suburbis_ Cants Magics
+never,Classical,61466,0,false,Mompou: Fetes Lointaines - 6. Vif,Mompou: 12 Preludes_ Suburbis_ Cants Magics
+2012-12-03 00:56:14,Jazz,370827,1,false,Quiet Now,At the Montreux Jazz Festival
+2012-12-03 01:30:10,Jazz,284733,1,false,The Touch of Your Lips,At the Montreux Jazz Festival
+2012-11-05 18:34:19,Classical,227000,1,false,Tchaikovsky: The Nutcracker - Act 2: Tableau_ Bild 3_ Scene,Tchaikovsky: The Nutcracker; Glazunov: Les Sylphides [Disc 1]
+never,Classical,294026,0,false,Brahms: Symphony _1 In C Minor_ Op. 68 - 3. Un Poco Allegretto E Grazioso,Brahms: Symphony _1_ Hungarian Dances
+never,Classical,1085306,0,false,Brahms: Symphony _1 In C Minor_ Op. 68 - 4. Adagio_ Piu Andante_ Allegro Non Troppo_ Ma Con Brio,Brahms: Symphony _1_ Hungarian Dances
+never,Classical,833000,0,false,Brahms: Symphony _1 In C Minor_ Op. 68 - 1. Un Poco Sostenuto_ Allegro,Brahms: Symphony _1_ Hungarian Dances
+never,Classical,558000,0,false,Brahms: Symphony _1 In C Minor_ Op. 68 - 2. Andante Sostenuto,Brahms: Symphony _1_ Hungarian Dances
+2012-12-06 06:12:53,Classical,117226,1,false,Mompou: 12 Preludes - Prelude _5,Mompou: 12 Preludes_ Suburbis_ Cants Magics
+never,none,34800,0,false,13 Audio Track,6003 animals&birds
+never,Classical,170626,0,false,Mompou: Cants Magics - Calma,Mompou: 12 Preludes_ Suburbis_ Cants Magics
+2012-11-08 18:14:27,Soundtrack,687600,1,false,The Woman In White:Act One:You See I Am No Ghost,The Woman In White [Disc 1]
+2012-11-29 22:52:00,Soundtrack,161840,2,false,The Woman In White:Act One:Trying Not To Notice,The Woman In White [Disc 1]
+2012-11-08 19:53:03,Soundtrack,276346,1,false,The Woman In White:Act Two:Back To Limmeridge,Woman In White [Disc 2]
+2012-11-08 19:17:10,Soundtrack,244840,1,false,The Woman In White: Act Two:Evermore Without You,Woman In White [Disc 2]
+never,Classical,264666,0,false,Mompou: Suburbis - El Carrer In El Guitarrista I El Vell Cavall,Mompou: 12 Preludes_ Suburbis_ Cants Magics
+2012-11-08 20:05:13,Soundtrack,729200,1,false,The Woman In White:Act Two:Finale,Woman In White [Disc 2]
+never,Classical,130360,0,false,Mompou: 12 Preludes - Prelude _8,Mompou: 12 Preludes_ Suburbis_ Cants Magics
+never,Classical,158773,0,false,Mompou: Dialogues - Dialogue 2,Mompou: 12 Preludes_ Suburbis_ Cants Magics
+never,none,26400,0,false,21 Audio Track,6003 animals&birds
+never,none,32826,0,false,20 Audio Track,6003 animals&birds
+never,none,20306,0,false,19 Audio Track,6003 animals&birds
+never,none,8626,0,false,18 Audio Track,6003 animals&birds
+never,none,81066,0,false,17 Audio Track,6003 animals&birds
+never,Classical,248200,0,false,Mompou: 12 Preludes - Prelude _12,Mompou: 12 Preludes_ Suburbis_ Cants Magics
+2012-11-14 00:06:57,none,46240,1,false,Act 2 Scene26 footsteps1,6017 Foley2 Footsteps
+never,none,37066,0,false,02. Footsteps_ Concrete_ One Person Walking On Concrete_ Hollow Room,album
+2012-11-27 09:23:09,none,2474,6,false,8 Act1 Scene7 Dinner　bell,album
+2012-11-18 04:39:42,none,11800,1,false,12 Audio Track,6003 animals&birds
+2012-11-27 10:13:37,none,24490,7,false,9 Act1 Scene8 Vn take1,album
+never,none,46040,0,false,16 Audio Track,6003 animals&birds
+2012-11-22 12:10:31,none,13824,2,false,Act1 Scene8 Vn take2,album
+never,none,166306,0,false,14 Audio Track,6003 animals&birds
+never,none,21426,0,false,15 Audio Track,6003 animals&birds
+never,Classical,141800,0,false,Mompou: 12 Preludes - Prelude _9,Mompou: 12 Preludes_ Suburbis_ Cants Magics
+never,Classical,134800,0,false,Mompou: Suburbis - Gitanes 1,Mompou: 12 Preludes_ Suburbis_ Cants Magics
+2012-11-19 09:35:57,none,54106,1,false,Act2 Scene26 footsteps2,6016 Foley1 Footsteps

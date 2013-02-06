@@ -150,5 +150,7 @@ dependencies: \
   /Users/gentleman/Developer/oF/of_v0073_osx_release/apps/of_thesis/infographic_barPlotter_01/ofxControlPanel/src/guiTypeLabel.h \
   /Users/gentleman/Developer/oF/of_v0073_osx_release/apps/of_thesis/infographic_barPlotter_01/ofxControlPanel/src/guiTypeTextInput.h \
   /Users/gentleman/Developer/oF/of_v0073_osx_release/apps/of_thesis/infographic_barPlotter_01/ofxTrueTypeFontUC/src/ofxTrueTypeFontUC.h \
-  src/ofxTable.h ../../../libs/openFrameworks/app/ofAppGlutWindow.h \
+  src/ofxTable.h \
+  /Users/gentleman/Developer/oF/of_v0073_osx_release/apps/of_thesis/infographic_barPlotter_01/ofxImageRotate/ofxImgRotate.h \
+  ../../../libs/openFrameworks/app/ofAppGlutWindow.h \
   ../../../libs/openFrameworks/app/ofAppBaseWindow.h

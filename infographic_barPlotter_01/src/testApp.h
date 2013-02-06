@@ -9,6 +9,9 @@
 #include "ofxTrueTypeFontUC.h"
 #include "ofxTable.h"
 
+//卒展
+#include "ofxImgRotate.h"
+
 #define CENTER_CIRCLE_RADIUS 150
 #define ARC_RADIUS_CHANGER 2
 #define BAR_WIDTH 20
@@ -68,6 +71,7 @@ class testApp : public ofBaseApp{
     ofTrueTypeFont myFontForTimeLabel;
     
     ofxTrueTypeFontUC myFontJapanese;
+    ofxTrueTypeFontUC myFontJapaneseLarge;
     
     bool newWeekSelected;
     float afterSelectedFrameCounter;
@@ -111,6 +115,7 @@ class testApp : public ofBaseApp{
     vector<ofxCsv> csvGraphDataMatrixVector;
     vector<ofxCsv> csvTimeStampVector;
     
+    
     //ソートする順番を格納するベクター
     vector<int> whereAmI;
     
@@ -124,4 +129,21 @@ class testApp : public ofBaseApp{
     
     //時刻（曜日は関係なく）だけの情報を累積情報を格納するベクター
     vector< vector<float> > hourBarVector;
+    
+
+    
+//    卒展
+//    ofImage textureImage;
+//    ofImage colorBar;
+//    vector<ofImage> texture;
+    vector<ofxCsv> csvOfVector;
+    ofImage animationButtonImg;
+    ofPoint animationButtonPos;
+    int animationFrameNum;
+    bool animationSwitch;
+    ofxTrueTypeFontUC drawingSongInfoFont;
+    vector< vector<int> > animationVector;
+    ofImage imgStable;
+    ofxImgRotate imgRotate;
+    ofSoundPlayer playerDrawingAnimation;
 };

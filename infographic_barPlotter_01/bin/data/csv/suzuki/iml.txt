@@ -1,0 +1,654 @@
+never,none,156409,0,false,dichterlibe_15,album
+never,none,100071,0,false,dichterlibe_4,album
+never,none,147500,0,false,ブレーメンEdit,album
+never,none,47410,0,false,dichterlibe_5,album
+never,none,7360,0,false,24 Audio Track,6028 office
+never,none,282540,0,false,schubert_02,album
+never,none,28706,0,false,トラック 20,6018 miscellaneous D to H
+never,none,9626,0,false,89 Window Aluminium_ Slide Open _ Sl,album
+never,none,209538,0,false,ブレーメン仮,album
+2011-10-22 08:34:38,Pop,334393,1,false,Our Love Song (Studio Live),Shake!!
+2011-10-22 08:29:04,Pop,316630,1,false,Unchanged Love,Shake!!
+never,none,527229,0,false,diveltiment,album
+2011-10-22 08:23:47,Pop,290246,1,false,Lovely Days,Shake!!
+never,none,34529,0,false,dichterlibe_3,album
+2011-10-22 08:18:57,Pop,240483,1,false,Peace!,Shake!!
+2011-10-22 08:14:57,Pop,294060,1,false,Kamiarizuki,Shake!!
+never,none,438114,0,false,サヨナラノツバサ the end of triangle,album
+never,none,22290,0,false,Legacy_Epart,album
+never,none,390183,0,false,takemitu,album
+never,none,331128,0,false,beteeven_1,album
+never,none,174335,0,false,beteeven_2,album
+never,none,303100,0,false,ギラギラサマー,album
+never,Pop,295366,0,false,Tender Rain,LA. LA. LA
+2012-11-28 09:09:39,Soundtrack,324806,1,false,魔王,NieR Gestalt & NieR RepliCant Original Soundtrack [Disc 2]
+2012-11-28 09:15:57,Soundtrack,377573,1,false,Ashes of Dreams _ English Version,NieR Gestalt & NieR RepliCant Original Soundtrack [Disc 2]
+never,none,117420,0,false,beteeven_5,album
+never,Soundtrack,346514,0,false,Ashes of Dreams _ Nuadhaich-GER Version,NieR Gestalt & NieR RepliCant Original Soundtrack [Disc 2]
+never,R&B,338860,0,false,We are the music,ASCENSION [初回盤]
+never,none,288863,0,false,オベリスク,album
+never,R&B,356075,0,false,Song for you,ASCENSION [初回盤]
+never,R&B,300199,0,false,星の銀貨,ASCENSION [初回盤]
+never,R&B,280450,0,false,SEA OF DREAMS,ASCENSION [初回盤]
+never,none,282573,0,false,イゾラド,album
+never,Soundtrack,158824,0,false,ヨナ_ Ver. 弦 その1,NieR Gestalt & NieR RepliCant Original Soundtrack [Disc 1]
+never,Soundtrack,186226,0,false,ヨナ _ Ver. 重奏,NieR Gestalt & NieR RepliCant Original Soundtrack [Disc 1]
+never,Soundtrack,173191,0,false,ヨナ _ Ver. ピアノ,NieR Gestalt & NieR RepliCant Original Soundtrack [Disc 1]
+never,Soundtrack,93701,0,false,喪失 _ Ver. オルゴール,NieR Gestalt & NieR RepliCant Original Soundtrack [Disc 1]
+2012-11-28 09:36:24,Soundtrack,177136,1,false,喪失 _ Ver. 弦,NieR Gestalt & NieR RepliCant Original Soundtrack [Disc 1]
+never,Soundtrack,237165,0,false,もしも空を飛べたら,アニメージュ・ボーカル・コレクション
+2012-04-30 19:30:54,サウンドトラック,47960,1,false,You Saved Science,Portal 2: Songs to Test By - Volume 3
+never,Soundtrack,261564,0,false,風の妖精,アニメージュ・ボーカル・コレクション
+never,Soundtrack,221884,0,false,空からこぼれたStory,アニメージュ・ボーカル・コレクション
+never,Pop,270759,0,false,恋はメリーゴーランド,LA. LA. LA
+never,Soundtrack,299833,0,false,鳥になった私,アニメージュ・ボーカル・コレクション
+never,none,2230136,0,false,frist,album
+never,none,2085225,0,false,second,album
+never,サウンドトラック,141583,0,false,Want You Gone,Portal 2: Songs to Test By - Volume 3
+never,none,480480,0,false,ukiyodoko_onsei,album
+2012-04-30 19:34:33,サウンドトラック,218462,1,false,Robots FTW,Portal 2: Songs to Test By - Volume 3
+never,Soundtrack,157048,0,false,キラキラ,マクロスF O.S.T.1 娘フロ。
+2012-12-09 04:55:23,Rock,281312,26,false,アゲハ蝶 (Red Mix),雲をも掴む民
+never,none,286069,0,false,天使になっちゃった,album
+2012-12-09 05:00:15,Rock,291840,26,false,ハート,雲をも掴む民
+2011-12-23 19:11:27,Other,13240,1,false,下駄・雪駄・高下駄など10,効果音大全集35<人の足音のいろいろ>
+2012-12-09 05:47:04,Rock,302785,29,false,ラスト オブ ヒーロー,雲をも掴む民
+never,none,262594,0,false,永遠,album
+never,Other,72960,0,false,下駄・雪駄・高下駄など8,効果音大全集35<人の足音のいろいろ>
+never,none,359576,0,false,ユニバーサルバニー,album
+never,Other,16400,0,false,下駄・雪駄・高下駄など9,効果音大全集35<人の足音のいろいろ>
+never,none,318717,0,false,禁断のエリクシア,album
+never,Other,12466,0,false,ハイヒールの歩き(女)7,効果音大全集35<人の足音のいろいろ>
+never,none,161239,0,false,会えないとき,album
+never,Other,64600,0,false,下駄・雪駄・高下駄など7,効果音大全集35<人の足音のいろいろ>
+never,none,152398,0,false,6_Hat_dich_die_Liebeberührt,album
+never,none,195389,0,false,7_Spirtogentile,album
+2012-07-10 07:57:49,Soundtrack,139180,2,false,Rosario,坂道のアポロン オリジナル・サウンドトラック
+never,none,99324,0,false,4_Malinconia_Ninfa_gentile,album
+never,none,61100,0,false,Opening_Bass,album
+never,none,164326,0,false,5_An_den_Mond,album
+2012-07-11 04:35:42,Soundtrack,69642,3,false,Satin Doll,坂道のアポロン オリジナル・サウンドトラック
+2012-07-11 04:38:18,Soundtrack,155898,3,false,YURIKA,坂道のアポロン オリジナル・サウンドトラック
+never,Soundtrack,132754,0,false,Bajura,マクロスF O.S.T.1 娘フロ。
+2012-07-11 04:33:05,Soundtrack,150282,3,false,Bag's Groove,坂道のアポロン オリジナル・サウンドトラック
+never,none,376218,0,false,8_ElsasTraum,album
+2012-07-11 04:34:32,Soundtrack,87640,3,false,Blowin' The Blues Away,坂道のアポロン オリジナル・サウンドトラック
+never,none,84555,0,false,dichterlibe_14,album
+never,none,149350,0,false,dichterlibe_13,album
+never,Other,38733,0,false,走る足音(男)単・複数1,効果音大全集35<人の足音のいろいろ>
+never,Other,186600,0,false,いろいろなタイプの歩く音(男)1,効果音大全集35<人の足音のいろいろ>
+never,Other,15626,0,false,雪・氷・雲の上の歩き1,効果音大全集35<人の足音のいろいろ>
+never,Other,28200,0,false,走る足音(男)単・複数2,効果音大全集35<人の足音のいろいろ>
+never,Other,15266,0,false,賭け寄り・駆け去りなどの動き1,効果音大全集35<人の足音のいろいろ>
+2012-06-17 03:19:41,Pop,222458,3,false,素直,Completely Recorded [Disc 2]
+never,none,57428,0,false,dichterlibe_2,album
+2012-06-17 03:23:15,Pop,214099,3,false,モンタージュ,Completely Recorded [Disc 2]
+2012-06-17 03:28:16,Pop,300460,3,false,足音,Completely Recorded [Disc 2]
+2012-06-17 03:32:51,Pop,275513,3,false,HAPPY DANCE,Completely Recorded [Disc 2]
+2012-06-17 03:38:36,Pop,345182,3,false,STRIPE!,Completely Recorded [Disc 2]
+never,none,71842,0,false,dichterlibe_11,album
+2012-07-06 04:39:06,サウンドトラック,136672,1,false,Concentration Enhancing Menu Initialiser,Portal 2: Songs to Test By
+never,Other,31933,0,false,つるべ井戸,効果音大全集36(水とその関連音)
+never,Other,13760,0,false,水に落ちる,効果音大全集36(水とその関連音)
+never,Other,19400,0,false,水面を叩く,効果音大全集36(水とその関連音)
+never,Other,84773,0,false,ホースから水が勢いよく出る,効果音大全集36(水とその関連音)
+never,Other,97973,0,false,洞穴の水滴,効果音大全集36(水とその関連音)
+never,Soundtrack,93204,0,false,アイモ,マクロスF O.S.T.1 娘フロ。
+never,none,285326,0,false,TASCBM_0008-07,album
+never,none,189579,0,false,asahiondo,album
+2012-12-07 14:32:55,Soundtrack,299154,2,false,夏ノ雪,NieR Gestalt & NieR RepliCant Original Soundtrack [Disc 1]
+never,none,285387,0,false,TASCBM_0008-07,album
+2012-12-07 14:35:49,Soundtrack,173479,2,false,光ノ風吹ク丘,NieR Gestalt & NieR RepliCant Original Soundtrack [Disc 1]
+never,none,192075,0,false,meridian_child,album
+never,none,177344,0,false,hana to yome onkan11.01,album
+never,none,177300,0,false,hana to yome11.01.mp4,album
+2011-09-15 05:28:50,Rock,211800,1,false,Don't Stop Me Now,Greatest Hits I
+2012-04-30 19:37:08,Traditional,155520,6,false,Goodbye Miss Goodavich _ Rosie's Reel,Otherworld
+2011-12-15 19:52:20,Traditional,203133,4,false,Statia Donnelly's-I Will If I Can-Patsy Geary's,May Morning Dew
+2011-09-15 05:22:27,Rock,183849,1,false,Bicycle Race,Greatest Hits I
+2011-12-15 19:55:51,Traditional,211026,4,false,Higgins'-Cuckoo's Nest,May Morning Dew
+2011-09-15 05:25:19,Rock,172225,1,false,You're My Best Friend,Greatest Hits I
+2011-09-15 05:15:58,Rock,182021,1,false,Killer Queen,Greatest Hits I
+never,none,57657,0,false,20120612_brushup,album
+2011-09-15 05:19:23,Rock,204669,1,false,Fat Bottomed Girls,Greatest Hits I
+never,Soundtrack,179931,0,false,Untitled,ドラマCD テイルズ オブ シンフォニア～a long time ago～ Vol.2
+never,Soundtrack,151196,0,false,Private Army,マクロスF O.S.T.1 娘フロ。
+2012-07-22 18:30:53,Soundtrack,161488,3,false,Equinox,坂道のアポロン オリジナル・サウンドトラック
+2012-07-13 18:28:51,サウンドトラック,201769,2,false,The Future Starts With You,Portal 2: Songs to Test By
+never,R&B,307356,0,false,月,ASCENSION [初回盤]
+never,R&B,313155,0,false,SHININ'～虹色のリズム～,ASCENSION [初回盤]
+never,R&B,288783,0,false,砂の城,ASCENSION [初回盤]
+never,R&B,274651,0,false,Angel,ASCENSION [初回盤]
+2012-07-13 18:44:22,サウンドトラック,299755,2,false,15 Acres of Broken Glass,Portal 2: Songs to Test By
+never,R&B,251637,0,false,LUV PARADE,ASCENSION [初回盤]
+2012-07-13 18:39:22,サウンドトラック,179304,2,false,The Friendly Faith Plate,Portal 2: Songs to Test By
+2012-07-13 18:36:23,サウンドトラック,190641,2,false,You Know Her?,Portal 2: Songs to Test By
+2012-07-13 18:33:12,サウンドトラック,260728,2,false,There She Is,Portal 2: Songs to Test By
+2012-12-03 14:47:16,Soundtrack,201769,1,false,エミール _ 業苦,NieR Gestalt & NieR RepliCant Original Soundtrack [Disc 2]
+2012-12-03 14:43:54,Soundtrack,254197,1,false,魔王ノ城 _ 咆吼,NieR Gestalt & NieR RepliCant Original Soundtrack [Disc 2]
+2012-12-03 14:39:40,Soundtrack,54073,1,false,儚キ者達ノ舞踏,NieR Gestalt & NieR RepliCant Original Soundtrack [Disc 2]
+never,none,150768,0,false,ikeziri_M8demo1,album
+2012-12-03 14:38:46,Soundtrack,170240,1,false,魔王ノ城 _ 記憶,NieR Gestalt & NieR RepliCant Original Soundtrack [Disc 2]
+never,none,37955,0,false,ikeziri_M6_click,album
+never,none,390826,0,false,girl_ok_01,album
+never,none,272535,0,false,ikeziri_M4_M5_demo1,album
+2012-11-10 06:09:49,none,37407,1,false,Audio2_01,album
+2012-12-03 14:50:43,Soundtrack,207281,2,false,エミール _ 犠牲,NieR Gestalt & NieR RepliCant Original Soundtrack [Disc 2]
+2012-07-13 19:08:00,サウンドトラック,236382,3,false,I Made It All Up,Portal 2: Songs to Test By
+never,Soundtrack,528979,0,false,守るべきもの,テイルズ・オブ・シンフォニア～A Long Time Ago～ Vol.3
+2012-07-13 19:11:29,サウンドトラック,209606,2,false,Comedy = Tragedy + Time,Portal 2: Songs to Test By
+2012-06-17 02:28:58,Pop,331911,3,false,北風～君にとどきますように～,Completely Recorded [Disc 1]
+2012-07-13 19:15:44,サウンドトラック,255059,2,false,Triple Laser Phase,Portal 2: Songs to Test By
+2012-07-13 19:18:21,サウンドトラック,156577,2,false,Reconstructing More Science,Portal 2: Songs to Test By - Volume 3
+2012-07-02 23:15:01,Pop,306546,5,false,どんなときも。,Completely Recorded [Disc 1]
+2012-07-02 23:09:54,Pop,309446,5,false,ANSWER,Completely Recorded [Disc 1]
+2012-07-02 23:23:26,Pop,273711,4,false,もう恋なんてしない,Completely Recorded [Disc 1]
+2012-07-13 19:04:03,サウンドトラック,98742,3,false,Turret Wife Serenade,Portal 2: Songs to Test By
+2012-07-02 23:18:52,Pop,231235,4,false,冬がはじまるよ,Completely Recorded [Disc 1]
+never,none,120973,0,true,3 Audio Track,6037 miscellaneous S to Z
+never,none,93600,0,true,53 Audio Track,6036 weather
+never,Soundtrack,446432,0,false,いつか光みちて,テイルズ・オブ・シンフォニア～A Long Time Ago～ Vol.3
+never,Soundtrack,191320,0,false,家路,テイルズ・オブ・シンフォニア～A Long Time Ago～ Vol.3
+never,Soundtrack,226560,0,false,嵐のはじまり,テイルズ・オブ・シンフォニア～A Long Time Ago～ Vol.3
+never,Soundtrack,400640,0,false,闇から来る声,テイルズ・オブ・シンフォニア～A Long Time Ago～ Vol.3
+never,Other,10426,0,false,兵隊の歩きなど2,効果音大全集35<人の足音のいろいろ>
+never,none,19306,0,true,96 Audio Track,6037 miscellaneous S to Z
+never,Other,26773,0,false,走る足音(男)単・複数8,効果音大全集35<人の足音のいろいろ>
+never,Soundtrack,398262,0,false,声優コメント,テイルズ・オブ・シンフォニア～A Long Time Ago～ Vol.3
+never,Other,18333,0,false,道場・廊下の足音の動き3,効果音大全集35<人の足音のいろいろ>
+never,Other,11626,0,false,道場・廊下の足音の動き2,効果音大全集35<人の足音のいろいろ>
+never,ボイスメモ,2562947,0,false,11_10_23 18:36,ボイスメモ
+never,none,117838,0,false,schubert_06,album
+never,ボイスメモ,9704,0,false,11_10_23 18:34,ボイスメモ
+never,none,145301,0,false,m10,album
+never,none,95155,0,true,110825_11,album
+never,ボイスメモ,816753,0,false,12_01_31 11:14,ボイスメモ
+never,none,257667,0,false,m8,album
+never,none,418229,0,false,m9,album
+never,none,321364,0,false,Legacy_of_Terror,album
+never,none,583691,0,false,m6,album
+never,none,179484,0,false,m7,album
+never,none,80000,0,false,Escaflowne_bass,album
+never,none,161773,0,false,2_Ma_rendipur_contento,album
+never,Soundtrack,925309,0,false,プレセア・コンバティール:笑顔の理由3,ドラマCD テイルズ オブ シンフォニア～a long time ago～ Vol.2
+never,Soundtrack,238419,0,false,リフィル・セイジ _ ジーニアス・セイジ:雨のあとさき5,ドラマCD テイルズ オブ シンフォニア～a long time ago～ Vol.2
+never,Soundtrack,119196,0,false,プレセア・コンバティール:笑顔の理由1,ドラマCD テイルズ オブ シンフォニア～a long time ago～ Vol.2
+2012-07-08 14:28:35,none,218425,1,false,1_Pie_Jesu,album
+2011-07-28 02:36:19,Classical,323552,1,false,Motet Os Justi Meditabur Sapientiam,Voces8-Folle Journée 2011
+2011-07-28 02:28:48,Classical,198608,1,false,Wir Glauben An Einen Gott Opus 138 N°8,Voces8-Folle Journée 2011
+2011-07-28 02:30:56,Classical,128130,1,false,Motet Locus Iste A Deo Factus Est Opus 92,Voces8-Folle Journée 2011
+2011-07-28 02:23:44,Classical,582191,1,false,Warum Ist Das Licht Gegeben Dem Mühseligen? Opus 74 N°1,Voces8-Folle Journée 2011
+2011-07-28 02:25:29,Classical,105404,1,false,Das Agnus Dei Opus 138 N°6,Voces8-Folle Journée 2011
+never,none,239040,0,false,3_20120501,album
+never,Soundtrack,352914,0,false,The Target,マクロスF O.S.T.1 娘フロ。
+2012-07-05 12:13:18,none,267189,1,false,Tama-Kyukoh set,The Camel
+never,none,246469,0,false,10_Think_of_me,album
+2012-11-26 10:36:04,Soundtrack,219480,4,false,Kaoru & Sentaro Duo in BUNKASAI,坂道のアポロン オリジナル・サウンドトラック
+never,Other,14066,0,false,道場・廊下の足音の動き1,効果音大全集35<人の足音のいろいろ>
+never,none,1630527,0,false,first,album
+never,none,2708494,0,false,second 1,album
+never,Other,13533,0,false,ハイヒールの歩き(女)1,効果音大全集35<人の足音のいろいろ>
+never,Other,32666,0,false,走る足音(男)単・複数6,効果音大全集35<人の足音のいろいろ>
+never,Other,90906,0,false,いろいろなタイプの歩く音(男)2,効果音大全集35<人の足音のいろいろ>
+never,Other,22626,0,false,走る足音(男)単・複数7,効果音大全集35<人の足音のいろいろ>
+2012-07-10 06:36:11,Soundtrack,94928,1,false,Run,坂道のアポロン オリジナル・サウンドトラック
+never,Soundtrack,347115,0,false,Ashes of Dreams _ Nouveau-FR Version,NieR Gestalt & NieR RepliCant Original Soundtrack [Disc 2]
+never,none,6098,0,false,1_demo_tyutyo,album
+never,Soundtrack,388780,0,false,Ashes of Dreams _ Aratanaru-JP Version,NieR Gestalt & NieR RepliCant Original Soundtrack [Disc 2]
+never,none,12800,0,false,1_demo_kotyou,album
+never,none,6314,0,false,1_demo_nonmon,album
+never,none,245392,0,false,Audio 7_01,album
+2011-12-15 16:09:08,none,12800,1,false,1_demo_amb,album
+2011-10-22 08:10:03,Pop,274782,1,false,Drivin' With You,Shake!!
+2011-10-22 07:59:55,Pop,318928,1,false,Kiminisasaguuta,Shake!!
+2011-10-22 08:05:28,Pop,332747,1,false,Bokutoohimesamatomahoutsukai,Shake!!
+2011-10-22 07:49:55,Pop,282305,1,false,Natsunoyoru,Shake!!
+2011-10-22 07:54:37,Pop,281965,1,false,Sing A Happy Song,Shake!!
+never,none,249660,0,false,Escaflowne_Dance_of_curse,album
+never,none,236495,0,false,Dragonborn_theme_Skyrin,album
+never,none,120166,0,false,Dragon_Bass,album
+never,none,527163,0,false,diveltiment,album
+never,none,104210,0,false,Meridian_Bass,album
+never,none,93440,0,false,54 Audio Track,6036 weather
+never,none,188498,0,false,12_Wishing_you_were_somehow_here_agein,album
+never,none,41226,0,false,89 Thunder,6040 Sounddesigner Alan Howarth
+2012-03-08 04:50:08,Traditional,227226,5,false,Camaronian-Greenfields Of Rossbeigh-Connaught Heifers,May Morning Dew
+2012-03-08 04:46:21,Traditional,178293,5,false,An Buachaill Dreoite,May Morning Dew
+never,none,189466,0,false,トラック 01,album
+never,none,208640,0,false,edit_1_kttk,album
+2012-11-28 09:33:27,Soundtrack,133694,1,false,喪失 _ Ver. 重奏,NieR Gestalt & NieR RepliCant Original Soundtrack [Disc 1]
+never,Soundtrack,353332,0,false,メルトキオの弔鐘,テイルズ・オブ・シンフォニア～A Long Time Ago～ Vol.3
+never,Soundtrack,294922,0,false,最終兵器,NieR Gestalt & NieR RepliCant Original Soundtrack [Disc 1]
+never,Soundtrack,277968,0,false,掟ニ囚ワレシ神,NieR Gestalt & NieR RepliCant Original Soundtrack [Disc 1]
+never,Soundtrack,159738,0,false,喪失 _ Ver. ピアノ,NieR Gestalt & NieR RepliCant Original Soundtrack [Disc 1]
+never,Soundtrack,140643,0,false,深紅ノ敵,NieR Gestalt & NieR RepliCant Original Soundtrack [Disc 1]
+2012-07-05 12:40:01,Soundtrack,231810,1,false,おかあさん,アニメージュ・ボーカル・コレクション
+2012-04-30 18:39:25,サウンドトラック,134452,1,false,Robot Waiting Room _2,Portal 2: Songs to Test By - Volume 3
+2012-07-05 12:36:10,Soundtrack,258246,1,false,となりのトトロ,アニメージュ・ボーカル・コレクション
+2012-07-05 12:31:51,Soundtrack,246622,1,false,風の谷のナウシカ,アニメージュ・ボーカル・コレクション
+2012-07-05 12:27:45,Soundtrack,199993,2,false,君をのせて,アニメージュ・ボーカル・コレクション
+2012-04-30 18:46:08,サウンドトラック,134478,1,false,Robot Waiting Room _5,Portal 2: Songs to Test By - Volume 3
+2012-04-30 19:30:07,サウンドトラック,126066,1,false,Robot Waiting Room _6,Portal 2: Songs to Test By - Volume 3
+2012-04-30 18:41:39,サウンドトラック,134452,1,false,Robot Waiting Room _3,Portal 2: Songs to Test By - Volume 3
+2012-04-30 18:43:53,サウンドトラック,134295,1,false,Robot Waiting Room _4,Portal 2: Songs to Test By - Volume 3
+never,Soundtrack,229459,0,false,まいご,アニメージュ・ボーカル・コレクション
+never,none,35293,0,false,61 オーディオトラック,album
+never,none,336364,0,false,dシュディスタb,album
+never,Soundtrack,674429,0,false,風の吹く丘,テイルズ・オブ・シンフォニア～A Long Time Ago～ Vol.3
+never,Soundtrack,186409,0,false,プレセア・コンバティール:笑顔の理由5,ドラマCD テイルズ オブ シンフォニア～a long time ago～ Vol.2
+never,Soundtrack,78680,0,false,ビッグ・ボーイズ,マクロスF O.S.T.1 娘フロ。
+never,none,260435,0,false,Get it on 〜光速クライmax,album
+never,Soundtrack,168097,0,false,Innocent green,マクロスF O.S.T.1 娘フロ。
+never,Soundtrack,286902,0,false,What 'bout my star? @Formo,マクロスF O.S.T.1 娘フロ。
+never,none,3138000,0,false,second 2,album
+2011-08-29 07:21:43,none,100217,1,true,110826_08,album
+never,Other,15133,0,false,ハイヒールの歩き(女)6,効果音大全集35<人の足音のいろいろ>
+never,Other,13373,0,false,ハイヒールの歩き(女)5,効果音大全集35<人の足音のいろいろ>
+never,Other,15026,0,false,ハイヒールの歩き(女)4,効果音大全集35<人の足音のいろいろ>
+never,none,167235,0,false,9_A_te_O_cara_amort'allora,album
+never,Other,65640,0,false,ハイヒールの歩き(女)3,効果音大全集35<人の足音のいろいろ>
+never,Other,27200,0,false,賭け寄り・駆け去りなどの動き10,効果音大全集35<人の足音のいろいろ>
+never,none,139760,0,false,dichterlibe_12,album
+2012-06-17 02:39:17,Pop,293276,3,false,No.1,Completely Recorded [Disc 1]
+never,Pop,264437,0,false,ら・ら・ら,LA. LA. LA
+2012-06-17 02:34:24,Pop,326452,3,false,彼女の恋人,Completely Recorded [Disc 1]
+2012-06-17 02:49:36,Pop,280163,3,false,雪に願いを,Completely Recorded [Disc 1]
+2012-06-17 02:44:56,Pop,338573,3,false,ズル休み,Completely Recorded [Disc 1]
+2012-07-10 06:32:58,Soundtrack,101015,1,false,Curandelo,坂道のアポロン オリジナル・サウンドトラック
+2012-06-17 02:54:19,Pop,282827,3,false,2つの願い,Completely Recorded [Disc 1]
+2012-07-10 06:34:36,Soundtrack,98716,1,false,Transparent,坂道のアポロン オリジナル・サウンドトラック
+never,Pop,308741,0,false,もう一度だけ・・・,LA. LA. LA
+never,none,97203,0,false,3_Das_Rosemband,album
+2012-07-22 18:24:51,Soundtrack,271203,3,false,But not for me,坂道のアポロン オリジナル・サウンドトラック
+never,Pop,246569,0,false,太陽をつかまえに行こう,LA. LA. LA
+never,none,87969,0,false,dichterlibe_9,album
+never,Other,45973,0,false,スニーカーの走り・歩き1,効果音大全集35<人の足音のいろいろ>
+never,Other,50800,0,false,下駄・雪駄・高下駄など6,効果音大全集35<人の足音のいろいろ>
+never,Other,15960,0,false,下駄・雪駄・高下駄など5,効果音大全集35<人の足音のいろいろ>
+never,Soundtrack,284316,0,false,想い出がかけぬけていく,アニメージュ・ボーカル・コレクション
+never,Other,16706,0,false,下駄・雪駄・高下駄など4,効果音大全集35<人の足音のいろいろ>
+never,none,133196,0,false,beteeven_4,album
+never,Other,69066,0,false,スニーカーの走り・歩き2,効果音大全集35<人の足音のいろいろ>
+2012-06-17 03:57:14,Pop,307617,3,false,雨ニモ負ケズ,Completely Recorded [Disc 2]
+2012-06-17 03:52:06,Pop,236303,3,false,Are You OK?,Completely Recorded [Disc 2]
+2012-06-17 03:48:10,Pop,294347,3,false,桃,Completely Recorded [Disc 2]
+2012-06-17 03:43:16,Pop,279666,3,false,Hungry Spider,Completely Recorded [Disc 2]
+never,none,282476,0,false,schubert_02,album
+2012-06-17 04:01:51,Pop,277551,3,false,花火の夜,Completely Recorded [Disc 2]
+never,none,117353,0,false,beteeven_5,album
+never,Other,135626,0,false,湧き水,効果音大全集36(水とその関連音)
+never,Other,71666,0,false,噴水,効果音大全集36(水とその関連音)
+never,Other,94893,0,false,水車のまわる音,効果音大全集36(水とその関連音)
+never,Other,74200,0,false,筧の水,効果音大全集36(水とその関連音)
+never,Other,134773,0,false,泉水の水,効果音大全集36(水とその関連音)
+2011-12-23 19:10:09,Other,16200,1,false,下駄・雪駄・高下駄など1,効果音大全集35<人の足音のいろいろ>
+2012-07-11 05:03:23,Soundtrack,163657,2,false,Milestones,坂道のアポロン オリジナル・サウンドトラック
+never,Other,82893,0,false,水中の泡 ブクブクブク,効果音大全集36(水とその関連音)
+never,Other,63706,0,false,水中の泡 ボコボコボコ,効果音大全集36(水とその関連音)
+never,Other,88160,0,false,水中の泡 合成音,効果音大全集36(水とその関連音)
+never,Other,46706,0,false,水中の泡 ゴボゴボゴボ,効果音大全集36(水とその関連音)
+never,Other,69666,0,false,潜水の泡,効果音大全集36(水とその関連音)
+never,none,148192,0,false,encore_4,album
+never,none,135549,0,false,encore_3,album
+never,none,146755,0,false,encore_2,album
+never,none,101511,0,false,encore_1,album
+never,none,264620,0,false,dichterlibe_16,album
+2012-07-11 05:00:39,Soundtrack,86804,2,false,float,坂道のアポロン オリジナル・サウンドトラック
+never,ボイスメモ,1768194,0,false,12_01_31 17:42,ボイスメモ
+2012-03-04 05:51:06,Traditional,156866,5,false,Stolen Apples,Otherworld
+2012-03-04 05:54:13,Traditional,186640,5,false,Taylor Bar_ 4am _ Ceol Na Mara,Otherworld
+2012-03-01 07:30:51,Traditional,141960,5,false,Micko Russell's-Moneymusk,May Morning Dew
+2012-03-01 07:34:36,Traditional,225693,5,false,An Róghaire Dubh-Connaughtman's Rambles-Cailleach An Airgid,May Morning Dew
+2012-03-01 07:36:56,Traditional,139213,5,false,The Strawberry Blossom-Honeymoon,May Morning Dew
+never,none,90331,0,false,schubert_03,album
+never,none,224768,0,false,4_20120501,album
+never,none,214645,0,false,beteeven_3,album
+2012-07-22 18:28:12,Soundtrack,201195,3,false,My Favorite Things,坂道のアポロン オリジナル・サウンドトラック
+never,R&B,294060,0,false,REMEMBER LADY　,ASCENSION [初回盤]
+2012-07-08 14:16:09,R&B,244062,1,false,FUTURE FUNK,ASCENSION [初回盤]
+never,R&B,248737,0,false,太陽がくれたプレゼント,ASCENSION [初回盤]
+never,R&B,227030,0,false,TYO,ASCENSION [初回盤]
+never,none,161358,0,false,schubert_05,album
+never,R&B,413831,0,false,Stay in my heart,ASCENSION [初回盤]
+2012-12-03 14:23:05,Soundtrack,117133,1,false,彼ノ夢,NieR Gestalt & NieR RepliCant Original Soundtrack [Disc 2]
+2012-12-03 14:25:01,Soundtrack,116271,1,false,此ノ夢,NieR Gestalt & NieR RepliCant Original Soundtrack [Disc 2]
+never,ボイスメモ,1633777,0,false,12_10_11 13:37,ボイスメモ
+2012-12-03 14:27:40,Soundtrack,159608,1,false,休息,NieR Gestalt & NieR RepliCant Original Soundtrack [Disc 2]
+never,none,165459,0,false,schubert_04,album
+2012-12-03 14:30:39,Soundtrack,178390,1,false,失ワレタ森,NieR Gestalt & NieR RepliCant Original Soundtrack [Disc 2]
+2012-12-03 14:35:56,Soundtrack,317335,1,false,イニシエノウタ _ 運命,NieR Gestalt & NieR RepliCant Original Soundtrack [Disc 2]
+never,none,817812,0,false,02,album
+never,none,260156,0,false,01,album
+never,none,30826,0,false,47. Rattlesnake_ Rattling_ Animal_ Reptile,album
+never,none,57293,0,false,20. Construction-Band Saw-Start_ Cut Metal_ Metal Falls_ Off,album
+never,サウンドトラック,110837,0,false,Some Assembly Required,Portal 2: Songs to Test By - Volume 3
+never,none,390243,0,false,takemitu,album
+2012-04-30 18:37:10,サウンドトラック,134269,1,false,Robot Waiting Room _1,Portal 2: Songs to Test By - Volume 3
+never,サウンドトラック,45766,0,false,Spaaaaace,Portal 2: Songs to Test By - Volume 3
+2012-06-16 05:26:15,Pop,298422,2,false,優しい歌が歌えない,Completely Recorded [Disc 2]
+never,サウンドトラック,92839,0,false,Space Phase,Portal 2: Songs to Test By - Volume 3
+2012-06-16 05:21:17,Pop,294295,2,false,Good Morning!,Completely Recorded [Disc 2]
+2012-06-16 05:16:22,Pop,289880,2,false,君の名前を呼んだ後に,Completely Recorded [Disc 2]
+never,サウンドトラック,153704,0,false,Cara Mia Addio,Portal 2: Songs to Test By - Volume 3
+2012-06-16 05:11:33,Pop,306677,2,false,Wow,Completely Recorded [Disc 2]
+2012-06-17 04:06:26,Pop,274991,3,false,これはただの例え話じゃない,Completely Recorded [Disc 2]
+never,none,246038,0,false,schubert_01,album
+never,none,366581,0,false,m12,album
+never,none,247459,0,false,m11,album
+2011-10-22 07:40:26,Pop,339017,2,false,Super Woman,Shake!!
+2011-10-01 16:53:36,none,68142,1,false,nikoG,album
+2011-10-22 07:45:12,Pop,286667,1,false,Funky Party,Shake!!
+never,none,264562,0,false,dichterlibe_16,album
+2012-12-09 05:35:32,Rock,300930,18,false,ビタースイート,雲をも掴む民
+2012-12-09 05:30:31,Rock,234135,21,false,ニセ彼女,雲をも掴む民
+never,ボイスメモ,24124,0,false,11_07_31 17:03,ボイスメモ
+2011-09-15 05:09:19,Rock,358922,1,false,Bohemian Rhapsody,Greatest Hits I
+2012-12-09 05:38:10,Rock,158563,17,false,夜はお静かに,雲をも掴む民
+never,ボイスメモ,1786,0,false,11_07_20 14:48,ボイスメモ
+never,ボイスメモ,34015,0,false,11_07_20 14:48,ボイスメモ
+2011-09-15 05:12:56,Rock,216920,1,false,Another One Bites The Dust,Greatest Hits I
+never,Soundtrack,248137,0,false,インフィニティ,マクロスF O.S.T.1 娘フロ。
+never,Soundtrack,357564,0,false,ダイアモンド クレバス,マクロスF O.S.T.1 娘フロ。
+2012-12-09 05:42:01,Rock,230556,29,false,敵はどこだ?,雲をも掴む民
+never,Other,15066,0,false,賭け寄り・駆け去りなどの動き7,効果音大全集35<人の足音のいろいろ>
+never,none,300927,0,false,夏いづつ_01,album
+never,Other,12160,0,false,賭け寄り・駆け去りなどの動き8,効果音大全集35<人の足音のいろいろ>
+never,Other,61866,0,false,いろいろなタイプの歩く音(男)4,効果音大全集35<人の足音のいろいろ>
+never,Other,44066,0,false,いろいろなタイプの歩く音(男)5,効果音大全集35<人の足音のいろいろ>
+never,Other,32533,0,false,賭け寄り・駆け去りなどの動き9,効果音大全集35<人の足音のいろいろ>
+2012-07-05 12:16:41,none,188490,1,false,Shokotan's Waltz,The Camel
+never,Soundtrack,224104,0,false,プレセア・コンバティール:笑顔の理由4,ドラマCD テイルズ オブ シンフォニア～a long time ago～ Vol.2
+never,none,4317624,0,false,TASCBM_0022,album
+2012-12-09 05:05:13,Rock,297848,25,false,Aokage,雲をも掴む民
+never,Other,27600,0,false,走る足音(男)単・複数5,効果音大全集35<人の足音のいろいろ>
+never,none,284741,0,false,pink monsoon,album
+never,Other,47293,0,false,兵隊の歩きなど1,効果音大全集35<人の足音のいろいろ>
+never,Other,48973,0,false,大勢の行進・歩き1,効果音大全集35<人の足音のいろいろ>
+never,Other,20760,0,false,賭け寄り・駆け去りなどの動き4,効果音大全集35<人の足音のいろいろ>
+never,Other,11906,0,false,賭け寄り・駆け去りなどの動き5,効果音大全集35<人の足音のいろいろ>
+2012-07-13 19:02:25,サウンドトラック,156055,3,false,Adrenal Vapor,Portal 2: Songs to Test By
+never,none,6098,0,false,1_2_demo_tyusyo,album
+never,none,12800,0,false,1_1_demo_amb,album
+never,Other,32333,0,false,水泳 飛び込み-泳ぎ,効果音大全集36(水とその関連音)
+never,none,12800,0,false,1_3_demo_kotyou,album
+never,Other,140226,0,false,水泳 クロール(ばた足がつく),効果音大全集36(水とその関連音)
+never,Soundtrack,278386,0,false,プレセア・コンバティール:笑顔の理由2,ドラマCD テイルズ オブ シンフォニア～a long time ago～ Vol.2
+2012-11-10 06:09:49,none,37337,1,false,Audio2_01,album
+never,Soundtrack,184084,0,false,イニシエノウタ _ ポポル,NieR Gestalt & NieR RepliCant Original Soundtrack [Disc 1]
+2012-03-08 04:39:54,Traditional,231373,4,false,Farewell To Miltown Malbay-West Clare Railway-Sporting Molly,May Morning Dew
+never,Soundtrack,146024,0,false,仮面ノ誉,NieR Gestalt & NieR RepliCant Original Soundtrack [Disc 1]
+2012-03-04 06:02:57,Traditional,229320,4,false,O'Carolan's Welcome _ Rolling In The Barrel,Otherworld
+2012-12-07 14:58:10,Soundtrack,288104,1,false,愚カシイ機械,NieR Gestalt & NieR RepliCant Original Soundtrack [Disc 1]
+2012-03-08 04:36:03,Traditional,238693,6,false,Johnny Cope,May Morning Dew
+never,Soundtrack,137795,0,false,売買ノ街,NieR Gestalt & NieR RepliCant Original Soundtrack [Disc 1]
+2012-03-04 05:59:07,Traditional,294440,4,false,Lafferty's _ Crock Of Gold _ Lady Birr _ Abbey Reel,Otherworld
+never,none,213391,0,false,doitu3,album
+never,none,481303,0,false,hukase,album
+never,Soundtrack,242546,0,false,流砂ノ神殿,NieR Gestalt & NieR RepliCant Original Soundtrack [Disc 1]
+2012-03-08 04:43:23,Traditional,208933,5,false,Humours Of Lisheen-Tom Billy's Fancy-Humours Of Kilkenny,May Morning Dew
+never,none,100706,0,false,トラック 03,album
+never,none,4632744,0,false,20121031_audition_1,album
+2011-09-15 06:01:47,Rock,180950,1,false,We Are The Champions,Greatest Hits I
+2011-09-15 05:53:53,Rock,168489,1,false,Flash,Greatest Hits I
+2011-09-15 05:51:05,Rock,213342,1,false,Play The Game,Greatest Hits I
+2011-09-15 05:58:47,Rock,122827,1,false,We Will Rock You,Greatest Hits I
+2011-09-15 05:56:44,Rock,170527,1,false,Seven Seas Of Rhye,Greatest Hits I
+2012-07-06 04:45:54,サウンドトラック,217025,1,false,The Courtesy Call,Portal 2: Songs to Test By
+never,Soundtrack,302471,0,false,What 'bout my star? (Sheryl On Stage),マクロスF O.S.T.1 娘フロ。
+never,Soundtrack,361874,0,false,射手座☆午後九時Don't be late (Sheryl On Stage),マクロスF O.S.T.1 娘フロ。
+never,none,47464,0,false,dichterlibe_5,album
+never,Soundtrack,167026,0,false,Vital Force,マクロスF O.S.T.1 娘フロ。
+never,Soundtrack,278622,0,false,トライアングラー,マクロスF O.S.T.1 娘フロ。
+2012-11-29 15:34:53,Soundtrack,184659,1,false,Zero Hour,マクロスF O.S.T.1 娘フロ。
+never,none,57495,0,false,dichterlibe_2,album
+never,none,89077,0,false,dichterlibe_1,album
+2012-07-22 18:19:38,Soundtrack,102687,3,false,Someday My Prince Will Come,坂道のアポロン オリジナル・サウンドトラック
+never,none,34586,0,false,dichterlibe_3,album
+never,none,339670,0,false,Měsíčku na nebi hlubokém,album
+never,none,333418,0,false,Temerari_sortite fuori di questo loco!～Come scoglio immoto resta,album
+2012-07-08 14:16:02,R&B,283715,1,false,Color of Life,ASCENSION [初回盤]
+never,none,169696,0,false,Du Ring an meinem Finger,album
+never,none,308096,0,false,Entlich allein!～Wie fremt und todt ist alles umher,album
+never,none,241975,0,false,requiem_1,album
+never,none,127738,0,false,Bremen_後半の仮トラック,album
+never,none,241975,0,false,requiem_1,album
+never,Other,45826,0,false,道場・廊下の足音の動き4,効果音大全集35<人の足音のいろいろ>
+never,Other,42493,0,false,雪・氷・雲の上の歩き5,効果音大全集35<人の足音のいろいろ>
+never,Other,48266,0,false,大勢の行進・歩き3,効果音大全集35<人の足音のいろいろ>
+2012-06-17 02:58:54,Pop,275173,3,false,SPY,Completely Recorded [Disc 1]
+2012-07-22 18:38:29,Soundtrack,99369,3,false,Four,坂道のアポロン オリジナル・サウンドトラック
+2012-06-17 03:03:19,Pop,265639,3,false,SECRET HEAVEN,Completely Recorded [Disc 1]
+2012-12-07 14:27:52,none,214516,4,false,halleluijah_110713,album
+2012-06-17 03:07:54,Pop,274416,3,false,COWBOY,Completely Recorded [Disc 1]
+2012-06-17 03:11:54,Pop,239751,2,false,どうしようもない僕に天使が降りてきた,Completely Recorded [Disc 1]
+2012-07-22 18:32:22,Soundtrack,88999,3,false,A Piece Of Blue,坂道のアポロン オリジナル・サウンドトラック
+2012-06-17 03:15:59,Pop,245524,2,false,まだ生きてるよ,Completely Recorded [Disc 1]
+2012-05-13 21:07:14,none,282708,2,false,Air_on_the_G_string_110713,album
+never,none,188490,0,false,2_20120501,album
+2012-07-22 18:36:50,Soundtrack,80613,3,false,Jazz For Button,坂道のアポロン オリジナル・サウンドトラック
+2012-07-22 18:35:29,Soundtrack,186775,3,false,Lullaby Of Birdland,坂道のアポロン オリジナル・サウンドトラック
+never,none,3128500,0,false,first 1,album
+2012-12-03 13:56:43,Soundtrack,161410,1,false,イニシエノウタ _ 虚ロナ夢,NieR Gestalt & NieR RepliCant Original Soundtrack [Disc 2]
+never,Soundtrack,318693,0,false,キリエ,テイルズ・オブ・シンフォニア～A Long Time Ago～ Vol.3
+never,Other,122426,0,false,がれきを歩く二人,効果音大全集35<人の足音のいろいろ>
+never,Other,59440,0,false,下駄・雪駄・高下駄など2,効果音大全集35<人の足音のいろいろ>
+never,Other,52666,0,false,賭け寄り・駆け去りなどの動き6,効果音大全集35<人の足音のいろいろ>
+never,Other,14306,0,false,走る足音(男)単・複数9,効果音大全集35<人の足音のいろいろ>
+never,none,513571,0,false,m1 1,album
+never,Other,65960,0,false,下駄・雪駄・高下駄など3,効果音大全集35<人の足音のいろいろ>
+never,none,9686,0,false,B_04,album
+never,none,13840,0,false,B_03,album
+never,none,89007,0,false,dichterlibe_1,album
+never,none,8544,0,false,B_02,album
+never,none,12991,0,false,B_01,album
+never,none,161285,0,false,schubert_05,album
+never,none,117785,0,false,schubert_06,album
+never,none,90266,0,false,schubert_03,album
+never,Soundtrack,109165,0,false,Take Off,マクロスF O.S.T.1 娘フロ。
+never,none,165404,0,false,schubert_04,album
+never,none,26935,0,false,C_1_01,album
+never,none,37133,0,false,トラック 05,album
+never,Soundtrack,460382,0,false,神子の劫火,テイルズ・オブ・シンフォニア～A Long Time Ago～ Vol.3
+never,none,614124,0,false,夜化粧_demo,album
+never,none,167164,0,false,9_A_te_O_cara_amort'allora,album
+never,Other,135826,0,false,ぬかるみを歩く2・3人,効果音大全集36(水とその関連音)
+never,Other,115133,0,false,よどみながら流れる水,効果音大全集36(水とその関連音)
+never,Other,125266,0,false,舟べりに当たる波,効果音大全集36(水とその関連音)
+never,Other,34906,0,false,河童の泳ぎ,効果音大全集36(水とその関連音)
+never,Other,63866,0,false,水滴,効果音大全集36(水とその関連音)
+never,none,248135,0,false,11_The_music_of_the_night,album
+never,Other,70600,0,false,海底の渦,効果音大全集36(水とその関連音)
+never,Other,186000,0,false,海鳴り,効果音大全集36(水とその関連音)
+never,Other,94706,0,false,鹿おどし,効果音大全集36(水とその関連音)
+never,Other,83826,0,false,風呂につかっている音,効果音大全集36(水とその関連音)
+never,Other,65773,0,false,鉄砲水激しく,効果音大全集36(水とその関連音)
+never,none,105220,0,false,Audio 3_01,album
+never,none,196678,0,false,13_Til_I_here_you_sing,album
+never,none,156473,0,false,dichterlibe_15,album
+never,none,71915,0,false,dichterlibe_11,album
+never,none,139833,0,false,dichterlibe_12,album
+never,none,149420,0,false,dichterlibe_13,album
+never,none,128313,0,false,dichterlibe_10,album
+never,none,84610,0,false,dichterlibe_14,album
+never,none,76968,0,false,from_A_to_B,album
+never,none,76917,0,false,from_A_to_B,album
+never,none,147997,0,false,from_B,album
+never,none,148056,0,false,from_B,album
+never,none,208704,0,false,edit_1_kttk,album
+2012-03-04 05:48:29,Traditional,290893,5,false,Autumn Child _ Heaton Chapel,Otherworld
+2012-03-04 05:39:30,Traditional,184346,6,false,The Miller Of Drohan,Otherworld
+2012-03-01 07:24:01,Traditional,205133,6,false,Caisleán An Óir-Her Golden Hair Hanging Down Her Back,May Morning Dew
+2012-03-01 07:28:29,Traditional,268000,7,false,May Morning Dew-Sporting Nell,May Morning Dew
+2012-03-04 05:43:39,Traditional,249026,5,false,Dr. Gilbert _ Devils Of Dublin _ Black Pat's,Otherworld
+never,Soundtrack,123898,0,false,Alto's Theme,マクロスF O.S.T.1 娘フロ。
+2012-11-29 03:13:55,none,150768,1,false,ikeziri_M8_voguide,album
+never,Pop,258194,0,false,Summer Breeze,LA. LA. LA
+never,Pop,318693,0,false,あなたがいればそれだけでよかった,LA. LA. LA
+never,Pop,292493,0,false,いちばん近くにいてね,LA. LA. LA
+never,Pop,313391,0,false,LOVIN' YOU,LA. LA. LA
+never,Pop,266448,0,false,FIRE,LA. LA. LA
+2012-12-03 14:02:53,Soundtrack,186540,1,false,カイネ _ 逃避,NieR Gestalt & NieR RepliCant Original Soundtrack [Disc 2]
+never,Soundtrack,62746,0,false,ニンジーン Loves you yeah!,マクロスF O.S.T.1 娘フロ。
+2012-12-03 13:59:46,Soundtrack,183092,1,false,カイネ _ 救済,NieR Gestalt & NieR RepliCant Original Soundtrack [Disc 2]
+never,Soundtrack,117159,0,false,ヨナ_ Ver. 弦 その2,NieR Gestalt & NieR RepliCant Original Soundtrack [Disc 1]
+2012-12-03 13:54:02,Soundtrack,182752,1,false,全テヲ破壊スル黒キ巨人,NieR Gestalt & NieR RepliCant Original Soundtrack [Disc 2]
+never,none,192104,0,false,しょこたんずわるつ,album
+never,none,300000,0,false,Mixdown - main_para 1,album
+2012-07-13 19:43:08,サウンドトラック,203232,1,false,The Part Where He Kills You,Portal 2: Songs to Test By - Volume 3
+never,none,475941,0,false,m5,album
+never,none,31904,0,false,110825_14,album
+never,サウンドトラック,348133,0,false,Bombs for Throwing at You,Portal 2: Songs to Test By - Volume 3
+never,none,134060,0,false,m3,album
+2012-07-13 19:45:33,サウンドトラック,144483,1,false,Omg_ What has He Done?,Portal 2: Songs to Test By - Volume 3
+never,none,419042,0,false,m4,album
+never,サウンドトラック,110419,0,false,Caroline Deleted,Portal 2: Songs to Test By - Volume 3
+never,none,351828,0,false,m1,album
+never,サウンドトラック,115356,0,false,Your Precious Moon,Portal 2: Songs to Test By - Volume 3
+never,none,329367,0,false,m2,album
+never,none,174393,0,false,beteeven_2,album
+never,none,101449,0,false,encore_1,album
+never,none,146680,0,false,encore_2,album
+never,none,214700,0,false,beteeven_3,album
+never,none,135489,0,false,encore_3,album
+never,none,67939,0,false,dichterlibe_8,album
+never,none,148120,0,false,encore_4,album
+never,none,331180,0,false,beteeven_1,album
+never,none,133250,0,false,beteeven_4,album
+2012-12-09 05:21:46,Rock,303647,22,false,パレット,雲をも掴む民
+never,Soundtrack,225201,0,false,Welcome To My FanClub's Night! (Sheryl On Stage),マクロスF O.S.T.1 娘フロ。
+2012-12-09 05:16:43,Rock,280267,23,false,ヴォイス,雲をも掴む民
+2012-12-09 05:12:03,Rock,245812,23,false,n.t.,雲をも掴む民
+2012-12-09 05:07:57,Rock,164257,25,false,クリスチーナ,雲をも掴む民
+never,none,294429,0,false,虹色クマクマ,album
+never,none,448957,0,false,娘々FinalAttackフロンティアグレイテストヒッツ,album
+never,none,305504,0,false,恋はドッグファイト,album
+2012-12-09 05:26:37,Rock,290716,22,false,幸せについて本気出して考えてみた (アルバムバージョン),雲をも掴む民
+never,Soundtrack,181133,0,false,Frontier 2059,マクロスF O.S.T.1 娘フロ。
+2012-07-08 14:21:53,none,224768,2,false,Natsu-Mikan set,The Camel
+never,Other,28600,0,false,走る足音(男)単・複数10,効果音大全集35<人の足音のいろいろ>
+2012-12-02 01:14:07,Soundtrack,122017,4,false,Chick's Diner,坂道のアポロン オリジナル・サウンドトラック
+2012-12-02 01:12:05,Soundtrack,149655,4,false,KIDS ON THE SLOPE,坂道のアポロン オリジナル・サウンドトラック
+never,Other,125426,0,false,雪・氷・雲の上の歩き3,効果音大全集35<人の足音のいろいろ>
+never,Other,41800,0,false,雪・氷・雲の上の歩き2,効果音大全集35<人の足音のいろいろ>
+never,Other,111773,0,false,兵隊の歩きなど6,効果音大全集35<人の足音のいろいろ>
+never,Other,124000,0,false,雪・氷・雲の上の歩き4,効果音大全集35<人の足音のいろいろ>
+never,none,73570,0,false,dichterlibe_7,album
+never,none,235933,0,false,17_All_I_ask_of_you,album
+never,none,251341,0,false,16_Love_never_dies,album
+never,Other,11506,0,false,賭け寄り・駆け去りなどの動き3,効果音大全集35<人の足音のいろいろ>
+never,none,165596,0,false,15_why_does_she_love_me,album
+never,none,285512,0,false,ホシキラ,album
+never,none,160107,0,false,14_Once_upon_another_time,album
+never,Other,9373,0,false,賭け寄り・駆け去りなどの動き2,効果音大全集35<人の足音のいろいろ>
+never,Other,38493,0,false,走る足音(男)単・複数4,効果音大全集35<人の足音のいろいろ>
+never,Other,34773,0,false,走る足音(男)単・複数3,効果音大全集35<人の足音のいろいろ>
+never,none,111110,0,false,dichterlibe_6,album
+never,Other,12893,0,false,西部劇男の靴音,効果音大全集35<人の足音のいろいろ>
+never,none,194749,0,false,ancore_Pie_jesu,album
+never,Soundtrack,216424,0,false,アイモ～鳥のひと,マクロスF O.S.T.1 娘フロ。
+never,Other,9706,0,false,飛び込み(ドボーン),効果音大全集36(水とその関連音)
+never,Other,32426,0,false,水泳 飛び込み・競泳,効果音大全集36(水とその関連音)
+never,Other,68800,0,false,水泳 ばた足泳ぎ,効果音大全集36(水とその関連音)
+never,Other,94973,0,false,水泳 バチャバチャ泳ぐ,効果音大全集36(水とその関連音)
+never,Other,64960,0,false,つぎつぎ飛び込みアップアップ,効果音大全集36(水とその関連音)
+never,none,100127,0,false,dichterlibe_4,album
+2012-07-05 12:20:40,none,239040,1,false,Onigi-Reel set,The Camel
+never,none,319103,0,false,m5 1,album
+2012-12-07 14:40:30,Soundtrack,281626,1,false,不完全ナ石,NieR Gestalt & NieR RepliCant Original Soundtrack [Disc 1]
+2012-12-07 14:43:10,Soundtrack,160391,1,false,青イ鳥,NieR Gestalt & NieR RepliCant Original Soundtrack [Disc 1]
+2012-12-07 14:46:37,Soundtrack,206315,1,false,心閉ザセシ鉄棺,NieR Gestalt & NieR RepliCant Original Soundtrack [Disc 1]
+2012-12-07 14:50:17,Soundtrack,220316,1,false,オバアチャン,NieR Gestalt & NieR RepliCant Original Soundtrack [Disc 1]
+never,none,459577,0,false,m2 1,album
+2012-12-07 14:53:22,Soundtrack,184816,1,false,イニシエノウタ _ デボル,NieR Gestalt & NieR RepliCant Original Soundtrack [Disc 1]
+never,none,349947,0,false,m3 1,album
+never,none,219575,0,false,m4_1,album
+never,none,249558,0,false,m4_2,album
+2012-03-01 07:16:24,Traditional,205240,5,false,Kerry Reel-Kerry Fling-Joe Banes,May Morning Dew
+2011-09-15 05:47:32,Rock,175934,1,false,Good Old-Fashioned Lover Boy,Greatest Hits I
+2012-04-30 19:41:52,Traditional,283826,6,false,The Floating Crowbar _ McGlinchey's _ The Almost Reel,Otherworld
+2012-07-11 04:30:34,Soundtrack,283480,3,false,Moanin',坂道のアポロン オリジナル・サウンドトラック
+2012-03-01 07:20:36,Traditional,251533,6,false,Bumper Squire Jones-An Seán Duine-O'Sullivan's March,May Morning Dew
+2012-03-04 05:29:19,Traditional,247133,5,false,The Butlers Of Glen Avenue _ Sliabh Russell _ Cathal McConnell's,Otherworld
+2011-09-15 05:32:39,Rock,228728,1,false,Save Me,Greatest Hits I
+2012-03-04 05:36:25,Traditional,271626,8,false,January Snows _ Laura Lynn Cunningham,Otherworld
+2011-09-15 05:35:23,Rock,163866,1,false,Crazy Little Thing Called Love,Greatest Hits I
+2011-09-15 05:40:21,Rock,297743,1,false,Somebody To Love,Greatest Hits I
+2011-09-15 05:44:36,Rock,255294,1,false,Now I'm Here,Greatest Hits I
+never,none,67996,0,false,dichterlibe_8,album
+never,none,88032,0,false,dichterlibe_9,album
+never,none,111177,0,false,dichterlibe_6,album
+never,none,73639,0,false,dichterlibe_7,album
+never,Other,45373,0,false,大勢の行進・歩き2,効果音大全集35<人の足音のいろいろ>
+never,none,128365,0,false,dichterlibe_10,album
+never,Soundtrack,23327,0,false,「超時空飯店 娘々」CMソング (Ranka Version),マクロスF O.S.T.1 娘フロ。
+never,Other,62400,0,false,鉄階段の上り,効果音大全集35<人の足音のいろいろ>
+2011-12-23 19:10:57,Other,11426,1,false,賭け寄り・駆け去りなどの動き11,効果音大全集35<人の足音のいろいろ>
+2011-07-28 02:45:15,Classical,89391,1,false,Lullaby,Voces8-Folle Journée 2011
+never,Other,59493,0,false,下駄・雪駄・高下駄など11,効果音大全集35<人の足音のいろいろ>
+never,Other,43106,0,false,下駄・雪駄・高下駄など12,効果音大全集35<人の足音のいろいろ>
+2012-07-13 18:49:19,サウンドトラック,297404,2,false,Love as a Construct,Portal 2: Songs to Test By
+2012-07-13 18:52:32,サウンドトラック,193227,2,false,I Saw a Deer Today,Portal 2: Songs to Test By
+2012-07-13 18:55:20,サウンドトラック,168071,2,false,Hard Sunshine,Portal 2: Songs to Test By
+never,Other,41973,0,false,ぬかるみを歩く,効果音大全集35<人の足音のいろいろ>
+2012-07-13 18:59:49,サウンドトラック,268669,2,false,I'm Different,Portal 2: Songs to Test By
+2011-07-28 02:43:45,Classical,244532,1,false,Motet Virga Jesse Floruit,Voces8-Folle Journée 2011
+never,none,262890,0,false,Deh vieni_non tardar,album
+never,none,275285,0,false,Gretchen am Spinnrade,album
+never,none,232536,0,false,starburst_katutaka_0619,album
+never,none,232466,0,false,starburst_katutaka_0619,album
+never,none,4317576,0,false,TASCBM_0022,album
+2011-07-28 02:39:41,Classical,201743,1,false,Wenn Ein Starker Gewappneter Opus 109 N°2,Voces8-Folle Journée 2011
+never,none,4632696,0,false,20121031_audition_1,album
+2012-10-02 08:49:55,none,130900,4,false,O mio babbino caro,album
+never,Soundtrack,125361,0,false,君をのせて,アニメージュ・ボーカル・コレクション
+2012-07-13 19:28:59,サウンドトラック,241554,2,false,Machiavellian Bach,Portal 2: Songs to Test By - Volume 3
+never,Soundtrack,204591,0,false,めぐる季節,アニメージュ・ボーカル・コレクション
+2012-07-13 19:24:58,サウンドトラック,248058,2,false,FrankenTurrets,Portal 2: Songs to Test By - Volume 3
+never,Soundtrack,208274,0,false,好きなのに!,アニメージュ・ボーカル・コレクション
+2012-07-13 19:39:45,サウンドトラック,374073,1,false,TEST,Portal 2: Songs to Test By - Volume 3
+never,Soundtrack,224261,0,false,あこがれのまち,アニメージュ・ボーカル・コレクション
+2012-07-13 19:33:31,サウンドトラック,272065,2,false,Excursion Funnel,Portal 2: Songs to Test By - Volume 3
+2012-07-06 04:52:06,サウンドトラック,170579,1,false,Overgrowth,Portal 2: Songs to Test By
+2012-07-06 04:49:16,サウンドトラック,201769,1,false,Technical Difficulties,Portal 2: Songs to Test By
+2012-07-02 23:04:45,Pop,285022,5,false,NG,Completely Recorded [Disc 1]
+2012-07-13 19:20:50,サウンドトラック,149211,2,false,Wheatley Science,Portal 2: Songs to Test By - Volume 3
+2012-07-06 04:56:12,サウンドトラック,246073,1,false,Ghost of Rattman,Portal 2: Songs to Test By
+2012-07-06 04:42:17,サウンドトラック,191346,1,false,9999999,Portal 2: Songs to Test By
+never,none,266499,0,false,1_20120501,album
+never,Other,78666,0,false,いろいろなタイプの歩く音(男)3,効果音大全集35<人の足音のいろいろ>
+2012-07-11 05:06:07,Soundtrack,164101,2,false,Apollon Blue,坂道のアポロン オリジナル・サウンドトラック
+never,Other,45706,0,false,ハイヒールの歩き(女)2,効果音大全集35<人の足音のいろいろ>
+never,Other,25800,0,false,兵隊の歩きなど3,効果音大全集35<人の足音のいろいろ>
+2012-07-06 04:36:49,サウンドトラック,153312,1,false,Science is Fun,Portal 2: Songs to Test By
+never,Other,10733,0,false,兵隊の歩きなど4,効果音大全集35<人の足音のいろいろ>
+never,Other,10226,0,false,兵隊の歩きなど5,効果音大全集35<人の足音のいろいろ>
+never,none,26160,0,false,C_1_02,album
+never,none,246099,0,false,schubert_01,album
+never,none,44210,0,false,C_1_03,album
+never,Soundtrack,156708,0,false,リフィル・セイジ _ ジーニアス・セイジ:雨のあとさき4,ドラマCD テイルズ オブ シンフォニア～a long time ago～ Vol.2
+never,none,10588,0,false,C_2,album
+never,none,228066,0,false,50 オーディオトラック,album
+never,none,15015,0,false,master_sentaku_20120331,album
+never,Soundtrack,129462,0,false,リフィル・セイジ _ ジーニアス・セイジ:雨のあとさき1,ドラマCD テイルズ オブ シンフォニア～a long time ago～ Vol.2
+never,Soundtrack,353828,0,false,プロローグ:物語の終わりは…,ドラマCD テイルズ オブ シンフォニア～a long time ago～ Vol.2
+never,Soundtrack,469603,0,false,リフィル・セイジ _ ジーニアス・セイジ:雨のあとさき3,ドラマCD テイルズ オブ シンフォニア～a long time ago～ Vol.2
+never,Soundtrack,272822,0,false,TALLY HO!,マクロスF O.S.T.1 娘フロ。
+never,Soundtrack,438334,0,false,リフィル・セイジ _ ジーニアス・セイジ:雨のあとさき2,ドラマCD テイルズ オブ シンフォニア～a long time ago～ Vol.2
+never,none,132224,0,false,stem_03,album
+2012-07-22 18:42:23,Soundtrack,125570,3,false,Easy Waltz,坂道のアポロン オリジナル・サウンドトラック
+never,Soundtrack,295784,0,false,魔王 -White-noteremix-,NieR Gestalt & NieR RepliCant Original Soundtrack [Disc 2]
+2011-07-28 02:14:02,Classical,350040,1,false,Wo Ist Ein So Herrlich Volk? Opus 109 N°3,Voces8-Folle Journée 2011
+never,Soundtrack,60943,0,false,SMS小隊の歌～あの娘はエイリアン,マクロスF O.S.T.1 娘フロ。
+2011-10-22 08:36:12,Classical,93570,3,false,Unsere Väter Hoffen Auf Dich Opus 109 N°1,Voces8-Folle Journée 2011
+never,none,206592,0,false,stem_01,album
+never,none,187820,0,true,katsutakauta,album
+never,none,3311528,0,true,charity_radio_110715,album
+never,none,1471632,0,true,requiem_110713,album
+never,none,431216,0,false,stem_02,album
+2012-07-06 04:57:49,サウンドトラック,96444,1,false,Haunted Panels,Portal 2: Songs to Test By
+2012-12-07 13:21:44,none,1471581,6,false,requiem_110713,album
+2012-12-06 21:20:13,none,252669,4,false,hurusato_110713,album
+never,none,214584,0,true,halleluijah_110713,album
+never,none,282768,0,true,Air_on_the_G_string_110713,album
+never,none,252720,0,true,hurusato_110713,album
+2012-07-08 09:18:43,none,54648,1,false,cmdemo,album

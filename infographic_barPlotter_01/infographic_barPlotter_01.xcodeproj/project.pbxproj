@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8D2D379416C046EB0093F645 /* ofxImgRotate.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D2D379216C046EB0093F645 /* ofxImgRotate.cpp */; };
 		8D3D39A4166A8B4A00F1A6CB /* ofxTrueTypeFontUC.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D3D39A2166A8B4A00F1A6CB /* ofxTrueTypeFontUC.cpp */; };
 		8DCD3C2C1664F2E300938E95 /* ofxCsv.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DCD3C1A1664F2E300938E95 /* ofxCsv.cpp */; };
 		8DCD3C2D1664F2E300938E95 /* CreEPS.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DCD3C1F1664F2E300938E95 /* CreEPS.cpp */; };
@@ -96,6 +97,8 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		8D2D379216C046EB0093F645 /* ofxImgRotate.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ofxImgRotate.cpp; sourceTree = "<group>"; };
+		8D2D379316C046EB0093F645 /* ofxImgRotate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ofxImgRotate.h; sourceTree = "<group>"; };
 		8D3D399F166A8B4A00F1A6CB /* install.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = install.xml; sourceTree = "<group>"; };
 		8D3D39A0166A8B4A00F1A6CB /* README */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README; sourceTree = "<group>"; };
 		8D3D39A2166A8B4A00F1A6CB /* ofxTrueTypeFontUC.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ofxTrueTypeFontUC.cpp; sourceTree = "<group>"; };
@@ -230,6 +233,15 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		8D2D379116C046EB0093F645 /* ofxImageRotate */ = {
+			isa = PBXGroup;
+			children = (
+				8D2D379216C046EB0093F645 /* ofxImgRotate.cpp */,
+				8D2D379316C046EB0093F645 /* ofxImgRotate.h */,
+			);
+			path = ofxImageRotate;
+			sourceTree = "<group>";
+		};
 		8D3D399E166A8B4A00F1A6CB /* ofxTrueTypeFontUC */ = {
 			isa = PBXGroup;
 			children = (
@@ -402,6 +414,7 @@
 		BB4B014C10F69532006C3DED /* addons */ = {
 			isa = PBXGroup;
 			children = (
+				8D2D379116C046EB0093F645 /* ofxImageRotate */,
 				8D3D399E166A8B4A00F1A6CB /* ofxTrueTypeFontUC */,
 				8DCD3CF11665261D00938E95 /* ofxControlPanel */,
 				8DCD3C8D1665236B00938E95 /* ofxXmlSettings */,
@@ -614,6 +627,7 @@
 				8DCD3D4A1665261D00938E95 /* simpleLogger.cpp in Sources */,
 				8D3D39A4166A8B4A00F1A6CB /* ofxTrueTypeFontUC.cpp in Sources */,
 				8DFD01801673D65300F38088 /* ofxTable.cpp in Sources */,
+				8D2D379416C046EB0093F645 /* ofxImgRotate.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

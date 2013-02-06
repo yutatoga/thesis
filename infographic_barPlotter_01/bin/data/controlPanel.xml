@@ -785,7 +785,7 @@
     <val_0>0.000000000</val_0>
 </mode>
 <timeUnit>
-    <val_0>0.000000000</val_0>
+    <val_0>1.000000000</val_0>
 </timeUnit>
 <topRange_>
     <val_0>7.000000000</val_0>
@@ -1048,3 +1048,9 @@
 <saturdayEnd_test>
     <val_0>167.000000000</val_0>
 </saturdayEnd_test>
+<showLarge>
+    <val_0>0.000000000</val_0>
+</showLarge>
+<weekOrHour>
+    <val_0>0.000000000</val_0>
+</weekOrHour>
