@@ -1049,8 +1049,893 @@
     <val_0>167.000000000</val_0>
 </saturdayEnd_test>
 <showLarge>
-    <val_0>0.000000000</val_0>
+    <val_0>1.000000000</val_0>
 </showLarge>
 <weekOrHour>
     <val_0>0.000000000</val_0>
 </weekOrHour>
+<showDetailLabel>
+    <val_0>0.000000000</val_0>
+</showDetailLabel>
+<sundayStart_被験者A>
+    <val_0>0.000000000</val_0>
+</sundayStart_被験者A>
+<mondayStart_被験者A>
+    <val_0>24.000000000</val_0>
+</mondayStart_被験者A>
+<tuesdayStart_被験者A>
+    <val_0>48.000000000</val_0>
+</tuesdayStart_被験者A>
+<wednesdayStart_被験者A>
+    <val_0>72.000000000</val_0>
+</wednesdayStart_被験者A>
+<thursdayStart_被験者A>
+    <val_0>96.000000000</val_0>
+</thursdayStart_被験者A>
+<fridayStart_被験者A>
+    <val_0>120.000000000</val_0>
+</fridayStart_被験者A>
+<saturdayStart_被験者A>
+    <val_0>144.000000000</val_0>
+</saturdayStart_被験者A>
+<sundayEnd_被験者A>
+    <val_0>23.000000000</val_0>
+</sundayEnd_被験者A>
+<mondayEnd_被験者A>
+    <val_0>47.000000000</val_0>
+</mondayEnd_被験者A>
+<tuesdayEnd_被験者A>
+    <val_0>71.000000000</val_0>
+</tuesdayEnd_被験者A>
+<wednesdayEnd_被験者A>
+    <val_0>95.000000000</val_0>
+</wednesdayEnd_被験者A>
+<thursdayEnd_被験者A>
+    <val_0>119.000000000</val_0>
+</thursdayEnd_被験者A>
+<fridayEnd_被験者A>
+    <val_0>143.000000000</val_0>
+</fridayEnd_被験者A>
+<saturdayEnd_被験者A>
+    <val_0>167.000000000</val_0>
+</saturdayEnd_被験者A>
+<sundayStart_被験者B>
+    <val_0>0.000000000</val_0>
+</sundayStart_被験者B>
+<mondayStart_被験者B>
+    <val_0>24.000000000</val_0>
+</mondayStart_被験者B>
+<tuesdayStart_被験者B>
+    <val_0>48.000000000</val_0>
+</tuesdayStart_被験者B>
+<wednesdayStart_被験者B>
+    <val_0>72.000000000</val_0>
+</wednesdayStart_被験者B>
+<thursdayStart_被験者B>
+    <val_0>96.000000000</val_0>
+</thursdayStart_被験者B>
+<fridayStart_被験者B>
+    <val_0>120.000000000</val_0>
+</fridayStart_被験者B>
+<saturdayStart_被験者B>
+    <val_0>144.000000000</val_0>
+</saturdayStart_被験者B>
+<sundayEnd_被験者B>
+    <val_0>23.000000000</val_0>
+</sundayEnd_被験者B>
+<mondayEnd_被験者B>
+    <val_0>47.000000000</val_0>
+</mondayEnd_被験者B>
+<tuesdayEnd_被験者B>
+    <val_0>71.000000000</val_0>
+</tuesdayEnd_被験者B>
+<wednesdayEnd_被験者B>
+    <val_0>95.000000000</val_0>
+</wednesdayEnd_被験者B>
+<thursdayEnd_被験者B>
+    <val_0>119.000000000</val_0>
+</thursdayEnd_被験者B>
+<fridayEnd_被験者B>
+    <val_0>143.000000000</val_0>
+</fridayEnd_被験者B>
+<saturdayEnd_被験者B>
+    <val_0>167.000000000</val_0>
+</saturdayEnd_被験者B>
+<sundayStart_被験者C>
+    <val_0>0.000000000</val_0>
+</sundayStart_被験者C>
+<mondayStart_被験者C>
+    <val_0>24.000000000</val_0>
+</mondayStart_被験者C>
+<tuesdayStart_被験者C>
+    <val_0>48.000000000</val_0>
+</tuesdayStart_被験者C>
+<wednesdayStart_被験者C>
+    <val_0>72.000000000</val_0>
+</wednesdayStart_被験者C>
+<thursdayStart_被験者C>
+    <val_0>96.000000000</val_0>
+</thursdayStart_被験者C>
+<fridayStart_被験者C>
+    <val_0>120.000000000</val_0>
+</fridayStart_被験者C>
+<saturdayStart_被験者C>
+    <val_0>144.000000000</val_0>
+</saturdayStart_被験者C>
+<sundayEnd_被験者C>
+    <val_0>23.000000000</val_0>
+</sundayEnd_被験者C>
+<mondayEnd_被験者C>
+    <val_0>47.000000000</val_0>
+</mondayEnd_被験者C>
+<tuesdayEnd_被験者C>
+    <val_0>71.000000000</val_0>
+</tuesdayEnd_被験者C>
+<wednesdayEnd_被験者C>
+    <val_0>95.000000000</val_0>
+</wednesdayEnd_被験者C>
+<thursdayEnd_被験者C>
+    <val_0>119.000000000</val_0>
+</thursdayEnd_被験者C>
+<fridayEnd_被験者C>
+    <val_0>143.000000000</val_0>
+</fridayEnd_被験者C>
+<saturdayEnd_被験者C>
+    <val_0>167.000000000</val_0>
+</saturdayEnd_被験者C>
+<sundayStart_被験者D>
+    <val_0>0.000000000</val_0>
+</sundayStart_被験者D>
+<mondayStart_被験者D>
+    <val_0>24.000000000</val_0>
+</mondayStart_被験者D>
+<tuesdayStart_被験者D>
+    <val_0>48.000000000</val_0>
+</tuesdayStart_被験者D>
+<wednesdayStart_被験者D>
+    <val_0>72.000000000</val_0>
+</wednesdayStart_被験者D>
+<thursdayStart_被験者D>
+    <val_0>96.000000000</val_0>
+</thursdayStart_被験者D>
+<fridayStart_被験者D>
+    <val_0>120.000000000</val_0>
+</fridayStart_被験者D>
+<saturdayStart_被験者D>
+    <val_0>144.000000000</val_0>
+</saturdayStart_被験者D>
+<sundayEnd_被験者D>
+    <val_0>23.000000000</val_0>
+</sundayEnd_被験者D>
+<mondayEnd_被験者D>
+    <val_0>47.000000000</val_0>
+</mondayEnd_被験者D>
+<tuesdayEnd_被験者D>
+    <val_0>71.000000000</val_0>
+</tuesdayEnd_被験者D>
+<wednesdayEnd_被験者D>
+    <val_0>95.000000000</val_0>
+</wednesdayEnd_被験者D>
+<thursdayEnd_被験者D>
+    <val_0>119.000000000</val_0>
+</thursdayEnd_被験者D>
+<fridayEnd_被験者D>
+    <val_0>143.000000000</val_0>
+</fridayEnd_被験者D>
+<saturdayEnd_被験者D>
+    <val_0>167.000000000</val_0>
+</saturdayEnd_被験者D>
+<sundayStart_被験者E>
+    <val_0>0.000000000</val_0>
+</sundayStart_被験者E>
+<mondayStart_被験者E>
+    <val_0>24.000000000</val_0>
+</mondayStart_被験者E>
+<tuesdayStart_被験者E>
+    <val_0>48.000000000</val_0>
+</tuesdayStart_被験者E>
+<wednesdayStart_被験者E>
+    <val_0>72.000000000</val_0>
+</wednesdayStart_被験者E>
+<thursdayStart_被験者E>
+    <val_0>96.000000000</val_0>
+</thursdayStart_被験者E>
+<fridayStart_被験者E>
+    <val_0>120.000000000</val_0>
+</fridayStart_被験者E>
+<saturdayStart_被験者E>
+    <val_0>144.000000000</val_0>
+</saturdayStart_被験者E>
+<sundayEnd_被験者E>
+    <val_0>23.000000000</val_0>
+</sundayEnd_被験者E>
+<mondayEnd_被験者E>
+    <val_0>47.000000000</val_0>
+</mondayEnd_被験者E>
+<tuesdayEnd_被験者E>
+    <val_0>71.000000000</val_0>
+</tuesdayEnd_被験者E>
+<wednesdayEnd_被験者E>
+    <val_0>95.000000000</val_0>
+</wednesdayEnd_被験者E>
+<thursdayEnd_被験者E>
+    <val_0>119.000000000</val_0>
+</thursdayEnd_被験者E>
+<fridayEnd_被験者E>
+    <val_0>143.000000000</val_0>
+</fridayEnd_被験者E>
+<saturdayEnd_被験者E>
+    <val_0>167.000000000</val_0>
+</saturdayEnd_被験者E>
+<sundayStart_被験者F>
+    <val_0>0.000000000</val_0>
+</sundayStart_被験者F>
+<mondayStart_被験者F>
+    <val_0>24.000000000</val_0>
+</mondayStart_被験者F>
+<tuesdayStart_被験者F>
+    <val_0>48.000000000</val_0>
+</tuesdayStart_被験者F>
+<wednesdayStart_被験者F>
+    <val_0>72.000000000</val_0>
+</wednesdayStart_被験者F>
+<thursdayStart_被験者F>
+    <val_0>96.000000000</val_0>
+</thursdayStart_被験者F>
+<fridayStart_被験者F>
+    <val_0>120.000000000</val_0>
+</fridayStart_被験者F>
+<saturdayStart_被験者F>
+    <val_0>144.000000000</val_0>
+</saturdayStart_被験者F>
+<sundayEnd_被験者F>
+    <val_0>23.000000000</val_0>
+</sundayEnd_被験者F>
+<mondayEnd_被験者F>
+    <val_0>47.000000000</val_0>
+</mondayEnd_被験者F>
+<tuesdayEnd_被験者F>
+    <val_0>71.000000000</val_0>
+</tuesdayEnd_被験者F>
+<wednesdayEnd_被験者F>
+    <val_0>95.000000000</val_0>
+</wednesdayEnd_被験者F>
+<thursdayEnd_被験者F>
+    <val_0>119.000000000</val_0>
+</thursdayEnd_被験者F>
+<fridayEnd_被験者F>
+    <val_0>143.000000000</val_0>
+</fridayEnd_被験者F>
+<saturdayEnd_被験者F>
+    <val_0>167.000000000</val_0>
+</saturdayEnd_被験者F>
+<sundayStart_被験者G>
+    <val_0>0.000000000</val_0>
+</sundayStart_被験者G>
+<mondayStart_被験者G>
+    <val_0>24.000000000</val_0>
+</mondayStart_被験者G>
+<tuesdayStart_被験者G>
+    <val_0>48.000000000</val_0>
+</tuesdayStart_被験者G>
+<wednesdayStart_被験者G>
+    <val_0>72.000000000</val_0>
+</wednesdayStart_被験者G>
+<thursdayStart_被験者G>
+    <val_0>96.000000000</val_0>
+</thursdayStart_被験者G>
+<fridayStart_被験者G>
+    <val_0>120.000000000</val_0>
+</fridayStart_被験者G>
+<saturdayStart_被験者G>
+    <val_0>144.000000000</val_0>
+</saturdayStart_被験者G>
+<sundayEnd_被験者G>
+    <val_0>23.000000000</val_0>
+</sundayEnd_被験者G>
+<mondayEnd_被験者G>
+    <val_0>47.000000000</val_0>
+</mondayEnd_被験者G>
+<tuesdayEnd_被験者G>
+    <val_0>71.000000000</val_0>
+</tuesdayEnd_被験者G>
+<wednesdayEnd_被験者G>
+    <val_0>95.000000000</val_0>
+</wednesdayEnd_被験者G>
+<thursdayEnd_被験者G>
+    <val_0>119.000000000</val_0>
+</thursdayEnd_被験者G>
+<fridayEnd_被験者G>
+    <val_0>143.000000000</val_0>
+</fridayEnd_被験者G>
+<saturdayEnd_被験者G>
+    <val_0>167.000000000</val_0>
+</saturdayEnd_被験者G>
+<sundayStart_被験者H>
+    <val_0>0.000000000</val_0>
+</sundayStart_被験者H>
+<mondayStart_被験者H>
+    <val_0>24.000000000</val_0>
+</mondayStart_被験者H>
+<tuesdayStart_被験者H>
+    <val_0>48.000000000</val_0>
+</tuesdayStart_被験者H>
+<wednesdayStart_被験者H>
+    <val_0>72.000000000</val_0>
+</wednesdayStart_被験者H>
+<thursdayStart_被験者H>
+    <val_0>96.000000000</val_0>
+</thursdayStart_被験者H>
+<fridayStart_被験者H>
+    <val_0>120.000000000</val_0>
+</fridayStart_被験者H>
+<saturdayStart_被験者H>
+    <val_0>144.000000000</val_0>
+</saturdayStart_被験者H>
+<sundayEnd_被験者H>
+    <val_0>23.000000000</val_0>
+</sundayEnd_被験者H>
+<mondayEnd_被験者H>
+    <val_0>47.000000000</val_0>
+</mondayEnd_被験者H>
+<tuesdayEnd_被験者H>
+    <val_0>71.000000000</val_0>
+</tuesdayEnd_被験者H>
+<wednesdayEnd_被験者H>
+    <val_0>95.000000000</val_0>
+</wednesdayEnd_被験者H>
+<thursdayEnd_被験者H>
+    <val_0>119.000000000</val_0>
+</thursdayEnd_被験者H>
+<fridayEnd_被験者H>
+    <val_0>143.000000000</val_0>
+</fridayEnd_被験者H>
+<saturdayEnd_被験者H>
+    <val_0>167.000000000</val_0>
+</saturdayEnd_被験者H>
+<sundayStart_被験者I>
+    <val_0>0.000000000</val_0>
+</sundayStart_被験者I>
+<mondayStart_被験者I>
+    <val_0>24.000000000</val_0>
+</mondayStart_被験者I>
+<tuesdayStart_被験者I>
+    <val_0>48.000000000</val_0>
+</tuesdayStart_被験者I>
+<wednesdayStart_被験者I>
+    <val_0>72.000000000</val_0>
+</wednesdayStart_被験者I>
+<thursdayStart_被験者I>
+    <val_0>96.000000000</val_0>
+</thursdayStart_被験者I>
+<fridayStart_被験者I>
+    <val_0>120.000000000</val_0>
+</fridayStart_被験者I>
+<saturdayStart_被験者I>
+    <val_0>144.000000000</val_0>
+</saturdayStart_被験者I>
+<sundayEnd_被験者I>
+    <val_0>23.000000000</val_0>
+</sundayEnd_被験者I>
+<mondayEnd_被験者I>
+    <val_0>47.000000000</val_0>
+</mondayEnd_被験者I>
+<tuesdayEnd_被験者I>
+    <val_0>71.000000000</val_0>
+</tuesdayEnd_被験者I>
+<wednesdayEnd_被験者I>
+    <val_0>95.000000000</val_0>
+</wednesdayEnd_被験者I>
+<thursdayEnd_被験者I>
+    <val_0>119.000000000</val_0>
+</thursdayEnd_被験者I>
+<fridayEnd_被験者I>
+    <val_0>143.000000000</val_0>
+</fridayEnd_被験者I>
+<saturdayEnd_被験者I>
+    <val_0>167.000000000</val_0>
+</saturdayEnd_被験者I>
+<sundayStart_被験者J>
+    <val_0>0.000000000</val_0>
+</sundayStart_被験者J>
+<mondayStart_被験者J>
+    <val_0>24.000000000</val_0>
+</mondayStart_被験者J>
+<tuesdayStart_被験者J>
+    <val_0>48.000000000</val_0>
+</tuesdayStart_被験者J>
+<wednesdayStart_被験者J>
+    <val_0>72.000000000</val_0>
+</wednesdayStart_被験者J>
+<thursdayStart_被験者J>
+    <val_0>96.000000000</val_0>
+</thursdayStart_被験者J>
+<fridayStart_被験者J>
+    <val_0>120.000000000</val_0>
+</fridayStart_被験者J>
+<saturdayStart_被験者J>
+    <val_0>144.000000000</val_0>
+</saturdayStart_被験者J>
+<sundayEnd_被験者J>
+    <val_0>23.000000000</val_0>
+</sundayEnd_被験者J>
+<mondayEnd_被験者J>
+    <val_0>47.000000000</val_0>
+</mondayEnd_被験者J>
+<tuesdayEnd_被験者J>
+    <val_0>71.000000000</val_0>
+</tuesdayEnd_被験者J>
+<wednesdayEnd_被験者J>
+    <val_0>95.000000000</val_0>
+</wednesdayEnd_被験者J>
+<thursdayEnd_被験者J>
+    <val_0>119.000000000</val_0>
+</thursdayEnd_被験者J>
+<fridayEnd_被験者J>
+    <val_0>143.000000000</val_0>
+</fridayEnd_被験者J>
+<saturdayEnd_被験者J>
+    <val_0>167.000000000</val_0>
+</saturdayEnd_被験者J>
+<sundayStart_被験者K>
+    <val_0>0.000000000</val_0>
+</sundayStart_被験者K>
+<mondayStart_被験者K>
+    <val_0>24.000000000</val_0>
+</mondayStart_被験者K>
+<tuesdayStart_被験者K>
+    <val_0>48.000000000</val_0>
+</tuesdayStart_被験者K>
+<wednesdayStart_被験者K>
+    <val_0>72.000000000</val_0>
+</wednesdayStart_被験者K>
+<thursdayStart_被験者K>
+    <val_0>96.000000000</val_0>
+</thursdayStart_被験者K>
+<fridayStart_被験者K>
+    <val_0>120.000000000</val_0>
+</fridayStart_被験者K>
+<saturdayStart_被験者K>
+    <val_0>144.000000000</val_0>
+</saturdayStart_被験者K>
+<sundayEnd_被験者K>
+    <val_0>23.000000000</val_0>
+</sundayEnd_被験者K>
+<mondayEnd_被験者K>
+    <val_0>47.000000000</val_0>
+</mondayEnd_被験者K>
+<tuesdayEnd_被験者K>
+    <val_0>71.000000000</val_0>
+</tuesdayEnd_被験者K>
+<wednesdayEnd_被験者K>
+    <val_0>95.000000000</val_0>
+</wednesdayEnd_被験者K>
+<thursdayEnd_被験者K>
+    <val_0>119.000000000</val_0>
+</thursdayEnd_被験者K>
+<fridayEnd_被験者K>
+    <val_0>143.000000000</val_0>
+</fridayEnd_被験者K>
+<saturdayEnd_被験者K>
+    <val_0>167.000000000</val_0>
+</saturdayEnd_被験者K>
+<sundayStart_被験者L>
+    <val_0>0.000000000</val_0>
+</sundayStart_被験者L>
+<mondayStart_被験者L>
+    <val_0>24.000000000</val_0>
+</mondayStart_被験者L>
+<tuesdayStart_被験者L>
+    <val_0>48.000000000</val_0>
+</tuesdayStart_被験者L>
+<wednesdayStart_被験者L>
+    <val_0>72.000000000</val_0>
+</wednesdayStart_被験者L>
+<thursdayStart_被験者L>
+    <val_0>96.000000000</val_0>
+</thursdayStart_被験者L>
+<fridayStart_被験者L>
+    <val_0>120.000000000</val_0>
+</fridayStart_被験者L>
+<saturdayStart_被験者L>
+    <val_0>144.000000000</val_0>
+</saturdayStart_被験者L>
+<sundayEnd_被験者L>
+    <val_0>23.000000000</val_0>
+</sundayEnd_被験者L>
+<mondayEnd_被験者L>
+    <val_0>47.000000000</val_0>
+</mondayEnd_被験者L>
+<tuesdayEnd_被験者L>
+    <val_0>71.000000000</val_0>
+</tuesdayEnd_被験者L>
+<wednesdayEnd_被験者L>
+    <val_0>95.000000000</val_0>
+</wednesdayEnd_被験者L>
+<thursdayEnd_被験者L>
+    <val_0>119.000000000</val_0>
+</thursdayEnd_被験者L>
+<fridayEnd_被験者L>
+    <val_0>143.000000000</val_0>
+</fridayEnd_被験者L>
+<saturdayEnd_被験者L>
+    <val_0>167.000000000</val_0>
+</saturdayEnd_被験者L>
+<sundayStart_被験者M>
+    <val_0>0.000000000</val_0>
+</sundayStart_被験者M>
+<mondayStart_被験者M>
+    <val_0>24.000000000</val_0>
+</mondayStart_被験者M>
+<tuesdayStart_被験者M>
+    <val_0>48.000000000</val_0>
+</tuesdayStart_被験者M>
+<wednesdayStart_被験者M>
+    <val_0>72.000000000</val_0>
+</wednesdayStart_被験者M>
+<thursdayStart_被験者M>
+    <val_0>96.000000000</val_0>
+</thursdayStart_被験者M>
+<fridayStart_被験者M>
+    <val_0>120.000000000</val_0>
+</fridayStart_被験者M>
+<saturdayStart_被験者M>
+    <val_0>144.000000000</val_0>
+</saturdayStart_被験者M>
+<sundayEnd_被験者M>
+    <val_0>23.000000000</val_0>
+</sundayEnd_被験者M>
+<mondayEnd_被験者M>
+    <val_0>47.000000000</val_0>
+</mondayEnd_被験者M>
+<tuesdayEnd_被験者M>
+    <val_0>71.000000000</val_0>
+</tuesdayEnd_被験者M>
+<wednesdayEnd_被験者M>
+    <val_0>95.000000000</val_0>
+</wednesdayEnd_被験者M>
+<thursdayEnd_被験者M>
+    <val_0>119.000000000</val_0>
+</thursdayEnd_被験者M>
+<fridayEnd_被験者M>
+    <val_0>143.000000000</val_0>
+</fridayEnd_被験者M>
+<saturdayEnd_被験者M>
+    <val_0>167.000000000</val_0>
+</saturdayEnd_被験者M>
+<sundayStart_被験者N>
+    <val_0>0.000000000</val_0>
+</sundayStart_被験者N>
+<mondayStart_被験者N>
+    <val_0>24.000000000</val_0>
+</mondayStart_被験者N>
+<tuesdayStart_被験者N>
+    <val_0>48.000000000</val_0>
+</tuesdayStart_被験者N>
+<wednesdayStart_被験者N>
+    <val_0>72.000000000</val_0>
+</wednesdayStart_被験者N>
+<thursdayStart_被験者N>
+    <val_0>96.000000000</val_0>
+</thursdayStart_被験者N>
+<fridayStart_被験者N>
+    <val_0>120.000000000</val_0>
+</fridayStart_被験者N>
+<saturdayStart_被験者N>
+    <val_0>144.000000000</val_0>
+</saturdayStart_被験者N>
+<sundayEnd_被験者N>
+    <val_0>23.000000000</val_0>
+</sundayEnd_被験者N>
+<mondayEnd_被験者N>
+    <val_0>47.000000000</val_0>
+</mondayEnd_被験者N>
+<tuesdayEnd_被験者N>
+    <val_0>71.000000000</val_0>
+</tuesdayEnd_被験者N>
+<wednesdayEnd_被験者N>
+    <val_0>95.000000000</val_0>
+</wednesdayEnd_被験者N>
+<thursdayEnd_被験者N>
+    <val_0>119.000000000</val_0>
+</thursdayEnd_被験者N>
+<fridayEnd_被験者N>
+    <val_0>143.000000000</val_0>
+</fridayEnd_被験者N>
+<saturdayEnd_被験者N>
+    <val_0>167.000000000</val_0>
+</saturdayEnd_被験者N>
+<sundayStart_被験者O>
+    <val_0>0.000000000</val_0>
+</sundayStart_被験者O>
+<mondayStart_被験者O>
+    <val_0>24.000000000</val_0>
+</mondayStart_被験者O>
+<tuesdayStart_被験者O>
+    <val_0>48.000000000</val_0>
+</tuesdayStart_被験者O>
+<wednesdayStart_被験者O>
+    <val_0>72.000000000</val_0>
+</wednesdayStart_被験者O>
+<thursdayStart_被験者O>
+    <val_0>96.000000000</val_0>
+</thursdayStart_被験者O>
+<fridayStart_被験者O>
+    <val_0>120.000000000</val_0>
+</fridayStart_被験者O>
+<saturdayStart_被験者O>
+    <val_0>144.000000000</val_0>
+</saturdayStart_被験者O>
+<sundayEnd_被験者O>
+    <val_0>23.000000000</val_0>
+</sundayEnd_被験者O>
+<mondayEnd_被験者O>
+    <val_0>47.000000000</val_0>
+</mondayEnd_被験者O>
+<tuesdayEnd_被験者O>
+    <val_0>71.000000000</val_0>
+</tuesdayEnd_被験者O>
+<wednesdayEnd_被験者O>
+    <val_0>95.000000000</val_0>
+</wednesdayEnd_被験者O>
+<thursdayEnd_被験者O>
+    <val_0>119.000000000</val_0>
+</thursdayEnd_被験者O>
+<fridayEnd_被験者O>
+    <val_0>143.000000000</val_0>
+</fridayEnd_被験者O>
+<saturdayEnd_被験者O>
+    <val_0>167.000000000</val_0>
+</saturdayEnd_被験者O>
+<sundayStart_被験者P>
+    <val_0>0.000000000</val_0>
+</sundayStart_被験者P>
+<mondayStart_被験者P>
+    <val_0>24.000000000</val_0>
+</mondayStart_被験者P>
+<tuesdayStart_被験者P>
+    <val_0>48.000000000</val_0>
+</tuesdayStart_被験者P>
+<wednesdayStart_被験者P>
+    <val_0>72.000000000</val_0>
+</wednesdayStart_被験者P>
+<thursdayStart_被験者P>
+    <val_0>96.000000000</val_0>
+</thursdayStart_被験者P>
+<fridayStart_被験者P>
+    <val_0>120.000000000</val_0>
+</fridayStart_被験者P>
+<saturdayStart_被験者P>
+    <val_0>144.000000000</val_0>
+</saturdayStart_被験者P>
+<sundayEnd_被験者P>
+    <val_0>23.000000000</val_0>
+</sundayEnd_被験者P>
+<mondayEnd_被験者P>
+    <val_0>47.000000000</val_0>
+</mondayEnd_被験者P>
+<tuesdayEnd_被験者P>
+    <val_0>71.000000000</val_0>
+</tuesdayEnd_被験者P>
+<wednesdayEnd_被験者P>
+    <val_0>95.000000000</val_0>
+</wednesdayEnd_被験者P>
+<thursdayEnd_被験者P>
+    <val_0>119.000000000</val_0>
+</thursdayEnd_被験者P>
+<fridayEnd_被験者P>
+    <val_0>143.000000000</val_0>
+</fridayEnd_被験者P>
+<saturdayEnd_被験者P>
+    <val_0>167.000000000</val_0>
+</saturdayEnd_被験者P>
+<sundayStart_被験者Q>
+    <val_0>0.000000000</val_0>
+</sundayStart_被験者Q>
+<mondayStart_被験者Q>
+    <val_0>24.000000000</val_0>
+</mondayStart_被験者Q>
+<tuesdayStart_被験者Q>
+    <val_0>48.000000000</val_0>
+</tuesdayStart_被験者Q>
+<wednesdayStart_被験者Q>
+    <val_0>72.000000000</val_0>
+</wednesdayStart_被験者Q>
+<thursdayStart_被験者Q>
+    <val_0>96.000000000</val_0>
+</thursdayStart_被験者Q>
+<fridayStart_被験者Q>
+    <val_0>120.000000000</val_0>
+</fridayStart_被験者Q>
+<saturdayStart_被験者Q>
+    <val_0>144.000000000</val_0>
+</saturdayStart_被験者Q>
+<sundayEnd_被験者Q>
+    <val_0>23.000000000</val_0>
+</sundayEnd_被験者Q>
+<mondayEnd_被験者Q>
+    <val_0>47.000000000</val_0>
+</mondayEnd_被験者Q>
+<tuesdayEnd_被験者Q>
+    <val_0>71.000000000</val_0>
+</tuesdayEnd_被験者Q>
+<wednesdayEnd_被験者Q>
+    <val_0>95.000000000</val_0>
+</wednesdayEnd_被験者Q>
+<thursdayEnd_被験者Q>
+    <val_0>119.000000000</val_0>
+</thursdayEnd_被験者Q>
+<fridayEnd_被験者Q>
+    <val_0>143.000000000</val_0>
+</fridayEnd_被験者Q>
+<saturdayEnd_被験者Q>
+    <val_0>167.000000000</val_0>
+</saturdayEnd_被験者Q>
+<sundayStart_被験者R>
+    <val_0>0.000000000</val_0>
+</sundayStart_被験者R>
+<mondayStart_被験者R>
+    <val_0>24.000000000</val_0>
+</mondayStart_被験者R>
+<tuesdayStart_被験者R>
+    <val_0>48.000000000</val_0>
+</tuesdayStart_被験者R>
+<wednesdayStart_被験者R>
+    <val_0>72.000000000</val_0>
+</wednesdayStart_被験者R>
+<thursdayStart_被験者R>
+    <val_0>96.000000000</val_0>
+</thursdayStart_被験者R>
+<fridayStart_被験者R>
+    <val_0>120.000000000</val_0>
+</fridayStart_被験者R>
+<saturdayStart_被験者R>
+    <val_0>144.000000000</val_0>
+</saturdayStart_被験者R>
+<sundayEnd_被験者R>
+    <val_0>23.000000000</val_0>
+</sundayEnd_被験者R>
+<mondayEnd_被験者R>
+    <val_0>47.000000000</val_0>
+</mondayEnd_被験者R>
+<tuesdayEnd_被験者R>
+    <val_0>71.000000000</val_0>
+</tuesdayEnd_被験者R>
+<wednesdayEnd_被験者R>
+    <val_0>95.000000000</val_0>
+</wednesdayEnd_被験者R>
+<thursdayEnd_被験者R>
+    <val_0>119.000000000</val_0>
+</thursdayEnd_被験者R>
+<fridayEnd_被験者R>
+    <val_0>143.000000000</val_0>
+</fridayEnd_被験者R>
+<saturdayEnd_被験者R>
+    <val_0>167.000000000</val_0>
+</saturdayEnd_被験者R>
+<sundayStart_被験者S>
+    <val_0>0.000000000</val_0>
+</sundayStart_被験者S>
+<mondayStart_被験者S>
+    <val_0>24.000000000</val_0>
+</mondayStart_被験者S>
+<tuesdayStart_被験者S>
+    <val_0>48.000000000</val_0>
+</tuesdayStart_被験者S>
+<wednesdayStart_被験者S>
+    <val_0>72.000000000</val_0>
+</wednesdayStart_被験者S>
+<thursdayStart_被験者S>
+    <val_0>96.000000000</val_0>
+</thursdayStart_被験者S>
+<fridayStart_被験者S>
+    <val_0>120.000000000</val_0>
+</fridayStart_被験者S>
+<saturdayStart_被験者S>
+    <val_0>144.000000000</val_0>
+</saturdayStart_被験者S>
+<sundayEnd_被験者S>
+    <val_0>23.000000000</val_0>
+</sundayEnd_被験者S>
+<mondayEnd_被験者S>
+    <val_0>47.000000000</val_0>
+</mondayEnd_被験者S>
+<tuesdayEnd_被験者S>
+    <val_0>71.000000000</val_0>
+</tuesdayEnd_被験者S>
+<wednesdayEnd_被験者S>
+    <val_0>95.000000000</val_0>
+</wednesdayEnd_被験者S>
+<thursdayEnd_被験者S>
+    <val_0>119.000000000</val_0>
+</thursdayEnd_被験者S>
+<fridayEnd_被験者S>
+    <val_0>143.000000000</val_0>
+</fridayEnd_被験者S>
+<saturdayEnd_被験者S>
+    <val_0>167.000000000</val_0>
+</saturdayEnd_被験者S>
+<sundayStart_被験者T>
+    <val_0>0.000000000</val_0>
+</sundayStart_被験者T>
+<mondayStart_被験者T>
+    <val_0>24.000000000</val_0>
+</mondayStart_被験者T>
+<tuesdayStart_被験者T>
+    <val_0>48.000000000</val_0>
+</tuesdayStart_被験者T>
+<wednesdayStart_被験者T>
+    <val_0>72.000000000</val_0>
+</wednesdayStart_被験者T>
+<thursdayStart_被験者T>
+    <val_0>96.000000000</val_0>
+</thursdayStart_被験者T>
+<fridayStart_被験者T>
+    <val_0>120.000000000</val_0>
+</fridayStart_被験者T>
+<saturdayStart_被験者T>
+    <val_0>144.000000000</val_0>
+</saturdayStart_被験者T>
+<sundayEnd_被験者T>
+    <val_0>23.000000000</val_0>
+</sundayEnd_被験者T>
+<mondayEnd_被験者T>
+    <val_0>47.000000000</val_0>
+</mondayEnd_被験者T>
+<tuesdayEnd_被験者T>
+    <val_0>71.000000000</val_0>
+</tuesdayEnd_被験者T>
+<wednesdayEnd_被験者T>
+    <val_0>95.000000000</val_0>
+</wednesdayEnd_被験者T>
+<thursdayEnd_被験者T>
+    <val_0>119.000000000</val_0>
+</thursdayEnd_被験者T>
+<fridayEnd_被験者T>
+    <val_0>143.000000000</val_0>
+</fridayEnd_被験者T>
+<saturdayEnd_被験者T>
+    <val_0>167.000000000</val_0>
+</saturdayEnd_被験者T>
+<sundayStart_被験者U>
+    <val_0>0.000000000</val_0>
+</sundayStart_被験者U>
+<mondayStart_被験者U>
+    <val_0>24.000000000</val_0>
+</mondayStart_被験者U>
+<tuesdayStart_被験者U>
+    <val_0>48.000000000</val_0>
+</tuesdayStart_被験者U>
+<wednesdayStart_被験者U>
+    <val_0>72.000000000</val_0>
+</wednesdayStart_被験者U>
+<thursdayStart_被験者U>
+    <val_0>96.000000000</val_0>
+</thursdayStart_被験者U>
+<fridayStart_被験者U>
+    <val_0>120.000000000</val_0>
+</fridayStart_被験者U>
+<saturdayStart_被験者U>
+    <val_0>144.000000000</val_0>
+</saturdayStart_被験者U>
+<sundayEnd_被験者U>
+    <val_0>23.000000000</val_0>
+</sundayEnd_被験者U>
+<mondayEnd_被験者U>
+    <val_0>47.000000000</val_0>
+</mondayEnd_被験者U>
+<tuesdayEnd_被験者U>
+    <val_0>71.000000000</val_0>
+</tuesdayEnd_被験者U>
+<wednesdayEnd_被験者U>
+    <val_0>95.000000000</val_0>
+</wednesdayEnd_被験者U>
+<thursdayEnd_被験者U>
+    <val_0>119.000000000</val_0>
+</thursdayEnd_被験者U>
+<fridayEnd_被験者U>
+    <val_0>143.000000000</val_0>
+</fridayEnd_被験者U>
+<saturdayEnd_被験者U>
+    <val_0>167.000000000</val_0>
+</saturdayEnd_被験者U>

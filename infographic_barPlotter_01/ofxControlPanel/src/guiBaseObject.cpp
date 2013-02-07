@@ -51,7 +51,7 @@ void guiBaseObject::setXmlName(string _xmlName){
 }
 
 //--------------------------------------------
-void guiBaseObject::setFont(ofTrueTypeFont * fontPtr){
+void guiBaseObject::setFont(ofxTrueTypeFontUC * fontPtr){
 	displayText.setFont(fontPtr);
 }
 

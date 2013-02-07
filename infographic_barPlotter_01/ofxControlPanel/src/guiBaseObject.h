@@ -5,6 +5,7 @@
 #include "guiValue.h"
 #include "guiTextBase.h"
 #include "guiCallback.h"
+#include "ofxTrueTypeFontUC.h"
 
 typedef enum{
 SG_STATE_NORMAL,
@@ -30,7 +31,7 @@ class guiBaseObject{
         virtual void setXmlName(string _xmlName);
 
         //--------------------------------------------
-        virtual void setFont(ofTrueTypeFont * fontPtr);
+        virtual void setFont(ofxTrueTypeFontUC * fontPtr);
 
         //should be called on mousedown
         //-------------------------------------------

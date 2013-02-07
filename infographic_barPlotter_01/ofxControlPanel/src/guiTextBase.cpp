@@ -12,7 +12,7 @@ guiTextBase::guiTextBase(){
 //we should also have an option to load a font once
 //then just pass a reference to the ofTTF font object
 //--------------------------------------------
- void guiTextBase::setFont(ofTrueTypeFont * fontPtr){
+ void guiTextBase::setFont(ofxTrueTypeFontUC * fontPtr){
 	if( fontPtr != NULL ){
 		ourFont = fontPtr;
 		bRealFont = true;

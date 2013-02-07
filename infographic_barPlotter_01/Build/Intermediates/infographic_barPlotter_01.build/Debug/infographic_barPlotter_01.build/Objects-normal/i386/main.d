@@ -126,6 +126,7 @@ dependencies: \
   /Users/gentleman/Developer/oF/of_v0073_osx_release/apps/of_thesis/infographic_barPlotter_01/ofxControlPanel/src/simpleColor.h \
   /Users/gentleman/Developer/oF/of_v0073_osx_release/apps/of_thesis/infographic_barPlotter_01/ofxControlPanel/src/guiColor.h \
   /Users/gentleman/Developer/oF/of_v0073_osx_release/apps/of_thesis/infographic_barPlotter_01/ofxControlPanel/src/guiTextBase.h \
+  /Users/gentleman/Developer/oF/of_v0073_osx_release/apps/of_thesis/infographic_barPlotter_01/ofxTrueTypeFontUC/src/ofxTrueTypeFontUC.h \
   /Users/gentleman/Developer/oF/of_v0073_osx_release/apps/of_thesis/infographic_barPlotter_01/ofxControlPanel/src/guiCallback.h \
   /Users/gentleman/Developer/oF/of_v0073_osx_release/apps/of_thesis/infographic_barPlotter_01/ofxControlPanel/src/guiCallbackValue.h \
   /Users/gentleman/Developer/oF/of_v0073_osx_release/apps/of_thesis/infographic_barPlotter_01/ofxControlPanel/src/guiVariablePointer.h \
@@ -149,7 +150,6 @@ dependencies: \
   /Users/gentleman/Developer/oF/of_v0073_osx_release/apps/of_thesis/infographic_barPlotter_01/ofxControlPanel/src/simpleFileLister.h \
   /Users/gentleman/Developer/oF/of_v0073_osx_release/apps/of_thesis/infographic_barPlotter_01/ofxControlPanel/src/guiTypeLabel.h \
   /Users/gentleman/Developer/oF/of_v0073_osx_release/apps/of_thesis/infographic_barPlotter_01/ofxControlPanel/src/guiTypeTextInput.h \
-  /Users/gentleman/Developer/oF/of_v0073_osx_release/apps/of_thesis/infographic_barPlotter_01/ofxTrueTypeFontUC/src/ofxTrueTypeFontUC.h \
   src/ofxTable.h \
   /Users/gentleman/Developer/oF/of_v0073_osx_release/apps/of_thesis/infographic_barPlotter_01/ofxImageRotate/ofxImgRotate.h \
   ../../../libs/openFrameworks/app/ofAppGlutWindow.h \

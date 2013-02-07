@@ -17,7 +17,7 @@ public:
 
 	
 	//--------------------------------------------
-	void setFont(ofTrueTypeFont * fontPtr){
+	void setFont(ofxTrueTypeFontUC * fontPtr){
 		displayText.setFont(fontPtr);
 		valueText.setFont(fontPtr);
 	}

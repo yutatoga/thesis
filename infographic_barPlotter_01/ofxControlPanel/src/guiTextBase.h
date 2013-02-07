@@ -3,6 +3,7 @@
 #include "guiColor.h"
 #include "simpleColor.h"
 #include "guiValue.h"
+#include "ofxTrueTypeFontUC.h"
 
 class guiTextBase{
 
@@ -10,7 +11,7 @@ class guiTextBase{
 
         //-------------------------------------------
         guiTextBase();
-        virtual void setFont(ofTrueTypeFont * fontPtr);
+        virtual void setFont(ofxTrueTypeFontUC * fontPtr);
 
 		virtual float getTextWidth(string textIn);
 		virtual float getTextWidth();
@@ -32,7 +33,7 @@ class guiTextBase{
 		}
 
         //--------------------------------------------
-        ofTrueTypeFont * ourFont;
+        ofxTrueTypeFontUC * ourFont;
 
         string textString;
 

@@ -218,7 +218,7 @@ guiTypeToggle * ofxControlPanel::addToggle(string name, string xmlName, bool def
 
     //setup and dimensions
     tmp->setup(name, (bool)defaultValue);
-    tmp->setDimensions(14, 14);
+    tmp->setDimensions(14+2, 14+2);//toga
     tmp->setTypeBool();
 	tmp->xmlName = xmlName;
 	

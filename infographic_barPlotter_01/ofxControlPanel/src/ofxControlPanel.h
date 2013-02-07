@@ -3,7 +3,7 @@
 #include "ofMain.h"
 #include "ofxXmlSettings.h"
 #include "guiIncludes.h"
-
+#include "ofxTrueTypeFontUC.h"
 
 class xmlAssociation{
     public:
@@ -174,7 +174,8 @@ class ofxControlPanel: public guiBaseObject{
         void update();
         void draw();
 
-        ofTrueTypeFont guiTTFFont;
+        ofxTrueTypeFontUC guiTTFFont;
+    
 
         vector <xmlAssociation> xmlObjects;
         vector <guiBaseObject *> guiObjects;

@@ -9,7 +9,7 @@ class guiTypeMultiToggle : public guiBaseObject{
 
     public:
         static const int boxSpacing = 2;
-        static const int boxSize = 14;
+        static const int boxSize = 14+2;//toga
 
         //------------------------------------------------
         void setup(string multiToggleName, int defaultBox, vector <string> boxNames);

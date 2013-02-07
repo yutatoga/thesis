@@ -21,10 +21,10 @@ void testApp::setup(){
     //myFont.loadFont("Ricty-Regular.ttf", 24);
     //myFont.loadFont("Menlo.ttc", 24);
     myFont.loadFont("MyriadPro-Semibold.otf", 20);
-    myFont2.loadFont("MyriadPro-Bold.otf", 30);
-    myFontForTimeLabel.loadFont("Ricty-Bold.ttf", 10);
-    myFontJapanese.loadFont("Ricty-Bold.ttf", 10);
-    myFontJapaneseLarge.loadFont("Ricty-Bold.ttf", 14);
+    myFont2.loadFont("MyriadPro-Regular.otf", 30);
+    myFontForTimeLabel.loadFont("Ricty-Regular.ttf", 10);
+    myFontJapanese.loadFont("Ricty-Regular.ttf", 10);
+    myFontJapaneseLarge.loadFont("Ricty-Regular.ttf", 14);
     drawingSongInfoFont.loadFont("FOT-MatissePro-EB.otf", 18);
     newWeekSelected = false;
     afterSelectedFrameCounter = 0;
@@ -40,17 +40,15 @@ void testApp::setup(){
     dir.listDir();
     dirCSV = dir;
     myControlPanel.setup("Bar Ploter UI", 0, 50, 300+340+100, 180+25*dir.numFiles());
-    myControlPanel.addPanel("controlPanel", 5);
-    vector<string> modeStr;
-    modeStr.push_back("developer");
-    modeStr.push_back("public");
-    myControlPanel.addMultiToggle("mode", "mode", 0, modeStr);
-    vector<string> timeUnitStr;
-    timeUnitStr.push_back("hour");
-    timeUnitStr.push_back("hourAndWeek");
-    myControlPanel.addMultiToggle("timeUnit", "timeUnit", 1, timeUnitStr);
-    myControlPanel.addSlider("barNum", "barNum", 24*7, 1, 24*7, true);
-    myControlPanel.addSlider("topRange", "topRange", 5, 1, 10, true);
+    myControlPanel.loadFont("Ricty-Bold.ttf", 12);
+    myControlPanel.addPanel("コントロールパネル", 5);
+//    vector<string> modeStr;
+//    modeStr.push_back("developer");
+//    modeStr.push_back("public");
+//    myControlPanel.addMultiToggle("mode", "mode", 0, modeStr);
+
+//    myControlPanel.addSlider("barNum", "barNum", 24*7, 1, 24*7, true);
+
 //  myControlPanel.removeObject(string xmlName);
 
     
@@ -70,21 +68,28 @@ void testApp::setup(){
     weekNameStringList[5] = "friday";
     weekNameStringList[6] = "saturday";
     
-    myControlPanel.addMultiToggle("csvOwner", "csvOwner", 0, csvOwnerList);
+    myControlPanel.addMultiToggle("被験者を選択", "csvOwner", 0, csvOwnerList);
+    
+    myControlPanel.setWhichColumn(1);
+    vector<string> timeUnitStr;
+    timeUnitStr.push_back("24時間");
+    timeUnitStr.push_back("1週間");
+    myControlPanel.addMultiToggle("時間単位", "timeUnit", 1, timeUnitStr);
+    myControlPanel.addSlider("topRange", "topRange", 5, 1, 10, true);
     
     vector<string> graphType;
-    graphType.push_back("circle");
-    graphType.push_back("bar");
-    myControlPanel.addMultiToggle("graphType", "graphType", 0, graphType);
+    graphType.push_back("円グラフ");
+    graphType.push_back("棒グラフ");
+    myControlPanel.addMultiToggle("グラフの形状を選択", "graphType", 0, graphType);
     myControlPanel.addToggle("ratioMap", "ratioMap", false);
     myControlPanel.addToggle("topRangeRatio", "topRangeRatio", true);
     myControlPanel.addToggle("showLarge", "showLarge", false);
     myControlPanel.addToggle("showDetailLabel", "showDetailLabel", false);
-    myControlPanel.setWhichColumn(4);
-    myControlPanel.addLabel("press 'f' ------ full screen");
-    myControlPanel.addLabel("press 'c' ------ capture screen");
-    myControlPanel.addLabel("press < or > --- move graph");
-    myControlPanel.addLabel("press ^ or v --- change csvOwner");
+//    myControlPanel.setWhichColumn(4);
+//    myControlPanel.addLabel("press 'f' ------ full screen");
+//    myControlPanel.addLabel("press 'c' ------ capture screen");
+//    myControlPanel.addLabel("press < or > --- move graph");
+//    myControlPanel.addLabel("press ^ or v --- change csvOwner");
     //全員分の比率比較
     myControlPanel.addPanel("allPeople", 3);
     myControlPanel.setWhichPanel(1);
@@ -265,7 +270,7 @@ void testApp::draw(){
                 //名前を描画
                 ofPopStyle();
                 ofSetColor(255, 255, 255);
-                myFontForTimeLabel.drawString(csvOwnerList[i], 0, myFontForTimeLabel.stringHeight(csvOwnerList[i]));
+                myFontJapanese.drawString(csvOwnerList[i], 0, myFontForTimeLabel.stringHeight(csvOwnerList[i]));
                 ofPopStyle();
                 ofPushMatrix();
                 ofPushMatrix();
@@ -300,7 +305,7 @@ void testApp::draw(){
                 //名前を描画する
                 ofPopStyle();
                 ofSetColor(255, 255, 255);
-                myFontForTimeLabel.drawString(csvOwnerList[i], 0, myFontForTimeLabel.stringHeight(csvOwnerList[i]));
+                myFontJapanese.drawString(csvOwnerList[i], 0, myFontForTimeLabel.stringHeight(csvOwnerList[i]));
                 ofPopStyle();
                 ofPushMatrix();
                 ofPushMatrix();
@@ -614,7 +619,7 @@ void testApp::draw(){
                     ofTranslate(beginBarPosX, 0);
                     //曜日はじめ
                     ofPushMatrix();
-                    ofTranslate(myControlPanel.getValueI(weekNameStringList[i]+"Start_"+csvOwnerList[myControlPanel.getValueI("csvOwner")])*ofGetWidth()/(float)myControlPanel.getValueI("barNum"), 0);
+                    ofTranslate(myControlPanel.getValueI(weekNameStringList[i]+"Start_"+csvOwnerList[myControlPanel.getValueI("csvOwner")])*ofGetWidth()/168/*(float)myControlPanel.getValueI("barNum")*/, 0);
                     ofPushStyle();
                     ofSetLineWidth(1);
                     ofSetColor(255, 0, 0, 127);
@@ -623,7 +628,7 @@ void testApp::draw(){
                     ofPopMatrix();
                     //曜日おわり
                     ofPushMatrix();
-                    ofTranslate((myControlPanel.getValueI(weekNameStringList[i]+"End_"+csvOwnerList[myControlPanel.getValueI("csvOwner")])+1)*ofGetWidth()/(float)myControlPanel.getValueI("barNum"), 0);
+                    ofTranslate((myControlPanel.getValueI(weekNameStringList[i]+"End_"+csvOwnerList[myControlPanel.getValueI("csvOwner")])+1)*ofGetWidth()/168/*(float)myControlPanel.getValueI("barNum")*/, 0);
                     ofPushStyle();
                     ofSetLineWidth(1);
                     ofSetColor(0, 0, 255, 127);
@@ -638,7 +643,7 @@ void testApp::draw(){
                     ofTranslate(-ofGetWidth()+beginBarPosX, 0);
                     //曜日はじめ
                     ofPushMatrix();
-                    ofTranslate(myControlPanel.getValueI(weekNameStringList[i]+"Start_"+csvOwnerList[myControlPanel.getValueI("csvOwner")])*ofGetWidth()/(float)myControlPanel.getValueI("barNum"), 0);
+                    ofTranslate(myControlPanel.getValueI(weekNameStringList[i]+"Start_"+csvOwnerList[myControlPanel.getValueI("csvOwner")])*ofGetWidth()/168/*(float)myControlPanel.getValueI("barNum")*/, 0);
                     ofPushStyle();
                     ofSetLineWidth(1);
                     ofSetColor(255, 0, 0, 127);
@@ -647,7 +652,7 @@ void testApp::draw(){
                     ofPopMatrix();
                     //曜日おわり
                     ofPushMatrix();
-                    ofTranslate((myControlPanel.getValueI(weekNameStringList[i]+"End_"+csvOwnerList[myControlPanel.getValueI("csvOwner")])+1)*ofGetWidth()/(float)myControlPanel.getValueI("barNum"), 0);
+                    ofTranslate((myControlPanel.getValueI(weekNameStringList[i]+"End_"+csvOwnerList[myControlPanel.getValueI("csvOwner")])+1)*ofGetWidth()/168/*(float)myControlPanel.getValueI("barNum")*/, 0);
                     ofPushStyle();
                     ofSetLineWidth(1);
                     ofSetColor(0, 0, 255, 127);
@@ -693,7 +698,7 @@ void testApp::draw(){
                     for (int i = 0 ; i<168; i++) {
                         ofPushMatrix();
                         //棒グラフの横ポジションを変更
-                        ofTranslate(ofGetWidth()/(float)myControlPanel.getValueI("barNum")*i, ofGetHeight()*0.9);
+                        ofTranslate(ofGetWidth()/168/*(float)myControlPanel.getValueI("barNum")*/*i, ofGetHeight()*0.9);
                         float currentBarTop = 0;
                         for (int j = 0 ; j < csvGenreNameListVector[myControlPanel.getValueI("csvOwner")].numRows-1; j++) {//ランク1が0個目にあることを注意する。
                             //色を指定
@@ -706,13 +711,13 @@ void testApp::draw(){
                             }
                             ofSetColor(col);
                             //描画
-                            ofRect(0, 0, ofGetWidth()/(float)myControlPanel.getValueI("barNum"), -BAR_HEIGHT_CHANGER*animationVector[i][j]);
+                            ofRect(0, 0, ofGetWidth()/168/*(float)myControlPanel.getValueI("barNum")*/, -BAR_HEIGHT_CHANGER*animationVector[i][j]);
                             //ビームを描画
                             ofSetColor(255, 255, 255, 255);
                             ofSetLineWidth(1);
                             if (i == csvOfVector[myControlPanel.getValueI("csvOwner")].getInt(animationFrameNum, 5) && j == csvOfVector[myControlPanel.getValueI("csvOwner")].getInt(animationFrameNum, 4)) {
-                                ofLine(ofGetWidth()/(float)myControlPanel.getValueI("barNum")/2.0f, -BAR_HEIGHT_CHANGER*animationVector[i][j]/2.0f,
-                                       ofGetWidth()-ofGetWidth()*0.15-ofGetWidth()/(float)myControlPanel.getValueI("barNum")*i, ofGetHeight()*0.1-ofGetHeight()*0.9+currentBarTop);//描画中の四角から、円グラフの真ん中へ
+                                ofLine(ofGetWidth()/168/*(float)myControlPanel.getValueI("barNum")*//2.0f, -BAR_HEIGHT_CHANGER*animationVector[i][j]/2.0f,
+                                       ofGetWidth()-ofGetWidth()*0.15-ofGetWidth()/168/*(float)myControlPanel.getValueI("barNum")*/*i, ofGetHeight()*0.1-ofGetHeight()*0.9+currentBarTop);//描画中の四角から、円グラフの真ん中へ
                                 playerDrawingAnimation.play();
                             }
                             ofPopStyle();
@@ -733,7 +738,7 @@ void testApp::draw(){
                         currentDistFromGraphTop = graphTop[i];
                         for (int j=0; j<genreNum; j++) {
                             ofPushMatrix();
-                            ofTranslate(ofGetWidth()/(float)myControlPanel.getValueI("barNum")*i, ofGetHeight()*0.9);
+                            ofTranslate(ofGetWidth()/168/*(float)myControlPanel.getValueI("barNum")*/*i, ofGetHeight()*0.9);
                             ofPushStyle();
                             ofColor col;
                             if (j>genreNum-myControlPanel.getValueI("topRange")-1) {
@@ -743,13 +748,13 @@ void testApp::draw(){
                             }
                             ofSetColor(col);
                             //ここで棒グラフを描画
-                            ofRect(0, 0, ofGetWidth()/(float)myControlPanel.getValueI("barNum"), -BAR_HEIGHT_CHANGER*currentDistFromGraphTop);//最初の行がラベルなので１足す
+                            ofRect(0, 0, ofGetWidth()/168/*(float)myControlPanel.getValueI("barNum")*/, -BAR_HEIGHT_CHANGER*currentDistFromGraphTop);//最初の行がラベルなので１足す
                             //音楽ジャンルの分布を描画
                             if (myControlPanel.getValueB("ratioMap")) {
                                 if (myControlPanel.getValueI("showLarge")) {
-                                    ofRect(0, 20, ofGetWidth()/(float)myControlPanel.getValueI("barNum"), 4*20*currentDistFromGraphTop/(float)graphTop[i]);
+                                    ofRect(0, 20, ofGetWidth()/168/*(float)myControlPanel.getValueI("barNum")*/, 4*20*currentDistFromGraphTop/(float)graphTop[i]);
                                 }else{
-                                    ofRect(0, 20, ofGetWidth()/(float)myControlPanel.getValueI("barNum"), 20*currentDistFromGraphTop/(float)graphTop[i]);
+                                    ofRect(0, 20, ofGetWidth()/168/*(float)myControlPanel.getValueI("barNum")*/, 20*currentDistFromGraphTop/(float)graphTop[i]);
                                 }
                             }
                             ofPopStyle();
@@ -816,7 +821,7 @@ void testApp::draw(){
                     currentDistFromGraphTop = graphTop[i];
                     for (int j=0; j<genreNum; j++) {
                         ofPushMatrix();
-                        ofTranslate(ofGetWidth()/(float)myControlPanel.getValueI("barNum")*i, ofGetHeight()*0.9);
+                        ofTranslate(ofGetWidth()/168/*(float)myControlPanel.getValueI("barNum")*/*i, ofGetHeight()*0.9);
                         ofPushStyle();
                         ofColor col;
                         if (j>genreNum-myControlPanel.getValueI("topRange")-1) {
@@ -825,10 +830,10 @@ void testApp::draw(){
                             col.set(127, 127, 127);
                         }
                         ofSetColor(col);
-                        ofRect(0, 0, ofGetWidth()/(float)myControlPanel.getValueI("barNum"), -BAR_HEIGHT_CHANGER*currentDistFromGraphTop);//最初の行がラベルなので１足す
+                        ofRect(0, 0, ofGetWidth()/168/*(float)myControlPanel.getValueI("barNum")*/, -BAR_HEIGHT_CHANGER*currentDistFromGraphTop);//最初の行がラベルなので１足す
                         if (myControlPanel.getValueB("ratioMap")) {
                             //音楽ジャンルの分布を描画
-                            ofRect(0, 20, ofGetWidth()/(float)myControlPanel.getValueI("barNum"), 20*currentDistFromGraphTop/(float)graphTop[i]);
+                            ofRect(0, 20, ofGetWidth()/168/*(float)myControlPanel.getValueI("barNum")*/, 20*currentDistFromGraphTop/(float)graphTop[i]);
                         }
                         ofPopStyle();
                         ofPopMatrix();
@@ -1189,13 +1194,13 @@ void testApp::draw(){
     //コントロールパネルの大きさ設定
     switch (myControlPanel.getSelectedPanel()) {
         case 0:
-            myControlPanel.setSize(640, 350+25*dirCSV.numFiles());
+            myControlPanel.setSize(640, 25*dirCSV.numFiles()-10);
             break;
         case 1:
-            myControlPanel.setSize(640, 400);
+            myControlPanel.setSize(640, 520);
             break;
         default:
-            myControlPanel.setSize(640, 400);
+            myControlPanel.setSize(640, 450);
             break;
     }
     //control panel
@@ -1205,15 +1210,15 @@ void testApp::draw(){
     myFontJapanese.drawString("FPS:"+ofToString(ofGetFrameRate()), 2, 40);
     
 
-    if (myControlPanel.getSelectedPanel() != 1) {
-        myFontForTimeLabel.drawString( ofToString(myControlPanel.getValueI("sundayStart_"+csvOwnerList[myControlPanel.getValueI("csvOwner")]), 3, '0') + " -Sun- " + ofToString(myControlPanel.getValueI("sundayEnd_"+csvOwnerList[myControlPanel.getValueI("csvOwner")]), 3, '0'),       245, 155);
-        myFontForTimeLabel.drawString( ofToString(myControlPanel.getValueI("mondayStart_"+csvOwnerList[myControlPanel.getValueI("csvOwner")]), 3, '0') + " -Mon- " + ofToString(myControlPanel.getValueI("mondayEnd_"+csvOwnerList[myControlPanel.getValueI("csvOwner")]), 3, '0'),       245, 155+43*1);
-        myFontForTimeLabel.drawString( ofToString(myControlPanel.getValueI("tuesdayStart_"+csvOwnerList[myControlPanel.getValueI("csvOwner")]), 3, '0') + " -Tue- " + ofToString(myControlPanel.getValueI("tuesdayEnd_"+csvOwnerList[myControlPanel.getValueI("csvOwner")]), 3, '0'),     245, 155+43*2);
-        myFontForTimeLabel.drawString( ofToString(myControlPanel.getValueI("wednesdayStart_"+csvOwnerList[myControlPanel.getValueI("csvOwner")]), 3, '0') + " -Wed- " + ofToString(myControlPanel.getValueI("wednesdayEnd_"+csvOwnerList[myControlPanel.getValueI("csvOwner")]), 3, '0'), 245, 155+43*3);
-        myFontForTimeLabel.drawString( ofToString(myControlPanel.getValueI("thursdayStart_"+csvOwnerList[myControlPanel.getValueI("csvOwner")]), 3, '0') + " -Thu- " + ofToString(myControlPanel.getValueI("thursdayEnd_"+csvOwnerList[myControlPanel.getValueI("csvOwner")]), 3, '0'),   245, 155+43*4);
-        myFontForTimeLabel.drawString( ofToString(myControlPanel.getValueI("fridayStart_"+csvOwnerList[myControlPanel.getValueI("csvOwner")]), 3, '0') + " -Fri- " + ofToString(myControlPanel.getValueI("fridayEnd_"+csvOwnerList[myControlPanel.getValueI("csvOwner")]), 3, '0'),       245, 155+43*5);
-        myFontForTimeLabel.drawString( ofToString(myControlPanel.getValueI("saturdayStart_"+csvOwnerList[myControlPanel.getValueI("csvOwner")]), 3, '0') + " -Sat- " + ofToString(myControlPanel.getValueI("saturdayEnd_"+csvOwnerList[myControlPanel.getValueI("csvOwner")]), 3, '0'),   245, 155+43*6);
-    }
+//    if (myControlPanel.getSelectedPanel() != 1) {
+//        myFontForTimeLabel.drawString( ofToString(myControlPanel.getValueI("sundayStart_"+csvOwnerList[myControlPanel.getValueI("csvOwner")]), 3, '0') + " -Sun- " + ofToString(myControlPanel.getValueI("sundayEnd_"+csvOwnerList[myControlPanel.getValueI("csvOwner")]), 3, '0'),       245, 155);
+//        myFontForTimeLabel.drawString( ofToString(myControlPanel.getValueI("mondayStart_"+csvOwnerList[myControlPanel.getValueI("csvOwner")]), 3, '0') + " -Mon- " + ofToString(myControlPanel.getValueI("mondayEnd_"+csvOwnerList[myControlPanel.getValueI("csvOwner")]), 3, '0'),       245, 155+43*1);
+//        myFontForTimeLabel.drawString( ofToString(myControlPanel.getValueI("tuesdayStart_"+csvOwnerList[myControlPanel.getValueI("csvOwner")]), 3, '0') + " -Tue- " + ofToString(myControlPanel.getValueI("tuesdayEnd_"+csvOwnerList[myControlPanel.getValueI("csvOwner")]), 3, '0'),     245, 155+43*2);
+//        myFontForTimeLabel.drawString( ofToString(myControlPanel.getValueI("wednesdayStart_"+csvOwnerList[myControlPanel.getValueI("csvOwner")]), 3, '0') + " -Wed- " + ofToString(myControlPanel.getValueI("wednesdayEnd_"+csvOwnerList[myControlPanel.getValueI("csvOwner")]), 3, '0'), 245, 155+43*3);
+//        myFontForTimeLabel.drawString( ofToString(myControlPanel.getValueI("thursdayStart_"+csvOwnerList[myControlPanel.getValueI("csvOwner")]), 3, '0') + " -Thu- " + ofToString(myControlPanel.getValueI("thursdayEnd_"+csvOwnerList[myControlPanel.getValueI("csvOwner")]), 3, '0'),   245, 155+43*4);
+//        myFontForTimeLabel.drawString( ofToString(myControlPanel.getValueI("fridayStart_"+csvOwnerList[myControlPanel.getValueI("csvOwner")]), 3, '0') + " -Fri- " + ofToString(myControlPanel.getValueI("fridayEnd_"+csvOwnerList[myControlPanel.getValueI("csvOwner")]), 3, '0'),       245, 155+43*5);
+//        myFontForTimeLabel.drawString( ofToString(myControlPanel.getValueI("saturdayStart_"+csvOwnerList[myControlPanel.getValueI("csvOwner")]), 3, '0') + " -Sat- " + ofToString(myControlPanel.getValueI("saturdayEnd_"+csvOwnerList[myControlPanel.getValueI("csvOwner")]), 3, '0'),   245, 155+43*6);
+//    }
     
     //最も古い情報と、新しい情報を出す。
     string timeStampStr;
@@ -1738,14 +1743,14 @@ void testApp::keyPressed(int key){
         switch (key) {
             case OF_KEY_LEFT:
                 printf("left\n");
-                beginBarPosX -= ofGetWidth()/(float)myControlPanel.getValueI("barNum");
+                beginBarPosX -= ofGetWidth()/168/*(float)myControlPanel.getValueI("barNum")*/;
                 if (beginBarPosX < 0) {
                     beginBarPosX = ofGetWidth();
                 }
                 break;
             case OF_KEY_RIGHT:
                 printf("right\n");
-                beginBarPosX +=ofGetWidth()/(float)myControlPanel.getValueI("barNum");
+                beginBarPosX +=ofGetWidth()/168/*(float)myControlPanel.getValueI("barNum")*/;
                 if (beginBarPosX > ofGetWidth()) {
                     beginBarPosX = 0;
                 }

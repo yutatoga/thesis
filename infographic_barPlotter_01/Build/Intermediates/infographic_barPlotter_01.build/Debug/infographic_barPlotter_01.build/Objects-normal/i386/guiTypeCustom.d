@@ -119,6 +119,7 @@ dependencies: \
   /Users/gentleman/Developer/oF/of_v0073_osx_release/apps/of_thesis/infographic_barPlotter_01/ofxControlPanel/src/guiColor.h \
   /Users/gentleman/Developer/oF/of_v0073_osx_release/apps/of_thesis/infographic_barPlotter_01/ofxControlPanel/src/guiValue.h \
   /Users/gentleman/Developer/oF/of_v0073_osx_release/apps/of_thesis/infographic_barPlotter_01/ofxControlPanel/src/guiTextBase.h \
+  /Users/gentleman/Developer/oF/of_v0073_osx_release/apps/of_thesis/infographic_barPlotter_01/ofxTrueTypeFontUC/src/ofxTrueTypeFontUC.h \
   /Users/gentleman/Developer/oF/of_v0073_osx_release/apps/of_thesis/infographic_barPlotter_01/ofxControlPanel/src/guiCallback.h \
   /Users/gentleman/Developer/oF/of_v0073_osx_release/apps/of_thesis/infographic_barPlotter_01/ofxControlPanel/src/guiCallbackValue.h \
   /Users/gentleman/Developer/oF/of_v0073_osx_release/apps/of_thesis/infographic_barPlotter_01/ofxControlPanel/src/guiCustomImpl.h

@@ -116,4 +116,5 @@ dependencies: \
   ../../../libs/openFrameworks/video/ofQTKitPlayer.h \
   ../../../libs/openFrameworks/3d/ofCamera.h \
   ../../../libs/openFrameworks/3d/ofEasyCam.h \
-  /Users/gentleman/Developer/oF/of_v0073_osx_release/apps/of_thesis/infographic_barPlotter_01/ofxControlPanel/src/guiValue.h
+  /Users/gentleman/Developer/oF/of_v0073_osx_release/apps/of_thesis/infographic_barPlotter_01/ofxControlPanel/src/guiValue.h \
+  /Users/gentleman/Developer/oF/of_v0073_osx_release/apps/of_thesis/infographic_barPlotter_01/ofxTrueTypeFontUC/src/ofxTrueTypeFontUC.h

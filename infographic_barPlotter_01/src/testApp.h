@@ -67,7 +67,7 @@ class testApp : public ofBaseApp{
     int currentPos;
     ofSoundPlayer myPlayer;
     string weekName;
-    ofTrueTypeFont myFont, myFont2;
+    ofxTrueTypeFontUC myFont, myFont2;
     ofTrueTypeFont myFontForTimeLabel;
     
     ofxTrueTypeFontUC myFontJapanese;
