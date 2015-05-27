@@ -386,10 +386,7 @@ source("imlAnalyzer_of.R")
 sortedIml[,7]
 imlOf
 source("imlAnalyzer_of.R")
-source("imlAnalyzer_of.R")
 getwd()
-ls
-ls
 ls
 l
 s
@@ -408,10 +405,7 @@ getwd
 getwd()
 getlist
 list.files
-list.files
 list.files()
-dir.create("foo")
-dir.create("foo")
 dir.create("foo")
 unlink(foo)
 getwd*
@@ -441,13 +435,7 @@ getwd()
 list.folder()
 list.files()
 dir.create("foo", showWarnings = FALSE)
-dir.create("foo", showWarnings = FALSE)
-dir.create("foo", showWarnings = FALSE)
-dir.create("foo", showWarnings = FALSE)
-dir.create("foo", showWarnings = FALSE)
-dir.create("foo", showWarnings = FALSE)
 dir.create("foo")
-dir.create("foo", showWarnings = FALSE)
 dir.create("foo", showWarnings = FALSE)
 cd xml
 cd ./xml
@@ -463,7 +451,6 @@ source("imlAnalyzer_of.R")
 getwd()
 setwd("../")
 getwd()
-source("imlAnalyzer_of.R")
 source("imlAnalyzer_of.R")
 setwd("../")
 source("imlAnalyzer_of.R")
@@ -481,7 +468,6 @@ paste("./", xmlOwners[i] ,spe = "")
 paste("./xml/", xmlOwners[i] ,spe = "")
 paste("./xml/", xmlOwners[i] ,sep = "")
 getwd()
-source("imlAnalyzer_of.R")
 source("imlAnalyzer_of.R")
 setwd("../")
 setwd("../")xmlOwners = list.files()
@@ -520,8 +506,6 @@ setwd("../")
 source("imlAnalyzer_of.R")
 setwd("../")
 source("imlAnalyzer_of.R")
-source("imlAnalyzer_of.R")
-setwd("../")
 setwd("../")
 source("imlAnalyzer_of.R")
-source("imlAnalyzer_of.R")
+source("/Users/gentleman/Developer/oF/of_v0073_osx_release/apps/of_thesis/infographic_barPlotter_01/bin/data/controlPanel.xml")

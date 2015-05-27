@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.10.26)  14 DEC 2012 12:53
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.10.26)  21 FEB 2013 19:04
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -78,7 +78,7 @@ File: dvipdfmx.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
 \Gin@req@height=\dimen102
 \Gin@req@width=\dimen103
 )
-(/Users/gentleman/Dropbox/thesis/TeX/./thesis.aux)
+(./thesis.aux)
 \openout1 = `thesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
@@ -55127,22 +55127,21 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-] (/Users/gentleman/Dropbox/thesis/TeX/./thesis.aux)
+] (./thesis.aux)
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 865 strings out of 493488
- 14142 string characters out of 3141325
+ 864 strings out of 493488
+ 13880 string characters out of 3141325
  66705 words of memory out of 3000000
  4186 multiletter control sequences out of 15000+200000
  3640 words of font info for 14 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
  37i,5n,21p,667b,211s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on /Users/gentleman/Dropbox/thesis/TeX/./thesis.pdf (6 pages, 22
-14 bytes).
+Output written on thesis.pdf (6 pages, 2214 bytes).
 PDF statistics:
  23 PDF objects out of 1000 (max. 8388607)
  14 compressed objects within 1 object stream
